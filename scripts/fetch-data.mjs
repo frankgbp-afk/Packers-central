@@ -17,24 +17,31 @@ function field(block, name) {
 }
 
 function parseRss(xml, feed) {
-  const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map(m => m[0]);
-  return items.slice(0, 12).map(block => ({
-    title: field(block, 'title'),
-    url: field(block, 'link'),
-    publishedAt: field(block, 'pubDate') || field(block, 'dc:date'),
-    summary: field(block, 'description'),
-    source: feed.source,
-    icon: feed.icon
-  })).filter(item => item.title && item.url);
+  let records = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].map(m => m[0]);
+  const atom = records.length === 0;
+  if (atom) records = [...xml.matchAll(/<entry\b[\s\S]*?<\/entry>/gi)].map(m => m[0]);
+  return records.slice(0, 12).map(block => {
+    let url = field(block, 'link');
+    if (!url && atom) url = block.match(/<link\b[^>]*href=["']([^"']+)["'][^>]*\/?\s*>/i)?.[1] || '';
+    return {
+      title: field(block, 'title'),
+      url: decode(url),
+      publishedAt: field(block, 'pubDate') || field(block, 'published') || field(block, 'updated') || field(block, 'dc:date'),
+      summary: field(block, 'description') || field(block, 'summary') || field(block, 'content'),
+      source: feed.source,
+      icon: feed.icon
+    };
+  }).filter(item => item.title && item.url);
 }
 
 const output = { updatedAt: new Date().toISOString(), sources: {} };
 for (const feed of feeds) {
   try {
-    const response = await fetch(feed.url, { headers: { 'user-agent': 'PackersCentral/1.0 personal news dashboard' } });
+    const response = await fetch(feed.url, { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0', 'accept': 'application/rss+xml, application/xml, text/xml, */*' } });
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-    output.sources[feed.key] = parseRss(await response.text(), feed);
-    console.log(`${feed.source}: ${output.sources[feed.key].length} stories`);
+    const text = await response.text();
+    output.sources[feed.key] = parseRss(text, feed);
+    console.log(`${feed.source}: ${output.sources[feed.key].length} stories; content-type=${response.headers.get('content-type')}`);
   } catch (error) {
     console.error(`${feed.source} failed:`, error.message);
     output.sources[feed.key] = [];
