@@ -1,0 +1,29 @@
+{
+  "season": 2026,
+  "timezone": "Central Time",
+  "source": "Packers.com",
+  "updatedAt": "2026-08-10T21:30:00-05:00",
+  "games": [
+    {"phase":"Preseason","week":"PRE 1","homeAway":"AT","opponent":"Pittsburgh Steelers","date":"Thu., Aug. 13","time":"6:00 PM","network":"Packers TV Network","venue":"Acrisure Stadium","kickoff":"2026-08-13T18:00:00-05:00"},
+    {"phase":"Preseason","week":"PRE 2","homeAway":"AT","opponent":"Denver Broncos","date":"Fri., Aug. 21","time":"8:00 PM","network":"Packers TV Network","venue":"Empower Field at Mile High","kickoff":"2026-08-21T20:00:00-05:00"},
+    {"phase":"Preseason","week":"PRE 3","homeAway":"VS","opponent":"Arizona Cardinals","date":"Fri., Aug. 28","time":"7:00 PM","network":"Packers TV Network","venue":"Lambeau Field","kickoff":"2026-08-28T19:00:00-05:00"},
+    {"phase":"Regular Season","week":"WK 1","homeAway":"AT","opponent":"Minnesota Vikings","date":"Sun., Sept. 13","time":"3:25 PM","network":"CBS","venue":"U.S. Bank Stadium","kickoff":"2026-09-13T15:25:00-05:00"},
+    {"phase":"Regular Season","week":"WK 2","homeAway":"AT","opponent":"New York Jets","date":"Sun., Sept. 20","time":"12:00 PM","network":"FOX","venue":"MetLife Stadium","kickoff":"2026-09-20T12:00:00-05:00"},
+    {"phase":"Regular Season","week":"WK 3","homeAway":"VS","opponent":"Atlanta Falcons","date":"Thu., Sept. 24","time":"7:15 PM","network":"Prime Video","venue":"Lambeau Field","kickoff":"2026-09-24T19:15:00-05:00"},
+    {"phase":"Regular Season","week":"WK 4","homeAway":"AT","opponent":"Tampa Bay Buccaneers","date":"Sun., Oct. 4","time":"12:00 PM","network":"FOX","venue":"Raymond James Stadium","kickoff":"2026-10-04T12:00:00-05:00"},
+    {"phase":"Regular Season","week":"WK 5","homeAway":"VS","opponent":"Chicago Bears","date":"Sun., Oct. 11","time":"3:25 PM","network":"FOX","venue":"Lambeau Field","kickoff":"2026-10-11T15:25:00-05:00"},
+    {"phase":"Regular Season","week":"WK 6","homeAway":"VS","opponent":"Dallas Cowboys","date":"Sun., Oct. 18","time":"7:20 PM","network":"NBC","venue":"Lambeau Field","kickoff":"2026-10-18T19:20:00-05:00"},
+    {"phase":"Regular Season","week":"WK 7","homeAway":"AT","opponent":"Detroit Lions","date":"Sun., Oct. 25","time":"3:25 PM","network":"FOX","venue":"Ford Field","kickoff":"2026-10-25T15:25:00-05:00"},
+    {"phase":"Regular Season","week":"WK 8","homeAway":"VS","opponent":"Carolina Panthers","date":"Thu., Oct. 29","time":"7:15 PM","network":"Prime Video","venue":"Lambeau Field","kickoff":"2026-10-29T19:15:00-05:00"},
+    {"phase":"Regular Season","week":"WK 9","homeAway":"AT","opponent":"New England Patriots","date":"Sun., Nov. 8","time":"3:25 PM","network":"FOX","venue":"Gillette Stadium","kickoff":"2026-11-08T15:25:00-06:00"},
+    {"phase":"Regular Season","week":"WK 10","homeAway":"VS","opponent":"Minnesota Vikings","date":"Sun., Nov. 15","time":"12:00 PM","network":"FOX","venue":"Lambeau Field","kickoff":"2026-11-15T12:00:00-06:00"},
+    {"phase":"Regular Season","week":"WK 11","homeAway":"","opponent":"BYE WEEK","date":"Week 11","time":"No game","network":"","venue":"","kickoff":null,"bye":true},
+    {"phase":"Regular Season","week":"WK 12","homeAway":"AT","opponent":"Los Angeles Rams","date":"Wed., Nov. 25","time":"7:00 PM","network":"Netflix","venue":"SoFi Stadium","kickoff":"2026-11-25T19:00:00-06:00"},
+    {"phase":"Regular Season","week":"WK 13","homeAway":"AT","opponent":"New Orleans Saints","date":"Sun., Dec. 6","time":"12:00 PM","network":"FOX","venue":"Caesars Superdome","kickoff":"2026-12-06T12:00:00-06:00"},
+    {"phase":"Regular Season","week":"WK 14","homeAway":"VS","opponent":"Buffalo Bills","date":"Sun., Dec. 13","time":"7:20 PM","network":"NBC","venue":"Lambeau Field","kickoff":"2026-12-13T19:20:00-06:00"},
+    {"phase":"Regular Season","week":"WK 15","homeAway":"VS","opponent":"Miami Dolphins","date":"Sun., Dec. 20","time":"12:00 PM","network":"FOX","venue":"Lambeau Field","kickoff":"2026-12-20T12:00:00-06:00"},
+    {"phase":"Regular Season","week":"WK 16","homeAway":"AT","opponent":"Chicago Bears","date":"Fri., Dec. 25","time":"12:00 PM","network":"Netflix","venue":"Soldier Field","kickoff":"2026-12-25T12:00:00-06:00"},
+    {"phase":"Regular Season","week":"WK 17","homeAway":"VS","opponent":"Houston Texans","date":"Mon., Jan. 4","time":"7:15 PM","network":"ESPN","venue":"Lambeau Field","kickoff":"2027-01-04T19:15:00-06:00"},
+    {"phase":"Regular Season","week":"WK 18","homeAway":"VS","opponent":"Detroit Lions","date":"Sat., Jan. 9 or Sun., Jan. 10","time":"TBD","network":"TBD","venue":"Lambeau Field","kickoff":null}
+  ]
+}
