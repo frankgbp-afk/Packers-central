@@ -34,6 +34,22 @@ function parseRss(xml, feed) {
   }).filter(item => item.title && item.url);
 }
 
+function parseEspnHtml(html) {
+  const seen = new Set();
+  const stories = [];
+  const pattern = /<a\b[^>]*href=["']([^"']*\/nfl\/story\/_\/id\/[^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+  for (const match of html.matchAll(pattern)) {
+    const title = decode(match[2]);
+    if (!title || title.length < 12) continue;
+    const url = match[1].startsWith('http') ? match[1] : `https://www.espn.com${match[1]}`;
+    if (seen.has(url)) continue;
+    seen.add(url);
+    stories.push({ title, url, publishedAt: '', summary: '', source: 'ESPN NFL', icon: 'ESPN' });
+    if (stories.length >= 12) break;
+  }
+  return stories;
+}
+
 const output = { updatedAt: new Date().toISOString(), sources: {} };
 for (const feed of feeds) {
   try {
@@ -41,7 +57,11 @@ for (const feed of feeds) {
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
     const text = await response.text();
     output.sources[feed.key] = parseRss(text, feed);
-    console.log(`${feed.source}: ${output.sources[feed.key].length} stories; content-type=${response.headers.get('content-type')}`);
+    if (feed.key === 'espn' && output.sources.espn.length === 0) {
+      const page = await fetch('https://www.espn.com/nfl/', { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0' } });
+      if (page.ok) output.sources.espn = parseEspnHtml(await page.text());
+    }
+    console.log(`${feed.source}: ${output.sources[feed.key].length} stories`);
   } catch (error) {
     console.error(`${feed.source} failed:`, error.message);
     output.sources[feed.key] = [];
