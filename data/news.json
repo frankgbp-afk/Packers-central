@@ -1,7 +1,104 @@
 {
-  "updatedAt": "2026-08-10T21:30:00-05:00",
+  "updatedAt": "2026-08-11T02:54:38.533Z",
   "sources": {
-    "packers": [],
+    "packers": [
+      {
+        "title": "2026 Depth Chart",
+        "url": "https://www.packers.com/news/2026-depth-chart",
+        "publishedAt": "Mon, 10 Aug 2026 23:04:16 GMT",
+        "summary": "",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "5 things learned at Packers training camp – Aug. 10",
+        "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-10-2026",
+        "publishedAt": "Mon, 10 Aug 2026 22:12:02 GMT",
+        "summary": "Notes on several receivers and defensive backs, plus injury updates",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Green Bay opens preseason in Pittsburgh",
+        "url": "https://www.packers.com/news/green-bay-opens-2026-preseason-in-pittsburgh",
+        "publishedAt": "Mon, 10 Aug 2026 22:11:00 GMT",
+        "summary": "It will be the first preseason meeting between the Packers and Steelers since 2018",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Packers kick off 'Green and Gold Friday' for 2026 season",
+        "url": "https://www.packers.com/news/packers-kick-off-green-and-gold-friday-for-2026-season",
+        "publishedAt": "Mon, 10 Aug 2026 22:09:04 GMT",
+        "summary": "Fans wearing green and gold can receive discounts, prizes and giveaways from CITGO and Qdoba",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Packers claim WR Chris Hilton Jr.",
+        "url": "https://www.packers.com/news/packers-claim-wr-chris-hilton-jr",
+        "publishedAt": "Mon, 10 Aug 2026 20:37:47 GMT",
+        "summary": "General Manager Brian Gutekunst announced the transaction Monday",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Live Look-In: Packers Training Camp | August 10, 2026",
+        "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-10-2026",
+        "publishedAt": "Mon, 10 Aug 2026 15:24:43 GMT",
+        "summary": "Follow along for practice updates live from Ray Nitschke Field",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Jacob Monk pushing to start at right guard for Packers",
+        "url": "https://www.packers.com/news/jacob-monk-pushing-to-start-at-right-guard-for-packers-aug-10-2026",
+        "publishedAt": "Mon, 10 Aug 2026 14:00:00 GMT",
+        "summary": "Third-year pro has come back strong from offseason of rehab",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Packers online game 'Packers Predict' now available for 2026",
+        "url": "https://www.packers.com/news/packers-online-game-packers-predict-now-available-for-2026",
+        "publishedAt": "Mon, 10 Aug 2026 13:55:00 GMT",
+        "summary": "Free, interactive game presented by Potawatomi Sportsbook allows fans to win cash prizes and more",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Inbox: That dude just has a blast",
+        "url": "https://www.packers.com/news/inbox-that-dude-just-has-a-blast-aug-10-2026",
+        "publishedAt": "Mon, 10 Aug 2026 13:30:00 GMT",
+        "summary": "The outside pundits are analyzing team results",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "5 things learned at Packers training camp – Aug. 9",
+        "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-9-2026",
+        "publishedAt": "Sun, 09 Aug 2026 21:26:26 GMT",
+        "summary": "Javon Hargrave, Chris Brooks activated off Green Bay’s reserve lists",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Packers announce roster moves | August 9, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-moves-august-9-2026",
+        "publishedAt": "Sun, 09 Aug 2026 20:00:00 GMT",
+        "summary": "Green Bay signs WR Kisean Johnson",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Matthew Golden kept the big plays coming on Family Night",
+        "url": "https://www.packers.com/news/matthew-golden-kept-the-big-plays-coming-on-family-night-aug-8-2026",
+        "publishedAt": "Sat, 08 Aug 2026 14:00:00 GMT",
+        "summary": "Packers receiver shined during Friday’s practice inside Lambeau Field",
+        "source": "Packers.com",
+        "icon": "G"
+      }
+    ],
     "espn": []
   }
 }
