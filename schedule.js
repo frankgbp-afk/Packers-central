@@ -1,8 +1,20 @@
 const esc=value=>String(value??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+const isPrimeTime=g=>{
+  if(!g?.time||g.time==='TBD'||g.time==='No game')return false;
+  const m=g.time.match(/(\d{1,2})(?::(\d{2}))?\s*(AM|PM)/i);
+  if(!m)return false;
+  let hour=Number(m[1]);
+  const ampm=m[3].toUpperCase();
+  if(ampm==='PM'&&hour!==12)hour+=12;
+  if(ampm==='AM'&&hour===12)hour=0;
+  return hour>=19;
+};
 const gameCard=g=>{
   if(g.bye)return `<article class="full-game-card bye"><div class="week-chip">${esc(g.week)}</div><div><b>BYE WEEK</b><span>No game scheduled</span><small>Rest up.</small></div></article>`;
-  const opponent=`${g.homeAway==='VS'?'vs.':'at'} ${g.opponent}`;
-  return `<article class="full-game-card"><div class="week-chip">${esc(g.week)}</div><div><b>${esc(opponent)}</b><span>${esc(g.date)} · ${esc(g.time)}</span><small>${esc(g.network)} · ${esc(g.venue)}</small></div></article>`;
+  const home=g.homeAway==='VS';
+  const opponent=`${home?'vs.':'at'} ${g.opponent}`;
+  const prime=isPrimeTime(g);
+  return `<article class="full-game-card ${home?'home-game':'away-game'}${prime?' prime-time':''}"><div class="week-chip">${esc(g.week)}</div><div class="game-copy"><div class="game-title-row"><b>${esc(opponent)}</b>${prime?'<span class="prime-badge" title="Prime-time game" aria-label="Prime-time game">★ PRIME</span>':''}</div><span>${esc(g.date)} · ${esc(g.time)}</span><small>${esc(g.network)} · ${esc(g.venue)}</small></div></article>`;
 };
 
 async function loadSchedule(){
