@@ -4,7 +4,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#203731" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Packers Central" />
   <title>Packers Central</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icon.svg" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -21,7 +27,7 @@
     <button class="nav-tab" data-target="packers-news">▣ Packers News</button>
     <button class="nav-tab" data-target="official">◉ Official</button>
     <button class="nav-tab" data-target="nfl">◈ Around the NFL</button>
-    <button class="nav-tab" data-target="schedule">▤ Schedule</button>
+    <a class="nav-tab" href="schedule.html">▤ Schedule</a>
   </nav>
 
   <main id="home">
@@ -42,10 +48,10 @@
       </div>
     </section>
 
-    <section class="panel schedule-panel" id="schedule">
-      <div class="panel-title"><div><span class="eyebrow">GAME DAY</span><h3>PACKERS SCHEDULE</h3></div><span>Times shown in Central Time</span></div>
+    <section class="panel schedule-panel">
+      <div class="panel-title"><div><span class="eyebrow">GAME DAY</span><h3>PACKERS SCHEDULE</h3></div><a class="panel-link" href="schedule.html">Full schedule ›</a></div>
       <div class="next-game"><div><span class="game-label">NEXT GAME</span><h4>Schedule data coming in Phase 2</h4><p>Opponent, date, kickoff time, TV network and location will appear here automatically.</p></div><div class="network-badge">TV</div></div>
-      <div id="scheduleList" class="schedule-list"></div>
+      <a class="schedule-cta" href="schedule.html">OPEN FULL SCHEDULE</a>
     </section>
   </main>
 
