@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T03:04:33.509Z",
+  "updatedAt": "2026-08-11T03:14:58.408Z",
   "sources": {
     "packers": [
       {
@@ -101,10 +101,18 @@
     ],
     "espn": [
       {
+        "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T02:49:35Z",
+        "summary": "Follow our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Seahawks' Mike Macdonald: Terrion Arnold had 'great tryout'",
         "url": "https://www.espn.com/nfl/story/_/id/49578505/mike-macdonald-confirms-seahawks-interest-terrion-arnold-tryout",
-        "publishedAt": "2026-08-11T02:12:13Z",
-        "summary": "Seahawks coach Mike Macdonald said Monday the team has interest in signing Terrion Arnold after meeting with the embattled free-agent cornerback over the weekend.",
+        "publishedAt": "2026-08-11T02:13:58Z",
+        "summary": "Seahawks coach Mike Macdonald said Monday the team has interest in signing Terrion Arnold after meeting with the embattled free agent cornerback over the weekend.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -187,17 +195,17 @@
         "summary": "The Bills have responded to a group of fans expressing some frustration with sightlines from certain areas of the team's new Highmark Stadium.",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-10T22:07:32Z",
-        "summary": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Green Bay Packers announce 1st ‘unofficial’ depth chart of training camp",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84630/green-bay-packers-announce-1st-unofficial-depth-chart-of-training-camp",
+        "publishedAt": "2026-08-10T22:42:54-04:00",
+        "summary": "The Green Bay Packers have announced their first depth chart of training camp. While it’s “unofficial,” it’s our first look at how the Packers (or at least their PR team) want us to think about this roster. You can give it a look for yourself below, and I’ll add some of my thoughts. Offense The [&#8230;]",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers work out 3 safeties following training camp injuries",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84618/green-bay-packers-work-out-3-safeties-following-training-camp-injuries",
@@ -267,14 +275,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84523/jonathan-gannon-shows-new-defensive-looks-in-packers-family-night",
         "publishedAt": "2026-08-09T08:00:00-04:00",
         "summary": "When Jonathan Gannon was hired to be the Green Bay Packers’ defensive coordinator, there was an assumption that the Packers’ defense would primarily be a 3-4 front in base defense and the squad would call quarters coverage significantly more than a typical NFL team, since his defenses have called Cover 4 more than any individual [&#8230;]",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers Roster: Post-Family Night 53-man projection",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/84465/green-bay-packers-roster-post-family-night-53-man-projection",
-        "publishedAt": "2026-08-08T08:05:00-04:00",
-        "summary": "We’re only about a week into padded practices, so I don’t want to make too big of a deal about what’s happened in the Green Bay Packers’ training camp so far, but we have gotten a couple of hints at how the team’s Week 1 roster will shake out. Between the Family Night stream and [&#8230;]",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
