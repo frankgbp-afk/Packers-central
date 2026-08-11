@@ -50,21 +50,44 @@ function parseEspnHtml(html) {
   return stories;
 }
 
+async function fetchEspnFallback() {
+  try {
+    const api = await fetch('https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=12', { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0' } });
+    if (api.ok) {
+      const json = await api.json();
+      const stories = (json.articles || []).slice(0, 12).map(article => ({
+        title: article.headline || article.title || '',
+        url: article.links?.web?.href || article.link || '',
+        publishedAt: article.published || article.lastModified || '',
+        summary: article.description || '',
+        source: 'ESPN NFL',
+        icon: 'ESPN'
+      })).filter(item => item.title && item.url);
+      if (stories.length) return stories;
+    }
+  } catch (error) {
+    console.error('ESPN JSON fallback failed:', error.message);
+  }
+  try {
+    const page = await fetch('https://www.espn.com/nfl/', { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0' } });
+    if (page.ok) return parseEspnHtml(await page.text());
+  } catch (error) {
+    console.error('ESPN HTML fallback failed:', error.message);
+  }
+  return [];
+}
+
 const output = { updatedAt: new Date().toISOString(), sources: {} };
 for (const feed of feeds) {
   try {
     const response = await fetch(feed.url, { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0', 'accept': 'application/rss+xml, application/xml, text/xml, */*' } });
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-    const text = await response.text();
-    output.sources[feed.key] = parseRss(text, feed);
-    if (feed.key === 'espn' && output.sources.espn.length === 0) {
-      const page = await fetch('https://www.espn.com/nfl/', { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0' } });
-      if (page.ok) output.sources.espn = parseEspnHtml(await page.text());
-    }
+    output.sources[feed.key] = parseRss(await response.text(), feed);
+    if (feed.key === 'espn' && output.sources.espn.length === 0) output.sources.espn = await fetchEspnFallback();
     console.log(`${feed.source}: ${output.sources[feed.key].length} stories`);
   } catch (error) {
     console.error(`${feed.source} failed:`, error.message);
-    output.sources[feed.key] = [];
+    output.sources[feed.key] = feed.key === 'espn' ? await fetchEspnFallback() : [];
   }
 }
 
