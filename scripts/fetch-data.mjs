@@ -50,6 +50,24 @@ function parseEspnHtml(html) {
   return stories;
 }
 
+function parseAcmeHtml(html) {
+  const seen = new Set();
+  const stories = [];
+  const pattern = /<a\b[^>]*href=["'](https?:\/\/www\.acmepackingcompany\.com\/[^"'#?]+|\/[^"'#?]+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+  for (const match of html.matchAll(pattern)) {
+    const title = decode(match[2]);
+    let url = match[1];
+    if (url.startsWith('/')) url = `https://www.acmepackingcompany.com${url}`;
+    if (!url.includes('acmepackingcompany.com/') || title.length < 18) continue;
+    if (/^(about|contact|privacy|terms|newsletter|podcast|masthead|search|facebook|twitter|youtube)/i.test(title)) continue;
+    if (seen.has(url)) continue;
+    seen.add(url);
+    stories.push({ title, url, publishedAt: '', summary: '', source: 'Acme Packing Company', icon: 'ACME' });
+    if (stories.length >= 12) break;
+  }
+  return stories;
+}
+
 async function fetchEspnFallback() {
   try {
     const api = await fetch('https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=12', { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0' } });
@@ -77,6 +95,38 @@ async function fetchEspnFallback() {
   return [];
 }
 
+async function fetchAcme() {
+  const candidates = [
+    'https://www.acmepackingcompany.com/rss/index.xml',
+    'https://www.acmepackingcompany.com/rss',
+    'https://www.acmepackingcompany.com/feed'
+  ];
+  for (const url of candidates) {
+    try {
+      const response = await fetch(url, { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0', 'accept': 'application/rss+xml, application/xml, text/xml, */*' }, redirect: 'follow' });
+      if (!response.ok) continue;
+      const stories = parseRss(await response.text(), { source: 'Acme Packing Company', icon: 'ACME' });
+      if (stories.length) {
+        console.log(`Acme Packing Company RSS: ${stories.length} stories via ${url}`);
+        return stories;
+      }
+    } catch (error) {
+      console.error(`Acme feed ${url} failed:`, error.message);
+    }
+  }
+  try {
+    const page = await fetch('https://www.acmepackingcompany.com/', { headers: { 'user-agent': 'Mozilla/5.0 PackersCentral/1.0' }, redirect: 'follow' });
+    if (page.ok) {
+      const stories = parseAcmeHtml(await page.text());
+      console.log(`Acme Packing Company HTML: ${stories.length} stories`);
+      return stories;
+    }
+  } catch (error) {
+    console.error('Acme HTML fallback failed:', error.message);
+  }
+  return [];
+}
+
 const output = { updatedAt: new Date().toISOString(), sources: {} };
 for (const feed of feeds) {
   try {
@@ -90,6 +140,8 @@ for (const feed of feeds) {
     output.sources[feed.key] = feed.key === 'espn' ? await fetchEspnFallback() : [];
   }
 }
+
+output.sources.acme = await fetchAcme();
 
 await mkdir('data', { recursive: true });
 await writeFile('data/news.json', JSON.stringify(output, null, 2) + '\n');
