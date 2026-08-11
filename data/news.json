@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-08-11T19:49:54.213Z",
+  "updatedAt": "2026-08-11T22:25:31.239Z",
   "sources": {
     "packers": [
+      {
+        "title": "5 things learned at Packers training camp – Aug. 11",
+        "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-11-2026",
+        "publishedAt": "Tue, 11 Aug 2026 21:20:00 GMT",
+        "summary": "Xavier McKinney appears a dynamic fit in Jonathan Gannon’s defense",
+        "source": "Packers.com",
+        "icon": "G"
+      },
+      {
+        "title": "Packers announce roster moves | August 11, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-moves-august-11-2026",
+        "publishedAt": "Tue, 11 Aug 2026 20:00:00 GMT",
+        "summary": "Green Bay signs safeties Trey Dean III and Tra Fluellen",
+        "source": "Packers.com",
+        "icon": "G"
+      },
       {
         "title": "Live Look-In: Packers Training Camp | August 11, 2026",
         "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-11-2026",
@@ -81,155 +97,107 @@
         "summary": "Third-year pro has come back strong from offseason of rehab",
         "source": "Packers.com",
         "icon": "G"
-      },
-      {
-        "title": "Packers online game 'Packers Predict' now available for 2026",
-        "url": "https://www.packers.com/news/packers-online-game-packers-predict-now-available-for-2026",
-        "publishedAt": "Mon, 10 Aug 2026 13:55:00 GMT",
-        "summary": "Free, interactive game presented by Potawatomi Sportsbook allows fans to win cash prizes and more",
-        "source": "Packers.com",
-        "icon": "G"
-      },
-      {
-        "title": "Inbox: That dude just has a blast",
-        "url": "https://www.packers.com/news/inbox-that-dude-just-has-a-blast-aug-10-2026",
-        "publishedAt": "Mon, 10 Aug 2026 13:30:00 GMT",
-        "summary": "The outside pundits are analyzing team results",
-        "source": "Packers.com",
-        "icon": "G"
       }
     ],
     "espn": [
       {
-        "title": "2026 Buffalo Bills training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-11T19:42:44Z",
-        "summary": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "2026 Cleveland Browns training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T21:50:43Z",
+        "summary": "Follow our daily updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 New Orleans Saints training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-11T19:39:17Z",
-        "summary": "Follow our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "2026 Los Angeles Rams training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T21:48:04Z",
+        "summary": "Follow our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks' Nick Emmanwori passes physical, set to come off PUP list",
-        "url": "https://www.espn.com/nfl/story/_/id/49584391/seahawks-nick-emmanwori-passes-physical-set-come-pup-list",
-        "publishedAt": "2026-08-11T19:48:09Z",
-        "summary": "Seahawks safety Nick Emmanwori (ankle) passed his physical, the team announced Tuesday, clearing the way for his return off the physically unable to perform list.",
+        "title": "2026 New York Giants training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T21:49:47Z",
+        "summary": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Packers QB Love expected to play in first preseason game",
-        "url": "https://www.espn.com/nfl/story/_/id/49584388/packers-qb-love-expected-play-first-preseason-game",
-        "publishedAt": "2026-08-11T19:43:32Z",
-        "summary": "Jordan Love is expected to play in the Packers' first preseason game Thursday but said he will still be playing it safe after the thumb injury he sustained before last season.",
+        "title": "CBS president: 'No timetable' on future of Romo after arrest",
+        "url": "https://www.espn.com/nfl/story/_/id/49585337/cbs-president-no-table-future-romo-arrest",
+        "publishedAt": "2026-08-11T21:37:58Z",
+        "summary": "CBS Sports president David Berson said on Tuesday that there is 'no timetable' on the future of NFL analyst Tony Romo following Romo's arrest on suspicion of operating a vehicle while under the influence.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Cincinnati Bengals training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49448120/cincinnati-bengals-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-11T19:35:39Z",
-        "summary": "Follow our daily updates from Bengals training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "2026 Tennessee Titans training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49419824/tennessee-titans-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T21:39:48Z",
+        "summary": "Follow our daily updates from Titans training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rashee Rice: Jail sentence was 'learning experience'",
-        "url": "https://www.espn.com/video/clip/_/id/49584230/jail-sentence-was-learning-experience",
-        "publishedAt": "2026-08-11T19:28:27Z",
-        "summary": "Rashee Rice: Jail sentence was 'learning experience'",
+        "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T21:24:15Z",
+        "summary": "Follow our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Philadelphia Eagles training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434399/philadelphia-eagles-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-11T19:24:22Z",
-        "summary": "Follow our daily updates from Eagles training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "Raiders QB Mendoza 'will get plenty of reps' in preseason opener",
+        "url": "https://www.espn.com/nfl/story/_/id/49585220/raiders-qb-mendoza-get-plenty-reps-preseason-opener",
+        "publishedAt": "2026-08-11T21:48:05Z",
+        "summary": "Raiders rookie QB Fernando Mendoza, the No. 1 pick in April's NFL draft, \"will get plenty of reps\" in Thursday's preseason opener against the Cardinals, coach Klint Kubiak said.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-11T19:34:35Z",
-        "summary": "Follow our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "2026 Denver Broncos training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T20:54:07Z",
+        "summary": "Follow our daily updates from Broncos training camp, including intel on the QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "McDuffie to Eisen: Being with Rams 'feels like I'm back at home'",
-        "url": "https://www.espn.com/video/clip/_/id/49584115/being-rams-feels-back-home",
-        "publishedAt": "2026-08-11T18:51:10Z",
-        "summary": "McDuffie to Eisen: Being with Rams 'feels like I'm back at home'",
+        "title": "2026 Los Angeles Chargers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49424976/los-angeles-chargers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T20:58:19Z",
+        "summary": "Follow our daily updates from Chargers training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jets CB Stiggers taken to hospital after collapsing at practice",
-        "url": "https://www.espn.com/nfl/story/_/id/49584063/jets-cb-stiggers-taken-hospital-collapsing-practice",
-        "publishedAt": "2026-08-11T18:51:39Z",
-        "summary": "Jets cornerback Qwan'tez Stiggers was transported by ambulance to a hospital after collapsing during a joint practice Tuesday with the Buccaneers.",
+        "title": "2026 New York Jets training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T20:53:44Z",
+        "summary": "Follow our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Eagles QB Jalen Hurts' speed in camp drawing rave reviews",
-        "url": "https://www.espn.com/nfl/story/_/id/49584056/eagles-qb-jalen-hurts-speed-camp-drawing-rave-reviews",
-        "publishedAt": "2026-08-11T19:05:55Z",
-        "summary": "Jalen Hurts is drawing rave reviews in training camp by using his legs more, with players and coaches commenting how much faster he looks now.",
+        "title": "2026 Detroit Lions training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-11T20:49:19Z",
+        "summary": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-11T18:32:22Z",
-        "summary": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "Rams' Myles Garrett misses practice again; Puka Nacua exits early",
+        "url": "https://www.espn.com/nfl/story/_/id/49585012/rams-myles-garrett-misses-practice-again-puka-nacua-exits-early",
+        "publishedAt": "2026-08-11T21:11:04Z",
+        "summary": "Myles Garrett is dealing with some swelling in his knee and did not take part in the Rams' joint practice Tuesday against the Cowboys, while Puka Nacua left the workout early for an undisclosed reason.",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
-      {
-        "title": "Packers Training Camp Recap: Pass-catchers return to practice",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84642/packers-training-camp-recap-pass-catchers-return-to-practice",
-        "publishedAt": "2026-08-11T14:25:52-04:00",
-        "summary": "The Green Bay Packers are planning on playing healthy starters against the Pittsburgh Steelers on Thursday, according to head coach Matt LaFleur. Before practice on Tuesday, LaFleur stated that even quarterback Jordan Love is expected to play versus the Steelers, though he added that he has the right to change his mind between now and [&#8230;]",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Training camp shaking up the depth chart",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84639/green-bay-packers-news-training-camp-shaking-up-the-depth-chart",
-        "publishedAt": "2026-08-11T11:42:50-04:00",
-        "summary": "The Packers’ training camp competition is reshuffling their depth chart. Sort of. Public depth charts don’t mean much, but they at least give us a glimpse into how the team is thinking as they careen toward the regular season. And right now it shows a team in flux. Now, the Packers are supposed to be [&#8230;]",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Who will win the Packers’ training camp battle at right guard?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84595/who-will-win-the-packers-training-camp-battle-at-right-guard",
-        "publishedAt": "2026-08-11T09:10:00-04:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. One of the biggest questions facing the Green Bay Packers ahead of the 2026 regular season is on the offensive line. After second-year pro Anthony Belton [&#8230;]",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers roster 2026: Keisean Nixon, Zaire Franklin, and Chris McClellan are underrated",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/84486/keisean-nixon-zaire-franklin-chris-mcclellan-underrated",
-        "publishedAt": "2026-08-11T09:00:00-04:00",
-        "summary": "Matt LaFleur became the Green Bay Packers’ head coach in 2019, and since then, he’s put together quite the historical resume. LaFleur currently ranks 16th all-time in regular-season win percentage in pro football history (.654), which is a pretty nice place to be. Outside of the 2022 season, the franchise has never missed the postseason [&#8230;]",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
       {
         "title": "Green Bay Packers announce 1st ‘unofficial’ depth chart of training camp",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84630/green-bay-packers-announce-1st-unofficial-depth-chart-of-training-camp",
@@ -275,6 +243,38 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84576/green-bay-packers-news-savion-williams-pounces-on-opportunities",
         "publishedAt": "2026-08-10T09:20:00-04:00",
         "summary": "Sunday was a big day for a young wide receiver going into his second season in the NFL. The Green Bay Packers drafted Savion Williams in the third round of the 2025 NFL Draft, seeing plenty of untapped potential and athletic ability in the big wideout. However, his impact on offense was limited as a [&#8230;]",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers claim former HS All-American receiver Chris Hilton",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84560/packers-claim-former-hs-all-american-receiver-chris-hilton",
+        "publishedAt": "2026-08-09T20:17:20-04:00",
+        "summary": "The Green Bay Packers worked out multiple receivers today and re-signed receiver Kisean Johnson after a tryout, following short-term injuries to receivers Matthew Golden and Jayden Reed. When the Packers announced their transactions after practice Sunday, which Johnson participated in, it was news that Green Bay waived two players, not one, while adding Johnson, giving [&#8230;]",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Training Camp Recap: Javon Hargrave, Chris Brooks return to practice",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84533/packers-training-camp-recap-javon-hargrave-chris-brooks-return-to-practice",
+        "publishedAt": "2026-08-09T14:16:57-04:00",
+        "summary": "The Green Bay Packers had a closed practice to the public, but open to the media, on Sunday, following the team’s Family Night practice at Lambeau Field on Friday. This practice was held in the Packers’ indoor facility, while Monday and Tuesday’s practices are scheduled to be open to the public at Ray Nitschke Field [&#8230;]",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers re-sign WR Kisean Johnson",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/84537/green-bay-packers-re-sign-wr-kisean-johnson",
+        "publishedAt": "2026-08-09T13:27:48-04:00",
+        "summary": "Due to short-term injuries to receivers Matthew Golden and Jayden Reed, the Green Bay Packers looked to add a receiver on Sunday, as they reported worked out Kisean Johnson, Kobe Hudson and Cornell Powell between their Family Night practice on Friday and their media-open practice on Sunday. Apparently, Johnson was the receiver who impressed the [&#8230;]",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Jonathan Gannon shows new defensive looks in Packers’ Family Night",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84523/jonathan-gannon-shows-new-defensive-looks-in-packers-family-night",
+        "publishedAt": "2026-08-09T08:00:00-04:00",
+        "summary": "When Jonathan Gannon was hired to be the Green Bay Packers’ defensive coordinator, there was an assumption that the Packers’ defense would primarily be a 3-4 front in base defense and the squad would call quarters coverage significantly more than a typical NFL team, since his defenses have called Cover 4 more than any individual [&#8230;]",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
