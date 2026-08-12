@@ -1,70 +1,11 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#0b2f28" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <meta name="apple-mobile-web-app-title" content="Packers Central" />
-  <title>Packers Central</title>
-  <link rel="manifest" href="manifest.webmanifest" />
-  <link rel="icon" href="icon.svg" type="image/svg+xml" />
-  <link rel="apple-touch-icon" href="icon.svg" />
-  <link rel="stylesheet" href="styles.css" />
-  <link rel="stylesheet" href="news-media.css" />
-</head>
-<body>
-  <header class="site-header">
-    <div class="brand-wrap">
-      <div class="brand-wordmark" aria-label="Packers Central"><span class="brand-packers">PACKERS</span><span class="brand-central">CENTRAL</span></div>
-      <div class="brand-tagline">All things<br>Green Bay</div>
-    </div>
-    <div class="header-actions"><span id="today"></span><button id="refreshBtn">↻ Refresh</button></div>
-  </header>
-
-  <nav class="nav-tabs" aria-label="Primary navigation">
-    <button class="nav-tab active" data-target="home">Home</button>
-    <button class="nav-tab" data-target="packers-news">News</button>
-    <button class="nav-tab" data-target="official">Official</button>
-    <button class="nav-tab" data-target="nfl">NFL</button>
-    <a class="nav-tab" href="schedule.html">Schedule</a>
-    <a class="nav-tab" href="season.html">Season</a>
-  </nav>
-
-  <main id="home">
-    <section class="panel schedule-panel game-of-week">
-      <div class="panel-title"><div><span class="eyebrow">Game of the Week</span><h3>UP NEXT</h3></div><a class="panel-link" href="schedule.html">Full schedule ›</a></div>
-      <div class="next-game"><div><span class="game-label">NEXT GAME</span><h4 id="homeNextOpponent">Loading schedule…</h4><p id="homeNextDetails">Date · Time · Network</p><p id="homeNextVenue" class="venue-line"></p></div><div id="homeNextNetwork" class="network-badge">TV</div></div>
-    </section>
-
-    <section class="hero card">
-      <div class="hero-copy"><span class="eyebrow">Top Story</span><h2 id="heroTitle">Loading the latest from Green Bay…</h2><p id="heroSummary">Packers Central is pulling the newest headlines from your live feeds.</p><div class="meta"><span class="source-dot">PC</span> <span id="heroSource">PACKERS.COM</span> <span>•</span> <span id="heroTime">Live feed</span></div><a id="heroLink" class="gold-button" href="#packers-news">READ TOP STORY ↗</a></div>
-      <div class="hero-art" aria-hidden="true"><div class="field-lines"></div><div class="helmet"></div></div>
-    </section>
-
-    <section class="dashboard-grid">
-      <div class="left-column">
-        <section class="panel" id="packers-news"><div class="panel-title"><h3>LATEST PACKERS NEWS</h3><span>Live</span></div><div id="packersList" class="story-list"></div></section>
-      </div>
-      <div class="right-column">
-        <section class="panel" id="official"><div class="panel-title"><h3>OFFICIAL: PACKERS.COM</h3><span>Live RSS</span></div><div id="officialList" class="compact-list"></div></section>
-        <section class="panel" id="nfl"><div class="panel-title"><h3>AROUND THE NFL</h3><span>ESPN NFL</span></div><div id="nflList" class="compact-list"></div></section>
-      </div>
-    </section>
-
-    <section class="panel schedule-panel">
-      <div class="panel-title"><div><span class="eyebrow">Full Season</span><h3>PACKERS SCHEDULE</h3></div><a class="panel-link" href="schedule.html">Full schedule ›</a></div>
-      <a class="schedule-cta" href="schedule.html">OPEN FULL SCHEDULE</a>
-    </section>
-
-    <section class="panel schedule-panel">
-      <div class="panel-title"><div><span class="eyebrow">2026 Tracker</span><h3>SEASON DASHBOARD</h3></div><a class="panel-link" href="season.html">Open tracker ›</a></div>
-      <a class="schedule-cta" href="season.html">OPEN SEASON TRACKER</a>
-    </section>
-  </main>
-
-  <footer><b>PACKERS CENTRAL</b> <span>• Personal fan dashboard • Not affiliated with the Green Bay Packers or listed news sources.</span></footer>
-  <script src="app.js"></script>
-</body>
-</html>
+<html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="theme-color" content="#0b2f28"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><meta name="apple-mobile-web-app-title" content="Packers Central"/><title>Packers Central</title><link rel="manifest" href="manifest.webmanifest"/><link rel="icon" href="icon.svg" type="image/svg+xml"/><link rel="apple-touch-icon" href="icon.svg"/><link rel="stylesheet" href="styles.css"/><link rel="stylesheet" href="news-media.css"/><link rel="stylesheet" href="mockup-match.css"/></head><body>
+<header class="site-header"><div class="brand-wrap"><div class="brand-wordmark" aria-label="Packers Central"><span class="brand-packers">PACKERS</span><span class="brand-central">CENTRAL</span></div></div><div class="header-actions"><span id="today"></span><button id="refreshBtn">↻ Refresh</button></div></header>
+<nav class="nav-tabs" aria-label="Primary navigation"><button class="nav-tab active" data-target="home">Home</button><button class="nav-tab" data-target="packers-news">News</button><a class="nav-tab" href="schedule.html">Schedule</a><a class="nav-tab" href="season.html">Season</a></nav>
+<main id="home">
+<section class="panel schedule-panel game-of-week"><div class="panel-title"><div><span class="eyebrow">Game of the Week</span><h3>UP NEXT</h3></div><a class="panel-link" href="schedule.html">Full schedule ›</a></div><div class="next-game"><div><span class="game-label">NEXT GAME</span><h4 id="homeNextOpponent">Loading schedule…</h4><p id="homeNextDetails">Date · Time · Network</p><p id="homeNextVenue" class="venue-line"></p></div><div id="homeNextNetwork" class="network-badge">TV</div></div></section>
+<section class="hero card"><div class="hero-copy"><span class="eyebrow">PACKERS CENTRAL</span><h2 id="heroTitle">All Things Green Bay.</h2><p id="heroSummary">News, schedule and your complete season tracker in one place.</p><div class="meta"><span class="source-dot">PC</span><span id="heroSource">LATEST NEWS</span><span>•</span><span id="heroTime">Live</span></div><a id="heroLink" class="gold-button" href="#packers-news">LATEST NEWS ↗</a></div><div class="hero-art" aria-hidden="true"></div></section>
+<section class="dashboard-grid"><div class="left-column"><section class="panel" id="packers-news"><div class="panel-title"><h3>Top Stories</h3><span>Live</span></div><div id="packersList" class="story-list"></div></section></div><div class="right-column"><section class="panel" id="official"><div class="panel-title"><h3>Packers.com</h3><span>Official</span></div><div id="officialList" class="compact-list"></div></section><section class="panel" id="nfl"><div class="panel-title"><h3>Around the NFL</h3><span>ESPN</span></div><div id="nflList" class="compact-list"></div></section></div></section>
+<section class="panel schedule-panel"><div class="panel-title"><div><span class="eyebrow">Quick Access</span><h3>Schedule</h3></div><a class="panel-link" href="schedule.html">Open ›</a></div><a class="schedule-cta" href="schedule.html">VIEW FULL SCHEDULE</a></section>
+<section class="panel schedule-panel"><div class="panel-title"><div><span class="eyebrow">Quick Access</span><h3>Season Tracker</h3></div><a class="panel-link" href="season.html">Open ›</a></div><a class="schedule-cta" href="season.html">VIEW SEASON</a></section>
+</main><footer><b>PACKERS CENTRAL</b><span> • Personal fan dashboard • Not affiliated with the Green Bay Packers or listed news sources.</span></footer><script src="app.js"></script></body></html>
