@@ -147,6 +147,34 @@ async function fetchAcme() {
   return [];
 }
 
+async function cacheImages(output) {
+  await mkdir('data/news-images', { recursive: true });
+  for (const [sourceKey, stories] of Object.entries(output.sources)) {
+    for (let i = 0; i < stories.length; i++) {
+      const story = stories[i];
+      if (!story.image || !/^https?:\/\//i.test(story.image)) continue;
+      try {
+        const response = await fetch(story.image, {
+          headers: {
+            'user-agent': 'Mozilla/5.0 PackersCentral/1.0',
+            'accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
+          },
+          redirect: 'follow'
+        });
+        if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+        const type = (response.headers.get('content-type') || '').toLowerCase();
+        const ext = type.includes('png') ? 'png' : type.includes('webp') ? 'webp' : type.includes('gif') ? 'gif' : 'jpg';
+        const file = `data/news-images/${sourceKey}-${i}.${ext}`;
+        await writeFile(file, Buffer.from(await response.arrayBuffer()));
+        story.image = file;
+      } catch (error) {
+        console.error(`Image cache failed for ${sourceKey} story ${i + 1}:`, error.message);
+        story.image = '';
+      }
+    }
+  }
+}
+
 const output = { updatedAt: new Date().toISOString(), sources: {} };
 for (const feed of feeds) {
   try {
@@ -162,6 +190,7 @@ for (const feed of feeds) {
 }
 
 output.sources.acme = await fetchAcme();
+await cacheImages(output);
 
 await mkdir('data', { recursive: true });
 await writeFile('data/news.json', JSON.stringify(output, null, 2) + '\n');
