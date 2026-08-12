@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 
 const feeds = [
-  { key: 'packers', source: 'Packers.com', icon: 'G', url: 'https://www.packers.com/rss/news' },
+  { key: 'packers', source: 'Packers.com', icon: 'GB', url: 'https://www.packers.com/rss/news' },
   { key: 'espn', source: 'ESPN NFL', icon: 'ESPN', url: 'https://www.espn.com/espn/rss/nfl/news' }
 ];
 
@@ -11,9 +11,27 @@ const decode = value => String(value ?? '')
   .replace(/&lt;/g, '<').replace(/&gt;/g, '>')
   .replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 
+const decodeAttr = value => String(value ?? '')
+  .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim();
+
 function field(block, name) {
   const match = block.match(new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${name}>`, 'i'));
   return match ? decode(match[1]) : '';
+}
+
+function imageFromBlock(block) {
+  const candidates = [
+    /<media:content\b[^>]*\burl=["']([^"']+)["'][^>]*>/i,
+    /<media:thumbnail\b[^>]*\burl=["']([^"']+)["'][^>]*>/i,
+    /<enclosure\b[^>]*\burl=["']([^"']+)["'][^>]*(?:type=["']image\/[^"']+["'])?[^>]*>/i,
+    /<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/i
+  ];
+  for (const pattern of candidates) {
+    const match = block.match(pattern);
+    if (match?.[1] && /^https?:\/\//i.test(decodeAttr(match[1]))) return decodeAttr(match[1]);
+  }
+  return '';
 }
 
 function parseRss(xml, feed) {
@@ -28,6 +46,7 @@ function parseRss(xml, feed) {
       url: decode(url),
       publishedAt: field(block, 'pubDate') || field(block, 'published') || field(block, 'updated') || field(block, 'dc:date'),
       summary: field(block, 'description') || field(block, 'summary') || field(block, 'content'),
+      image: imageFromBlock(block),
       source: feed.source,
       icon: feed.icon
     };
@@ -44,7 +63,7 @@ function parseEspnHtml(html) {
     const url = match[1].startsWith('http') ? match[1] : `https://www.espn.com${match[1]}`;
     if (seen.has(url)) continue;
     seen.add(url);
-    stories.push({ title, url, publishedAt: '', summary: '', source: 'ESPN NFL', icon: 'ESPN' });
+    stories.push({ title, url, publishedAt: '', summary: '', image: imageFromBlock(match[0]), source: 'ESPN NFL', icon: 'ESPN' });
     if (stories.length >= 12) break;
   }
   return stories;
@@ -62,7 +81,7 @@ function parseAcmeHtml(html) {
     if (/^(about|contact|privacy|terms|newsletter|podcast|masthead|search|facebook|twitter|youtube)/i.test(title)) continue;
     if (seen.has(url)) continue;
     seen.add(url);
-    stories.push({ title, url, publishedAt: '', summary: '', source: 'Acme Packing Company', icon: 'ACME' });
+    stories.push({ title, url, publishedAt: '', summary: '', image: imageFromBlock(match[0]), source: 'Acme Packing Company', icon: 'ACME' });
     if (stories.length >= 12) break;
   }
   return stories;
@@ -78,6 +97,7 @@ async function fetchEspnFallback() {
         url: article.links?.web?.href || article.link || '',
         publishedAt: article.published || article.lastModified || '',
         summary: article.description || '',
+        image: article.images?.[0]?.url || article.images?.[0]?.href || '',
         source: 'ESPN NFL',
         icon: 'ESPN'
       })).filter(item => item.title && item.url);
