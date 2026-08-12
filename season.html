@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#203731" />
+  <meta name="theme-color" content="#0b2f28" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="Packers Central" />
   <title>Season Tracker | Packers Central</title>
@@ -16,25 +16,25 @@
 <body>
   <header class="site-header">
     <div class="brand-wrap">
-      <div class="brand-mark">G</div>
-      <div><h1>PACKERS CENTRAL</h1><p>Your home for everything green & gold</p></div>
+      <div class="brand-wordmark" aria-label="Packers Central"><span class="brand-packers">PACKERS</span><span class="brand-central">CENTRAL</span></div>
+      <div class="brand-tagline">All things<br>Green Bay</div>
     </div>
     <div class="header-actions"><a class="home-link" href="index.html">⌂ Home</a></div>
   </header>
 
   <nav class="nav-tabs" aria-label="Primary navigation">
-    <a class="nav-tab" href="index.html">⌂ Home</a>
-    <a class="nav-tab" href="index.html#packers-news">▣ Packers News</a>
-    <a class="nav-tab" href="index.html#official">◉ Official</a>
-    <a class="nav-tab" href="index.html#nfl">◈ Around the NFL</a>
-    <a class="nav-tab" href="schedule.html">▤ Schedule</a>
-    <a class="nav-tab active" href="season.html">★ Season</a>
+    <a class="nav-tab" href="index.html">Home</a>
+    <a class="nav-tab" href="index.html#packers-news">News</a>
+    <a class="nav-tab" href="index.html#official">Official</a>
+    <a class="nav-tab" href="index.html#nfl">NFL</a>
+    <a class="nav-tab" href="schedule.html">Schedule</a>
+    <a class="nav-tab active" href="season.html">Season</a>
   </nav>
 
   <main>
     <section class="season-hero card">
       <div>
-        <span class="eyebrow">2026 SEASON TRACKER</span>
+        <span class="eyebrow">2026 Season Tracker</span>
         <h2>THE SEASON AT A GLANCE</h2>
         <p>Record, predictions, division race, player watchlists and every week of the Packers season — all in one place.</p>
       </div>
@@ -55,7 +55,7 @@
     <section class="season-layout">
       <div class="season-main-column">
         <section class="panel">
-          <div class="panel-title"><div><span class="eyebrow">FRANK'S CALL</span><h3>PRESEASON PREDICTION</h3></div><span id="predictionStatus">Not locked in yet</span></div>
+          <div class="panel-title"><div><span class="eyebrow">Frank's Call</span><h3>PRESEASON PREDICTION</h3></div><span id="predictionStatus">Not locked in yet</span></div>
           <div class="prediction-grid">
             <div><span>RECORD</span><strong id="predictionRecord">—</strong></div>
             <div><span>NFC NORTH</span><strong id="predictionDivision">—</strong></div>
@@ -65,12 +65,12 @@
         </section>
 
         <section class="panel">
-          <div class="panel-title"><div><span class="eyebrow">WEEK BY WEEK</span><h3>SEASON RESULTS</h3></div><a class="panel-link" href="schedule.html">Schedule ›</a></div>
+          <div class="panel-title"><div><span class="eyebrow">Week by Week</span><h3>SEASON RESULTS</h3></div><a class="panel-link" href="schedule.html">Schedule ›</a></div>
           <div id="seasonResults" class="season-results"><p class="empty-state">Loading season…</p></div>
         </section>
 
         <section class="panel">
-          <div class="panel-title"><div><span class="eyebrow">KEEP AN EYE ON</span><h3>PLAYER WATCHLIST</h3></div><span>2026</span></div>
+          <div class="panel-title"><div><span class="eyebrow">Keep an Eye On</span><h3>PLAYER WATCHLIST</h3></div><span>2026</span></div>
           <div id="watchlist" class="watchlist-grid"></div>
         </section>
       </div>
@@ -95,7 +95,7 @@
     </section>
   </main>
 
-  <footer><span class="mini-g">G</span> <b>PACKERS CENTRAL</b> <span>• Personal season tracker • Not affiliated with the Green Bay Packers.</span></footer>
+  <footer><b>PACKERS CENTRAL</b> <span>• Personal season tracker • Not affiliated with the Green Bay Packers.</span></footer>
   <script src="season.js"></script>
 </body>
 </html>
