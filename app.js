@@ -2,9 +2,9 @@ const $=sel=>document.querySelector(sel);
 const esc=value=>String(value??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
 const attr=value=>esc(value);
 const relativeTime=value=>{if(!value)return 'Recently';const d=new Date(value);if(Number.isNaN(d.getTime()))return value;const mins=Math.round((Date.now()-d.getTime())/60000);if(mins<1)return 'Just now';if(mins<60)return `${mins} min ago`;const hrs=Math.round(mins/60);if(hrs<24)return `${hrs} hr${hrs===1?'':'s'} ago`;const days=Math.round(hrs/24);return `${days} day${days===1?'':'s'} ago`;};
-const media=s=>s.image?`<div class="thumb has-photo"><img src="${attr(s.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.classList.remove('has-photo');this.remove()"><span>${esc(s.icon)}</span></div>`:`<div class="thumb"><span>${esc(s.icon)}</span></div>`;
+const media=s=>s.image?`<div class="thumb has-photo"><img src="${attr(s.image)}" alt="" loading="lazy" onerror="this.parentElement.classList.remove('has-photo');this.remove()"><span>${esc(s.icon)}</span></div>`:`<div class="thumb"><span>${esc(s.icon)}</span></div>`;
 const storyRow=s=>`<a class="story story-link" href="${attr(s.url)}" target="_blank" rel="noopener">${media(s)}<div><h4>${esc(s.title)}</h4><div class="details">${esc(s.source)} · ${esc(relativeTime(s.publishedAt))}</div></div><span class="external">↗</span></a>`;
-const compactRow=s=>`<a class="compact-story story-link" href="${attr(s.url)}" target="_blank" rel="noopener"><div class="source-icon">${s.image?`<img src="${attr(s.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:esc(s.icon)}</div><div><h4>${esc(s.title)}</h4><div class="details">${esc(s.source)}</div></div><time>${esc(relativeTime(s.publishedAt))}</time></a>`;
+const compactRow=s=>`<a class="compact-story story-link" href="${attr(s.url)}" target="_blank" rel="noopener"><div class="source-icon">${s.image?`<img src="${attr(s.image)}" alt="" loading="lazy" onerror="this.remove()">`:esc(s.icon)}</div><div><h4>${esc(s.title)}</h4><div class="details">${esc(s.source)}</div></div><time>${esc(relativeTime(s.publishedAt))}</time></a>`;
 const sortNewest=(a,b)=>new Date(b.publishedAt||0)-new Date(a.publishedAt||0);
 
 async function loadNews(){
@@ -15,13 +15,8 @@ async function loadNews(){
     $('#packersList').innerHTML=packers.length?packers.slice(0,8).map(storyRow).join(''):'<p class="empty-state">Live Packers feeds are refreshing. Try again in a moment.</p>';
     $('#officialList').innerHTML=official.length?official.slice(0,5).map(compactRow).join(''):'<p class="empty-state">Waiting for Packers.com…</p>';
     $('#nflList').innerHTML=espn.length?espn.slice(0,5).map(compactRow).join(''):'<p class="empty-state">Waiting for ESPN NFL…</p>';
-    const all=[...official,...acme,...espn].sort(sortNewest);
-    $('#allNews').innerHTML=all.length?all.slice(0,9).map(compactRow).join(''):'<p class="empty-state">The live feeds are doing their first refresh.</p>';
     if(packers[0]){const top=packers[0];$('#heroTitle').textContent=top.title;$('#heroSummary').textContent=top.summary||`Read the latest from ${top.source}.`;$('#heroSource').textContent=top.source.toUpperCase();$('#heroTime').textContent=relativeTime(top.publishedAt);$('#heroLink').href=top.url;$('#heroLink').target='_blank';$('#heroLink').rel='noopener';const art=$('.hero-art');if(art&&top.image){art.classList.add('has-story-image');art.style.backgroundImage=`linear-gradient(90deg,rgba(6,25,21,.18),rgba(6,25,21,.55)),url("${String(top.image).replace(/"/g,'\\"')}")`;}}
-    const acmeStatus=$('#acmeStatus');if(acmeStatus)acmeStatus.textContent=acme.length?'Acme Packing Company ✓':'Acme Packing Company';
-    const sourceNote=$('#sourceNote');if(sourceNote)sourceNote.textContent=acme.length?'Packers.com, Acme and ESPN are live now. Story photos appear whenever a feed provides one.':'Packers.com and ESPN are live now. Story photos appear whenever a feed provides one.';
-    if(data.updatedAt)$('#lastUpdated').textContent=`Updated ${relativeTime(data.updatedAt)}`;
-  }catch(error){console.error(error);$('#packersList').innerHTML='<p class="empty-state">Could not load live news. Tap Refresh to try again.</p>';$('#officialList').innerHTML='';$('#nflList').innerHTML='';$('#allNews').innerHTML='';}
+  }catch(error){console.error(error);$('#packersList').innerHTML='<p class="empty-state">Could not load live news. Tap Refresh to try again.</p>';$('#officialList').innerHTML='';$('#nflList').innerHTML='';}
 }
 
 async function loadNextGame(){
