@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:06:18.179Z",
+  "updatedAt": "2026-08-13T22:25:51.877Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,92 @@
     ],
     "espn": [
       {
+        "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-13T22:09:26Z",
+        "summary": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Travis Kelce calls MSG wedding with Taylor Swift 'best night of my life'",
+        "url": "https://www.espn.com/nfl/story/_/id/49596036/travis-kelce-taylor-swift-wedding-madison-square-garden-kansas-city-chiefs-best-night-my-life",
+        "publishedAt": "2026-08-13T21:51:57Z",
+        "summary": "The Kansas City Chiefs tight end shared his first public comments Wednesday regarding his wedding with Taylor Swift.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Tampa Bay Buccaneers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49419613/tampa-bay-buccaneers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-13T21:20:48Z",
+        "summary": "Catch up on our daily updates from Bucs training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Detroit Lions training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-13T20:28:09Z",
+        "summary": "Catch up on our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rams expect Puka Nacua to return to practicing next week",
+        "url": "https://www.espn.com/nfl/story/_/id/49602915/rams-expect-puka-nacua-return-practicing-next-week",
+        "publishedAt": "2026-08-13T21:10:38Z",
+        "summary": "Wide receiver Puka Nacua is expected to return to practice next week, coach Sean McVay said Thursday.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "DJ Pickett won't budge on No. 5 amid Jayden Daniels-LSU flap",
+        "url": "https://www.espn.com/college-football/story/_/id/49602842/dj-pickett-budge-no-5-amid-jayden-daniels-lsu-flap",
+        "publishedAt": "2026-08-13T22:20:27Z",
+        "summary": "LSU's DJ Pickett says he has no plans to change out of the No. 5 amid pushback from Jayden Daniels, with the Commanders QB saying the situation won't be a distraction.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL training camp: Standouts, questions for all 32 teams",
+        "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+        "publishedAt": "2026-08-13T21:56:59Z",
+        "summary": "Get all the latest news, intel and insights on NFL training camps from our team of reporters in the field.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Tennessee Titans training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49419824/tennessee-titans-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-13T19:51:58Z",
+        "summary": "Catch up on our daily updates from Titans training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 Buffalo Bills training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-13T19:42:26Z",
         "summary": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:43:18Z",
+        "publishedAt": "2026-08-13T19:55:21Z",
         "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49410015/miami-dolphins-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-13T19:44:00Z",
         "summary": "Catch up on our daily updates from Dolphins' training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,78 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-13T19:36:14Z",
         "summary": "Catch up on our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Big opportunity for Jonathon Brooks; Jordyn Tyson injured",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-13T19:35:09Z",
-        "summary": "With Chuba Hubbard nursing a hamstring injury, 2024 second-rounder Jonathon Brooks has a chance to show what he can do.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New York Giants training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:28:05Z",
-        "summary": "Catch up on our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Carolina Panthers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:25:51Z",
-        "summary": "Catch up on our daily updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears won't change name if they move to Indiana, McCaskey says",
-        "url": "https://www.espn.com/nfl/story/_/id/49602517/bears-change-name-moved-indiana-mccaskey-says",
-        "publishedAt": "2026-08-13T19:35:53Z",
-        "summary": "The Chicago Bears will not be changing their name if they move across states lines to Indiana, chairman George H. McCaskey said on Thursday.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Washington Commanders training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49448046/washington-commanders-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:22:19Z",
-        "summary": "Catch up on our daily updates from Commanders training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New Orleans Saints training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:26:28Z",
-        "summary": "Catch up on our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:30:24Z",
-        "summary": "Catch up on our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Denver Broncos training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T18:57:29Z",
-        "summary": "Follow our daily updates from Broncos training camp, including intel on the QBs, position battles and potential breakouts.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
