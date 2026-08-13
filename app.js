@@ -1,3 +1,4 @@
+const homeCss=document.createElement('link');homeCss.rel='stylesheet';homeCss.href='home-enhance.css?v=1';document.head.appendChild(homeCss);
 const $=sel=>document.querySelector(sel);
 const esc=value=>String(value??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
 const attr=value=>esc(value);
