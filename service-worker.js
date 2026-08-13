@@ -1,4 +1,4 @@
-const CACHE_NAME='packers-central-v6';
+const CACHE_NAME='packers-central-v7';
 const ASSETS=['./','./index.html','./schedule.html','./season.html','./hub.html','./styles.css','./home-enhance.css','./hub.css','./news-media.css','./mockup-match.css','./season.css','./app.js','./hub.js','./schedule.js','./season.js','./data/news.json','./data/schedule.json','./data/season.json','./manifest.webmanifest','./icon.svg'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE_NAME).then(cache=>cache.addAll(ASSETS)));self.skipWaiting();});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE_NAME).map(key=>caches.delete(key)))));self.clients.claim();});
