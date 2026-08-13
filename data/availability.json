@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-08-12T23:59:00Z",
+  "label": "Training Camp Availability",
+  "players": [
+    {"player":"Carrington Valentine","position":"CB","status":"NOT PRACTICING","detail":"Sidelined with an injury; Brandon Cisse has been taking first-team reps in his absence.","source":"Acme Packing Company","sourceDate":"2026-08-12"},
+    {"player":"Javon Bullard","position":"S","status":"SIDELINED","detail":"Foot bone bruise; has been out of practice work.","source":"Acme Packing Company","sourceDate":"2026-08-10"},
+    {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
+    {"player":"Jordon Riley","position":"DL","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
+    {"player":"Matt Orzech","position":"LS","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
+    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
+    {"player":"Matthew Golden","position":"WR","status":"MONITOR","detail":"Recently held out with a minor injury; monitor for return to full practice.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
+    {"player":"Jayden Reed","position":"WR","status":"MONITOR","detail":"Recently held out with a minor injury; monitor for return to full practice.","source":"Acme Packing Company","sourceDate":"2026-08-09"}
+  ]
+}
