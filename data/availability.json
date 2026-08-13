@@ -1,14 +1,20 @@
 {
-  "updatedAt": "2026-08-12T23:59:00Z",
+  "updatedAt": "2026-08-13T00:45:00Z",
   "label": "Training Camp Availability",
   "players": [
-    {"player":"Carrington Valentine","position":"CB","status":"NOT PRACTICING","detail":"Sidelined with an injury; Brandon Cisse has been taking first-team reps in his absence.","source":"Acme Packing Company","sourceDate":"2026-08-12"},
+    {"player":"Josh Jacobs","position":"RB","status":"NOT PRACTICING","detail":"Groin injury; Matt LaFleur said he will be out at least this week.","source":"Reuters / Matt LaFleur","sourceDate":"2026-08-11"},
     {"player":"Javon Bullard","position":"S","status":"SIDELINED","detail":"Foot bone bruise; has been out of practice work.","source":"Acme Packing Company","sourceDate":"2026-08-10"},
+    {"player":"Domani Jackson","position":"CB","status":"LIMITED / MONITOR","detail":"Working through a core issue after offseason core-muscle surgery; LaFleur said he hopes Jackson will be back shortly.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-11"},
+    {"player":"Dani Dennis-Sutton","position":"EDGE","status":"NOT PRACTICING","detail":"Remained sidelined at the latest reported practice; specific injury detail not confirmed in the report.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
     {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
     {"player":"Jordon Riley","position":"DL","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
-    {"player":"Matt Orzech","position":"LS","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
-    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
-    {"player":"Matthew Golden","position":"WR","status":"MONITOR","detail":"Recently held out with a minor injury; monitor for return to full practice.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
-    {"player":"Jayden Reed","position":"WR","status":"MONITOR","detail":"Recently held out with a minor injury; monitor for return to full practice.","source":"Acme Packing Company","sourceDate":"2026-08-09"}
+    {"player":"Matt Orzech","position":"LS","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
+    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"}
+  ],
+  "recentReturns": [
+    {"player":"Carrington Valentine","position":"CB","status":"RETURNED","detail":"Returned to practice after being sidelined earlier in camp.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
+    {"player":"Matthew Golden","position":"WR","status":"RETURNED","detail":"Returned to practice after a brief absence/rehab period.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
+    {"player":"Jayden Reed","position":"WR","status":"RETURNED","detail":"Returned to practice after a brief absence/rehab period.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
+    {"player":"Josh Whyle","position":"TE","status":"RETURNED","detail":"Returned to practice after working with the rehab group.","source":"Acme Packing Company","sourceDate":"2026-08-11"}
   ]
 }
