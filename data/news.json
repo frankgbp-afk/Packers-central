@@ -1,13 +1,58 @@
 {
-  "updatedAt": "2026-08-13T22:25:51.877Z",
+  "updatedAt": "2026-08-14T05:19:52.928Z",
   "sources": {
     "packers": [
+      {
+        "title": "Game recap: 5 takeaways from Packers' preseason loss to Steelers",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-loss-to-steelers-preseason-week-1-2026",
+        "publishedAt": "Fri, 14 Aug 2026 03:25:51 GMT",
+        "summary": "Bright spots were at kicker and No. 3 QB",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Game notes: Trey Smack comes through with perfect night in Pittsburgh",
+        "url": "https://www.packers.com/news/game-notes-trey-smack-comes-through-with-perfect-night-in-pittsburgh-preseason-week-1-2026",
+        "publishedAt": "Fri, 14 Aug 2026 03:20:00 GMT",
+        "summary": "Packers’ starting defense dominates early, MarShawn Lloyd relishes return",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers fall to Steelers in preseason opener, 28-9",
+        "url": "https://www.packers.com/news/in-game-updates-preseason-week-1-steelers-2026",
+        "publishedAt": "Thu, 13 Aug 2026 23:40:52 GMT",
+        "summary": "Rookie K Trey Smack has strong showing",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "16 Packers not suiting up vs. Steelers",
+        "url": "https://www.packers.com/news/16-packers-not-suiting-up-vs-steelers",
+        "publishedAt": "Thu, 13 Aug 2026 22:47:00 GMT",
+        "summary": "List includes several starters",
+        "image": "data/news-images/packers-3.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Live Chat: Packers vs. Steelers | Preseason Week 1",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-steelers-preseason-week-1-2026",
+        "publishedAt": "Thu, 13 Aug 2026 20:00:00 GMT",
+        "summary": "Follow Green Bay Packers vs. Pittsburgh Steelers with live updates from Acrisure Stadium",
+        "image": "data/news-images/packers-4.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Steelers: What to watch for",
         "url": "https://www.packers.com/news/packers-vs-steelers-what-to-watch-for-pre-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 15:00:00 GMT",
         "summary": "Preseason opener has topics of interest in all three phases",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-vs-steelers-how-to-watch-stream-listen-preseason-week-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 14:30:00 GMT",
         "summary": "Green Bay Packers vs. Pittsburgh Steelers channel listing, radio & streaming options",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-tonight-those-questions-start-to-get-answers-aug-13-2026",
         "publishedAt": "Thu, 13 Aug 2026 13:30:00 GMT",
         "summary": "There is no estimated time of arrival in the NFL",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-qb-jordan-love-ready-to-play-in-preseason-opener-2026",
         "publishedAt": "Wed, 12 Aug 2026 14:00:00 GMT",
         "summary": "Green Bay’s new defense has challenged offense daily in practice",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +88,7 @@
         "url": "https://www.packers.com/news/inbox-now-they-have-to-take-it-from-practice-to-the-game-aug-12-2026",
         "publishedAt": "Wed, 12 Aug 2026 13:30:00 GMT",
         "summary": "There’s no pause when it comes to developing the position group",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-set-to-debut-rivalries-uniforms-for-week-5-game-against-bears-2026",
         "publishedAt": "Wed, 12 Aug 2026 00:00:00 GMT",
         "summary": "Game presented by American Family Insurance to feature new uniforms",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,161 +106,116 @@
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-11-2026",
         "publishedAt": "Tue, 11 Aug 2026 21:20:00 GMT",
         "summary": "Xavier McKinney appears a dynamic fit in Jonathan Gannon’s defense",
-        "image": "data/news-images/packers-6.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers announce roster moves | August 11, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-august-11-2026",
-        "publishedAt": "Tue, 11 Aug 2026 20:00:00 GMT",
-        "summary": "Green Bay signs safeties Trey Dean III and Tra Fluellen",
-        "image": "data/news-images/packers-7.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Live Look-In: Packers Training Camp | August 11, 2026",
-        "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-11-2026",
-        "publishedAt": "Tue, 11 Aug 2026 15:30:00 GMT",
-        "summary": "Follow along for practice updates live from Ray Nitschke Field",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Secondary sabbatical shaped Bo Melton into better receiver",
-        "url": "https://www.packers.com/news/secondary-sabbatical-shaped-bo-melton-into-better-receiver-aug-11-2026",
-        "publishedAt": "Tue, 11 Aug 2026 14:00:00 GMT",
-        "summary": "Packers wideout excited to be back at his best position",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Every big play serves a larger purpose",
-        "url": "https://www.packers.com/news/inbox-every-big-play-serves-a-larger-purpose-aug-11-2026",
-        "publishedAt": "Tue, 11 Aug 2026 13:30:00 GMT",
-        "summary": "There’s nothing better in life than finding a lost bratwurst",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "2026 Depth Chart",
-        "url": "https://www.packers.com/news/2026-depth-chart",
-        "publishedAt": "Mon, 10 Aug 2026 23:04:16 GMT",
-        "summary": "",
-        "image": "",
+        "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T22:09:26Z",
-        "summary": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "Rookies Drew Allar, Will Howard 'very poised' in Steelers' win",
+        "url": "https://www.espn.com/nfl/story/_/id/49606046/rookies-drew-allar-howard-very-poised-steelers-win",
+        "publishedAt": "2026-08-14T05:06:37Z",
+        "summary": "Steelers rookie quarterbacks Drew Allar and Will Howard turned in solid performances during a 28-9 preseason win over the Packers.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Travis Kelce calls MSG wedding with Taylor Swift 'best night of my life'",
-        "url": "https://www.espn.com/nfl/story/_/id/49596036/travis-kelce-taylor-swift-wedding-madison-square-garden-kansas-city-chiefs-best-night-my-life",
-        "publishedAt": "2026-08-13T21:51:57Z",
-        "summary": "The Kansas City Chiefs tight end shared his first public comments Wednesday regarding his wedding with Taylor Swift.",
+        "title": "2026 NFL preseason Week 1: Takeaways, analysis",
+        "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
+        "publishedAt": "2026-08-14T04:21:47Z",
+        "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Tampa Bay Buccaneers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49419613/tampa-bay-buccaneers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T21:20:48Z",
-        "summary": "Catch up on our daily updates from Bucs training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "title": "Cam Ward struggles in the Titans' 19-13 preseason win over the 49ers",
+        "url": "http://www.espn.com/nfl/recap?gameId=401874392",
+        "publishedAt": "2026-08-14T05:07:35Z",
+        "summary": "— Cam Ward struggled in three drives for Tennessee against San Francisco's backup defense and the...",
+        "image": "data/news-images/espn-2.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Detroit Lions training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T20:28:09Z",
-        "summary": "Catch up on our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-3.jpg",
+        "title": "Texans' DeMeco Ryans praises rookie Marlin Klein after catch vs Chargers in his NFL debut",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873274",
+        "publishedAt": "2026-08-14T04:15:44Z",
+        "summary": "— Houston Texans rookie Marlin Klein played just 11 snaps in his NFL debut Thursday night against the Los Angeles Chargers.",
+        "image": "data/news-images/espn-3.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams expect Puka Nacua to return to practicing next week",
-        "url": "https://www.espn.com/nfl/story/_/id/49602915/rams-expect-puka-nacua-return-practicing-next-week",
-        "publishedAt": "2026-08-13T21:10:38Z",
-        "summary": "Wide receiver Puka Nacua is expected to return to practice next week, coach Sean McVay said Thursday.",
-        "image": "data/news-images/espn-4.jpg",
+        "title": "Colts backup QB Anthony Richardson runs for a TD in 13-13 preseason tie with Patriots",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873273",
+        "publishedAt": "2026-08-14T04:04:29Z",
+        "summary": "— Anthony Richardson believes he's done a good job turning the page during his NFL career.",
+        "image": "data/news-images/espn-4.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "DJ Pickett won't budge on No. 5 amid Jayden Daniels-LSU flap",
-        "url": "https://www.espn.com/college-football/story/_/id/49602842/dj-pickett-budge-no-5-amid-jayden-daniels-lsu-flap",
-        "publishedAt": "2026-08-13T22:20:27Z",
-        "summary": "LSU's DJ Pickett says he has no plans to change out of the No. 5 amid pushback from Jayden Daniels, with the Commanders QB saying the situation won't be a distraction.",
-        "image": "data/news-images/espn-5.jpg",
+        "title": "No. 1 pick Fernando Mendoza throws TD pass in preseason debut for Raiders in 27-14 loss to Cardinals",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873640",
+        "publishedAt": "2026-08-14T04:37:29Z",
+        "summary": "— No. 1 draft pick Fernando Mendoza threw a touchdown pass in his preseason debut for the Las Vegas ",
+        "image": "data/news-images/espn-5.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL training camp: Standouts, questions for all 32 teams",
-        "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-        "publishedAt": "2026-08-13T21:56:59Z",
-        "summary": "Get all the latest news, intel and insights on NFL training camps from our team of reporters in the field.",
+        "title": "Amar Johnson records his second TD of the night",
+        "url": "https://www.espn.com/video/clip/_/id/49605345/amar-johnson-records-second-td-night",
+        "publishedAt": "2026-08-14T03:01:36Z",
+        "summary": "Amar Johnson records his second TD of the night",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Tennessee Titans training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49419824/tennessee-titans-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:51:58Z",
-        "summary": "Catch up on our daily updates from Titans training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "Patrick Taylor Jr. finds his way up the middle for TD",
+        "url": "https://www.espn.com/video/clip/_/id/49605306/patrick-taylor-jr-finds-way-middle-td",
+        "publishedAt": "2026-08-14T04:05:59Z",
+        "summary": "Patrick Taylor Jr. finds his way up the middle for TD",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Buffalo Bills training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:42:26Z",
-        "summary": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
+        "title": "Joe Burrow starts and backup Joe Flacco throws a TD pass as Bengals beat Lions 16-14",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873272",
+        "publishedAt": "2026-08-14T03:43:29Z",
+        "summary": "— Joe Flacco threw a touchdown pass in relief of Joe Burrow, Evan McPherson kicked three field goals and the Cincinnati Bengals beat the Detroit Lions 16-14 Thursday night in the preseason opener for both teams.",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:55:21Z",
-        "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
+        "title": "Rookie Drew Allar has 2 TD passes, 1 TD run as Steelers beat Packers 28-9 in preseason opener",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873275",
+        "publishedAt": "2026-08-14T03:31:29Z",
+        "summary": "— Mike McCarthy loves playing the role of teacher during what he calls “Quarterback School,” shorthand for his highly detailed process of teaching young signal callers the finer points of their position.",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Miami Dolphins training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49410015/miami-dolphins-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:44:00Z",
-        "summary": "Catch up on our daily updates from Dolphins' training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "Judge rules against Rams in latest NFL arbitration case",
+        "url": "https://www.espn.com/nfl/story/_/id/49605241/judge-rules-rams-latest-nfl-arbitration-case",
+        "publishedAt": "2026-08-14T03:01:28Z",
+        "summary": "A California judge ruled Wednesday that the Rams' arbitration rules are \"an example of an employer's attempt to overreach\" in a wrongful termination lawsuit filed by a former employee against the team.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Los Angeles Rams training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-13T19:36:14Z",
-        "summary": "Catch up on our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "Drew Allar shines with 3 TDs in Steelers' preseason debut",
+        "url": "https://www.espn.com/video/clip/_/id/49605228/drew-allar-shines-3-tds-steelers-preseason-debut",
+        "publishedAt": "2026-08-14T02:39:03Z",
+        "summary": "Drew Allar shines with 3 TDs in Steelers' preseason debut",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Packers-Steelers Score, Recap: Trey Smack goes perfect in an otherwise sloppy game",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/84696/packers-steelers-score-recap-trey-smack-goes-perfect-in-an-otherwise-sloppy-game",
+        "publishedAt": "2026-08-13T22:28:52-04:00",
+        "summary": "With 2:30 left in the third quarter, the Green Bay Packers still held a lead over the Pittsburgh Steelers in their preseason opener. As soon as the fourth-team unit hit the field, though, it was all Steelers, one major factor in why Pittsburgh wound up winning 28-9 on Thursday night. While quarterback Aaron Rodgers didn’t [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Steelers Preseason Week 1 Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84665/packers-vs-steelers-preseason-week-1-game-discussion",
+        "publishedAt": "2026-08-13T18:30:00-04:00",
+        "summary": "It’s finally here! Green Bay Packers football has returned after a long 8-month layoff as the Packers begin their preseason slate this evening. The team is in western Pennsylvania to face the Pittsburgh Steelers, a team that features a few key individuals with deep ties to Green Bay. Those people are, of course, head coach [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Discussion: What are you looking for in Green Bay’s preseason opener?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84687/packers-discussion-what-are-you-looking-for-in-green-bays-preseason-opener",
         "publishedAt": "2026-08-13T15:31:14-04:00",
         "summary": "We’re just a few hours away from the Green Bay Packers kicking off their 2026 preseason in Pittsburgh. As far as we know, the starters will be playing a couple of series in the game before the backups start filling up the rest of the time. With that being said, what are you looking for [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84677/green-bay-packers-news-all-eyes-on-marshawn-lloyd-in-preseason-opener",
         "publishedAt": "2026-08-13T13:58:28-04:00",
         "summary": "We’ve spent nearly two years waiting to see what MarShawn Lloyd can become. Tonight against the Pittsburgh Steelers, the Packers may finally get a semi-meaningful opportunity to find out. Lloyd has NFL talent, but can you guess how many regular season games he’s appeared in since being drafted in 2024? If you guessed 1, please [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/84343/packers-vs-steelers-preseason-week-1-game-time-how-to-watch-streaming-info-more",
         "publishedAt": "2026-08-13T07:00:00-04:00",
         "summary": "It’s finally time for the Green Bay Packers to get the 2026 preseason underway. The team has traveled a few states away for their preseason opener, visiting the new home of a pair of old friends who combined to deliver the team’s most recent Super Bowl title. That’s right — the Packers will play the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84667/brian-gutekunst-packers-didnt-plan-on-picking-trey-smack",
         "publishedAt": "2026-08-12T17:34:24-04:00",
         "summary": "Cheesehead TV landed Green Bay Packers general manager Brian Gutekunst for a one-on-one interview this week, and one of the big things he addressed in the conversation was the selection of kicker Trey Smack in the sixth round of the 2026 draft. As a reminder, the Packers send two seventh-round picks to add Smack to [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84662/no-word-on-whether-aaron-rodgers-will-play-the-packers-this-preseason",
         "publishedAt": "2026-08-12T15:38:02-04:00",
         "summary": "While the Green Bay Packers have stated publicly that they plan to play their starters in their preseason opener against the Pittsburgh Steelers, at least for a drive or two, the Steelers have been a little wishy-washy when asked about the same subject. As recently as yesterday, Pittsburgh head coach Mike McCarthy, who won a [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84651/the-brandon-cisse-hype-cannot-be-contained",
         "publishedAt": "2026-08-12T13:32:49-04:00",
         "summary": "The cornerback position has been the Green Bay Packers have been struggling to solidify since the departure of Jaire Alexander a few seasons ago, and that has put even more pressure on second-round corner Brandon Cisse to perform right away. That, combined with a strong start to training camp, has the hype train moving full [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84648/green-bay-packers-news-savion-williams-turning-heads-in-camp",
         "publishedAt": "2026-08-12T10:50:49-04:00",
         "summary": "I think it’s fair to say Savion Williams has been a forgotten man in the Packers’ wide receiver reconstruction this offseason. In the process of jettisoning Romeo Doubs and Dontayvion Wicks, most of the focus went to Christian Watson, Jayden Reed, and Matthew Golden. And, in fairness, it should. Watson and REed signed pricey extensions [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84642/packers-training-camp-recap-pass-catchers-return-to-practice",
         "publishedAt": "2026-08-11T14:25:52-04:00",
         "summary": "The Green Bay Packers are planning on playing healthy starters against the Pittsburgh Steelers on Thursday, according to head coach Matt LaFleur. Before practice on Tuesday, LaFleur stated that even quarterback Jordan Love is expected to play versus the Steelers, though he added that he has the right to change his mind between now and [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Training camp shaking up the depth chart",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84639/green-bay-packers-news-training-camp-shaking-up-the-depth-chart",
-        "publishedAt": "2026-08-11T11:42:50-04:00",
-        "summary": "The Packers’ training camp competition is reshuffling their depth chart. Sort of. Public depth charts don’t mean much, but they at least give us a glimpse into how the team is thinking as they careen toward the regular season. And right now it shows a team in flux. Now, the Packers are supposed to be [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Who will win the Packers’ training camp battle at right guard?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84595/who-will-win-the-packers-training-camp-battle-at-right-guard",
-        "publishedAt": "2026-08-11T09:10:00-04:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. One of the biggest questions facing the Green Bay Packers ahead of the 2026 regular season is on the offensive line. After second-year pro Anthony Belton [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
