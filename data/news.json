@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T05:19:52.928Z",
+  "updatedAt": "2026-08-14T09:44:15.776Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Raiders rookie Fernando Mendoza throws for 97 yards in 4 drives",
+        "url": "https://www.espn.com/nfl/story/_/id/49606498/raiders-rookie-fernando-mendoza-throws-97-yards-4-drives",
+        "publishedAt": "2026-08-14T05:40:20Z",
+        "summary": "Raiders rookie QB Fernando Mendoza completed 10 of 16 passes for 97 yards and a touchdown on four drives against the Cardinals.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Rookies Drew Allar, Will Howard 'very poised' in Steelers' win",
         "url": "https://www.espn.com/nfl/story/_/id/49606046/rookies-drew-allar-howard-very-poised-steelers-win",
         "publishedAt": "2026-08-14T05:06:37Z",
         "summary": "Steelers rookie quarterbacks Drew Allar and Will Howard turned in solid performances during a 28-9 preseason win over the Packers.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "2026 NFL preseason Week 1: Takeaways, analysis",
         "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
-        "publishedAt": "2026-08-14T04:21:47Z",
+        "publishedAt": "2026-08-14T06:16:33Z",
         "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401874392",
         "publishedAt": "2026-08-14T05:07:35Z",
         "summary": "— Cam Ward struggled in three drives for Tennessee against San Francisco's backup defense and the...",
-        "image": "data/news-images/espn-2.png",
+        "image": "data/news-images/espn-3.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873274",
         "publishedAt": "2026-08-14T04:15:44Z",
         "summary": "— Houston Texans rookie Marlin Klein played just 11 snaps in his NFL debut Thursday night against the Los Angeles Chargers.",
-        "image": "data/news-images/espn-3.png",
+        "image": "data/news-images/espn-4.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873273",
         "publishedAt": "2026-08-14T04:04:29Z",
         "summary": "— Anthony Richardson believes he's done a good job turning the page during his NFL career.",
-        "image": "data/news-images/espn-4.png",
+        "image": "data/news-images/espn-5.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873640",
         "publishedAt": "2026-08-14T04:37:29Z",
         "summary": "— No. 1 draft pick Fernando Mendoza threw a touchdown pass in his preseason debut for the Las Vegas ",
-        "image": "data/news-images/espn-5.png",
+        "image": "data/news-images/espn-6.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49605345/amar-johnson-records-second-td-night",
         "publishedAt": "2026-08-14T03:01:36Z",
         "summary": "Amar Johnson records his second TD of the night",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49605306/patrick-taylor-jr-finds-way-middle-td",
         "publishedAt": "2026-08-14T04:05:59Z",
         "summary": "Patrick Taylor Jr. finds his way up the middle for TD",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873272",
         "publishedAt": "2026-08-14T03:43:29Z",
         "summary": "— Joe Flacco threw a touchdown pass in relief of Joe Burrow, Evan McPherson kicked three field goals and the Cincinnati Bengals beat the Detroit Lions 16-14 Thursday night in the preseason opener for both teams.",
-        "image": "data/news-images/espn-8.png",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873275",
         "publishedAt": "2026-08-14T03:31:29Z",
         "summary": "— Mike McCarthy loves playing the role of teacher during what he calls “Quarterback School,” shorthand for his highly detailed process of teaching young signal callers the finer points of their position.",
-        "image": "data/news-images/espn-9.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49605241/judge-rules-rams-latest-nfl-arbitration-case",
         "publishedAt": "2026-08-14T03:01:28Z",
         "summary": "A California judge ruled Wednesday that the Rams' arbitration rules are \"an example of an employer's attempt to overreach\" in a wrongful termination lawsuit filed by a former employee against the team.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Drew Allar shines with 3 TDs in Steelers' preseason debut",
-        "url": "https://www.espn.com/video/clip/_/id/49605228/drew-allar-shines-3-tds-steelers-preseason-debut",
-        "publishedAt": "2026-08-14T02:39:03Z",
-        "summary": "Drew Allar shines with 3 TDs in Steelers' preseason debut",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
