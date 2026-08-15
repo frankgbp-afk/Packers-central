@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:09:15.924Z",
+  "updatedAt": "2026-08-15T04:51:59.678Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
+        "title": "What adjustments do Tua, Falcons offense need to make?",
+        "url": "https://www.espn.com/video/clip/_/id/49614925/what-adjustments-do-tua-falcons-offense-need-make",
+        "publishedAt": "2026-08-15T04:14:38Z",
+        "summary": "What adjustments do Tua, Falcons offense need to make?",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jets' Geno Smith scratched vs. Bucs due to sore ankle, is day-to-day",
+        "url": "https://www.espn.com/nfl/story/_/id/49614843/jets-geno-smith-scratched-vs-bucs-due-sore-ankle-day-day",
+        "publishedAt": "2026-08-15T04:21:55Z",
+        "summary": "Jets quarterback Geno Smith is day-to-day with an ankle injury that occurred Wednesday and resulted in him being scratched from the preseason opener Friday night against the Buccaneers.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL preseason Week 1: Game takeaways, analysis",
+        "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
+        "publishedAt": "2026-08-15T03:49:47Z",
+        "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Tua Tagovailoa says Falcons' play 'not up to standard' in loss",
+        "url": "https://www.espn.com/nfl/story/_/id/49614782/falcons-qb-tua-tagovailoa-frustrated-disappointed-play-preseason-loss-broncos",
+        "publishedAt": "2026-08-15T04:15:10Z",
+        "summary": "Falcons QB Tua Tagovailoa said he was \"frustrated and disappointed\" after Friday night's preseason loss to the Broncos, during which he played two series and was 3-of-5 passing for 22 yards.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Miami Dolphins vs. Washington Commanders Game Highlights",
         "url": "https://www.espn.com/video/clip/_/id/49614504/miami-dolphins-vs-washington-commanders-game-highlights",
         "publishedAt": "2026-08-15T02:52:53Z",
         "summary": "Miami Dolphins vs. Washington Commanders Game Highlights",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Tampa Bay Buccaneers vs. New York Jets Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49614496/tampa-bay-buccaneers-vs-new-york-jets-game-highlights",
+        "publishedAt": "2026-08-15T03:45:30Z",
+        "summary": "Tampa Bay Buccaneers vs. New York Jets Game Highlights",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +171,16 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
         "publishedAt": "2026-08-15T02:47:32Z",
         "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Dolphins' Malik Willis has impressive start, Marcus Mariota injured as Commanders win 20-7",
         "url": "http://www.espn.com/nfl/recap?gameId=401873277",
-        "publishedAt": "2026-08-15T02:34:29Z",
+        "publishedAt": "2026-08-15T03:45:41Z",
         "summary": "— Malik Willis got off to an impressive start as Miami's new quarterback, leading a 14-play, 93-yard touchdown drive as the Dolphins lost 20-7 to the Washington Commanders Friday night in the preseason opener for both teams.",
-        "image": "data/news-images/espn-2.png",
+        "image": "data/news-images/espn-7.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +189,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49614342/steelers-keeanu-benton-agrees-4-year-72m-extension-sources-say",
         "publishedAt": "2026-08-15T02:51:22Z",
         "summary": "The Steelers and defensive tackle Keeanu Benton agreed to a four-year, $72 million extension, sources told NFL Network's Ian Rapoport on Friday night.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Barron returns pick 97 yards for a TD as Stidham leads Broncos to runaway 27-7 win over Falcons",
         "url": "http://www.espn.com/nfl/recap?gameId=401873278",
-        "publishedAt": "2026-08-15T02:12:31Z",
+        "publishedAt": "2026-08-15T03:09:29Z",
         "summary": "— Jarrett Stidham threw a touchdown pass in his bid to keep his hold on Denver’s backup job and Jahdae Barron returned an interception 97 yards for a touchdown as the Broncos...",
-        "image": "data/news-images/espn-4.png",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,61 +207,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49614191/broncos-falcons-27-7-preseason-opener",
         "publishedAt": "2026-08-15T02:12:50Z",
         "summary": "Broncos down Falcons 27-7 in preseason opener ",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Rookie Cade Klubnik leads 2 scoring drives after Geno Smith is scratched in Jets' 24-16 loss to Bucs",
         "url": "http://www.espn.com/nfl/recap?gameId=401873276",
-        "publishedAt": "2026-08-15T02:09:30Z",
-        "summary": "— Rookie fourth-rounder Cade Klubnik led the New York Jets to scores on his two drives after a surprise start in place of Geno Smith in a...",
-        "image": "data/news-images/espn-6.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Cardinals OL Bisontis' season in doubt with torn MCL",
-        "url": "https://www.espn.com/nfl/story/_/id/49613585/cardinals-ol-bisontis-season-doubt-torn-mcl",
-        "publishedAt": "2026-08-15T01:02:50Z",
-        "summary": "Chase Bisontis, the Cardinals' second-round pick who was expected to push starter Isaiah Adams for playing time, could miss the season after tearing his left MCL in Thursday night's preseason game, sources told NFL Network.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks' DeMarcus Lawrence confirms 2026 season his last",
-        "url": "https://www.espn.com/nfl/story/_/id/49613541/seahawks-linebacker-demarcus-lawrence-confirms-2026-season-last",
-        "publishedAt": "2026-08-15T01:04:29Z",
-        "summary": "Seahawks outside linebacker DeMarcus Lawrence confirmed to Yahoo Sports that his 13th NFL season will be his last.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-14T23:15:15Z",
-        "summary": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-14T22:03:04Z",
-        "summary": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New Orleans Saints training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-14T22:06:53Z",
-        "summary": "Catch up on our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-11.jpg",
+        "publishedAt": "2026-08-15T03:17:29Z",
+        "summary": "— Cade Klubnik knew he'd make his NFL debut early in the New York Jets' preseason opener. It turned out it came even sooner than expected for the rookie fourth-rounder.",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
