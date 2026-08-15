@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:58:16.914Z",
+  "updatedAt": "2026-08-15T21:53:08.745Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-15T21:38:48Z",
+        "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 New England Patriots training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-15T21:28:12Z",
+        "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
         "url": "https://www.espn.com/video/clip/_/id/49621204/game-highlights",
         "publishedAt": "2026-08-15T20:37:47Z",
         "summary": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401874393",
         "publishedAt": "2026-08-15T20:32:30Z",
         "summary": "— Deshaun Watson led Cleveland on two early scoring drives in the first half of Saturday's 34-10 loss to the Chicago Bears, and Shedeur Sanders tossed an ugly interception in the fourth quarter of the preseason opener for each team.",
-        "image": "data/news-images/espn-1.png",
+        "image": "data/news-images/espn-3.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873282",
         "publishedAt": "2026-08-15T20:29:34Z",
         "summary": "— New Buffalo Bills stadium. Same Josh Allen.",
-        "image": "data/news-images/espn-2.png",
+        "image": "data/news-images/espn-4.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +162,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49621117/cleveland-browns-vs-chicago-bears-game-highlights",
         "publishedAt": "2026-08-15T20:23:48Z",
         "summary": "Cleveland Browns vs. Chicago Bears Game Highlights",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Murray debuts as Minnesota's starting QB and Dart throws for a TD as Vikings beat Giants 13-10",
         "url": "http://www.espn.com/nfl/recap?gameId=401873280",
-        "publishedAt": "2026-08-15T20:15:30Z",
-        "summary": "— Kyler Murray led a drive that ended in a field goal in his first game action since being named Minnesota's starting quarterback, New York's...",
-        "image": "data/news-images/espn-4.png",
+        "publishedAt": "2026-08-15T21:30:29Z",
+        "summary": "— Everything is new for Kyler Murray after joining the Minnesota Vikings, so he made sure to soak in every little thing, from the flights and bus rides to the purple-and-white uniform.",
+        "image": "data/news-images/espn-6.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49621061/vikings-giants-13-10-preseason",
         "publishedAt": "2026-08-15T20:12:47Z",
         "summary": "Vikings down the Giants 13-10 in the preseason",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,16 +189,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
         "publishedAt": "2026-08-15T20:37:54Z",
         "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Jamal Adams carted to locker room in Vikings' preseason debut",
         "url": "https://www.espn.com/nfl/story/_/id/49620313/jamal-adams-carted-locker-room-vikings-preseason-debut",
-        "publishedAt": "2026-08-15T18:55:09Z",
+        "publishedAt": "2026-08-15T20:40:25Z",
         "summary": "Veteran defender Jamal Adams was taken to the locker room on a cart Saturday shortly after his preseason debut with the Vikings",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49619508/cardinals-rookie-rb-love-miss-week-due-sore-ankle",
         "publishedAt": "2026-08-15T20:28:36Z",
         "summary": "Cardinals rookie running back Jeremiyah Love will miss the next week to let a sore ankle he injured Thursday night against the Raiders heal, coach Mike LaFleur said.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position",
         "publishedAt": "2026-08-15T16:06:28Z",
         "summary": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Seahawks, CB Witherspoon agree to 4-year, $132M deal",
-        "url": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
-        "publishedAt": "2026-08-15T16:28:53Z",
-        "summary": "The Seahawks and Pro Bowl cornerback Devon Witherspoon have reached an agreement on a four-year, $132 million extension, sources told ESPN's Adam Schefter.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Jonah Coleman's stock rising and more takeaways from Friday",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-15T13:36:49Z",
-        "summary": "Eric Moody recaps the fantasy football risers and notes from Friday night's preseason NFL action.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
