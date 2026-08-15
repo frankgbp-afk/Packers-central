@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-15T11:51:47.013Z",
+  "updatedAt": "2026-08-15T13:45:19.373Z",
   "sources": {
     "packers": [
+      {
+        "title": "Inbox: Brandon Cisse's approach is that of a grizzled veteran",
+        "url": "https://www.packers.com/news/inbox-brandon-cisse-s-approach-is-that-of-a-grizzled-veteran-aug-15-2026",
+        "publishedAt": "Sat, 15 Aug 2026 13:00:00 GMT",
+        "summary": "John Williams has emerged as an intriguing depth piece",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: That was good work",
         "url": "https://www.packers.com/news/inbox-that-was-good-work-aug-14-2026",
         "publishedAt": "Fri, 14 Aug 2026 15:30:00 GMT",
         "summary": "It’s about the individual, not so much the collective in preseason",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-loss-to-steelers-preseason-week-1-2026",
         "publishedAt": "Fri, 14 Aug 2026 03:25:51 GMT",
         "summary": "Bright spots were at kicker and No. 3 QB",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/game-notes-trey-smack-comes-through-with-perfect-night-in-pittsburgh-preseason-week-1-2026",
         "publishedAt": "Fri, 14 Aug 2026 03:20:00 GMT",
         "summary": "Packers’ starting defense dominates early, MarShawn Lloyd relishes return",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-1-steelers-2026",
         "publishedAt": "Thu, 13 Aug 2026 23:40:52 GMT",
         "summary": "Rookie K Trey Smack has strong showing",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/16-packers-not-suiting-up-vs-steelers",
         "publishedAt": "Thu, 13 Aug 2026 22:47:00 GMT",
         "summary": "List includes several starters",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vs-steelers-preseason-week-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 20:00:00 GMT",
         "summary": "Follow Green Bay Packers vs. Pittsburgh Steelers with live updates from Acrisure Stadium",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-vs-steelers-what-to-watch-for-pre-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 15:00:00 GMT",
         "summary": "Preseason opener has topics of interest in all three phases",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-vs-steelers-how-to-watch-stream-listen-preseason-week-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 14:30:00 GMT",
         "summary": "Green Bay Packers vs. Pittsburgh Steelers channel listing, radio & streaming options",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/inbox-tonight-those-questions-start-to-get-answers-aug-13-2026",
         "publishedAt": "Thu, 13 Aug 2026 13:30:00 GMT",
         "summary": "There is no estimated time of arrival in the NFL",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-qb-jordan-love-ready-to-play-in-preseason-opener-2026",
         "publishedAt": "Wed, 12 Aug 2026 14:00:00 GMT",
         "summary": "Green Bay’s new defense has challenged offense daily in practice",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/inbox-now-they-have-to-take-it-from-practice-to-the-game-aug-12-2026",
         "publishedAt": "Wed, 12 Aug 2026 13:30:00 GMT",
         "summary": "There’s no pause when it comes to developing the position group",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers set to debut Rivalries uniforms for Week 5 game against Bears",
-        "url": "https://www.packers.com/news/packers-set-to-debut-rivalries-uniforms-for-week-5-game-against-bears-2026",
-        "publishedAt": "Wed, 12 Aug 2026 00:00:00 GMT",
-        "summary": "Game presented by American Family Insurance to feature new uniforms",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football buzz: Jonah Coleman's stock rising and more takeaways from Friday",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-08-15T13:36:49Z",
+        "summary": "Eric Moody recaps the fantasy football risers and notes from Friday night's preseason NFL action.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
+        "publishedAt": "2026-08-15T13:22:40Z",
+        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy Football 'Do Draft' list: Derrick Henry, Patrick Mahomes among undervalued players to pick",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49556816/2026-fantasy-football-sleepers-value-picks-undervalued-karabell",
+        "publishedAt": "2026-08-15T12:23:02Z",
+        "summary": "You've read the \"Do Not Draft\" list. Now, Eric Karabell lists players being drafted later than they should be.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Could Ryan Flournoy give Cowboys a third 1,000-yard receiver?",
         "url": "https://www.espn.com/nfl/story/_/id/49603843/nfl-dallas-cowboys-ryan-flournoy-ceedee-lamb-george-pickens",
         "publishedAt": "2026-08-15T10:00:12Z",
         "summary": "Ryan Flournoy's \"confidence is up\" after securing the No. 3 role behind CeeDee Lamb and George Pickens.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49616235/game-highlights",
         "publishedAt": "2026-08-15T06:56:11Z",
         "summary": "Tampa Bay Buccaneers vs. New York Jets: Game Highlights",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +162,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49614925/what-adjustments-do-tua-falcons-offense-need-make",
         "publishedAt": "2026-08-15T04:14:38Z",
         "summary": "What adjustments do Tua, Falcons offense need to make?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Jets' Geno Smith scratched vs. Bucs due to sore ankle, is day-to-day",
         "url": "https://www.espn.com/nfl/story/_/id/49614843/jets-geno-smith-scratched-vs-bucs-due-sore-ankle-day-day",
-        "publishedAt": "2026-08-15T04:21:55Z",
+        "publishedAt": "2026-08-15T13:15:06Z",
         "summary": "Jets quarterback Geno Smith is day-to-day with an ankle injury that occurred Wednesday and resulted in him being scratched from the preseason opener Friday night against the Buccaneers.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
         "publishedAt": "2026-08-15T05:25:11Z",
         "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49614782/falcons-qb-tua-tagovailoa-frustrated-disappointed-play-preseason-loss-broncos",
         "publishedAt": "2026-08-15T10:39:21Z",
         "summary": "Falcons quarterback Tua Tagovailoa said he was \"frustrated and disappointed\" after a preseason loss to the Broncos, during which he played two series and was 3-of-5 passing for 22 yards.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49614504/miami-dolphins-vs-washington-commanders-game-highlights",
         "publishedAt": "2026-08-15T02:52:53Z",
         "summary": "Miami Dolphins vs. Washington Commanders Game Highlights",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
         "publishedAt": "2026-08-15T02:47:32Z",
         "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,34 +216,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873277",
         "publishedAt": "2026-08-15T03:45:41Z",
         "summary": "— Malik Willis got off to an impressive start as Miami's new quarterback, leading a 14-play, 93-yard touchdown drive as the Dolphins lost 20-7 to the Washington Commanders Friday night in the preseason opener for both teams.",
-        "image": "data/news-images/espn-8.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Steelers' Keeanu Benton agrees to 4-year, $72M extension, sources say",
-        "url": "https://www.espn.com/nfl/story/_/id/49614342/steelers-keeanu-benton-agrees-4-year-72m-extension-sources-say",
-        "publishedAt": "2026-08-15T02:51:22Z",
-        "summary": "The Steelers and defensive tackle Keeanu Benton agreed to a four-year, $72 million extension, sources told NFL Network's Ian Rapoport on Friday night.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Barron returns pick 97 yards for a TD as Stidham leads Broncos to runaway 27-7 win over Falcons",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873278",
-        "publishedAt": "2026-08-15T03:09:29Z",
-        "summary": "— Jarrett Stidham threw a touchdown pass in his bid to keep his hold on Denver’s backup job and Jahdae Barron returned an interception 97 yards for a touchdown as the Broncos...",
-        "image": "data/news-images/espn-10.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos down Falcons 27-7 in preseason opener",
-        "url": "https://www.espn.com/video/clip/_/id/49614191/broncos-falcons-27-7-preseason-opener",
-        "publishedAt": "2026-08-15T02:12:50Z",
-        "summary": "Broncos down Falcons 27-7 in preseason opener ",
-        "image": "data/news-images/espn-11.jpg",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
