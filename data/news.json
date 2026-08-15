@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-15T13:45:19.373Z",
+  "updatedAt": "2026-08-15T14:57:58.005Z",
   "sources": {
     "packers": [
+      {
+        "title": "Lukas Van Ness is 'intricate part' of Gannon's defense",
+        "url": "https://www.packers.com/news/lukas-van-ness-is-intricate-part-of-gannon-s-defense-aug-14-2026",
+        "publishedAt": "Sat, 15 Aug 2026 14:00:00 GMT",
+        "summary": "Key comments from Green Bay’s defensive coaches",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: Brandon Cisse's approach is that of a grizzled veteran",
         "url": "https://www.packers.com/news/inbox-brandon-cisse-s-approach-is-that-of-a-grizzled-veteran-aug-15-2026",
         "publishedAt": "Sat, 15 Aug 2026 13:00:00 GMT",
         "summary": "John Williams has emerged as an intriguing depth piece",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-that-was-good-work-aug-14-2026",
         "publishedAt": "Fri, 14 Aug 2026 15:30:00 GMT",
         "summary": "It’s about the individual, not so much the collective in preseason",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-loss-to-steelers-preseason-week-1-2026",
         "publishedAt": "Fri, 14 Aug 2026 03:25:51 GMT",
         "summary": "Bright spots were at kicker and No. 3 QB",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/game-notes-trey-smack-comes-through-with-perfect-night-in-pittsburgh-preseason-week-1-2026",
         "publishedAt": "Fri, 14 Aug 2026 03:20:00 GMT",
         "summary": "Packers’ starting defense dominates early, MarShawn Lloyd relishes return",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-1-steelers-2026",
         "publishedAt": "Thu, 13 Aug 2026 23:40:52 GMT",
         "summary": "Rookie K Trey Smack has strong showing",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/16-packers-not-suiting-up-vs-steelers",
         "publishedAt": "Thu, 13 Aug 2026 22:47:00 GMT",
         "summary": "List includes several starters",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vs-steelers-preseason-week-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 20:00:00 GMT",
         "summary": "Follow Green Bay Packers vs. Pittsburgh Steelers with live updates from Acrisure Stadium",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-vs-steelers-what-to-watch-for-pre-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 15:00:00 GMT",
         "summary": "Preseason opener has topics of interest in all three phases",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-vs-steelers-how-to-watch-stream-listen-preseason-week-1-2026",
         "publishedAt": "Thu, 13 Aug 2026 14:30:00 GMT",
         "summary": "Green Bay Packers vs. Pittsburgh Steelers channel listing, radio & streaming options",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/inbox-tonight-those-questions-start-to-get-answers-aug-13-2026",
         "publishedAt": "Thu, 13 Aug 2026 13:30:00 GMT",
         "summary": "There is no estimated time of arrival in the NFL",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/packers-qb-jordan-love-ready-to-play-in-preseason-opener-2026",
         "publishedAt": "Wed, 12 Aug 2026 14:00:00 GMT",
         "summary": "Green Bay’s new defense has challenged offense daily in practice",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Now they have to take it from practice to the game",
-        "url": "https://www.packers.com/news/inbox-now-they-have-to-take-it-from-practice-to-the-game-aug-12-2026",
-        "publishedAt": "Wed, 12 Aug 2026 13:30:00 GMT",
-        "summary": "There’s no pause when it comes to developing the position group",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
