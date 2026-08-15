@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T06:00:13.875Z",
+  "updatedAt": "2026-08-15T07:45:53.807Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Tampa Bay Buccaneers vs. New York Jets: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49616235/game-highlights",
+        "publishedAt": "2026-08-15T06:56:11Z",
+        "summary": "Tampa Bay Buccaneers vs. New York Jets: Game Highlights",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "What adjustments do Tua, Falcons offense need to make?",
         "url": "https://www.espn.com/video/clip/_/id/49614925/what-adjustments-do-tua-falcons-offense-need-make",
         "publishedAt": "2026-08-15T04:14:38Z",
         "summary": "What adjustments do Tua, Falcons offense need to make?",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49614843/jets-geno-smith-scratched-vs-bucs-due-sore-ankle-day-day",
         "publishedAt": "2026-08-15T04:21:55Z",
         "summary": "Jets quarterback Geno Smith is day-to-day with an ankle injury that occurred Wednesday and resulted in him being scratched from the preseason opener Friday night against the Buccaneers.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
         "publishedAt": "2026-08-15T05:25:11Z",
         "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49614782/falcons-qb-tua-tagovailoa-frustrated-disappointed-play-preseason-loss-broncos",
         "publishedAt": "2026-08-15T04:15:10Z",
         "summary": "Falcons QB Tua Tagovailoa said he was \"frustrated and disappointed\" after Friday night's preseason loss to the Broncos, during which he played two series and was 3-of-5 passing for 22 yards.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,15 +162,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49614504/miami-dolphins-vs-washington-commanders-game-highlights",
         "publishedAt": "2026-08-15T02:52:53Z",
         "summary": "Miami Dolphins vs. Washington Commanders Game Highlights",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tampa Bay Buccaneers vs. New York Jets Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49614496/tampa-bay-buccaneers-vs-new-york-jets-game-highlights",
-        "publishedAt": "2026-08-15T03:45:30Z",
-        "summary": "Tampa Bay Buccaneers vs. New York Jets Game Highlights",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
