@@ -1,15 +1,18 @@
 {
-  "updatedAt": "2026-08-13T00:45:00Z",
+  "updatedAt": "2026-08-15T06:50:00Z",
   "label": "Training Camp Availability",
   "players": [
     {"player":"Josh Jacobs","position":"RB","status":"NOT PRACTICING","detail":"Groin injury; Matt LaFleur said he will be out at least this week.","source":"Reuters / Matt LaFleur","sourceDate":"2026-08-11"},
-    {"player":"Javon Bullard","position":"S","status":"SIDELINED","detail":"Foot bone bruise; has been out of practice work.","source":"Acme Packing Company","sourceDate":"2026-08-10"},
+    {"player":"Javon Bullard","position":"S","status":"SIDELINED","detail":"Foot bone bruise; no confirmed return to practice found in the latest reliable reporting.","source":"Acme Packing Company","sourceDate":"2026-08-10"},
     {"player":"Domani Jackson","position":"CB","status":"LIMITED / MONITOR","detail":"Working through a core issue after offseason core-muscle surgery; LaFleur said he hopes Jackson will be back shortly.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-11"},
-    {"player":"Dani Dennis-Sutton","position":"EDGE","status":"NOT PRACTICING","detail":"Remained sidelined at the latest reported practice; specific injury detail not confirmed in the report.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
-    {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
-    {"player":"Jordon Riley","position":"DL","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"},
-    {"player":"Matt Orzech","position":"LS","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
-    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remains on the physically unable to perform list.","source":"Acme Packing Company","sourceDate":"2026-08-09"}
+    {"player":"Dani Dennis-Sutton","position":"EDGE","status":"NOT PRACTICING","detail":"Remained sidelined at the latest reported practice; specific injury detail was not confirmed in that report.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
+    {"player":"Anthony Campbell","position":"DL","status":"SIDELINED / MONITOR","detail":"Injured around the preseason opener. Matt LaFleur said the issue is not expected to be long-term and Campbell should return soon.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-14"},
+    {"player":"Darian Kinnard","position":"OL","status":"SIDELINED / MONITOR","detail":"Injured around the preseason opener. Matt LaFleur said the issue is not expected to be long-term and Kinnard should return soon.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-14"},
+    {"player":"Aaron Banks","position":"G","status":"MONITOR","detail":"Knee issue has affected his camp workload. LaFleur declined to clarify whether Banks had a procedure between minicamp and training camp; no additional diagnosis is being assumed.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-14"},
+    {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"Remains on the physically unable to perform list; no confirmed activation found in current reporting.","source":"Acme Packing Company","sourceDate":"2026-08-14"},
+    {"player":"Jordon Riley","position":"DL","status":"PUP","detail":"Remains on the physically unable to perform list; no confirmed activation found in current reporting.","source":"Acme Packing Company","sourceDate":"2026-08-14"},
+    {"player":"Matt Orzech","position":"LS","status":"PUP","detail":"Remains on the physically unable to perform list; current roster reporting continues to describe him as injured.","source":"Acme Packing Company","sourceDate":"2026-08-14"},
+    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remains on the physically unable to perform list; current roster reporting indicates he could begin the season on PUP.","source":"Acme Packing Company","sourceDate":"2026-08-14"}
   ],
   "recentReturns": [
     {"player":"Carrington Valentine","position":"CB","status":"RETURNED","detail":"Returned to practice after being sidelined earlier in camp.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
