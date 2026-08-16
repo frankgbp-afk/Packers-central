@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T03:28:56.869Z",
+  "updatedAt": "2026-08-16T05:46:21.212Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Randle El takes over playcalling, sparking Bears' 24-0 run",
+        "url": "https://www.espn.com/nfl/story/_/id/49624578/randle-el-takes-play-calling-sparking-bears-24-0-run",
+        "publishedAt": "2026-08-16T04:06:17Z",
+        "summary": "Bears assistant head coach Antwaan Randle El took over playcalling duties for the second half of the preseason opener vs. the Browns, helping Chicago score 24 unanswered points in the 34-10 win.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Brown stands out for Cowboys with 2 TD catches in 17-7 win over Seahawks",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873279",
+        "publishedAt": "2026-08-16T04:48:29Z",
+        "summary": "— Rookie Camden Brown had two touchdown catches, including a diving, one-handed snag, to help lead the Dallas Cowboys past the Super Bowl champion Seattle Seahawks 17-7 on Saturday night in the preseason opener for both team.",
+        "image": "data/news-images/espn-1.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Cowboys take down Seahawks 17-7",
         "url": "https://www.espn.com/video/clip/_/id/49624282/cowboys-take-seahawks-17-7",
         "publishedAt": "2026-08-16T03:09:46Z",
         "summary": "Cowboys take down Seahawks 17-7",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "2026 NFL preseason Week 1: Game takeaways, analysis",
         "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
-        "publishedAt": "2026-08-16T03:06:56Z",
+        "publishedAt": "2026-08-16T03:48:30Z",
         "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +153,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49623964/philadelphia-eagles-vs-baltimore-ravens-game-highlights",
         "publishedAt": "2026-08-16T02:33:19Z",
         "summary": "Philadelphia Eagles vs. Baltimore Ravens Game Highlights",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Ja'Kobi Lane has TD catch on promising night for Ravens rookie receivers in 24-7 win over Eagles",
         "url": "http://www.espn.com/nfl/recap?gameId=401873284",
-        "publishedAt": "2026-08-16T02:15:35Z",
-        "summary": "— Ja’Kobi Lane had a 16-yard touchdown catch during a promising night for Ravens rookie receivers, and Baltimore beat the Philadelphia Eagles 24-7 on Saturday night in the preseason opener for both teams.",
-        "image": "data/news-images/espn-3.png",
+        "publishedAt": "2026-08-16T03:13:31Z",
+        "summary": "— Rookie wide receiver Ja’Kobi Lane keeps turning heads. On Saturday night, so did his recently drafted teammates.",
+        "image": "data/news-images/espn-5.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49622863/rams-top-pick-simpson-shines-2-td-preseason-debut-vs-chiefs",
         "publishedAt": "2026-08-16T01:34:23Z",
         "summary": "Rams rookie Ty Simpson, the second quarterback taken in this year's draft, showed plenty of poise in going 21-of-25 for 190 yards and two touchdowns in his preseason debut against the Chiefs on Saturday.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873281",
         "publishedAt": "2026-08-16T01:53:30Z",
         "summary": "— Zach Wilson, saddled with the “draft bust” label as he tries to salvage his NFL career, is giving the New Orleans Saints reasons to take him seriously as a potential backup to Tyler Shough.",
-        "image": "data/news-images/espn-5.png",
+        "image": "data/news-images/espn-7.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49622569/game-highlights",
         "publishedAt": "2026-08-15T23:30:14Z",
         "summary": "Jacksonville Jaguars vs. New Orleans Saints: Game Highlights",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49622481/rams-take-chiefs-20-12-preseason-opener",
         "publishedAt": "2026-08-15T23:14:31Z",
         "summary": "Rams take down Chiefs 20-12 in preseason opener",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873283",
         "publishedAt": "2026-08-16T00:06:32Z",
         "summary": "— There were a whole bunch of raised eyebrows when the Los Angeles Rams drafted Ty Simpson in the first round in April.",
-        "image": "data/news-images/espn-8.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/mlb/story/_/id/49621752/new-york-mets-jayden-daniels-no-5-jersey-washington-commanders-lsu-tigers",
         "publishedAt": "2026-08-16T00:47:12Z",
         "summary": "The team is the latest to poke fun at Daniels over his jersey number dispute with his alma mater, LSU.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Deshaun Watson returns with 'awesome' first half for Browns",
-        "url": "https://www.espn.com/nfl/story/_/id/49622047/deshaun-watson-returns-awesome-first-half-browns",
-        "publishedAt": "2026-08-16T00:29:28Z",
-        "summary": "Quarterback Deshaun Watson, in his first game since the 2024 season, completed 11 of 15 passes for 126 yards and led two scoring drives, the only points for the Cleveland Browns in a 34-10 preseason loss to the Chicago Bears on Saturday at Soldier Field.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-15T22:34:01Z",
-        "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
