@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:52:51.398Z",
+  "updatedAt": "2026-08-16T03:28:56.869Z",
   "sources": {
     "packers": [
       {
@@ -113,10 +113,10 @@
     ],
     "espn": [
       {
-        "title": "Jacksonville Jaguars vs. New Orleans Saints: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49622569/game-highlights",
-        "publishedAt": "2026-08-15T23:30:14Z",
-        "summary": "Jacksonville Jaguars vs. New Orleans Saints: Game Highlights",
+        "title": "Cowboys take down Seahawks 17-7",
+        "url": "https://www.espn.com/video/clip/_/id/49624282/cowboys-take-seahawks-17-7",
+        "publishedAt": "2026-08-16T03:09:46Z",
+        "summary": "Cowboys take down Seahawks 17-7",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -124,9 +124,54 @@
       {
         "title": "2026 NFL preseason Week 1: Game takeaways, analysis",
         "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
-        "publishedAt": "2026-08-15T23:38:33Z",
+        "publishedAt": "2026-08-16T03:06:56Z",
         "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
         "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Philadelphia Eagles vs. Baltimore Ravens Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49623964/philadelphia-eagles-vs-baltimore-ravens-game-highlights",
+        "publishedAt": "2026-08-16T02:33:19Z",
+        "summary": "Philadelphia Eagles vs. Baltimore Ravens Game Highlights",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ja'Kobi Lane has TD catch on promising night for Ravens rookie receivers in 24-7 win over Eagles",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873284",
+        "publishedAt": "2026-08-16T02:15:35Z",
+        "summary": "— Ja’Kobi Lane had a 16-yard touchdown catch during a promising night for Ravens rookie receivers, and Baltimore beat the Philadelphia Eagles 24-7 on Saturday night in the preseason opener for both teams.",
+        "image": "data/news-images/espn-3.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rams' top pick Simpson shines in 2-TD preseason debut vs. Chiefs",
+        "url": "https://www.espn.com/nfl/story/_/id/49622863/rams-top-pick-simpson-shines-2-td-preseason-debut-vs-chiefs",
+        "publishedAt": "2026-08-16T01:34:23Z",
+        "summary": "Rams rookie Ty Simpson, the second quarterback taken in this year's draft, showed plenty of poise in going 21-of-25 for 190 yards and two touchdowns in his preseason debut against the Chiefs on Saturday.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Zach Wilson stands out for the Saints in a 24-20 preseason loss to the Jaguars",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873281",
+        "publishedAt": "2026-08-16T01:53:30Z",
+        "summary": "— Zach Wilson, saddled with the “draft bust” label as he tries to salvage his NFL career, is giving the New Orleans Saints reasons to take him seriously as a potential backup to Tyler Shough.",
+        "image": "data/news-images/espn-5.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jacksonville Jaguars vs. New Orleans Saints: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49622569/game-highlights",
+        "publishedAt": "2026-08-15T23:30:14Z",
+        "summary": "Jacksonville Jaguars vs. New Orleans Saints: Game Highlights",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,34 +180,34 @@
         "url": "https://www.espn.com/video/clip/_/id/49622481/rams-take-chiefs-20-12-preseason-opener",
         "publishedAt": "2026-08-15T23:14:31Z",
         "summary": "Rams take down Chiefs 20-12 in preseason opener",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Vet Justin Fields solid for Chiefs, rookie Ty Simpson sharp as Rams rally for 20-12 preseason win",
+        "title": "First-round pick Ty Simpson throws 2 TD passes, rallies Rams past Chiefs 20-12 in preseason debut",
         "url": "http://www.espn.com/nfl/recap?gameId=401873283",
-        "publishedAt": "2026-08-15T23:09:33Z",
-        "summary": "— Justin Fields completed all four of his passes in his first quarter as the backup to Chiefs quarterback Patrick Mahomes, then watched as rookie Ty Simpson led the Los Angeles Rams to a comeback 20-12 preseason win over Kansas City on Saturday.",
-        "image": "data/news-images/espn-3.png",
+        "publishedAt": "2026-08-16T00:06:32Z",
+        "summary": "— There were a whole bunch of raised eyebrows when the Los Angeles Rams drafted Ty Simpson in the first round in April.",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Mets top list of trolls of Jayden Daniels over No. 5 dispute",
+        "title": "Mets troll Jayden Daniels over LSU NIL dispute",
         "url": "https://www.espn.com/mlb/story/_/id/49621752/new-york-mets-jayden-daniels-no-5-jersey-washington-commanders-lsu-tigers",
-        "publishedAt": "2026-08-15T22:28:10Z",
+        "publishedAt": "2026-08-16T00:47:12Z",
         "summary": "The team is the latest to poke fun at Daniels over his jersey number dispute with his alma mater, LSU.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Deshaun Watson returns with 'awesome' first half for Browns",
         "url": "https://www.espn.com/nfl/story/_/id/49622047/deshaun-watson-returns-awesome-first-half-browns",
-        "publishedAt": "2026-08-15T22:57:20Z",
+        "publishedAt": "2026-08-16T00:29:28Z",
         "summary": "Quarterback Deshaun Watson, in his first game since the 2024 season, completed 11 of 15 passes for 126 yards and led two scoring drives, the only points for the Cleveland Browns in a 34-10 preseason loss to the Chicago Bears on Saturday at Soldier Field.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,72 +216,18 @@
         "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-15T22:34:01Z",
         "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-15T21:38:48Z",
-        "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New England Patriots training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-15T21:28:12Z",
-        "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49621204/game-highlights",
-        "publishedAt": "2026-08-15T20:37:47Z",
-        "summary": "Carolina Panthers vs. Buffalo Bills: Game Highlights",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Deshaun Watson leads the Browns on 2 scoring drives in a 34-10 preseason loss to the Bears",
-        "url": "http://www.espn.com/nfl/recap?gameId=401874393",
-        "publishedAt": "2026-08-15T22:13:29Z",
-        "summary": "— It was a mixed bag for Deshaun Watson. Same for Shedeur Sanders.",
-        "image": "data/news-images/espn-10.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Josh Allen gets comfortable in Bills' new stadium with TD pass in 29-14 preseason win over Panthers",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873282",
-        "publishedAt": "2026-08-15T22:28:28Z",
-        "summary": "— New head coach. New Buffalo Bills stadium.",
-        "image": "data/news-images/espn-11.png",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
-        "title": "Packers clear the runway for Kyle McCord to be QB3",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84756/packers-clear-the-runway-for-kyle-mccord-to-be-qb3",
-        "publishedAt": "2026-08-15T19:01:06-04:00",
-        "summary": "On Saturday, just two days after the Green Bay Packers’ preseason opener, the Packers announced that they have parted ways with quarterback Kyron Drones, who was originally signed by the team as an undrafted free agent immediately following the 2026 NFL draft. Drones signed with Green Bay for just $5,000 in guarantees, which ranked 10th [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "Here’s who played for the Packers’ 1st- and 2nd-team units in the preseason opener",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/84752/heres-who-played-for-the-packers-1st-and-2nd-team-units-in-the-preseason-opener",
         "publishedAt": "2026-08-15T06:00:00-04:00",
         "summary": "The Green Bay Packers’ snap counts from their preseason opener against the Pittsburgh Steelers dropped yesterday, but they don’t tell you very much. When players like cornerback Jaylin Simpson are leading the team in total snaps, it doesn’t really paint a clear picture of who is getting in the mix with the Packers’ first- and [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84749/packers-discussion-how-are-you-feeling-about-the-team-after-the-1st-preseason-game",
         "publishedAt": "2026-08-14T19:59:11-04:00",
         "summary": "Since a lot of us are excited about football coming back, let’s use this as a general thread to talk about the football team coming off last night’s preseason opener. How are you feeling about the team? Better? Worse? Not much change? Let us know in the comments section. Here are a couple of posts [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84746/packers-coaches-talk-injuries-preseason-opener-anthony-campbell-darian-kinnard",
         "publishedAt": "2026-08-14T18:30:33-04:00",
         "summary": "The Green Bay Packers’ coaching staff, including coordinators and assistants, spoke to the media on Friday following the Packers’ 28-9 preseason loss to the Pittsburgh Steelers. The game was an odd one: Green Bay held the lead with their third-string units (even though it was a bit of a rock match), but when the fourth-string defense [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84738/kicker-trey-smack-already-in-rare-company-in-recent-packers-history",
         "publishedAt": "2026-08-14T16:08:38-04:00",
         "summary": "One field goal does not a kicker make. Two feels a lot better, but it’s still not enough for a trend. All that to say, Trey Smack got off to a pretty good start during the Packers’ first preseason game of 2026. Though it didn’t count, Smack opened his Packers career with a 58-yard boot [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84727/packers-fans-still-favor-anthony-belton-to-start-at-right-guard",
         "publishedAt": "2026-08-14T15:35:00-04:00",
         "summary": "On Thursday night, the Green Bay Packers played a game for the first time this preseason, giving other teams and their own fans the first look at a potential lineup. Several key players sat out in the team’s exhibition debut against the Pittsburgh Steelers, including starting right tackle Zach Bako-Bewele, but there were several notable [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84715/kyle-mccord-seems-well-ahead-of-kyron-drones-for-packers-third-qb-job",
         "publishedAt": "2026-08-14T12:00:00-04:00",
         "summary": "The top end of the Packers’ quarterback depth chart is set. As of last night, we can probably say the same about the bottom end, too. In action against the Pittsburgh Steelers, Kyle McCord looked much more game-ready than fellow low-end quarterback Kyron Drones, whose only real selling point is his athleticism. McCord completed 12 [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84719/jordan-morgan-looks-at-home-back-at-his-natural-left-tackle-spot",
         "publishedAt": "2026-08-14T11:30:00-04:00",
         "summary": "Most of what we see in preseason NFL games doesn’t matter at all, as many of the snaps that are taken up by players in those games are from players who won’t play more than special teams snaps during the season. However, with the some members of the Green Bay Packers’ first-team offensive line getting [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84711/packers-should-open-up-wide-receiver-competition",
         "publishedAt": "2026-08-14T10:00:00-04:00",
         "summary": "There’s a curious phenomenon going on at the moment with the Packers’ wide receiver room: it lacks size.&#160; Anybody who’s watched the Packers throughout the Matt LaFleur era would tell you that’s a bit strange. LaFleur has long preferred big-bodied receivers who can run block, and has been willing to trade speed for size to [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +299,15 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84706/green-bay-packers-news-trey-smack-stars-in-preseason-debut",
         "publishedAt": "2026-08-14T09:00:00-04:00",
         "summary": "For many football players, the cliché goes that everything changes when the pads go on in training camp. For kickers, however, it’s what you do in games, not in practices, that is what matters. If that’s the case, Trey Smack might be just fine. The Green Bay Packers rookie has had an up-and-down spring and [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers Roster: Post-Preseason Week 1 53-man projection",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/84700/green-bay-packers-roster-post-preseason-week-1-53-man-projection",
+        "publishedAt": "2026-08-14T06:00:00-04:00",
+        "summary": "It’s time to update our Green Bay Packers roster prediction, now that we’ve seen the team play some real live-action tackle football in the preseason. The starting offense played only nine snaps against the Pittsburgh Steelers, and the starting defense got just three reps, but we got a good look at the team&#8217;s second- through [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
