@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T15:54:29.176Z",
+  "updatedAt": "2026-08-16T17:00:42.103Z",
   "sources": {
     "packers": [
       {
@@ -115,7 +115,7 @@
       {
         "title": "Commanders QB Marcus Mariota has sprained MCL, sources say",
         "url": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
-        "publishedAt": "2026-08-16T15:10:03Z",
+        "publishedAt": "2026-08-16T15:36:54Z",
         "summary": "Commanders quarterback Marcus Mariota suffered a sprained MCL that is likely to sideline him for the remainder of the preseason, sources told ESPN.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
@@ -124,7 +124,7 @@
       {
         "title": "Fantasy football buzz: Jaxson Dart's risk and reward both on display Saturday",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-16T15:02:08Z",
+        "publishedAt": "2026-08-16T15:36:46Z",
         "summary": "Tristan H. Cockcroft recaps the fantasy football risers and notes from Saturday's preseason NFL action.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
@@ -133,7 +133,7 @@
       {
         "title": "Aaron Donald decision has no 'invisible deadline,' Sean McVay says",
         "url": "https://www.espn.com/nfl/story/_/id/49627652/aaron-donald-decision-no-invisible-deadline-sean-mcvay-says",
-        "publishedAt": "2026-08-16T12:56:11Z",
+        "publishedAt": "2026-08-16T16:14:37Z",
         "summary": "Rams coach Sean McVay says he won't put an \"invisible deadline\" on Aaron Donald to come out of retirement but added that he hopes the former star defensive tackle makes a decision \"sooner than later.\"",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Green Bay Packers Depth Chart: What Week 1 of the preseason taught us",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/84759/green-bay-packers-depth-chart-what-week-1-of-the-preseason-taught-us",
+        "publishedAt": "2026-08-16T06:00:00-04:00",
+        "summary": "We’re here today to take our best stab at what the Green Bay Packers think of their current roster. Yes, there’s an open roster spot on the team right now, so there are only 90 players listed on this depth chart, not the typical 91. We don’t know what’s happening behind closed doors, be it [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers clear the runway for Kyle McCord to be QB3",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84756/packers-clear-the-runway-for-kyle-mccord-to-be-qb3",
+        "publishedAt": "2026-08-15T19:01:06-04:00",
+        "summary": "On Saturday, just two days after the Green Bay Packers’ preseason opener, the Packers announced that they have parted ways with quarterback Kyron Drones, who was originally signed by the team as an undrafted free agent immediately following the 2026 NFL draft. Drones signed with Green Bay for just $5,000 in guarantees, which ranked 10th [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Here’s who played for the Packers’ 1st- and 2nd-team units in the preseason opener",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/84752/heres-who-played-for-the-packers-1st-and-2nd-team-units-in-the-preseason-opener",
         "publishedAt": "2026-08-15T06:00:00-04:00",
         "summary": "The Green Bay Packers’ snap counts from their preseason opener against the Pittsburgh Steelers dropped yesterday, but they don’t tell you very much. When players like cornerback Jaylin Simpson are leading the team in total snaps, it doesn’t really paint a clear picture of who is getting in the mix with the Packers’ first- and [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84749/packers-discussion-how-are-you-feeling-about-the-team-after-the-1st-preseason-game",
         "publishedAt": "2026-08-14T19:59:11-04:00",
         "summary": "Since a lot of us are excited about football coming back, let’s use this as a general thread to talk about the football team coming off last night’s preseason opener. How are you feeling about the team? Better? Worse? Not much change? Let us know in the comments section. Here are a couple of posts [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84746/packers-coaches-talk-injuries-preseason-opener-anthony-campbell-darian-kinnard",
         "publishedAt": "2026-08-14T18:30:33-04:00",
         "summary": "The Green Bay Packers’ coaching staff, including coordinators and assistants, spoke to the media on Friday following the Packers’ 28-9 preseason loss to the Pittsburgh Steelers. The game was an odd one: Green Bay held the lead with their third-string units (even though it was a bit of a rock match), but when the fourth-string defense [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84738/kicker-trey-smack-already-in-rare-company-in-recent-packers-history",
         "publishedAt": "2026-08-14T16:08:38-04:00",
         "summary": "One field goal does not a kicker make. Two feels a lot better, but it’s still not enough for a trend. All that to say, Trey Smack got off to a pretty good start during the Packers’ first preseason game of 2026. Though it didn’t count, Smack opened his Packers career with a 58-yard boot [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84727/packers-fans-still-favor-anthony-belton-to-start-at-right-guard",
         "publishedAt": "2026-08-14T15:35:00-04:00",
         "summary": "On Thursday night, the Green Bay Packers played a game for the first time this preseason, giving other teams and their own fans the first look at a potential lineup. Several key players sat out in the team’s exhibition debut against the Pittsburgh Steelers, including starting right tackle Zach Bako-Bewele, but there were several notable [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84715/kyle-mccord-seems-well-ahead-of-kyron-drones-for-packers-third-qb-job",
         "publishedAt": "2026-08-14T12:00:00-04:00",
         "summary": "The top end of the Packers’ quarterback depth chart is set. As of last night, we can probably say the same about the bottom end, too. In action against the Pittsburgh Steelers, Kyle McCord looked much more game-ready than fellow low-end quarterback Kyron Drones, whose only real selling point is his athleticism. McCord completed 12 [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84719/jordan-morgan-looks-at-home-back-at-his-natural-left-tackle-spot",
         "publishedAt": "2026-08-14T11:30:00-04:00",
         "summary": "Most of what we see in preseason NFL games doesn’t matter at all, as many of the snaps that are taken up by players in those games are from players who won’t play more than special teams snaps during the season. However, with the some members of the Green Bay Packers’ first-team offensive line getting [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84711/packers-should-open-up-wide-receiver-competition",
         "publishedAt": "2026-08-14T10:00:00-04:00",
         "summary": "There’s a curious phenomenon going on at the moment with the Packers’ wide receiver room: it lacks size.&#160; Anybody who’s watched the Packers throughout the Matt LaFleur era would tell you that’s a bit strange. LaFleur has long preferred big-bodied receivers who can run block, and has been willing to trade speed for size to [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Trey Smack stars in preseason debut",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84706/green-bay-packers-news-trey-smack-stars-in-preseason-debut",
-        "publishedAt": "2026-08-14T09:00:00-04:00",
-        "summary": "For many football players, the cliché goes that everything changes when the pads go on in training camp. For kickers, however, it’s what you do in games, not in practices, that is what matters. If that’s the case, Trey Smack might be just fine. The Green Bay Packers rookie has had an up-and-down spring and [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers Roster: Post-Preseason Week 1 53-man projection",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/84700/green-bay-packers-roster-post-preseason-week-1-53-man-projection",
-        "publishedAt": "2026-08-14T06:00:00-04:00",
-        "summary": "It’s time to update our Green Bay Packers roster prediction, now that we’ve seen the team play some real live-action tackle football in the preseason. The starting offense played only nine snaps against the Pittsburgh Steelers, and the starting defense got just three reps, but we got a good look at the team&#8217;s second- through [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
