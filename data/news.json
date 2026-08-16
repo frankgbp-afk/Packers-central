@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T19:04:30.909Z",
+  "updatedAt": "2026-08-16T19:48:56.875Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,29 @@
     ],
     "espn": [
       {
-        "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-16T17:47:38Z",
-        "summary": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-16T19:44:21Z",
+        "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Commanders QB Marcus Mariota has sprained MCL, sources say",
-        "url": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
-        "publishedAt": "2026-08-16T15:36:54Z",
-        "summary": "Commanders quarterback Marcus Mariota suffered a sprained MCL that is likely to sideline him for the remainder of the preseason, sources told ESPN.",
+        "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-16T18:10:40Z",
+        "summary": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
         "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Commanders QB Marcus Mariota has sprained MCL",
+        "url": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
+        "publishedAt": "2026-08-16T18:38:23Z",
+        "summary": "Commanders quarterback Marcus Mariota suffered a sprained right knee and will miss the rest of the preseason, but he is expected to be ready for the regular-season opener.",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-16T15:36:46Z",
         "summary": "Tristan H. Cockcroft recaps the fantasy football risers and notes from Saturday's preseason NFL action.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49627652/aaron-donald-decision-no-invisible-deadline-sean-mcvay-says",
         "publishedAt": "2026-08-16T16:14:37Z",
         "summary": "Rams coach Sean McVay says he won't put an \"invisible deadline\" on Aaron Donald to come out of retirement but added that he hopes the former star defensive tackle makes a decision \"sooner than later.\"",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49619516/why-titans-believe-brian-daboll-maximize-cam-ward-potential",
         "publishedAt": "2026-08-16T10:00:03Z",
         "summary": "The Titans are looking for the Cam Ward-Brian Daboll relationship to be as effective as what Daboll enjoyed in Buffalo.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49622601/new-england-patriots-preseason-risers-game",
         "publishedAt": "2026-08-16T11:29:46Z",
         "summary": "From Kyle Williams to K.J. Britt, here are the players whose performances should have them ascending the Patriots' ranks.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49624578/randle-el-takes-play-calling-sparking-bears-24-0-run",
         "publishedAt": "2026-08-16T17:16:34Z",
         "summary": "Bears assistant head coach Antwaan Randle El took over playcalling duties for the second half of the preseason opener against the Browns, helping Chicago score 24 unanswered points in the 34-10 win.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873279",
         "publishedAt": "2026-08-16T04:48:29Z",
         "summary": "— Rookie Camden Brown had two touchdown catches, including a diving, one-handed snag, to help lead the Dallas Cowboys past the Super Bowl champion Seattle Seahawks 17-7 on Saturday night in the preseason opener for both team.",
-        "image": "data/news-images/espn-7.png",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49624282/cowboys-take-seahawks-17-7",
         "publishedAt": "2026-08-16T03:09:46Z",
         "summary": "Cowboys take down Seahawks 17-7",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
         "publishedAt": "2026-08-16T03:48:30Z",
         "summary": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,16 +216,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49623964/philadelphia-eagles-vs-baltimore-ravens-game-highlights",
         "publishedAt": "2026-08-16T02:33:19Z",
         "summary": "Philadelphia Eagles vs. Baltimore Ravens Game Highlights",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ja'Kobi Lane has TD catch on promising night for Ravens rookie receivers in 24-7 win over Eagles",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873284",
-        "publishedAt": "2026-08-16T03:13:31Z",
-        "summary": "— Rookie wide receiver Ja’Kobi Lane keeps turning heads. On Saturday night, so did his recently drafted teammates.",
-        "image": "data/news-images/espn-11.png",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
