@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:03:37.934Z",
+  "updatedAt": "2026-08-17T21:59:00.289Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Chargers' McDaniel lauds Herbert's progression in offense",
+        "url": "https://www.espn.com/nfl/story/_/id/49642371/chargers-mcdaniel-lauds-herbert-progression-offense",
+        "publishedAt": "2026-08-17T21:42:01Z",
+        "summary": "New offensive coordinator Mike McDaniel, during a media availability on Monday, spoke glowingly of Los Angeles Chargers quarterback Justin Herbert's work this summer in training camp, adding that \"he's been everything that I'd hoped and more.\"",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-17T21:54:09Z",
+        "summary": "Catch up on our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 Carolina Panthers training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T20:39:06Z",
         "summary": "Catch up on our updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49641695/rams-not-looking-rush-wr-puka-nacua-de-myles-garrett-back-practice",
         "publishedAt": "2026-08-17T20:43:12Z",
         "summary": "The Rams want Puka Nacua and Myles Garrett to be 100% healthy before they return from injuries, coach Sean McVay said.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T20:14:24Z",
         "summary": "Catch up on our daily updates from Broncos training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T20:12:16Z",
         "summary": "Follow our updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47539664/2026-fantasy-football-rankings-flex-superflex-ppr-eric-karabell",
         "publishedAt": "2026-08-17T19:41:12Z",
         "summary": "A look at the top 200 QBs, RBs, WRs and TEs for 2026 drafts, updated throughout the fantasy football offseason.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-08-17T18:56:34Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49640032/nfl-dallas-cowboys-von-miller-demarcus-ware",
         "publishedAt": "2026-08-17T19:02:31Z",
         "summary": "Signing with the Cowboys, Miller is headed back home to Texas, where he grew up and played for Texas A&M.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49640649/source-commanders-cut-struggling-placekicker-jake-moody",
         "publishedAt": "2026-08-17T18:37:06Z",
         "summary": "The Washington Commanders are set to release placekicker Jake Moody and go with undrafted rookie Drew Stevens, a source confirmed to ESPN.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T18:39:59Z",
         "summary": "Catch up on our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T18:51:35Z",
         "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Las Vegas Raiders training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-17T20:17:14Z",
-        "summary": "Catch up on our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football mock draft: Puka Nacua, Jeremiyah Love drop due to recent news",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49638194/fantasy-football-mock-draft-10-teams-1-2-ppr",
-        "publishedAt": "2026-08-17T19:57:14Z",
-        "summary": "Injury news and word of potential suspensions caused the draft board to change a bit in our latest mock.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
