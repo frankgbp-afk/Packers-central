@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T15:57:34.435Z",
+  "updatedAt": "2026-08-17T17:13:26.200Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
+        "title": "Daniel Jones to McAfee: I'm feeling good, no limitations",
+        "url": "https://www.espn.com/video/clip/_/id/49639898/feeling-good-no-limitations",
+        "publishedAt": "2026-08-17T17:07:24Z",
+        "summary": "Daniel Jones to McAfee: I'm feeling good, no limitations",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-17T16:47:46Z",
+        "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Field Yates' fantasy football PPR rankings: Top 160 for 2026",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
+        "publishedAt": "2026-08-17T16:41:53Z",
+        "summary": "Field provides his latest rankings for the upcoming season, which will be updated throughout the summer.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jets' RB Hall strains right groin, but likely not serious injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49639624/jets-rb-hall-strains-right-groin-likely-not-serious-injury",
+        "publishedAt": "2026-08-17T16:40:30Z",
+        "summary": "New York Jets running back Breece Hall strained his right groin in practice on Monday and will have tests to determine the severity of the injury, but coach Aaron Glenn says he didn't think Hall's injury is a big deal.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Orlovsky: 'Everything's on the line' for the Bengals this season",
+        "url": "https://www.espn.com/video/clip/_/id/49639534/everything-line-bengals-season",
+        "publishedAt": "2026-08-17T16:29:03Z",
+        "summary": "Orlovsky: 'Everything's on the line' for the Bengals this season",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football buzz: How much should Jeremiyah Love fall in draft rankings?",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-17T15:51:02Z",
         "summary": "Eric Karabell gives his thoughts on how to approach the Cardinals' injured rookie back in drafts.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,97 +171,52 @@
         "url": "https://www.espn.com/video/clip/_/id/49638906/why-dan-orlovsky-pumping-brakes-pats",
         "publishedAt": "2026-08-17T14:56:46Z",
         "summary": "Why Dan Orlovsky is pumping the brakes on the Pats",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Why Field Yates ranks Rhamondre Stevenson ahead of TreVeyon Henderson in fantasy",
         "url": "https://www.espn.com/video/clip/_/id/49638904/why-field-yates-ranks-rhamondre-stevenson-ahead-treveyon-henderson-fantasy",
-        "publishedAt": "2026-08-17T15:16:25Z",
+        "publishedAt": "2026-08-17T16:00:46Z",
         "summary": "Why Field Yates ranks Rhamondre Stevenson ahead of TreVeyon Henderson in fantasy",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Is D'Andre Swift a good fantasy candidate this season?",
         "url": "https://www.espn.com/video/clip/_/id/49638903/is-dandre-swift-good-fantasy-candidate-season",
-        "publishedAt": "2026-08-17T15:07:35Z",
+        "publishedAt": "2026-08-17T15:59:56Z",
         "summary": "Is D'Andre Swift a good fantasy candidate this season?",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Why Field Yates is starting to get nervous about Emeka Egbuka",
         "url": "https://www.espn.com/video/clip/_/id/49638879/why-field-yates-starting-get-nervous-emeka-egbuka",
-        "publishedAt": "2026-08-17T15:26:43Z",
+        "publishedAt": "2026-08-17T15:58:59Z",
         "summary": "Why Field Yates is starting to get nervous about Emeka Egbuka",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Mike Clay: 'I'm still all in on Jeremiyah Love' despite high ankle sprain",
         "url": "https://www.espn.com/video/clip/_/id/49638822/all-jeremiyah-love-high-ankle-sprain",
-        "publishedAt": "2026-08-17T15:21:22Z",
+        "publishedAt": "2026-08-17T15:58:06Z",
         "summary": "Mike Clay: 'I'm still all in on Jeremiyah Love' despite high ankle sprain",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "What are the Puka Nacua suspension rumors doing for his fantasy value?",
         "url": "https://www.espn.com/video/clip/_/id/49638611/what-puka-nacua-suspension-rumors-doing-fantasy-value",
-        "publishedAt": "2026-08-17T15:18:37Z",
+        "publishedAt": "2026-08-17T15:57:27Z",
         "summary": "What are the Puka Nacua suspension rumors doing for his fantasy value?",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cooper Kupp's latest route? Opening a new coffee shop",
-        "url": "https://www.espn.com/nfl/story/_/id/49593098/cooper-kupp-new-coffee-shop-dodo-coffee-seattle-seahawks-fayetteville-arkansas",
-        "publishedAt": "2026-08-17T14:02:20Z",
-        "summary": "Cooper Kupp and his wife, Anna, are part of a group that owns Dodo Coffee, which is having a grand reopening in Arkansas in August.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dolphins activate Chris Bell, paving way for practice debut",
-        "url": "https://www.espn.com/nfl/story/_/id/49638440/dolphins-activate-chris-bell-paving-way-practice-debut",
-        "publishedAt": "2026-08-17T15:40:05Z",
-        "summary": "The Dolphins activated rookie wide receiver Chris Bell from the active/non-football injury list Monday, paving the way for him to make his practice debut.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Domonique Foxworth sounds off on Jaxson Dart's medical tent comments",
-        "url": "https://www.espn.com/video/clip/_/id/49638246/domonique-foxworth-sounds-jaxson-dart-medical-tent-comments",
-        "publishedAt": "2026-08-17T14:19:21Z",
-        "summary": "Domonique Foxworth sounds off on Jaxson Dart's medical tent comments",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dan Graziano: Von Miller a good addition for Cowboys",
-        "url": "https://www.espn.com/video/clip/_/id/49637754/von-miller-good-addition-cowboys",
-        "publishedAt": "2026-08-17T12:38:21Z",
-        "summary": "Dan Graziano: Von Miller a good addition for Cowboys",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Future Power Rankings: 2027-29 projections for 32 teams",
-        "url": "https://www.espn.com/nfl/story/_/id/49582613/2026-nfl-future-power-rankings-projections-32-teams-roster-coaching-quarterback",
-        "publishedAt": "2026-08-17T12:56:02Z",
-        "summary": "How might all 32 NFL franchises stack up beyond 2026? Our forward-looking ranking factors in each team's future QB, roster, front office and coaching situations.",
-        "image": "data/news-images/espn-11.png",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
