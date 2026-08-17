@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:52:17.911Z",
+  "updatedAt": "2026-08-17T03:29:45.769Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Von Miller signing with Cowboys on 1-year deal, source says",
+        "url": "https://www.espn.com/nfl/story/_/id/49634196/von-miller-expected-sign-dallas-cowboys",
+        "publishedAt": "2026-08-17T02:59:16Z",
+        "summary": "Future Hall of Fame pass rusher Von Miller is coming home, agreeing to a one-year deal with the Dallas Cowboys.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Cardinals RB Love likely to sit rest of preseason",
+        "url": "https://www.espn.com/nfl/story/_/id/49634102/cardinals-rb-love-likely-sit-rest-preseason",
+        "publishedAt": "2026-08-17T01:36:41Z",
+        "summary": "Rookie running back Jeremiyah Love, who played 23 snaps Thursday against the Las Vegas Raiders, is dealing with a high ankle sprain and is unlikely to play the rest of the preseason for the Arizona Cardinals, sources told ESPN's Adam Schefter on Sunday.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Kevin O'Connell, Vikings 'crushed' for Jamal Adams after injury",
+        "url": "https://www.espn.com/video/clip/_/id/49633977/kevin-oconnell-vikings-crushed-jamal-adams-injury",
+        "publishedAt": "2026-08-17T00:49:42Z",
+        "summary": "Kevin O'Connell, Vikings 'crushed' for Jamal Adams after injury",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Minnesota Vikings lose Adams for season due to knee injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49633559/minnesota-vikings-lose-adams-season-due-knee-injury",
+        "publishedAt": "2026-08-17T00:51:23Z",
+        "summary": "Veteran defender Jamal Adams will miss the 2026 season because of a right knee injury he suffered Saturday in the Minnesota Vikings' 13-10 preseason victory over the New York Giants, the NFL Network reported Sunday.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ed Dodds suggests Colts will keep Anthony Richardson for depth",
+        "url": "https://www.espn.com/nfl/story/_/id/49633610/ed-dodds-suggests-colts-keep-anthony-richardson-depth",
+        "publishedAt": "2026-08-17T00:27:55Z",
+        "summary": "Colts assistant general manager Ed Dodds suggested Sunday that Anthony Richardson Sr. will remain in Indianapolis because the Colts intend to prioritize quarterback depth.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "John Niland, who helped Cowboys win 1st Super Bowl, dies at 82",
+        "url": "https://www.espn.com/nfl/story/_/id/49633424/john-niland-dies-82",
+        "publishedAt": "2026-08-17T00:26:21Z",
+        "summary": "John Niland, a three-time All-Pro guard who helped the Cowboys win their first Super Bowl championship, died Saturday. He was 82.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 Green Bay Packers training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-16T22:03:55Z",
         "summary": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-16T21:54:39Z",
         "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49632088/colts-pacers-donate-125000-indiana-flood-relief",
         "publishedAt": "2026-08-16T22:09:42Z",
         "summary": "The NFL's Indianapolis Colts and NBA's Indiana Pacers are donating $125,000 each to flood relief efforts throughout the state. The WNBA's Indiana Fever and the G League basketball team Noblesville Boom also joined the effort.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49631972/retired-aaron-donald-works-rams-second",
         "publishedAt": "2026-08-16T21:20:48Z",
         "summary": "Aaron Donald worked out for the Los Angeles Rams on Saturday as he continues his process to determine whether he wants to come out of retirement.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49631890/cb-keisean-nixon-not-guaranteed-starting-role-packers",
         "publishedAt": "2026-08-16T21:37:36Z",
         "summary": "The deeper the Packers get into training camp, the more uncertain it is that Keisean Nixon will be one of their opening-day starting cornerbacks.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-16T21:24:49Z",
         "summary": "Catch up on our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers' George Kittle eyes return to practice, opener in Australia",
-        "url": "https://www.espn.com/nfl/story/_/id/49631705/49ers-george-kittle-eyes-return-practice-opener-australia",
-        "publishedAt": "2026-08-16T21:47:19Z",
-        "summary": "George Kittle, who suffered a torn Achilles in January, said he might be able to practice soon with the hope that he'll be ready for the 49ers' opener vs. the Rams.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "LT Ozzy Trapilo (knee) now eligible to practice with Bears",
-        "url": "https://www.espn.com/nfl/story/_/id/49631637/lt-ozzy-trapilo-knee-now-eligible-practice-bears",
-        "publishedAt": "2026-08-16T20:57:23Z",
-        "summary": "The Bears activated Ozzy Trapilo off the physically unable to perform list on Sunday, seven months after the left tackle ruptured his patellar tendon in the postseason.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-16T21:13:02Z",
-        "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-16T21:15:06Z",
-        "summary": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Commanders QB Marcus Mariota has sprained MCL",
-        "url": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
-        "publishedAt": "2026-08-16T18:38:23Z",
-        "summary": "Commanders quarterback Marcus Mariota suffered a sprained right knee and will miss the rest of the preseason, but he is expected to be ready for the regular-season opener.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Jaxson Dart's risk and reward both on display Saturday",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-16T15:36:46Z",
-        "summary": "Tristan H. Cockcroft recaps the fantasy football risers and notes from Saturday's preseason NFL action.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
