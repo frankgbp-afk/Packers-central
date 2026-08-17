@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-17T17:13:26.200Z",
+  "updatedAt": "2026-08-17T19:09:47.097Z",
   "sources": {
     "packers": [
+      {
+        "title": "Green Bay faces Broncos in Denver",
+        "url": "https://www.packers.com/news/green-bay-faces-broncos-in-denver-preseason-week-2-2026",
+        "publishedAt": "Mon, 17 Aug 2026 18:31:27 GMT",
+        "summary": "This will be the 12th meeting between the two teams in the preseason",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: The play speaks for itself",
         "url": "https://www.packers.com/news/inbox-the-play-speaks-for-itself-aug-17-2026",
         "publishedAt": "Mon, 17 Aug 2026 13:30:00 GMT",
         "summary": "Defenders are in a tough spot",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-16-2026",
         "publishedAt": "Sun, 16 Aug 2026 22:15:00 GMT",
         "summary": "Tucker Kraft returns to team drills, immediately catches a touchdown",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-16-2026",
         "publishedAt": "Sun, 16 Aug 2026 15:17:41 GMT",
         "summary": "Follow along for practice updates live from Ray Nitschke Field",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-move-august-15-2026",
         "publishedAt": "Sat, 15 Aug 2026 20:00:00 GMT",
         "summary": "Green Bay releases QB Kyron Drones",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/lukas-van-ness-is-intricate-part-of-gannon-s-defense-aug-14-2026",
         "publishedAt": "Sat, 15 Aug 2026 14:00:00 GMT",
         "summary": "Key comments from Green Bay’s defensive coaches",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-brandon-cisse-s-approach-is-that-of-a-grizzled-veteran-aug-15-2026",
         "publishedAt": "Sat, 15 Aug 2026 13:00:00 GMT",
         "summary": "John Williams has emerged as an intriguing depth piece",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-that-was-good-work-aug-14-2026",
         "publishedAt": "Fri, 14 Aug 2026 15:30:00 GMT",
         "summary": "It’s about the individual, not so much the collective in preseason",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-loss-to-steelers-preseason-week-1-2026",
         "publishedAt": "Fri, 14 Aug 2026 03:25:51 GMT",
         "summary": "Bright spots were at kicker and No. 3 QB",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/game-notes-trey-smack-comes-through-with-perfect-night-in-pittsburgh-preseason-week-1-2026",
         "publishedAt": "Fri, 14 Aug 2026 03:20:00 GMT",
         "summary": "Packers’ starting defense dominates early, MarShawn Lloyd relishes return",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-1-steelers-2026",
         "publishedAt": "Thu, 13 Aug 2026 23:40:52 GMT",
         "summary": "Rookie K Trey Smack has strong showing",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/16-packers-not-suiting-up-vs-steelers",
         "publishedAt": "Thu, 13 Aug 2026 22:47:00 GMT",
         "summary": "List includes several starters",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Live Chat: Packers vs. Steelers | Preseason Week 1",
-        "url": "https://www.packers.com/news/live-chat-packers-vs-steelers-preseason-week-1-2026",
-        "publishedAt": "Thu, 13 Aug 2026 20:00:00 GMT",
-        "summary": "Follow Green Bay Packers vs. Pittsburgh Steelers with live updates from Acrisure Stadium",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "2026 Las Vegas Raiders training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-17T18:15:30Z",
+        "summary": "Catch up on our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Buccaneers WRs Egbuka, McMillan 'day-to-day' ahead of Week 1",
+        "url": "https://www.espn.com/nfl/story/_/id/49640322/buccaneers-wrs-egbuka-mcmillan-day-day-ahead-week-1",
+        "publishedAt": "2026-08-17T18:20:23Z",
+        "summary": "Bucs' WR Emeka Egbuka is said to be \"day-to-day, week-to-week\" with a toe sprain he suffered last week, and the team is \"not sure at this time\" of Egbuka's Week 1 availability.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Aaron Glenn: Breece Hall groin injury doesn't seem serious",
+        "url": "https://www.espn.com/video/clip/_/id/49640042/breece-hall-groin-injury-seem-serious",
+        "publishedAt": "2026-08-17T17:56:08Z",
+        "summary": "Aaron Glenn: Breece Hall groin injury doesn't seem serious",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Daniel Jones to McAfee: I'm feeling good, no limitations",
         "url": "https://www.espn.com/video/clip/_/id/49639898/feeling-good-no-limitations",
         "publishedAt": "2026-08-17T17:07:24Z",
         "summary": "Daniel Jones to McAfee: I'm feeling good, no limitations",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T16:47:46Z",
         "summary": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +162,16 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
         "publishedAt": "2026-08-17T16:41:53Z",
         "summary": "Field provides his latest rankings for the upcoming season, which will be updated throughout the summer.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Jets' RB Hall strains right groin, but likely not serious injury",
         "url": "https://www.espn.com/nfl/story/_/id/49639624/jets-rb-hall-strains-right-groin-likely-not-serious-injury",
-        "publishedAt": "2026-08-17T16:40:30Z",
+        "publishedAt": "2026-08-17T17:24:04Z",
         "summary": "New York Jets running back Breece Hall strained his right groin in practice on Monday and will have tests to determine the severity of the injury, but coach Aaron Glenn says he didn't think Hall's injury is a big deal.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49639534/everything-line-bengals-season",
         "publishedAt": "2026-08-17T16:29:03Z",
         "summary": "Orlovsky: 'Everything's on the line' for the Bengals this season",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-17T15:51:02Z",
         "summary": "Eric Karabell gives his thoughts on how to approach the Cardinals' injured rookie back in drafts.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49638906/why-dan-orlovsky-pumping-brakes-pats",
         "publishedAt": "2026-08-17T14:56:46Z",
         "summary": "Why Dan Orlovsky is pumping the brakes on the Pats",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49638904/why-field-yates-ranks-rhamondre-stevenson-ahead-treveyon-henderson-fantasy",
         "publishedAt": "2026-08-17T16:00:46Z",
         "summary": "Why Field Yates ranks Rhamondre Stevenson ahead of TreVeyon Henderson in fantasy",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49638903/is-dandre-swift-good-fantasy-candidate-season",
         "publishedAt": "2026-08-17T15:59:56Z",
         "summary": "Is D'Andre Swift a good fantasy candidate this season?",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Field Yates is starting to get nervous about Emeka Egbuka",
-        "url": "https://www.espn.com/video/clip/_/id/49638879/why-field-yates-starting-get-nervous-emeka-egbuka",
-        "publishedAt": "2026-08-17T15:58:59Z",
-        "summary": "Why Field Yates is starting to get nervous about Emeka Egbuka",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mike Clay: 'I'm still all in on Jeremiyah Love' despite high ankle sprain",
-        "url": "https://www.espn.com/video/clip/_/id/49638822/all-jeremiyah-love-high-ankle-sprain",
-        "publishedAt": "2026-08-17T15:58:06Z",
-        "summary": "Mike Clay: 'I'm still all in on Jeremiyah Love' despite high ankle sprain",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What are the Puka Nacua suspension rumors doing for his fantasy value?",
-        "url": "https://www.espn.com/video/clip/_/id/49638611/what-puka-nacua-suspension-rumors-doing-fantasy-value",
-        "publishedAt": "2026-08-17T15:57:27Z",
-        "summary": "What are the Puka Nacua suspension rumors doing for his fantasy value?",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
