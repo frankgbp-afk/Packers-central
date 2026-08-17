@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:59:00.289Z",
+  "updatedAt": "2026-08-17T22:59:16.254Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
+        "title": "2026 New York Giants training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-17T22:53:42Z",
+        "summary": "Catch up on our updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-17T22:56:34Z",
+        "summary": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Saints rookie WR Jordyn Tyson could miss two months",
+        "url": "https://www.espn.com/nfl/story/_/id/49642899/saints-rookie-wr-jordyn-tyson-miss-two-months",
+        "publishedAt": "2026-08-17T22:58:08Z",
+        "summary": "New Orleans Saints rookie wide receiver Jordyn Tyson, 22, the No. 8 overall pick out of Arizona State who injured his hamstring in a practice last week, could miss the next two months, sources told Ian Rapoport and Mike Garofolo of the NFL Network Monday.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Giants' Malik Nabers 'felt good' in 1st full-speed live drills",
+        "url": "https://www.espn.com/nfl/story/_/id/49642816/new-york-giants-receiver-malik-nabers-felt-good-first-full-speed-live-drills",
+        "publishedAt": "2026-08-17T22:39:49Z",
+        "summary": "Giants wide receiver Malik Nabers participated Monday in full-speed live drills for the first time since tearing the ACL and meniscus in his right knee Week 4 of last season.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Philadelphia Eagles training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49434399/philadelphia-eagles-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-17T22:42:59Z",
+        "summary": "Catch up on our updates from Eagles training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Chargers' McDaniel lauds Herbert's progression in offense",
         "url": "https://www.espn.com/nfl/story/_/id/49642371/chargers-mcdaniel-lauds-herbert-progression-offense",
-        "publishedAt": "2026-08-17T21:42:01Z",
-        "summary": "New offensive coordinator Mike McDaniel, during a media availability on Monday, spoke glowingly of Los Angeles Chargers quarterback Justin Herbert's work this summer in training camp, adding that \"he's been everything that I'd hoped and more.\"",
-        "image": "data/news-images/espn-0.jpg",
+        "publishedAt": "2026-08-17T22:32:45Z",
+        "summary": "New offensive coordinator Mike McDaniel, during a media availability Monday, spoke glowingly of Los Angeles Chargers quarterback Justin Herbert's work this summer in training camp, saying, \"He's been everything that I'd hoped and more.\"",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T21:54:09Z",
         "summary": "Catch up on our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T20:39:06Z",
         "summary": "Catch up on our updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49641695/rams-not-looking-rush-wr-puka-nacua-de-myles-garrett-back-practice",
         "publishedAt": "2026-08-17T20:43:12Z",
         "summary": "The Rams want Puka Nacua and Myles Garrett to be 100% healthy before they return from injuries, coach Sean McVay said.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T20:14:24Z",
         "summary": "Catch up on our daily updates from Broncos training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T20:12:16Z",
         "summary": "Follow our updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47539664/2026-fantasy-football-rankings-flex-superflex-ppr-eric-karabell",
         "publishedAt": "2026-08-17T19:41:12Z",
         "summary": "A look at the top 200 QBs, RBs, WRs and TEs for 2026 drafts, updated throughout the fantasy football offseason.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-17T18:56:34Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "DeMarcus Ware on Von Miller to Cowboys: 'This is all he wanted'",
-        "url": "https://www.espn.com/nfl/story/_/id/49640032/nfl-dallas-cowboys-von-miller-demarcus-ware",
-        "publishedAt": "2026-08-17T19:02:31Z",
-        "summary": "Signing with the Cowboys, Miller is headed back home to Texas, where he grew up and played for Texas A&M.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Commanders to cut struggling placekicker Jake Moody",
-        "url": "https://www.espn.com/nfl/story/_/id/49640649/source-commanders-cut-struggling-placekicker-jake-moody",
-        "publishedAt": "2026-08-17T18:37:06Z",
-        "summary": "The Washington Commanders are set to release placekicker Jake Moody and go with undrafted rookie Drew Stevens, a source confirmed to ESPN.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New York Jets training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-17T18:39:59Z",
-        "summary": "Catch up on our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New England Patriots training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-17T18:51:35Z",
-        "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
