@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:02:19.469Z",
+  "updatedAt": "2026-08-17T15:01:30.497Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,56 @@
     ],
     "espn": [
       {
+        "title": "Why Dan Orlovsky is pumping the brakes on the Pats",
+        "url": "https://www.espn.com/video/clip/_/id/49638906/why-dan-orlovsky-pumping-brakes-pats",
+        "publishedAt": "2026-08-17T14:56:46Z",
+        "summary": "Why Dan Orlovsky is pumping the brakes on the Pats",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cooper Kupp's latest route? Opening a new coffee shop",
+        "url": "https://www.espn.com/nfl/story/_/id/49593098/cooper-kupp-new-coffee-shop-dodo-coffee-seattle-seahawks-fayetteville-arkansas",
+        "publishedAt": "2026-08-17T14:02:20Z",
+        "summary": "Cooper Kupp and his wife, Anna, are part of a group that owns Dodo Coffee, which is having a grand reopening in Arkansas in August.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Dolphins activate Chris Bell, paving way for practice debut",
+        "url": "https://www.espn.com/nfl/story/_/id/49638440/dolphins-activate-chris-bell-paving-way-practice-debut",
+        "publishedAt": "2026-08-17T14:13:27Z",
+        "summary": "The Dolphins activated rookie wide receiver Chris Bell from the active/non-football injury list Monday, paving the way for him to make his practice debut.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Domonique Foxworth sounds off on Jaxson Dart's medical tent comments",
+        "url": "https://www.espn.com/video/clip/_/id/49638246/domonique-foxworth-sounds-jaxson-dart-medical-tent-comments",
+        "publishedAt": "2026-08-17T14:19:21Z",
+        "summary": "Domonique Foxworth sounds off on Jaxson Dart's medical tent comments",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Dan Graziano: Von Miller a good addition for Cowboys",
         "url": "https://www.espn.com/video/clip/_/id/49637754/von-miller-good-addition-cowboys",
         "publishedAt": "2026-08-17T12:38:21Z",
         "summary": "Dan Graziano: Von Miller a good addition for Cowboys",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "NFL Future Power Rankings: 2027-29 projections for 32 teams",
         "url": "https://www.espn.com/nfl/story/_/id/49582613/2026-nfl-future-power-rankings-projections-32-teams-roster-coaching-quarterback",
-        "publishedAt": "2026-08-17T10:29:57Z",
+        "publishedAt": "2026-08-17T12:56:02Z",
         "summary": "How might all 32 NFL franchises stack up beyond 2026? Our forward-looking ranking factors in each team's future QB, roster, front office and coaching situations.",
-        "image": "data/news-images/espn-1.png",
+        "image": "data/news-images/espn-5.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49619693/new-orleans-saints-offense-passes-one-test-joint-practice-jaguars-cowboys-rams-next",
         "publishedAt": "2026-08-17T10:00:01Z",
         "summary": "Shough and the starting offense got about 50 snaps of work against the Jaguars' first team in their joint practice.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49634196/von-miller-expected-sign-dallas-cowboys",
         "publishedAt": "2026-08-17T10:29:04Z",
         "summary": "Veteran OLB Von Miller has agreed to terms with the Dallas Cowboys -- a source telling ESPN that it's a one-year deal.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49634102/cardinals-rb-love-likely-sit-rest-preseason",
         "publishedAt": "2026-08-17T01:36:41Z",
         "summary": "Rookie running back Jeremiyah Love, who played 23 snaps Thursday against the Las Vegas Raiders, is dealing with a high ankle sprain and is unlikely to play the rest of the preseason for the Arizona Cardinals, sources told ESPN's Adam Schefter on Sunday.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49633977/kevin-oconnell-vikings-crushed-jamal-adams-injury",
         "publishedAt": "2026-08-17T00:49:42Z",
         "summary": "Kevin O'Connell, Vikings 'crushed' for Jamal Adams after injury",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49633559/minnesota-vikings-lose-adams-season-due-knee-injury",
         "publishedAt": "2026-08-17T00:51:23Z",
         "summary": "Veteran defender Jamal Adams will miss the 2026 season because of a right knee injury he suffered Saturday in the Minnesota Vikings' 13-10 preseason victory over the New York Giants, the NFL Network reported Sunday.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,42 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49633610/ed-dodds-suggests-colts-keep-anthony-richardson-depth",
         "publishedAt": "2026-08-17T00:27:55Z",
         "summary": "Colts assistant general manager Ed Dodds suggested Sunday that Anthony Richardson Sr. will remain in Indianapolis because the Colts intend to prioritize quarterback depth.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "John Niland, who helped Cowboys win 1st Super Bowl, dies at 82",
-        "url": "https://www.espn.com/nfl/story/_/id/49633424/john-niland-dies-82",
-        "publishedAt": "2026-08-17T00:26:21Z",
-        "summary": "John Niland, a three-time All-Pro guard who helped the Cowboys win their first Super Bowl championship, died Saturday. He was 82.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-16T22:03:55Z",
-        "summary": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-16T21:54:39Z",
-        "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Colts, Pacers donate $125,000 each to Indiana flood relief",
-        "url": "https://www.espn.com/nfl/story/_/id/49632088/colts-pacers-donate-125000-indiana-flood-relief",
-        "publishedAt": "2026-08-16T22:09:42Z",
-        "summary": "The NFL's Indianapolis Colts and NBA's Indiana Pacers are donating $125,000 each to flood relief efforts throughout the state. The WNBA's Indiana Fever and the G League basketball team Noblesville Boom also joined the effort.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Green Bay Packers News: Kraft returns, Nixon pouts, secondary makes plays",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84793/green-bay-packers-news-kraft-returns-nixon-pouts-secondary-makes-plays",
+        "publishedAt": "2026-08-17T09:10:00-04:00",
+        "summary": "The Green Bay Packers got back to work over the weekend, holding a pair of practices following their preseason opener last Thursday. Saturday’s practice was closed to the public while Sunday’s was open, and there was no shortage of news coming out of the team’s facilities over the last 48 hours. First, and most encouraging, [&#8230;]",
+        "image": "data/news-images/acme-0.jpg",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Aaron Banks did not have knee surgery",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84775/aaron-banks-did-not-have-knee-surgery",
+        "publishedAt": "2026-08-16T17:48:24-04:00",
+        "summary": "On Friday, Green Bay Packers head coach Matt LaFleur was asked directly whether or not projected starting left guard Aaron Banks, who started training camp on the physically unable to perform list with a knee injury but has since been activated to the roster, had surgery this offseason. LaFleur’s response? “I’ll let him answer that.” [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Training Camp Recap: Things finally get chippy",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84767/packers-training-camp-recap-things-finally-get-chippy",
         "publishedAt": "2026-08-16T14:46:51-04:00",
         "summary": "It took until the 12th day of training camp, but we finally got some fights in practice in Green Bay. The first scuffle was between running back Chris Brooks and linebacker Zaire Franklin, but the second one was more involved. Defensive lineman Chris McClellan landed hard on running back Pierre Strong Jr., which led to [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/84759/green-bay-packers-depth-chart-what-week-1-of-the-preseason-taught-us",
         "publishedAt": "2026-08-16T06:00:00-04:00",
         "summary": "We’re here today to take our best stab at what the Green Bay Packers think of their current roster. Yes, there’s an open roster spot on the team right now, so there are only 90 players listed on this depth chart, not the typical 91. We don’t know what’s happening behind closed doors, be it [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84756/packers-clear-the-runway-for-kyle-mccord-to-be-qb3",
         "publishedAt": "2026-08-15T19:01:06-04:00",
         "summary": "On Saturday, just two days after the Green Bay Packers’ preseason opener, the Packers announced that they have parted ways with quarterback Kyron Drones, who was originally signed by the team as an undrafted free agent immediately following the 2026 NFL draft. Drones signed with Green Bay for just $5,000 in guarantees, which ranked 10th [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/84752/heres-who-played-for-the-packers-1st-and-2nd-team-units-in-the-preseason-opener",
         "publishedAt": "2026-08-15T06:00:00-04:00",
         "summary": "The Green Bay Packers’ snap counts from their preseason opener against the Pittsburgh Steelers dropped yesterday, but they don’t tell you very much. When players like cornerback Jaylin Simpson are leading the team in total snaps, it doesn’t really paint a clear picture of who is getting in the mix with the Packers’ first- and [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84749/packers-discussion-how-are-you-feeling-about-the-team-after-the-1st-preseason-game",
         "publishedAt": "2026-08-14T19:59:11-04:00",
         "summary": "Since a lot of us are excited about football coming back, let’s use this as a general thread to talk about the football team coming off last night’s preseason opener. How are you feeling about the team? Better? Worse? Not much change? Let us know in the comments section. Here are a couple of posts [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84746/packers-coaches-talk-injuries-preseason-opener-anthony-campbell-darian-kinnard",
         "publishedAt": "2026-08-14T18:30:33-04:00",
         "summary": "The Green Bay Packers’ coaching staff, including coordinators and assistants, spoke to the media on Friday following the Packers’ 28-9 preseason loss to the Pittsburgh Steelers. The game was an odd one: Green Bay held the lead with their third-string units (even though it was a bit of a rock match), but when the fourth-string defense [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84738/kicker-trey-smack-already-in-rare-company-in-recent-packers-history",
         "publishedAt": "2026-08-14T16:08:38-04:00",
         "summary": "One field goal does not a kicker make. Two feels a lot better, but it’s still not enough for a trend. All that to say, Trey Smack got off to a pretty good start during the Packers’ first preseason game of 2026. Though it didn’t count, Smack opened his Packers career with a 58-yard boot [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/84727/packers-fans-still-favor-anthony-belton-to-start-at-right-guard",
         "publishedAt": "2026-08-14T15:35:00-04:00",
         "summary": "On Thursday night, the Green Bay Packers played a game for the first time this preseason, giving other teams and their own fans the first look at a potential lineup. Several key players sat out in the team’s exhibition debut against the Pittsburgh Steelers, including starting right tackle Zach Bako-Bewele, but there were several notable [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Kyle McCord seems well ahead of Kyron Drones for Packers third QB job",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84715/kyle-mccord-seems-well-ahead-of-kyron-drones-for-packers-third-qb-job",
-        "publishedAt": "2026-08-14T12:00:00-04:00",
-        "summary": "The top end of the Packers’ quarterback depth chart is set. As of last night, we can probably say the same about the bottom end, too. In action against the Pittsburgh Steelers, Kyle McCord looked much more game-ready than fellow low-end quarterback Kyron Drones, whose only real selling point is his athleticism. McCord completed 12 [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Jordan Morgan looks at home back at his natural left tackle spot",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84719/jordan-morgan-looks-at-home-back-at-his-natural-left-tackle-spot",
-        "publishedAt": "2026-08-14T11:30:00-04:00",
-        "summary": "Most of what we see in preseason NFL games doesn’t matter at all, as many of the snaps that are taken up by players in those games are from players who won’t play more than special teams snaps during the season. However, with the some members of the Green Bay Packers’ first-team offensive line getting [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
