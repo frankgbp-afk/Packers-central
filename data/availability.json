@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:53:41Z",
+  "updatedAt": "2026-08-17T00:53:24Z",
   "label": "Training Camp Availability",
   "players": [
     {"player":"Josh Jacobs","position":"RB","status":"NOT PRACTICING","detail":"Groin injury; Matt LaFleur said he would be out at least through this week. No confirmed return to practice found as of Aug. 16.","source":"Reuters / Matt LaFleur","sourceDate":"2026-08-16"},
@@ -8,17 +8,18 @@
     {"player":"Dani Dennis-Sutton","position":"EDGE","status":"NOT PRACTICING","detail":"No confirmed return to practice found in the latest reliable reporting; specific injury detail is not being assumed.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
     {"player":"Anthony Campbell","position":"DL","status":"SIDELINED / MONITOR","detail":"Injured around the preseason opener. Matt LaFleur said the issue is not expected to be long-term; no confirmed return found as of Aug. 16.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-16"},
     {"player":"Darian Kinnard","position":"OL","status":"SIDELINED / MONITOR","detail":"Injured around the preseason opener. Matt LaFleur said the issue is not expected to be long-term; no confirmed return found as of Aug. 16.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-16"},
-    {"player":"Aaron Banks","position":"G","status":"MONITOR","detail":"Knee issue has affected his camp workload and he sat out the preseason opener. No additional diagnosis is being assumed.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
-    {"player":"Chris Brooks","position":"RB","status":"SIDELINED / MONITOR","detail":"Hamstring injury was identified by Packers.com earlier in camp; he sat out the preseason opener and no confirmed return was found as of Aug. 16.","source":"Packers.com / Acme Packing Company","sourceDate":"2026-08-16"},
-    {"player":"Devonte Wyatt","position":"DL","status":"SIDELINED / MONITOR","detail":"Did not play in the preseason opener while sidelined; no confirmed return or new diagnosis found as of Aug. 16.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
+    {"player":"Aaron Banks","position":"G","status":"LIMITED / MONITOR","detail":"Knee tendinitis has limited him to individual work and kept him out of the preseason opener. Banks said on Aug. 16 that he did not have knee surgery and is optimistic about being ready for the regular season.","source":"Acme Packing Company / Aaron Banks","sourceDate":"2026-08-16"},
     {"player":"Javon Hargrave","position":"DL","status":"SIDELINED / MONITOR","detail":"Did not play in the preseason opener after having returned to practice earlier in camp. No new diagnosis or confirmed Aug. 16 return is being assumed.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
-    {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"No confirmed activation from the physically unable to perform list found in current reliable reporting.","source":"Acme Packing Company / Packers.com","sourceDate":"2026-08-16"},
+    {"player":"Lukas Van Ness","position":"EDGE","status":"SIDELINED / MONITOR","detail":"Current Aug. 16 practice reporting described Van Ness as injured, with Brenton Cox Jr. filling in. No specific diagnosis is being assumed.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
+    {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"The PUP list was reported unchanged on Aug. 16; no activation is being assumed.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
     {"player":"Jordon Riley","position":"DL","status":"PUP / REHAB","detail":"Still working back from his Achilles injury. On Aug. 16, Matt LaFleur praised his rehab progress and said Riley is ahead of schedule; no activation is being assumed until confirmed.","source":"Matt LaFleur via current camp reporting","sourceDate":"2026-08-16"},
-    {"player":"Matt Orzech","position":"LS","status":"PUP","detail":"No confirmed activation from the physically unable to perform list found in current reliable reporting.","source":"Acme Packing Company / Packers.com","sourceDate":"2026-08-16"},
-    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"No confirmed activation from the physically unable to perform list found in current reliable reporting.","source":"Acme Packing Company / Packers.com","sourceDate":"2026-08-16"}
+    {"player":"Matt Orzech","position":"LS","status":"PUP","detail":"The PUP list was reported unchanged on Aug. 16; no activation is being assumed.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
+    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"The PUP list was reported unchanged on Aug. 16; no activation is being assumed.","source":"Acme Packing Company","sourceDate":"2026-08-16"}
   ],
   "recentReturns": [
-    {"player":"Tucker Kraft","position":"TE","status":"RETURNED / RAMPING UP","detail":"Matt LaFleur said Kraft would take 11-on-11 reps on Aug. 16 for the first time in his ACL comeback. He remains in a managed ramp-up rather than being treated as fully unrestricted.","source":"Matt LaFleur via current camp reporting; Acme Packing Company","sourceDate":"2026-08-16"},
+    {"player":"Chris Brooks","position":"RB","status":"RETURNED","detail":"Returned to practice on Aug. 16 after missing the preseason opener.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
+    {"player":"Devonte Wyatt","position":"DL","status":"RETURNED","detail":"Returned to practice on Aug. 16 after missing the preseason opener.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
+    {"player":"Tucker Kraft","position":"TE","status":"RETURNED / RAMPING UP","detail":"Returned to team work on Aug. 16 and took 11-on-11 reps for the first time in his ACL comeback. He remains in a managed ramp-up rather than being treated as fully unrestricted.","source":"Matt LaFleur / Acme Packing Company","sourceDate":"2026-08-16"},
     {"player":"Carrington Valentine","position":"CB","status":"RETURNED","detail":"Returned to practice after being sidelined earlier in camp.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
     {"player":"Matthew Golden","position":"WR","status":"RETURNED","detail":"Returned to practice after a brief absence/rehab period.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
     {"player":"Jayden Reed","position":"WR","status":"RETURNED","detail":"Returned to practice after a brief absence/rehab period.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
