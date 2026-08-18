@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:14:45.469Z",
+  "updatedAt": "2026-08-18T18:04:24.801Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
+        "title": "2026 Buffalo Bills training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-18T17:53:31Z",
+        "summary": "Follow our updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Drew Brees reflects on receiving Hall of Fame jacket from Joe Montana",
+        "url": "https://www.espn.com/video/clip/_/id/49650285/drew-brees-reflects-receiving-hall-fame-jacket-joe-montana",
+        "publishedAt": "2026-08-18T17:42:33Z",
+        "summary": "Drew Brees reflects on receiving Hall of Fame jacket from Joe Montana",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Campbell breaks silence on mother's death, brother's murder charge",
+        "url": "https://www.espn.com/nfl/story/_/id/49650252/campbell-breaks-silence-mother-death-brother-murder-charge",
+        "publishedAt": "2026-08-18T17:51:35Z",
+        "summary": "Baltimore Ravens defensive end Calais Campbell asked for continued prayers and support after addressing the death of his mother and his brother's murder charge for the first time publicly on Tuesday.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Loza ranks Chase Brown over Derrick Henry in fantasy",
+        "url": "https://www.espn.com/video/clip/_/id/49650221/why-loza-ranks-chase-brown-derrick-henry-fantasy",
+        "publishedAt": "2026-08-18T17:30:24Z",
+        "summary": "Why Loza ranks Chase Brown over Derrick Henry in fantasy",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Giants signing RB Najee Harris to one-year deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49650142/sources-giants-signing-rb-najee-harris-one-year-deal",
+        "publishedAt": "2026-08-18T17:41:53Z",
+        "summary": "The New York Giants are signing free agent running back Najee Harris to a one-year deal, sources told ESPN and the NFL Network.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Sources: Seahawks still plan on signing Terrion Arnold",
         "url": "https://www.espn.com/nfl/story/_/id/49649996/sources-seahawks-plan-signing-terrion-arnold",
-        "publishedAt": "2026-08-18T17:10:14Z",
-        "summary": "The Seattle Seahawks are still planning to sign cornerback Terrion Arnold but it will take a while as they are working through the timing, sources told NFL Network.",
-        "image": "data/news-images/espn-0.jpg",
+        "publishedAt": "2026-08-18T17:55:23Z",
+        "summary": "The Seattle Seahawks are still planning to sign cornerback Terrion Arnold, but it will take a while, as they are working through the timing, sources told NFL Network.",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49649691/why-darius-butler-excited-keenan-allen-joining-colts",
         "publishedAt": "2026-08-18T16:39:21Z",
         "summary": "Why Darius Butler is excited about Keenan Allen joining the Colts",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49649388/with-potential-discipline-coming-where-puka-nacua-drafted",
         "publishedAt": "2026-08-18T16:06:55Z",
         "summary": "With potential discipline coming, where should Puka Nacua be drafted?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49649362/why-ryan-kalil-expects-nfl-expansion-begin-mexico",
         "publishedAt": "2026-08-18T16:06:09Z",
         "summary": "Why Ryan Kalil expects NFL expansion to begin in Mexico",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49649218/why-fantasy-managers-intrigued-dezhaun-stribling",
         "publishedAt": "2026-08-18T15:48:24Z",
         "summary": "Why fantasy managers should be intrigued by De'Zhaun Stribling",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
         "publishedAt": "2026-08-18T15:27:47Z",
         "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-18T15:10:06Z",
         "summary": "Matt Bowen explains whether you should still draft the Saints rookie and how his absence impacts others.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets RB Hall expected to miss 2-3 weeks, be ready for opener",
-        "url": "https://www.espn.com/nfl/story/_/id/49649065/jets-rb-hall-expected-miss-2-3-weeks-ready-opener",
-        "publishedAt": "2026-08-18T15:32:04Z",
-        "summary": "Jets starting running back Breece Hall will miss two to three weeks with a groin strain but is expected to be \"ready for the regular season,\" coach Aaron Glenn said Tuesday.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Where Field Yates expects Carnell Tate to be drafted",
-        "url": "https://www.espn.com/video/clip/_/id/49649013/where-field-yates-expects-carnell-tate-drafted",
-        "publishedAt": "2026-08-18T15:47:24Z",
-        "summary": "Where Field Yates expects Carnell Tate to be drafted",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Where Field Yates believes Jadarian Price deserves to be drafted in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/49648954/where-field-yates-believes-jadarian-price-deserves-drafted-fantasy",
-        "publishedAt": "2026-08-18T15:46:40Z",
-        "summary": "Where Field Yates believes Jadarian Price deserves to be drafted in fantasy",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Mike Clay has Jeremiyah Love an RB7 in fantasy this season",
-        "url": "https://www.espn.com/video/clip/_/id/49648950/why-mike-clay-jeremiyah-love-rb7-fantasy-season",
-        "publishedAt": "2026-08-18T15:45:31Z",
-        "summary": "Why Mike Clay has Jeremiyah Love an RB7 in fantasy this season",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why the 'Fantasy Focus' crew isn't changing their draft approach with CMC",
-        "url": "https://www.espn.com/video/clip/_/id/49648814/why-fantasy-focus-crew-changing-their-draft-approach-cmc",
-        "publishedAt": "2026-08-18T15:44:36Z",
-        "summary": "Why the 'Fantasy Focus' crew isn't changing their draft approach with CMC",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
