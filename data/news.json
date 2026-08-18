@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:59:40.221Z",
+  "updatedAt": "2026-08-18T23:55:45.956Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Where to watch 2026 NFL preseason Week 2",
+        "url": "https://www.espn.com/nfl/story/_/id/49652165/where-watch-2026-nfl-preseason-week-2",
+        "publishedAt": "2026-08-18T23:38:52Z",
+        "summary": "It's time for Week 2 of the 2026 NFL preseason. Here's how to catch this week's slate of games.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Todd Bowles game-planning for Chiefs without hold-in Vita Vea",
+        "url": "https://www.espn.com/nfl/story/_/id/49652817/todd-bowles-game-planning-chiefs-hold-vita-vea",
+        "publishedAt": "2026-08-18T23:42:21Z",
+        "summary": "The Buccaneers' Vita Vea, a hold-in, remains absent from training camp, and coach Todd Bowles acknowledged the realities of not having the Pro Bowl nose tackle on the field.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 New York Jets training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-18T22:19:34Z",
         "summary": "Catch up on our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-18T21:37:32Z",
         "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-18T21:40:46Z",
         "summary": "Matt Bowen looks at what kind of impact Keenan Allen and Najee Harris will have on their new teams.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-18T22:16:25Z",
         "summary": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-18T21:26:24Z",
         "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49651426/miller-begins-work-dream-being-dallas-cowboy",
         "publishedAt": "2026-08-18T20:42:55Z",
         "summary": "Thrilled to be with the Dallas Cowboys on a one-year contract, Von Miller, 37, spoke to reporters on Tuesday at training camp in Oxnard, California, and the club will work the veteran linebacker into practice slowly, giving him time to acclimate.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-18T20:41:01Z",
         "summary": "Catch up on our daily updates from Broncos training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49651328/shanahan-dismisses-idea-rb-mccaffrey-sitting-new-deal",
         "publishedAt": "2026-08-18T20:46:28Z",
         "summary": "Kyle Shanahan dismissed the idea that Christian McCaffrey is sitting out practice because of a desire for a new contract, saying the team is merely being cautious with its star running back.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49651162/going-shock-lot-people",
         "publishedAt": "2026-08-18T19:41:02Z",
         "summary": "Baker Mayfield: We're going to shock a lot of people",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49651105/wife-great-road-recovery",
         "publishedAt": "2026-08-18T19:41:45Z",
         "summary": "Chiefs' Bieniemy: Wife 'on a great road to recovery'",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-18T21:23:55Z",
-        "summary": "Catch up on our updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How early should the top TEs go in fantasy drafts?",
-        "url": "https://www.espn.com/video/clip/_/id/49650913/how-early-top-tes-go-fantasy-drafts",
-        "publishedAt": "2026-08-18T21:44:23Z",
-        "summary": "How early should the top TEs go in fantasy drafts?",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
