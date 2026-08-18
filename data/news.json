@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T23:56:25.528Z",
+  "updatedAt": "2026-08-18T03:12:53.746Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
-        "title": "O.J. Brigance, Ravens 'beloved legend,' dies at 56 after ALS fight",
-        "url": "https://www.espn.com/nfl/story/_/id/49643190/oj-brigance-won-super-bowl-ravens-battling-als-dies-56",
-        "publishedAt": "2026-08-17T23:20:38Z",
-        "summary": "O.J. Brigance, a former Ravens linebacker and the team's longtime adviser in player engagement, has died after a 19-year battle with ALS. He was 56.",
+        "title": "Even with Miller in fold, Jones willing to add to Cowboys",
+        "url": "https://www.espn.com/nfl/story/_/id/49643830/even-miller-fold-jones-willing-add-cowboys",
+        "publishedAt": "2026-08-18T02:29:17Z",
+        "summary": "Dallas owner and general manager Jerry Jones was thrilled to land veteran pass rusher Von Miller on his defense Sunday with a one-year deal, but he told reporters Monday that if another move were to surface, the Cowboys will be ready to add.",
         "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "A.J. Brown blows by his defender to connect on a big grab from Drake Maye",
+        "url": "https://www.espn.com/video/clip/_/id/49643737/aj-brown-blows-defender-connect-big-grab-drake-maye",
+        "publishedAt": "2026-08-18T00:54:16Z",
+        "summary": "A.J. Brown blows by his defender to connect on a big grab from Drake Maye",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bears RB Kyle Monangai (knee) expected to miss multiple weeks, source says",
+        "url": "https://www.espn.com/nfl/story/_/id/49643703/bears-rb-kyle-monangai-knee-expected-miss-multiple-weeks-source-says",
+        "publishedAt": "2026-08-18T00:48:15Z",
+        "summary": "Bears running back Kyle Monangai is expected to miss multiple weeks after sustaining a knee injury during practice on Sunday, sources told ESPN's Jeremy Fowler.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-18T01:00:09Z",
+        "summary": "Catch up on our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "New grass field held up well in opener, Bills president says",
+        "url": "https://www.espn.com/nfl/story/_/id/49643423/new-grass-field-held-well-opener-bills-president-says",
+        "publishedAt": "2026-08-18T00:10:25Z",
+        "summary": "When the Bills opened Highmark Stadium last week, the field showed signs of wear in a preseason win over the Panthers, but president Pete Guelli told The Associated Press on Monday that \"from a playability and safety perspective, everybody's very happy.\"",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "O.J. Brigance, Ravens' 'beloved legend,' dies at 56 after ALS fight",
+        "url": "https://www.espn.com/nfl/story/_/id/49643190/oj-brigance-won-super-bowl-ravens-battling-als-dies-56",
+        "publishedAt": "2026-08-18T00:34:24Z",
+        "summary": "O.J. Brigance, a former Ravens linebacker and the team's longtime adviser in player engagement, has died 19 years after being diagnosed with ALS. He was 56.",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49642143/ceyair-wright-cincinnati-bengals-space-jam-2-actor-opportunity",
         "publishedAt": "2026-08-17T22:59:13Z",
         "summary": "Rookie Ceyair Wright -- who starred alongside LeBron James in 'Space Jam: A New Legacy' -- is giving new meaning to dual threat.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T23:27:50Z",
         "summary": "Catch up on our updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +189,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T23:17:39Z",
         "summary": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Saints rookie WR Jordyn Tyson could miss two months",
         "url": "https://www.espn.com/nfl/story/_/id/49642899/saints-rookie-wr-jordyn-tyson-miss-two-months",
-        "publishedAt": "2026-08-17T23:52:32Z",
+        "publishedAt": "2026-08-18T00:13:24Z",
         "summary": "New Orleans Saints rookie wide receiver Jordyn Tyson, 22, the No. 8 pick out of Arizona State who injured his hamstring in a practice last week, could miss the next two months, sources told Ian Rapoport and Mike Garofolo of the NFL Network on Monday.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49642816/new-york-giants-receiver-malik-nabers-felt-good-first-full-speed-live-drills",
         "publishedAt": "2026-08-17T23:07:23Z",
         "summary": "Giants wide receiver Malik Nabers participated Monday in full-speed live drills for the first time since tearing the ACL and meniscus in his right knee Week 4 of last season.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49434399/philadelphia-eagles-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-17T22:58:45Z",
         "summary": "Catch up on our updates from Eagles training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chargers' McDaniel lauds Herbert's progression in offense",
-        "url": "https://www.espn.com/nfl/story/_/id/49642371/chargers-mcdaniel-lauds-herbert-progression-offense",
-        "publishedAt": "2026-08-17T22:32:45Z",
-        "summary": "New offensive coordinator Mike McDaniel, during a media availability Monday, spoke glowingly of Los Angeles Chargers quarterback Justin Herbert's work this summer in training camp, saying, \"He's been everything that I'd hoped and more.\"",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-17T21:54:09Z",
-        "summary": "Catch up on our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Carolina Panthers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-17T20:39:06Z",
-        "summary": "Catch up on our updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams not looking to rush WR Puka Nacua, DE Myles Garrett back to practice",
-        "url": "https://www.espn.com/nfl/story/_/id/49641695/rams-not-looking-rush-wr-puka-nacua-de-myles-garrett-back-practice",
-        "publishedAt": "2026-08-17T20:43:12Z",
-        "summary": "The Rams want Puka Nacua and Myles Garrett to be 100% healthy before they return from injuries, coach Sean McVay said.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Denver Broncos training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-17T20:14:24Z",
-        "summary": "Catch up on our daily updates from Broncos training camp, including intel on QBs, position battles and potential breakouts.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
