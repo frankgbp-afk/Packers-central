@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:52:01.776Z",
+  "updatedAt": "2026-08-18T17:14:45.469Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,47 @@
     ],
     "espn": [
       {
+        "title": "Sources: Seahawks still plan on signing Terrion Arnold",
+        "url": "https://www.espn.com/nfl/story/_/id/49649996/sources-seahawks-plan-signing-terrion-arnold",
+        "publishedAt": "2026-08-18T17:10:14Z",
+        "summary": "The Seattle Seahawks are still planning to sign cornerback Terrion Arnold but it will take a while as they are working through the timing, sources told NFL Network.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Darius Butler is excited about Keenan Allen joining the Colts",
+        "url": "https://www.espn.com/video/clip/_/id/49649691/why-darius-butler-excited-keenan-allen-joining-colts",
+        "publishedAt": "2026-08-18T16:39:21Z",
+        "summary": "Why Darius Butler is excited about Keenan Allen joining the Colts",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "With potential discipline coming, where should Puka Nacua be drafted?",
+        "url": "https://www.espn.com/video/clip/_/id/49649388/with-potential-discipline-coming-where-puka-nacua-drafted",
+        "publishedAt": "2026-08-18T16:06:55Z",
+        "summary": "With potential discipline coming, where should Puka Nacua be drafted?",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Ryan Kalil expects NFL expansion to begin in Mexico",
+        "url": "https://www.espn.com/video/clip/_/id/49649362/why-ryan-kalil-expects-nfl-expansion-begin-mexico",
+        "publishedAt": "2026-08-18T16:06:09Z",
+        "summary": "Why Ryan Kalil expects NFL expansion to begin in Mexico",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Why fantasy managers should be intrigued by De'Zhaun Stribling",
         "url": "https://www.espn.com/video/clip/_/id/49649218/why-fantasy-managers-intrigued-dezhaun-stribling",
         "publishedAt": "2026-08-18T15:48:24Z",
         "summary": "Why fantasy managers should be intrigued by De'Zhaun Stribling",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
         "publishedAt": "2026-08-18T15:27:47Z",
         "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-18T15:10:06Z",
         "summary": "Matt Bowen explains whether you should still draft the Saints rookie and how his absence impacts others.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49649065/jets-rb-hall-expected-miss-2-3-weeks-ready-opener",
         "publishedAt": "2026-08-18T15:32:04Z",
         "summary": "Jets starting running back Breece Hall will miss two to three weeks with a groin strain but is expected to be \"ready for the regular season,\" coach Aaron Glenn said Tuesday.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49649013/where-field-yates-expects-carnell-tate-drafted",
         "publishedAt": "2026-08-18T15:47:24Z",
         "summary": "Where Field Yates expects Carnell Tate to be drafted",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49648954/where-field-yates-believes-jadarian-price-deserves-drafted-fantasy",
         "publishedAt": "2026-08-18T15:46:40Z",
         "summary": "Where Field Yates believes Jadarian Price deserves to be drafted in fantasy",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49648950/why-mike-clay-jeremiyah-love-rb7-fantasy-season",
         "publishedAt": "2026-08-18T15:45:31Z",
         "summary": "Why Mike Clay has Jeremiyah Love an RB7 in fantasy this season",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,42 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49648814/why-fantasy-focus-crew-changing-their-draft-approach-cmc",
         "publishedAt": "2026-08-18T15:44:36Z",
         "summary": "Why the 'Fantasy Focus' crew isn't changing their draft approach with CMC",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Peter Schrager loves Keenan Allen's fit with the Colts",
-        "url": "https://www.espn.com/video/clip/_/id/49648358/why-peter-schrager-loves-keenan-allen-fit-colts",
-        "publishedAt": "2026-08-18T15:22:08Z",
-        "summary": "Why Peter Schrager loves Keenan Allen's fit with the Colts",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What is the state of the Browns' QB competition?",
-        "url": "https://www.espn.com/video/clip/_/id/49648092/what-state-browns-qb-competition",
-        "publishedAt": "2026-08-18T13:58:09Z",
-        "summary": "What is the state of the Browns' QB competition?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Falcons sign veteran Za'Darius Smith to aid pass rush",
-        "url": "https://www.espn.com/nfl/story/_/id/49648078/falcons-sign-veteran-zadarius-smith-bolster-pass-rush",
-        "publishedAt": "2026-08-18T13:46:19Z",
-        "summary": "Za'Darius Smith has signed a one-year deal with the Falcons to help bolster their pass rush after losing Jalon Walker and James Pearce Jr. for an extended period.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football 2026 defensive depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
-        "publishedAt": "2026-08-18T13:20:11Z",
-        "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -236,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84849/its-time-for-the-packers-to-let-jordan-love-rip-it",
         "publishedAt": "2026-08-18T10:30:00-04:00",
         "summary": "After years of maintaining a balanced offensive attack, it’s time for the Green Bay Packers and Matt LaFleur’s offensive staff to let Jordan Love air it out in 2026. Over the last two seasons, the Packers have operated one of the more run-focused offenses in football. Last season, they ranked fifth in the NFL with [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-1.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
