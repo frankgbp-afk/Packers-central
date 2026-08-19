@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:50:58.429Z",
+  "updatedAt": "2026-08-19T17:14:04.770Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,65 @@
     ],
     "espn": [
       {
+        "title": "'Drumbeat' players: Believe the buzz surrounding Justin Herbert, Carnell Tate and more",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49611029/2026-fantasy-football-rankings-breakouts-drumbeat-players",
+        "publishedAt": "2026-08-19T16:32:47Z",
+        "summary": "Liz Loza identifies five players generating excitement who could eventually turn into league winners.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Bhayshul Tuten is a top fantasy breakout candidate for Tristan H. Cockcroft",
+        "url": "https://www.espn.com/video/clip/_/id/49660252/why-bhayshul-tuten-top-fantasy-breakout-candidate-tristan-h-cockcroft",
+        "publishedAt": "2026-08-19T16:13:37Z",
+        "summary": "Why Bhayshul Tuten is a top fantasy breakout candidate for Tristan H. Cockcroft",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Can Tetairoa McMillan turn in a top-shelf fantasy season in 2026?",
+        "url": "https://www.espn.com/video/clip/_/id/49660207/can-tetairoa-mcmillan-turn-top-shelf-fantasy-season-2026",
+        "publishedAt": "2026-08-19T16:13:01Z",
+        "summary": "Can Tetairoa McMillan turn in a top-shelf fantasy season in 2026?",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What does Tyler Biadasz's injury mean for Chargers' season?",
+        "url": "https://www.espn.com/video/clip/_/id/49660144/what-does-tyler-biadasz-injury-mean-chargers-season",
+        "publishedAt": "2026-08-19T16:34:51Z",
+        "summary": "What does Tyler Biadasz's injury mean for Chargers' season?",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cockcroft: Jonah Coleman one of my favorite deep sleepers for 2026",
+        "url": "https://www.espn.com/video/clip/_/id/49660142/jonah-coleman-one-my-favorite-deep-sleepers-2026",
+        "publishedAt": "2026-08-19T16:13:18Z",
+        "summary": "Cockcroft: Jonah Coleman one of my favorite deep sleepers for 2026",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Mad Dog not having Tannenbaum calling Jordan Love a 'great QB'",
         "url": "https://www.espn.com/video/clip/_/id/49659866/mad-dog-not-having-tannenbaum-calling-jordan-love-great-qb",
         "publishedAt": "2026-08-19T15:46:38Z",
         "summary": "Mad Dog not having Tannenbaum calling Jordan Love a 'great QB'",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Why Daniel Dopp likes Blake Corum in fantasy this season",
         "url": "https://www.espn.com/video/clip/_/id/49659492/why-daniel-dopp-likes-blake-corum-fantasy-season",
-        "publishedAt": "2026-08-19T15:24:21Z",
+        "publishedAt": "2026-08-19T16:27:22Z",
         "summary": "Why Daniel Dopp likes Blake Corum in fantasy this season",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49659410/give-baker-mayfield-top-10-qb-money",
         "publishedAt": "2026-08-19T15:15:15Z",
         "summary": "Mad Dog: I wouldn't give Baker Mayfield top-10 QB money",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +189,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49659386/mike-clay-urges-caution-josh-jacobs-fantasy",
         "publishedAt": "2026-08-19T15:43:22Z",
         "summary": "Mike Clay urges caution with Josh Jacobs in fantasy",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Why Emeka Egbuka is falling in Field Yates' fantasy ranking",
         "url": "https://www.espn.com/video/clip/_/id/49659363/why-emeka-egbuka-falling-field-yates-fantasy-ranking",
-        "publishedAt": "2026-08-19T15:20:53Z",
+        "publishedAt": "2026-08-19T16:28:53Z",
         "summary": "Why Emeka Egbuka is falling in Field Yates' fantasy ranking",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-19T14:51:43Z",
         "summary": "Tristan H. Cockcroft breaks down what ripple effects Alvin Kamara's injury has on Saints RBs, including Travis Etienne Jr.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
         "publishedAt": "2026-08-19T14:43:31Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including Daniel Faalele to the Jaguars.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Mad Dog is expecting a big year out of Patrick Mahomes",
-        "url": "https://www.espn.com/video/clip/_/id/49659208/why-mad-dog-expecting-big-year-patrick-mahomes",
-        "publishedAt": "2026-08-19T14:42:15Z",
-        "summary": "Why Mad Dog is expecting a big year out of Patrick Mahomes",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Evaluating the Jaguars' backfield in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/49659203/evaluating-jaguars-backfield-fantasy",
-        "publishedAt": "2026-08-19T15:01:08Z",
-        "summary": "Evaluating the Jaguars' backfield in fantasy",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What does Giants signing Najee Harris mean for Cam Skattebo in fantasy?",
-        "url": "https://www.espn.com/video/clip/_/id/49659161/what-does-giants-signing-najee-harris-mean-cam-skattebo-fantasy",
-        "publishedAt": "2026-08-19T14:37:59Z",
-        "summary": "What does Giants signing Najee Harris mean for Cam Skattebo in fantasy?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL depth charts for all 32 teams",
-        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-        "publishedAt": "2026-08-19T14:12:10Z",
-        "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL training camp: Standouts, questions for all 32 teams",
-        "url": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-        "publishedAt": "2026-08-19T14:11:41Z",
-        "summary": "Get all the latest news, intel and insights on NFL training camps from our team of reporters in the field.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
