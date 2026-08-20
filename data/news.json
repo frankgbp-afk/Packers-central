@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:14:54.863Z",
+  "updatedAt": "2026-08-20T05:06:04.804Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Sonny Styles' goal for Commanders' second preseason game",
+        "url": "https://www.espn.com/video/clip/_/id/49666395/sonny-styles-goal-commanders-second-preseason-game",
+        "publishedAt": "2026-08-20T04:16:55Z",
+        "summary": "John Keim discusses Sonny Styles' recent play in practice leading up to the Commanders' second preseason game.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Commanders DL Newton has surgery to repair torn pec",
+        "url": "https://www.espn.com/nfl/story/_/id/49665858/source-commanders-dl-newton-surgery-repair-torn-pec",
+        "publishedAt": "2026-08-20T02:56:59Z",
+        "summary": "Commanders defensive lineman Jer'Zhan Newton underwent surgery Wednesday to repair a torn pectoral muscle, a source confirmed.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Tracking 2026 NFL hold-ins: Vita Vea resolves contract situation",
         "url": "https://www.espn.com/nfl/story/_/id/49490010/2026-training-camp-holdin-tracking-updates-bijan-robinson-jahmyr-gibbs-vita-vea-tuli-tuipulotu",
         "publishedAt": "2026-08-20T00:51:16Z",
         "summary": "More on the four players who sat out portions of camp during their contract situations.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +144,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49664278/colts-tight-end-tyler-warren-injures-groin-practice",
         "publishedAt": "2026-08-20T02:45:00Z",
         "summary": "Colts star tight end Tyler Warren sustained a groin injury in Wednesday's joint practice and did not return.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Bucs, DT Vita Vea agree to 1-year extension to end hold-in",
         "url": "https://www.espn.com/nfl/story/_/id/49664105/bucs-dt-vita-vea-agree-1-year-extension-end-hold-in",
-        "publishedAt": "2026-08-20T00:56:46Z",
+        "publishedAt": "2026-08-20T04:07:13Z",
         "summary": "Two-time Pro Bowl defensive tackle Vita Vea and the Tampa Bay Buccaneers have agreed on a one-year extension that guarantees him $30 million, sources told ESPN on Wednesday.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-19T23:05:29Z",
         "summary": "Catch up on our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-19T21:33:20Z",
         "summary": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-19T22:49:10Z",
         "summary": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49434399/philadelphia-eagles-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-19T21:08:41Z",
         "summary": "Catch up on our updates from Eagles training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-19T20:54:43Z",
         "summary": "Catch up on our daily updates from Broncos training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/college-football/story/_/id/49662242/ex-ole-miss-starters-granted-restraining-order-5th-year",
         "publishedAt": "2026-08-20T00:08:25Z",
         "summary": "Former Ole Miss starters Dae'Quan Wright, Zxavian Harris and Wydett Williams, all of whom signed with NFL teams this summer, are among a group of athletes who were granted a temporary restraining order Wednesday to return to college for one more season.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-19T20:38:00Z",
         "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football draft rankings 2026: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26WR/nfl-fantasy-football-draft-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-08-19T20:54:51Z",
-        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football cheat sheets: PPR, non-PPR, depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
-        "publishedAt": "2026-08-19T19:36:38Z",
-        "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "NFL players are now suing to have the option for NCAA eligibility",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84947/nfl-players-are-now-suing-to-have-the-option-for-ncaa-eligibility",
+        "publishedAt": "2026-08-19T17:40:12-04:00",
+        "summary": "Matt Zenitz of CBS Sports reported earlier today that there are current NFL players who are looking to be granted an extra year of college football eligibility. If you haven’t been following the news at the college level, the NCAA has granted a five-year eligibility agreement to close some of the loopholes that allowed players [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Training Camp Recap: Cornerback and offensive line competitions are a full go",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84939/packers-training-camp-recap-cornerback-and-offensive-line-competitions-are-a-full-go",
+        "publishedAt": "2026-08-19T15:10:14-04:00",
+        "summary": "Today marked the final practice the Green Bay Packers have before their travel day tomorrow, as they’ll play the Denver Broncos on Friday. Per head coach Matt LaFleur yesterday, the plan is for starters to play two drives against the Broncos, which is expected to be their last preseason opportunity. In Week 3, the Packers [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "For better or worse, Keisean Nixon is central to Packers DB plans",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84941/for-better-or-worse-keisean-nixon-is-central-to-packers-db-plans",
         "publishedAt": "2026-08-19T14:52:54-04:00",
         "summary": "Keisean Nixon is going to be a big part of the Packers’ defense in 2026. Whether you view that as a promise or a threat is up to you, but it’s true either way. Nixon, for all his foibles and follies in training camp this year, is essentially a load-bearing piece of the Packers’ secondary. [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84933/green-bay-packers-news-aaron-banks-return-raises-stakes-in-ol-battle",
         "publishedAt": "2026-08-19T10:50:49-04:00",
         "summary": "It’s not at all a stretch to say Aaron Banks has been a disappointment as a free agent signing. The $77 million man was active in 11-on-11 drills for the first time in this year’s training camp on Tuesday, but he has ground to make up. 2026 draft pick Jager Burton and Jacob Monk have [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84927/what-kind-of-run-game-do-the-packers-actually-want",
         "publishedAt": "2026-08-19T10:00:00-04:00",
         "summary": "The Green Bay Packers seem to be in a state of continual flux on the offensive line lately. Last season, the team appeared to be moving in the direction of a bigger, power-focused line, but the summer of 2026 suggests that the rubber band is snapping back a bit in favor of a more athletic [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84825/packers-film-room-preseason-week-1-nyjalik-kelly",
         "publishedAt": "2026-08-19T09:00:00-04:00",
         "summary": "The Green Bay Packers have played their first preseason game and have their second one coming up. Before that second game hits, we’re going to try to hit a handful of these mini film rooms and look and individual players. Today, we’re looking at Nyjalik Kelly. Kelly signed with the Packers this spring as an [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,16 +281,16 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84909/how-did-jacob-monk-and-jager-burton-play-in-the-packers-preseason-opener-decide-for-yourselves",
         "publishedAt": "2026-08-19T08:00:00-04:00",
         "summary": "There are a lot of strong feelings right now about what the Green Bay Packers should be doing at the guard position in 2026, since it seemed like the running game got better down the stretch when Aaron Banks got healthy, and Anthony Belton was inserted into the lineup. While Belton has his protection flaws, [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Anything Can Happen: There is still no update on Packers’ Josh Jacobs",
+        "title": "Josh Jacobs suspension still on the table but uncertain following May arrest",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84815/anything-can-happen-there-is-still-no-update-on-packers-josh-jacobs",
         "publishedAt": "2026-08-19T03:00:00-04:00",
         "summary": "It has been nearly three months since Green Bay Packers RB Josh Jacobs was arrested on charges of felony strangulation and several other misdemeanors related to domestic abuse. That’s also just about how long it’s been since we last had an update from the team, the league, or law enforcement officials. Jacobs has said via [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84885/packers-claim-edge-rusher-fill-roster-arden-walker",
         "publishedAt": "2026-08-18T17:24:24-04:00",
         "summary": "Several days after the Green Bay Packers opened up a roster spot by waiving quarterback Kyron Drones, the team finally filled the position today by claiming pass-rusher Arden Walker off waivers. Walker, an undrafted rookie, was waived by the Minnesota Vikings — who also run a 3-4 defense — after the team replaced Walker with [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84870/packers-training-camp-recap-cornerback-competition-ramps-up-keisean-nixon",
         "publishedAt": "2026-08-18T14:27:35-04:00",
         "summary": "Obviously, cornerback Keisean Nixon generated some buzz on Sunday after he told the press that he guesses he’s “being punished right now” by working occasionally with the second-team defense, and stayed on the field with both the first- and second-team defenses throughout the Green Bay Packers’ preseason opener against the Pittsburgh Steelers. Head coach Matt [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: What does the Packers’ future look like?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84856/tuesday-cheese-curds-what-does-the-packers-future-look-like",
-        "publishedAt": "2026-08-18T10:33:10-04:00",
-        "summary": "As the Packers head toward the end of training camp, let’s spare a thought for the future of the team. What will they look like in 2027 and beyond? Assuming Tucker Kraft’s extension is as done of a deal as everyone seems to think, pretty much every player of consequence is already locked in for [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "It’s time for the Packers to let Jordan Love rip it",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84849/its-time-for-the-packers-to-let-jordan-love-rip-it",
-        "publishedAt": "2026-08-18T10:30:00-04:00",
-        "summary": "After years of maintaining a balanced offensive attack, it’s time for the Green Bay Packers and Matt LaFleur’s offensive staff to let Jordan Love air it out in 2026. Over the last two seasons, the Packers have operated one of the more run-focused offenses in football. Last season, they ranked fifth in the NFL with [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
