@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-20T00:44:00Z",
+  "updatedAt": "2026-08-20T18:55:00Z",
   "label": "Training Camp Availability",
   "players": [
-    {"player":"Javon Bullard","position":"S","status":"NOT PRACTICING / MONITOR","detail":"Remained sidelined for the Aug. 19 walkthrough with a foot issue. Current camp reporting says he is expected back soon, but no return has been confirmed yet.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Darian Kinnard","position":"OL","status":"NOT PRACTICING / MONITOR","detail":"Remained sidelined for the Aug. 19 walkthrough with an ankle issue after leaving the preseason opener. Current camp reporting says he is expected back soon, but no return has been confirmed yet.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Aaron Banks","position":"G","status":"RETURNING / RAMPING UP","detail":"Participated in full team work again Aug. 19 while working back from knee tendinitis.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Javon Hargrave","position":"DL","status":"LIMITED / RAMPING UP","detail":"Continues to receive team work during his managed return from a knee injury. No new setback has been reported.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"Remained on the PUP list through the Aug. 19 practice reporting; no activation has been reported.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Jordon Riley","position":"DL","status":"PUP / REHAB","detail":"Remained on PUP through the latest confirmed practice reporting while recovering from a lower-body injury.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Matt Orzech","position":"LS","status":"PUP / MONITOR","detail":"Remained on PUP through the latest confirmed camp reporting with a calf issue.","source":"Acme Packing Company / Brian Gutekunst","sourceDate":"2026-08-19"},
-    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remained on the PUP list through the Aug. 19 practice reporting with a neck issue.","source":"Acme Packing Company","sourceDate":"2026-08-19"}
+    {"player":"Javon Bullard","position":"S","status":"NOT PRACTICING / MONITOR","detail":"Remained sidelined through the Aug. 20 walkthrough. Current camp reporting says he is expected back soon; because recent reports have described the issue differently, no specific diagnosis is listed here until it is clearer.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Darian Kinnard","position":"OL","status":"NOT PRACTICING / MONITOR","detail":"Remained sidelined through the Aug. 20 walkthrough after leaving the preseason opener. Current camp reporting says he is expected back soon, but no return has been confirmed yet.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Javon Hargrave","position":"DL","status":"LIMITED / RAMPING UP","detail":"Continues to receive team work during his managed return from a knee injury. No new setback has been reported.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Micah Parsons","position":"EDGE","status":"PUP","detail":"Remained on the PUP list through the Aug. 20 practice reporting; no activation has been reported.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Jordon Riley","position":"DL","status":"PUP / REHAB","detail":"Remained on PUP through the latest confirmed practice reporting while recovering from a lower-body injury.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Matt Orzech","position":"LS","status":"PUP / MONITOR","detail":"Remained on PUP through the latest confirmed camp reporting with a calf issue.","source":"Acme Packing Company / Brian Gutekunst","sourceDate":"2026-08-20"},
+    {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remained on the PUP list through the Aug. 20 practice reporting with a neck issue.","source":"Acme Packing Company","sourceDate":"2026-08-20"}
   ],
   "recentReturns": [
-    {"player":"Bo Melton","position":"WR","status":"RETURNED","detail":"Returned for the Aug. 19 walkthrough after leaving the previous practice late when he was shaken up on a deep pass.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Nyjalik Kelly","position":"EDGE","status":"RETURNED","detail":"Returned for the Aug. 19 walkthrough after missing the previous practice with a knee issue.","source":"Acme Packing Company","sourceDate":"2026-08-19"},
-    {"player":"Dani Dennis-Sutton","position":"EDGE","status":"RETURNED","detail":"Returned to practice Aug. 19 after missing time with an illness.","source":"Packers camp reporting aggregated from reputable beat reporters","sourceDate":"2026-08-19"},
+    {"player":"Aaron Banks","position":"G","status":"RETURNED","detail":"Returned to full team practice by Aug. 20 while working back from knee tendinitis.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Bo Melton","position":"WR","status":"RETURNED","detail":"Returned for the Aug. 20 walkthrough after leaving an earlier practice late when he was shaken up on a deep pass.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Nyjalik Kelly","position":"EDGE","status":"RETURNED","detail":"Returned to practice after missing time with a knee issue and was available for the Aug. 20 walkthrough.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
+    {"player":"Dani Dennis-Sutton","position":"EDGE","status":"RETURNED","detail":"Returned to practice after missing time with an illness and was available for the Aug. 20 walkthrough.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
     {"player":"Josh Jacobs","position":"RB","status":"RETURNED","detail":"Returned to practice Aug. 18 after being sidelined for nearly two weeks by a groin injury.","source":"Reuters / Matt LaFleur","sourceDate":"2026-08-18"},
     {"player":"Lukas Van Ness","position":"EDGE","status":"RETURNED","detail":"Returned to practice Aug. 18 after missing the Aug. 16 practice with a shoulder issue.","source":"Acme Packing Company","sourceDate":"2026-08-18"},
     {"player":"Anthony Campbell","position":"DL","status":"RETURNED","detail":"Returned to practice Aug. 16 after leaving the preseason opener with an injury.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
