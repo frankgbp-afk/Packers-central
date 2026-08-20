@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:20:31.534Z",
+  "updatedAt": "2026-08-20T17:00:58.058Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,83 @@
     ],
     "espn": [
       {
+        "title": "Why Travis Hunter should play cornerback full time for Jags",
+        "url": "https://www.espn.com/video/clip/_/id/49671085/why-travis-hunter-play-cornerback-full-jags",
+        "publishedAt": "2026-08-20T15:42:02Z",
+        "summary": "Why Travis Hunter should play cornerback full time for Jags",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jordan Rodgers adamant Shedeur Sanders should be starting in preseason for Browns",
+        "url": "https://www.espn.com/video/clip/_/id/49670914/jordan-rodgers-adamant-shedeur-sanders-starting-preseason-browns",
+        "publishedAt": "2026-08-20T15:34:50Z",
+        "summary": "Jordan Rodgers adamant Shedeur Sanders should be starting in preseason for Browns",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football buzz: Tyler Warren's fantasy ceiling high despite injury scare",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-08-20T15:25:21Z",
+        "summary": "How does Tyler Warren's adductor injury, suffered Wednesday, affect his fantasy football draft potential?",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What is a good fantasy WR ranking for Rashee Rice?",
+        "url": "https://www.espn.com/video/clip/_/id/49670652/what-good-fantasy-wr-ranking-rashee-rice",
+        "publishedAt": "2026-08-20T15:24:17Z",
+        "summary": "What is a good fantasy WR ranking for Rashee Rice?  ",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Field Yates excited for 'mega talented' Drake London in fantasy this season",
+        "url": "https://www.espn.com/video/clip/_/id/49670651/field-yates-excited-mega-talented-drake-london-fantasy-season",
+        "publishedAt": "2026-08-20T15:21:01Z",
+        "summary": "Field Yates excited for 'mega talented' Drake London in fantasy this season",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Field Yates has Ja'Marr Chase as his 4th overall pick in fantasy",
+        "url": "https://www.espn.com/video/clip/_/id/49670511/why-field-yates-jamarr-chase-4th-overall-pick-fantasy",
+        "publishedAt": "2026-08-20T15:27:26Z",
+        "summary": "Why Field Yates has Ja'Marr Chase as his 4th overall pick in fantasy",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Field Yates has Bijan Robinson has his No. 1 pick in fantasy",
+        "url": "https://www.espn.com/video/clip/_/id/49670510/why-field-yates-bijan-robinson-no-1-pick-fantasy",
+        "publishedAt": "2026-08-20T15:14:51Z",
+        "summary": "Why Field Yates has Bijan Robinson has his No. 1 pick in fantasy",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Athletes signed with NFL teams granted temporary restraining order to return to college",
+        "url": "https://www.espn.com/video/clip/_/id/49670328/athletes-signed-nfl-teams-granted-temporary-restraining-order-return-college",
+        "publishedAt": "2026-08-20T15:05:55Z",
+        "summary": "Athletes signed with NFL teams granted temporary restraining order to return to college",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "From Knicks to Yankees, Nick Jonas finds the perfect song",
         "url": "https://www.espn.com/nfl/story/_/id/49660378/nick-jonas-brother-new-york-knicks-yankees-giants-told-songs",
         "publishedAt": "2026-08-20T12:55:56Z",
         "summary": "The Jonas Brothers are longtime New York sports fans and have a song that can speak to their favorite teams.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-08-20T13:12:41Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49649506/fantasy-football-rankings-wide-receivers-tiers-draft",
         "publishedAt": "2026-08-20T10:37:48Z",
         "summary": "Eric Karabell puts his wide receiver rankings into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,78 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49614875/2026-fantasy-football-rankings-running-back-tiers-rb",
         "publishedAt": "2026-08-20T13:04:10Z",
         "summary": "Eric Karabell breaks his running backs into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2027 NFL quarterback predictions: 16 teams with questions",
-        "url": "https://www.espn.com/nfl/story/_/id/49659412/2027-nfl-quarterback-predictions-16-teams-starter-questions-free-agency-trades-draft",
-        "publishedAt": "2026-08-20T14:06:01Z",
-        "summary": "We picked out teams with some level of QB1 questions for 2027 and projected two potential outcomes for each -- one likely and one not so likely.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Is Cowboys' DaRon Bland finally over his nagging foot issue?",
-        "url": "https://www.espn.com/nfl/story/_/id/49648012/nfl-dallas-cowboys-daron-bland-foot-surgery-christian-parker",
-        "publishedAt": "2026-08-20T14:06:01Z",
-        "summary": "Bland set an NFL record in 2023 with five pick-sixes and hopes to get back to form in 2026, boosted by some new shoes.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Lions, NFL coaches believe Super Bowl chances are possible",
-        "url": "https://www.espn.com/nfl/story/_/id/49651690/detroit-lions-super-bowl-window-opportunity-2026",
-        "publishedAt": "2026-08-20T12:29:33Z",
-        "summary": "If you don't believe Campbell & Co. that the Lions will be contenders, ask Sean McVay, Matt LaFleur and others.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Can Adonai Mitchell be 'Robin' that Jets are searching for?",
-        "url": "https://www.espn.com/nfl/story/_/id/49649540/new-york-jets-adonai-mitchell-wr2-answer-garrett-wilson",
-        "publishedAt": "2026-08-20T14:07:35Z",
-        "summary": "New York has struggled to find a complement to Garrett Wilson since drafting him in 2022.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers return their 'bullies' in Deebo Samuel, Dre Greenlaw",
-        "url": "https://www.espn.com/nfl/story/_/id/49651267/san-francisco-49ers-deebo-samuel-dre-greenlaw-return",
-        "publishedAt": "2026-08-20T13:57:58Z",
-        "summary": "Greenlaw and Samuel are back in key roles for the 49ers. How will Greenlaw slot in at linebacker? Will Samuel be a rushing threat again?",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Inside Raiders QB Fernando Mendoza's game preparation",
-        "url": "https://www.espn.com/nfl/story/_/id/49660906/las-vegas-raiders-quarterback-fernando-mendoza-quarterback-2026-preparation-development",
-        "publishedAt": "2026-08-20T13:42:33Z",
-        "summary": "The rookie QB's studious history shows he'll be ready for Thursday's preseason game at Houston (8 p.m. ET, ESPN).",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sonny Styles' goal for Commanders' second preseason game",
-        "url": "https://www.espn.com/video/clip/_/id/49666395/sonny-styles-goal-commanders-second-preseason-game",
-        "publishedAt": "2026-08-20T04:16:55Z",
-        "summary": "John Keim discusses Sonny Styles' recent play in practice leading up to the Commanders' second preseason game.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Commanders DL Newton has surgery to repair torn pec",
-        "url": "https://www.espn.com/nfl/story/_/id/49665858/source-commanders-dl-newton-surgery-repair-torn-pec",
-        "publishedAt": "2026-08-20T02:56:59Z",
-        "summary": "Commanders defensive lineman Jer'Zhan Newton underwent surgery Wednesday to repair a torn pectoral muscle, a source confirmed.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -227,7 +227,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84899/packers-film-room-preseason-week-1-isaiah-neyor-j-michael-sturdivant",
         "publishedAt": "2026-08-20T10:00:00-04:00",
         "summary": "The Packers’ first preseason game is slowly drifting further into the rear view mirror, but I still have some clips so I’m gonna write about them. Today, we’ve got a mini film room and we’re looking at Isaiah Neyor and J. Michael Sturdivant. Isaiah Neyor Neyor was an undrafted free agent pick-up by the 49ers [&#8230;]",
-        "image": "data/news-images/acme-0.jpg",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84961/green-bay-packers-news-kamal-hadden-does-the-safety-dance-in-the-slot",
         "publishedAt": "2026-08-20T09:10:00-04:00",
         "summary": "Xavier McKinney and Evan Williams make a pretty darn good tandem, and the safety group has quickly gone from a massive hole to a massive strength for the Green Bay Packers over a very brief period. With those two players locking down the back end and Javon Bullard taking a big step forward in the [&#8230;]",
-        "image": "data/news-images/acme-1.jpg",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
