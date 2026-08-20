@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-20T17:00:58.058Z",
+  "updatedAt": "2026-08-20T19:18:05.726Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers to host Season Kickoff Watch Party at Titletown Sunday, Sept. 13",
+        "url": "https://www.packers.com/news/packers-to-host-season-kickoff-watch-party-at-titletown-sunday-sept-13-2026",
+        "publishedAt": "Thu, 20 Aug 2026 17:26:13 GMT",
+        "summary": "Registration required for event presented by Sirius XM, Ticketmaster, Polaris and Verizon; festivities for all ages beginning at 11:25 a.m.",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers QB Kyle McCord aims for preseason repeat",
         "url": "https://www.packers.com/news/packers-qb-kyle-mccord-aims-for-preseason-repeat-aug-20-2026",
         "publishedAt": "Thu, 20 Aug 2026 14:00:00 GMT",
         "summary": "No. 3 signal caller looking to build on last week’s performance",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-brenton-cox-jr-brings-it-every-day-aug-20-2026",
         "publishedAt": "Thu, 20 Aug 2026 13:30:00 GMT",
         "summary": "As grueling as camp gets, you can’t break stride until the finish line",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-19-2026",
         "publishedAt": "Wed, 19 Aug 2026 20:26:15 GMT",
         "summary": "Kamal Hadden adapting well to nickel, Jonathan Ford stating his case for a roster spot",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-vs-broncos-how-to-watch-stream-listen-preseason-week-2-2026",
         "publishedAt": "Wed, 19 Aug 2026 20:21:00 GMT",
         "summary": "Green Bay Packers vs. Denver Broncos channel listing, radio & streaming options",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-claim-edge-arden-walker-aug-19-2026",
         "publishedAt": "Wed, 19 Aug 2026 20:00:00 GMT",
         "summary": "General Manager Brian Gutekunst announced the transaction Wednesday",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-dt-javon-hargrave-proving-he-still-packs-a-punch-aug-19-2026",
         "publishedAt": "Wed, 19 Aug 2026 14:00:00 GMT",
         "summary": "Eleventh-year veteran made his debut in 1-on-1s, team on Tuesday",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-he-could-really-be-an-asset-aug-19-2026",
         "publishedAt": "Wed, 19 Aug 2026 13:30:00 GMT",
         "summary": "That’s the yin and yang of the game",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/lambeau-field-atrium-to-host-annual-spooktacular-on-oct-24-2026",
         "publishedAt": "Tue, 18 Aug 2026 21:35:53 GMT",
         "summary": "Event will feature interactive stage entertainment, fall-themed games, craft stations, treat decorating, balloon animals, face painting and more",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-18-2026",
         "publishedAt": "Tue, 18 Aug 2026 21:20:00 GMT",
         "summary": "Team getting healthier, and lots of standouts on the practice field",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-18-2026",
         "publishedAt": "Tue, 18 Aug 2026 15:11:03 GMT",
         "summary": "Follow along for practice updates live from Ray Nitschke Field",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/starter-or-not-jager-burton-a-promising-addition-to-packers-o-line-aug-18-2026",
         "publishedAt": "Tue, 18 Aug 2026 14:00:00 GMT",
         "summary": "Rookie fifth-round pick stays on the grind",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: We're gonna learn a whole lot more in Denver",
-        "url": "https://www.packers.com/news/inbox-we-re-gonna-learn-a-whole-lot-more-in-denver-aug-18-2026",
-        "publishedAt": "Tue, 18 Aug 2026 13:30:00 GMT",
-        "summary": "There is so much competition in that cornerback room right now",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Why Travis Hunter should play cornerback full time for Jags",
-        "url": "https://www.espn.com/video/clip/_/id/49671085/why-travis-hunter-play-cornerback-full-jags",
-        "publishedAt": "2026-08-20T15:42:02Z",
-        "summary": "Why Travis Hunter should play cornerback full time for Jags",
+        "title": "Rapoport tells McAfee about the 'renewed focus' he has noticed with the Lions",
+        "url": "https://www.espn.com/video/clip/_/id/49673062/rapoport-tells-mcafee-renewed-focus-noticed-lions",
+        "publishedAt": "2026-08-20T19:15:26Z",
+        "summary": "Rapoport tells McAfee about the 'renewed focus' he has noticed with the Lions",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jordan Rodgers adamant Shedeur Sanders should be starting in preseason for Browns",
-        "url": "https://www.espn.com/video/clip/_/id/49670914/jordan-rodgers-adamant-shedeur-sanders-starting-preseason-browns",
-        "publishedAt": "2026-08-20T15:34:50Z",
-        "summary": "Jordan Rodgers adamant Shedeur Sanders should be starting in preseason for Browns",
+        "title": "'I hate joint practices,' Eagles star Saquon Barkley says",
+        "url": "https://www.espn.com/nfl/story/_/id/49673017/i-hate-joint-practices-says-eagles-star-saquon-barkley",
+        "publishedAt": "2026-08-20T19:12:09Z",
+        "summary": "Eagles running back Saquon Barkley said he hates back-to-back days of joint practices, adding \"one day is good\" to avoid skirmishes that regularly occur during the sessions.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: Tyler Warren's fantasy ceiling high despite injury scare",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-20T15:25:21Z",
-        "summary": "How does Tyler Warren's adductor injury, suffered Wednesday, affect his fantasy football draft potential?",
+        "title": "A.J. Brown, Jalen Hurts reunite briefly amid post-trade rift",
+        "url": "https://www.espn.com/nfl/story/_/id/49672812/aj-brown-jalen-hurts-reunite-briefly-amid-post-trade-rift",
+        "publishedAt": "2026-08-20T18:51:23Z",
+        "summary": "A.J. Brown and Jalen Hurts caught up for a few minutes after practice Thursday -- a notable development after the Patriots receiver revealed Wednesday that the former teammates had not spoken since he was traded to New England by the Eagles.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What is a good fantasy WR ranking for Rashee Rice?",
-        "url": "https://www.espn.com/video/clip/_/id/49670652/what-good-fantasy-wr-ranking-rashee-rice",
-        "publishedAt": "2026-08-20T15:24:17Z",
-        "summary": "What is a good fantasy WR ranking for Rashee Rice?  ",
+        "title": "Fantasy football draft rankings 2026: Individual defensive players",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26IDP/nfl-fantasy-football-draft-rankings-2026-idp",
+        "publishedAt": "2026-08-20T18:18:19Z",
+        "summary": "Fantasy football draft rankings from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Field Yates excited for 'mega talented' Drake London in fantasy this season",
-        "url": "https://www.espn.com/video/clip/_/id/49670651/field-yates-excited-mega-talented-drake-london-fantasy-season",
-        "publishedAt": "2026-08-20T15:21:01Z",
-        "summary": "Field Yates excited for 'mega talented' Drake London in fantasy this season",
+        "title": "Fantasy football draft rankings 2026: Defense/special teams",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26DST/nfl-fantasy-football-draft-rankings-2026-dst-defense",
+        "publishedAt": "2026-08-20T18:17:13Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Field Yates has Ja'Marr Chase as his 4th overall pick in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/49670511/why-field-yates-jamarr-chase-4th-overall-pick-fantasy",
-        "publishedAt": "2026-08-20T15:27:26Z",
-        "summary": "Why Field Yates has Ja'Marr Chase as his 4th overall pick in fantasy",
+        "title": "Fantasy football draft rankings 2026: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26K/nfl-fantasy-football-draft-rankings-2026-k-kicker",
+        "publishedAt": "2026-08-20T18:18:00Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Field Yates has Bijan Robinson has his No. 1 pick in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/49670510/why-field-yates-bijan-robinson-no-1-pick-fantasy",
-        "publishedAt": "2026-08-20T15:14:51Z",
-        "summary": "Why Field Yates has Bijan Robinson has his No. 1 pick in fantasy",
+        "title": "Fantasy football draft rankings 2026: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26WR/nfl-fantasy-football-draft-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-08-20T18:16:39Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Athletes signed with NFL teams granted temporary restraining order to return to college",
-        "url": "https://www.espn.com/video/clip/_/id/49670328/athletes-signed-nfl-teams-granted-temporary-restraining-order-return-college",
-        "publishedAt": "2026-08-20T15:05:55Z",
-        "summary": "Athletes signed with NFL teams granted temporary restraining order to return to college",
+        "title": "Fantasy football draft rankings 2026: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26TE/nfl-fantasy-football-draft-rankings-2026-te-tight-end",
+        "publishedAt": "2026-08-20T18:16:20Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "From Knicks to Yankees, Nick Jonas finds the perfect song",
-        "url": "https://www.espn.com/nfl/story/_/id/49660378/nick-jonas-brother-new-york-knicks-yankees-giants-told-songs",
-        "publishedAt": "2026-08-20T12:55:56Z",
-        "summary": "The Jonas Brothers are longtime New York sports fans and have a song that can speak to their favorite teams.",
+        "title": "Players pulled from fight-filled Giants-Dolphins practice",
+        "url": "https://www.espn.com/nfl/story/_/id/49672671/players-pulled-fight-filled-giants-dolphins-practice",
+        "publishedAt": "2026-08-20T18:29:00Z",
+        "summary": "Multiple players from Thursday's joint practice between the Dolphins and Giants were pulled for throwing punches or their physical actions during a fight-filled workout.",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-20T13:12:41Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+        "title": "Fantasy football draft rankings 2026: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26RB/nfl-fantasy-football-draft-rankings-2026-rb-running-back",
+        "publishedAt": "2026-08-20T18:14:50Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings: Eric Karabell's wide receiver tiers for 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49649506/fantasy-football-rankings-wide-receivers-tiers-draft",
-        "publishedAt": "2026-08-20T10:37:48Z",
-        "summary": "Eric Karabell puts his wide receiver rankings into tiers, helping you identify where value drops off throughout the draft.",
+        "title": "Vita Vea opens up to McAfee on new $30M Bucs deal",
+        "url": "https://www.espn.com/video/clip/_/id/49672619/vita-vea-opens-mcafee-new-30m-bucs-deal",
+        "publishedAt": "2026-08-20T18:06:55Z",
+        "summary": "Vita Vea opens up to McAfee on new $30M Bucs deal",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings: Eric Karabell's running back tiers for 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49614875/2026-fantasy-football-rankings-running-back-tiers-rb",
-        "publishedAt": "2026-08-20T13:04:10Z",
-        "summary": "Eric Karabell breaks his running backs into tiers, helping you identify where value drops off throughout the draft.",
+        "title": "Vita Vea dismisses trade drama: I want 'to be a Buc for life'",
+        "url": "https://www.espn.com/nfl/story/_/id/49672527/vita-vea-dismisses-trade-drama-want-buc-life",
+        "publishedAt": "2026-08-20T18:27:44Z",
+        "summary": "Vita Vea says his end goal was never a trade away from Tampa Bay, adding he wants to be \"a Buc for life.\"",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,38 @@
     ],
     "acme": [
       {
+        "title": "Jonathan Gannon’s 2023 Cardinals defense prioritized zone over everything else",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84780/jonathan-gannons-2023-cardinals-defense-prioritized-zone-over-everything-else",
+        "publishedAt": "2026-08-20T13:00:00-04:00",
+        "summary": "Preseason is in full swing and we’re getting our first glimpse into the defensive scheme of Jonathan Gannon. I’ll have more on that in the coming weeks but first, we still need to fill in the context of what his scheme is and where it went, and we’ll do that by diving into his first [&#8230;]",
+        "image": "data/news-images/acme-0.jpg",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Isaiah Neyor is a truly interesting wide receiver prospect",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84954/isaiah-neyor-is-a-truly-interesting-wide-receiver-prospect",
+        "publishedAt": "2026-08-20T12:00:00-04:00",
+        "summary": "Both J. Michael Sturdivant and Isaiah Neyor flashed a few times at the back end of Green Bay Packers’ first preseason game in Pittsburgh. I’ve written a bit about Sturdivant before, and while he’s not my favorite wide receiver prospect, he is very toolsy, he fits a need on the team, and he has some [&#8230;]",
+        "image": "data/news-images/acme-1.jpg",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Which Packers players are most primed for success in 2026?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84890/which-packers-players-are-most-primed-for-success-in-2026",
+        "publishedAt": "2026-08-20T11:00:00-04:00",
+        "summary": "The Green Bay Packers are heading into the 2026 season looking much different than they did last year. After parting ways during the offseason with players like receivers Romeo Doubs and Dontayvion Wicks, as well as kicker Brandon McManus and cornerback Nate Hobbs, plenty of doors have opened for younger and fresher faces to take [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Film Room, Preseason Week 1: Isaiah Neyor &#038; J. Michael Sturdivant",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84899/packers-film-room-preseason-week-1-isaiah-neyor-j-michael-sturdivant",
         "publishedAt": "2026-08-20T10:00:00-04:00",
         "summary": "The Packers’ first preseason game is slowly drifting further into the rear view mirror, but I still have some clips so I’m gonna write about them. Today, we’ve got a mini film room and we’re looking at Isaiah Neyor and J. Michael Sturdivant. Isaiah Neyor Neyor was an undrafted free agent pick-up by the 49ers [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-3.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84961/green-bay-packers-news-kamal-hadden-does-the-safety-dance-in-the-slot",
         "publishedAt": "2026-08-20T09:10:00-04:00",
         "summary": "Xavier McKinney and Evan Williams make a pretty darn good tandem, and the safety group has quickly gone from a massive hole to a massive strength for the Green Bay Packers over a very brief period. With those two players locking down the back end and Javon Bullard taking a big step forward in the [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84947/nfl-players-are-now-suing-to-have-the-option-for-ncaa-eligibility",
         "publishedAt": "2026-08-19T17:40:12-04:00",
         "summary": "Matt Zenitz of CBS Sports reported earlier today that there are current NFL players who are looking to be granted an extra year of college football eligibility. If you haven’t been following the news at the college level, the NCAA has granted a five-year eligibility agreement to close some of the loopholes that allowed players [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84939/packers-training-camp-recap-cornerback-and-offensive-line-competitions-are-a-full-go",
         "publishedAt": "2026-08-19T15:10:14-04:00",
         "summary": "Today marked the final practice the Green Bay Packers have before their travel day tomorrow, as they’ll play the Denver Broncos on Friday. Per head coach Matt LaFleur yesterday, the plan is for starters to play two drives against the Broncos, which is expected to be their last preseason opportunity. In Week 3, the Packers [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84941/for-better-or-worse-keisean-nixon-is-central-to-packers-db-plans",
         "publishedAt": "2026-08-19T14:52:54-04:00",
         "summary": "Keisean Nixon is going to be a big part of the Packers’ defense in 2026. Whether you view that as a promise or a threat is up to you, but it’s true either way. Nixon, for all his foibles and follies in training camp this year, is essentially a load-bearing piece of the Packers’ secondary. [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84933/green-bay-packers-news-aaron-banks-return-raises-stakes-in-ol-battle",
         "publishedAt": "2026-08-19T10:50:49-04:00",
         "summary": "It’s not at all a stretch to say Aaron Banks has been a disappointment as a free agent signing. The $77 million man was active in 11-on-11 drills for the first time in this year’s training camp on Tuesday, but he has ground to make up. 2026 draft pick Jager Burton and Jacob Monk have [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,33 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84927/what-kind-of-run-game-do-the-packers-actually-want",
         "publishedAt": "2026-08-19T10:00:00-04:00",
         "summary": "The Green Bay Packers seem to be in a state of continual flux on the offensive line lately. Last season, the team appeared to be moving in the direction of a bigger, power-focused line, but the summer of 2026 suggests that the rubber band is snapping back a bit in favor of a more athletic [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room, Preseason Week 1: Nyjalik Kelly",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84825/packers-film-room-preseason-week-1-nyjalik-kelly",
-        "publishedAt": "2026-08-19T09:00:00-04:00",
-        "summary": "The Green Bay Packers have played their first preseason game and have their second one coming up. Before that second game hits, we’re going to try to hit a handful of these mini film rooms and look and individual players. Today, we’re looking at Nyjalik Kelly. Kelly signed with the Packers this spring as an [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "How did Jacob Monk and Jager Burton play in the Packers’ preseason opener? Decide for yourselves",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84909/how-did-jacob-monk-and-jager-burton-play-in-the-packers-preseason-opener-decide-for-yourselves",
-        "publishedAt": "2026-08-19T08:00:00-04:00",
-        "summary": "There are a lot of strong feelings right now about what the Green Bay Packers should be doing at the guard position in 2026, since it seemed like the running game got better down the stretch when Aaron Banks got healthy, and Anthony Belton was inserted into the lineup. While Belton has his protection flaws, [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Josh Jacobs suspension still on the table but uncertain following May arrest",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84815/anything-can-happen-there-is-still-no-update-on-packers-josh-jacobs",
-        "publishedAt": "2026-08-19T03:00:00-04:00",
-        "summary": "It has been nearly three months since Green Bay Packers RB Josh Jacobs was arrested on charges of felony strangulation and several other misdemeanors related to domestic abuse. That’s also just about how long it’s been since we last had an update from the team, the league, or law enforcement officials. Jacobs has said via [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
