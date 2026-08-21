@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:58:51.513Z",
+  "updatedAt": "2026-08-21T22:59:59.993Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Dwight Smith's 'I scored a touchdown' story: Super Bowl XXXVII",
+        "url": "https://www.espn.com/video/clip/_/id/49684785/super-bowl-xxxvii",
+        "publishedAt": "2026-08-21T22:05:04Z",
+        "summary": "Dwight Smith's 'I scored a touchdown' story: Super Bowl XXXVII",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Ravens' Jesse Minter leads team in rapping Eminem's 'Lose Yourself'",
         "url": "https://www.espn.com/nfl/story/_/id/49684025/baltimore-ravens-jesse-minter-eminem-lose",
         "publishedAt": "2026-08-21T21:13:39Z",
         "summary": "The newly minted Ravens head coach led his team in a rousing rendition of the 2002 classic at a team dinner.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49683636/seahawks-wr-jake-bobo-suffers-serious-knee-injury-says-coach",
         "publishedAt": "2026-08-21T20:41:59Z",
         "summary": "Seahawks wideout Jake Bobo appeared to suffer a \"serious knee injury during Friday's practice against the Titans, coach Mike Macdonald told reporters.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49683212/massachusetts-investigate-cardinals-exec-alleged-betting",
         "publishedAt": "2026-08-21T19:14:36Z",
         "summary": "A second investigation has been opened related to former Arizona Cardinals scout Ryan Gold's alleged betting activity.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49683048/why-brock-purdy-extremely-happy-deebo-back",
         "publishedAt": "2026-08-21T18:21:11Z",
         "summary": "Why Brock Purdy is 'extremely happy' for Deebo to be back ",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-21T16:18:06Z",
         "summary": "Eric Moody goes over the big takeaways from Thursday's preseason games.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49681388/swagu-message-joe-burrow-ahead-new-season",
         "publishedAt": "2026-08-21T14:47:30Z",
         "summary": "Swagu has a message for Joe Burrow ahead of new season",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49681247/why-swagu-picking-cousins-raiders-starting-qb-now",
         "publishedAt": "2026-08-21T14:34:24Z",
         "summary": "Why Swagu is picking Cousins as Raiders' starting QB, for now",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49681063/swagu-fathom-lack-respect-jalen-hurts",
         "publishedAt": "2026-08-21T14:03:10Z",
         "summary": "Swagu can't fathom the lack of respect for Jalen Hurts",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49681049/jordan-morgan-gets-shot-packers-left-tackle-job-finally",
         "publishedAt": "2026-08-21T15:30:12Z",
         "summary": "The 2024 first-round pick is ready to step in to protect quarterback Jordan Love for Green Bay.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
         "publishedAt": "2026-08-21T13:47:14Z",
         "summary": "Field provides his latest rankings for the upcoming season, which will be updated throughout the summer.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49680956/why-caleb-williams-potential-mvp-candidate",
         "publishedAt": "2026-08-21T13:44:24Z",
         "summary": "Why Caleb Williams has the potential to be an MVP candidate",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why C.J. Stroud needs to 'bet on himself' this season",
-        "url": "https://www.espn.com/video/clip/_/id/49680497/why-cj-stroud-needs-bet-season",
-        "publishedAt": "2026-08-21T12:51:32Z",
-        "summary": "Why C.J. Stroud needs to 'bet on himself' this season",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
