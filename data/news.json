@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:58:41.553Z",
+  "updatedAt": "2026-08-21T03:33:04.821Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Fernando Mendoza throws a pick-6, struggles in 1st half of Raiders' 22-20 preseason win over Texans",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873286",
+        "publishedAt": "2026-08-21T03:19:34Z",
+        "summary": "— Top draft pick Fernando Mendoza struggled in his second preseason game, throwing an interception that Houston returned for a touchdown before the Las Vegas Raiders rallied late for a 22-20 victory over the Texans on Thursday night.",
+        "image": "data/news-images/espn-0.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Las Vegas Raiders vs. Houston Texans: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49676595/game-highlights",
+        "publishedAt": "2026-08-21T03:19:02Z",
+        "summary": "Las Vegas Raiders vs. Houston Texans: Game Highlights",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
+        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
+        "publishedAt": "2026-08-21T03:21:29Z",
+        "summary": "Week 2 of the NFL preseason is underway, and our NFL Nation reporters are tackling the biggest looming roster questions coming off each game.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 Cleveland Browns training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-20T22:25:06Z",
         "summary": "Follow our updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-20T23:13:28Z",
         "summary": "Catch up on our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-20T22:05:42Z",
         "summary": "Follow our updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-20T21:36:43Z",
         "summary": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49674053/is-blake-corum-kyren-williams-better-fantasy-draft-option",
         "publishedAt": "2026-08-20T21:08:01Z",
         "summary": "Is Blake Corum or Kyren Williams a better fantasy draft option?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49673980/why-liza-loza-very-bucky-irving-fantasy",
         "publishedAt": "2026-08-20T21:07:41Z",
         "summary": "Why Liza Loza is 'very out' on Bucky Irving in fantasy",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49673743/this-bengals-joe-burrow-tired-waiting-targets-super-bowl",
         "publishedAt": "2026-08-20T21:52:32Z",
         "summary": "The Bengals improved their defense after missing the playoffs a third straight year. Will it be enough?",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49673882/cowboys-saints-fined-500k-brawls-joint-practices",
         "publishedAt": "2026-08-20T22:02:07Z",
         "summary": "The NFL has fined the Cowboys and Saints $500,000 each after multiple fights broke out between the two teams during Tuesday's joint practice.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49673878/aaron-donald-continue-workouts-rams-decision-looms",
         "publishedAt": "2026-08-20T21:13:05Z",
         "summary": "Rams head coach Sean McVay said he anticipates more workouts from Aaron Donald before the defensive tackle decides whether to come out of retirement.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-20T20:19:15Z",
-        "summary": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Philadelphia Eagles training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434399/philadelphia-eagles-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-20T20:16:31Z",
-        "summary": "Catch up on our updates from Eagles training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New York Giants training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-20T20:39:57Z",
-        "summary": "Catch up on our updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
