@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T17:50:35.196Z",
+  "updatedAt": "2026-08-21T19:33:55.437Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Seahawks WR Jake Bobo suffers 'serious' knee injury, says coach",
+        "url": "https://www.espn.com/nfl/story/_/id/49683636/seahawks-wr-jake-bobo-suffers-serious-knee-injury-says-coach",
+        "publishedAt": "2026-08-21T19:24:59Z",
+        "summary": "Seahawks wideout Jake Bobo appeared to suffer a \"serious: knee injury during Friday's practice against the Titans, coach Mike Macdonald told reporters.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Massachusetts to investigate Cardinals exec's alleged betting",
+        "url": "https://www.espn.com/nfl/story/_/id/49683212/massachusetts-investigate-cardinals-exec-alleged-betting",
+        "publishedAt": "2026-08-21T19:14:36Z",
+        "summary": "A second investigation has been opened related to former Arizona Cardinals scout Ryan Gold's alleged betting activity.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Brock Purdy is 'extremely happy' for Deebo to be back",
+        "url": "https://www.espn.com/video/clip/_/id/49683048/why-brock-purdy-extremely-happy-deebo-back",
+        "publishedAt": "2026-08-21T18:21:11Z",
+        "summary": "Why Brock Purdy is 'extremely happy' for Deebo to be back ",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football buzz: What you need to know from Thursday's games",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-21T16:18:06Z",
         "summary": "Eric Moody goes over the big takeaways from Thursday's preseason games.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49681388/swagu-message-joe-burrow-ahead-new-season",
         "publishedAt": "2026-08-21T14:47:30Z",
         "summary": "Swagu has a message for Joe Burrow ahead of new season",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49681247/why-swagu-picking-cousins-raiders-starting-qb-now",
         "publishedAt": "2026-08-21T14:34:24Z",
         "summary": "Why Swagu is picking Cousins as Raiders' starting QB, for now",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49681063/swagu-fathom-lack-respect-jalen-hurts",
         "publishedAt": "2026-08-21T14:03:10Z",
         "summary": "Swagu can't fathom the lack of respect for Jalen Hurts",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49681049/jordan-morgan-gets-shot-packers-left-tackle-job-finally",
         "publishedAt": "2026-08-21T15:30:12Z",
         "summary": "The 2024 first-round pick is ready to step in to protect quarterback Jordan Love for Green Bay.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
         "publishedAt": "2026-08-21T13:47:14Z",
         "summary": "Field provides his latest rankings for the upcoming season, which will be updated throughout the summer.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49680956/why-caleb-williams-potential-mvp-candidate",
         "publishedAt": "2026-08-21T13:44:24Z",
         "summary": "Why Caleb Williams has the potential to be an MVP candidate",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49680497/why-cj-stroud-needs-bet-season",
         "publishedAt": "2026-08-21T12:51:32Z",
         "summary": "Why C.J. Stroud needs to 'bet on himself' this season",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49680496/joe-burrow-not-problem-bengals",
         "publishedAt": "2026-08-21T12:53:19Z",
         "summary": "Jordan Rodgers: Joe Burrow is not the problem at the Bengals",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-21T10:57:16Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Carson Beck, Tre' Harris among deep fantasy football sleepers in 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49652186/2026-fantasy-football-sleepers-nfl-deep-leagues",
-        "publishedAt": "2026-08-21T10:54:33Z",
-        "summary": "These sleepers are truly for those in deeper leagues seeking off-the-radar types who could emerge in 2026.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tiering college quarterbacks by 2027 NFL draft stock",
-        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49650260/2027-nfl-draft-quarterback-tiers-rounds-one-seven-moore-manning",
-        "publishedAt": "2026-08-21T10:20:07Z",
-        "summary": "With the college season right around the corner, Jordan Reid stacked every NFL draft-eligible QB worthy of getting picked next April by their current round grade.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,38 @@
     ],
     "acme": [
       {
+        "title": "Kyle McCord Should Fix One Thing",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85037/kyle-mccord-should-fix-one-thing",
+        "publishedAt": "2026-08-21T15:19:52-04:00",
+        "summary": "When it comes to backup quarterbacks, I have two profiles that I prefer. The first is the hyper-athlete, along the lines of Malik Willis, because with an extremely shifty, mobile quarterback, at least you can do SOMETHING if he’s forced into the game. Willis is perhaps the best possible version of this quarterback because he [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers to watch in the preseason Broncos matchup",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85020/packers-to-watch-in-the-preseason-broncos-matchup",
+        "publishedAt": "2026-08-21T15:15:00-04:00",
+        "summary": "The NFL regular season is quickly approaching, but a few Green Bay Packers players are facing big moments in the preseason, including in Friday night’s contest against the Denver Broncos. Whether it’s players fighting for starting/rotational roles on either side of the ball, or under-the-radar names simply trying to make the 53-man roster, there’s still [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers tease new uniform reveal coming next Tuesday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85031/packers-tease-new-uniform-reveal-coming-next-tuesday",
+        "publishedAt": "2026-08-21T14:32:21-04:00",
+        "summary": "The wait for the Packers’ long-anticipated/long-feared “Rivalries” uniform reveal is almost over. The team posted a short teaser video today, announcing the reveal of new alternate uniforms will be coming on Tuesday, August 25. The Packers are getting their new look courtesy of the dual NFL/Nike “Rivalries” uniform venture, duplicating similar initiatives in both the [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Green Bay Packers News: Packers’ cornerback battle is getting interesting",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85023/green-bay-packers-news-packers-cornerback-battle-is-getting-interesting",
         "publishedAt": "2026-08-21T12:29:23-04:00",
         "summary": "Keisean Nixon, Carrington Valentine, Brandon Cisse and Benjamin St-Juste have all gotten first-team snaps during camp, and as Justis Mosqueda recently noted, it seems like the competition at corner is really opening up.&#160; So as Green Bay takes the field against the Denver Broncos on Friday night, noting the cornerback rotation will be particularly interesting [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85015/opportunity-knocks-for-packers-edge-rusher-brenton-cox",
         "publishedAt": "2026-08-21T11:00:00-04:00",
         "summary": "Brenton Cox Jr. has been a model citizen for more than three years in Green Bay. Now he has a rare — but brief — opportunity to let his talent shine. Any discussion about Cox should begin with that first point; since arriving in Green Bay as an undrafted free agent in 2023, he’s been [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85011/what-is-the-packers-plan-for-anthony-belton",
         "publishedAt": "2026-08-21T09:00:00-04:00",
         "summary": "Under Matt LaFleur, the Packers have never been afraid to move offensive linemen around. As we head into his eighth season as head coach, constant shifting up front has become commonplace. Guards become tackles, tackles become guards, anybody can play center at any time, and players flip flop from one side to another and back [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/84974/packers-vs-broncos-preseason-week-2-game-time-how-to-watch-tv-streaming-more",
         "publishedAt": "2026-08-21T07:00:00-04:00",
         "summary": "The Green Bay Packers have traveled west this week for their second preseason game, a game that they will be playing at significant altitude. The Denver Broncos are playing host to the Packers this week as the two teams look to continue preparing for the regular season to start in a few weeks. Tonight’s game [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84780/jonathan-gannons-2023-cardinals-defense-prioritized-zone-over-everything-else",
         "publishedAt": "2026-08-20T13:00:00-04:00",
         "summary": "Preseason is in full swing and we’re getting our first glimpse into the defensive scheme of Jonathan Gannon. I’ll have more on that in the coming weeks but first, we still need to fill in the context of what his scheme is and where it went, and we’ll do that by diving into his first [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84954/isaiah-neyor-is-a-truly-interesting-wide-receiver-prospect",
         "publishedAt": "2026-08-20T12:00:00-04:00",
         "summary": "Both J. Michael Sturdivant and Isaiah Neyor flashed a few times at the back end of Green Bay Packers’ first preseason game in Pittsburgh. I’ve written a bit about Sturdivant before, and while he’s not my favorite wide receiver prospect, he is very toolsy, he fits a need on the team, and he has some [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,33 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84890/which-packers-players-are-most-primed-for-success-in-2026",
         "publishedAt": "2026-08-20T11:00:00-04:00",
         "summary": "The Green Bay Packers are heading into the 2026 season looking much different than they did last year. After parting ways during the offseason with players like receivers Romeo Doubs and Dontayvion Wicks, as well as kicker Brandon McManus and cornerback Nate Hobbs, plenty of doors have opened for younger and fresher faces to take [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room, Preseason Week 1: Isaiah Neyor &#038; J. Michael Sturdivant",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84899/packers-film-room-preseason-week-1-isaiah-neyor-j-michael-sturdivant",
-        "publishedAt": "2026-08-20T10:00:00-04:00",
-        "summary": "The Packers’ first preseason game is slowly drifting further into the rear view mirror, but I still have some clips so I’m gonna write about them. Today, we’ve got a mini film room and we’re looking at Isaiah Neyor and J. Michael Sturdivant. Isaiah Neyor Neyor was an undrafted free agent pick-up by the 49ers [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Kamal Hadden does the safety dance in the slot",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84961/green-bay-packers-news-kamal-hadden-does-the-safety-dance-in-the-slot",
-        "publishedAt": "2026-08-20T09:10:00-04:00",
-        "summary": "Xavier McKinney and Evan Williams make a pretty darn good tandem, and the safety group has quickly gone from a massive hole to a massive strength for the Green Bay Packers over a very brief period. With those two players locking down the back end and Javon Bullard taking a big step forward in the [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL players are now suing to have the option for NCAA eligibility",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/84947/nfl-players-are-now-suing-to-have-the-option-for-ncaa-eligibility",
-        "publishedAt": "2026-08-19T17:40:12-04:00",
-        "summary": "Matt Zenitz of CBS Sports reported earlier today that there are current NFL players who are looking to be granted an extra year of college football eligibility. If you haven’t been following the news at the college level, the NCAA has granted a five-year eligibility agreement to close some of the loopholes that allowed players [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
