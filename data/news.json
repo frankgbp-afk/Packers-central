@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:59:42.093Z",
+  "updatedAt": "2026-08-21T11:13:37.531Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,101 @@
     ],
     "espn": [
       {
+        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
+        "publishedAt": "2026-08-21T10:57:16Z",
+        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Carson Beck, Tre' Harris among deep fantasy football sleepers in 2026",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49652186/2026-fantasy-football-sleepers-nfl-deep-leagues",
+        "publishedAt": "2026-08-21T10:54:33Z",
+        "summary": "These sleepers are truly for those in deeper leagues seeking off-the-radar types who could emerge in 2026.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Tiering college quarterbacks by 2027 NFL draft stock",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49650260/2027-nfl-draft-quarterback-tiers-rounds-one-seven-moore-manning",
+        "publishedAt": "2026-08-21T10:20:07Z",
+        "summary": "With the college season right around the corner, Jordan Reid stacked every NFL draft-eligible QB worthy of getting picked next April by their current round grade.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL season: Ranking the best, worst positional groups",
+        "url": "https://www.espn.com/nfl/story/_/id/49638556/2026-nfl-season-positional-group-best-worst-quarterbacks-cornerbacks-receivers",
+        "publishedAt": "2026-08-21T10:19:22Z",
+        "summary": "Which team has the best running backs? The shakiest edge rusher room? We ranked all 32 teams in 10 different position groups.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "As season opener nears, Falcons still don't have a QB1",
+        "url": "https://www.espn.com/nfl/story/_/id/49673266/tua-tagovailoa-michael-penix-jr-nfl-season-opener-nears-atlanta-falcons-dont-qb1",
+        "publishedAt": "2026-08-21T10:03:25Z",
+        "summary": "Michael Penix Jr. hasn't been cleared to fully practice, and Tua Tagovailoa has struggled. Not ideal for Atlanta.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cam Skattebo still top option in crowded Giants backfield",
+        "url": "https://www.espn.com/nfl/story/_/id/49665736/cam-skattebo-najee-harris-new-york-giants-top-option-crowded-backfield",
+        "publishedAt": "2026-08-21T10:00:12Z",
+        "summary": "With the addition of Najee Harris, it's difficult to predict New York's backfield carries at this point.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "MHJ is all smiles so far through Cardinals preseason",
+        "url": "https://www.espn.com/nfl/story/_/id/49674964/arizona-cardinals-marvin-harrison-jr-outlook",
+        "publishedAt": "2026-08-21T10:00:21Z",
+        "summary": "Harrison has played well in August and hopes his first 1,000-yard receiving season is right around the corner.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chargers rookie Akheem Mesidor paving way for Ottawa NFL players",
+        "url": "https://www.espn.com/nfl/story/_/id/49662894/los-angeles-chargers-akheem-mesidor-ottawa-canada-nfl-players",
+        "publishedAt": "2026-08-21T10:13:52Z",
+        "summary": "Ottawa is having a moment in the NFL. And the city's first first-rounder Akheem Mesidor hopes to usher in the next generation.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Commanders need to show how far they've come vs. Lions",
+        "url": "https://www.espn.com/nfl/story/_/id/49674003/washington-commanders-jayden-daniels-accuracy",
+        "publishedAt": "2026-08-21T10:00:02Z",
+        "summary": "Third-year QB Jayden Daniels is looking like he did in 2024, but can a revamped defense hold up its end?",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Dolphins less interested in winning joint practice than improving",
+        "url": "https://www.espn.com/nfl/story/_/id/49675355/miami-dolphins-joint-practice-new-york-giants",
+        "publishedAt": "2026-08-21T10:00:27Z",
+        "summary": "The Dolphins had some highlights against the Giants, but coach Jeff Hafley had his eyes on one-on-one battles.",
+        "image": "data/news-images/espn-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Kubiak keeps Raiders' QB race going: 'We got another week'",
         "url": "https://www.espn.com/nfl/story/_/id/49677418/kubiak-keeps-raiders-qb-race-going-got-another-week",
         "publishedAt": "2026-08-21T05:55:41Z",
         "summary": "With one week left in the preseason, Raiders coach Klint Kubiak said he wasn't prepared to name a starting quarterback, adding \"I don't want anyone to be comfortable in their job.\"",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,97 +216,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873285",
         "publishedAt": "2026-08-21T06:24:29Z",
         "summary": "— Jacob Cowing let out a season's worth of frustration with one electric play.",
-        "image": "data/news-images/espn-1.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
-        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-        "publishedAt": "2026-08-21T05:53:50Z",
-        "summary": "Week 2 of the NFL preseason is underway, and our NFL Nation reporters are tackling the biggest looming roster questions coming off each game.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "San Francisco 49ers vs. Los Angeles Chargers: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49677343/game-highlights",
-        "publishedAt": "2026-08-21T05:12:08Z",
-        "summary": "San Francisco 49ers vs. Los Angeles Chargers: Game Highlights",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fernando Mendoza throws a pick-6, struggles in 1st half of Raiders' 22-20 preseason win over Texans",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873286",
-        "publishedAt": "2026-08-21T04:37:28Z",
-        "summary": "— Top pick Fernando Mendoza is finding out quickly that he has a lot of work to do as he begins his NFL career.",
-        "image": "data/news-images/espn-4.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Las Vegas Raiders vs. Houston Texans: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49676595/game-highlights",
-        "publishedAt": "2026-08-21T03:19:02Z",
-        "summary": "Las Vegas Raiders vs. Houston Texans: Game Highlights",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Cleveland Browns training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-20T22:25:06Z",
-        "summary": "Follow our updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-20T23:13:28Z",
-        "summary": "Catch up on our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Buffalo Bills training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-20T22:05:42Z",
-        "summary": "Follow our updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-20T21:36:43Z",
-        "summary": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Is Blake Corum or Kyren Williams a better fantasy draft option?",
-        "url": "https://www.espn.com/video/clip/_/id/49674053/is-blake-corum-kyren-williams-better-fantasy-draft-option",
-        "publishedAt": "2026-08-20T21:08:01Z",
-        "summary": "Is Blake Corum or Kyren Williams a better fantasy draft option?",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Liza Loza is 'very out' on Bucky Irving in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/49673980/why-liza-loza-very-bucky-irving-fantasy",
-        "publishedAt": "2026-08-20T21:07:41Z",
-        "summary": "Why Liza Loza is 'very out' on Bucky Irving in fantasy",
-        "image": "data/news-images/espn-11.jpg",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
