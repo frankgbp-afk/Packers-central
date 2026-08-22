@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:52:17.396Z",
+  "updatedAt": "2026-08-22T20:58:46.711Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Cooper Rush and Jack Strand pick apart Colts' defense as Falcons roll to 34-6 preseason win",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873295",
+        "publishedAt": "2026-08-22T20:21:31Z",
+        "summary": "— Cooper Rush and Jack Strand picked apart the Colts' pass defense, and the Atlanta Falcons cruised to a 34-6 preseason win over Indianapolis on Saturday.",
+        "image": "data/news-images/espn-0.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Atlanta Falcons vs. Indianapolis Colts: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49694281/game-highlights",
+        "publishedAt": "2026-08-22T20:26:04Z",
+        "summary": "Atlanta Falcons vs. Indianapolis Colts: Game Highlights",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
+        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
+        "publishedAt": "2026-08-22T20:28:55Z",
+        "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Dobbs overcomes two turnovers with long TD run as Lions beat Commanders, 17-13",
         "url": "http://www.espn.com/nfl/recap?gameId=401873601",
-        "publishedAt": "2026-08-22T19:25:30Z",
+        "publishedAt": "2026-08-22T20:16:29Z",
         "summary": "— Joshua Dobbs ran for a 50-yard touchdown and the Detroit Lions held on for a 17-13 preseason win against the Washington Commanders on Saturday.",
-        "image": "data/news-images/espn-0.png",
+        "image": "data/news-images/espn-3.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49693661/game-highlights",
         "publishedAt": "2026-08-22T19:30:33Z",
         "summary": "Washington Commanders vs. Detroit Lions: Game Highlights",
-        "image": "data/news-images/espn-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
-        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-        "publishedAt": "2026-08-22T19:13:35Z",
-        "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49693366/seahawks-place-wr-bobo-season-ending-ir-re-sign-wr-hicks",
         "publishedAt": "2026-08-22T19:44:25Z",
         "summary": "The Seahawks have placed wide receiver Jake Bobo on season-ending injured reserve with a serious knee injury and re-signed wideout Julian Hicks.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son",
         "publishedAt": "2026-08-22T19:30:23Z",
         "summary": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
         "publishedAt": "2026-08-22T14:51:33Z",
         "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-08-22T14:45:13Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49690629/2026-fantasy-football-cheat-sheet-draft-tips-sleepers-busts",
         "publishedAt": "2026-08-22T14:59:16Z",
         "summary": "All the names we've been talking about in a printable cheat sheet for your fantasy football draft.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-22T12:33:34Z",
         "summary": "Michael Florio provides the biggest fantasy takeaways from Friday's NFL preseason games.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn",
         "publishedAt": "2026-08-22T11:45:33Z",
         "summary": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL depth charts for all 32 teams",
-        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-        "publishedAt": "2026-08-22T10:47:45Z",
-        "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "New NFL blocking, pass rush win rate formulas and takeaways",
-        "url": "https://www.espn.com/nfl/story/_/id/49672562/nfl-new-pass-block-push-rush-win-rates-formula-takeaways-analytics",
-        "publishedAt": "2026-08-22T10:31:26Z",
-        "summary": "After eight years, ESPN tweaked the formula for pass rush win rate and pass block win rate. What's new for 2026? Which players saw their stats impacted the most?",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
