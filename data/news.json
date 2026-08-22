@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T09:58:42.464Z",
+  "updatedAt": "2026-08-22T10:58:31.326Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,38 @@
     ],
     "espn": [
       {
+        "title": "NFL depth charts for all 32 teams",
+        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+        "publishedAt": "2026-08-22T10:47:45Z",
+        "summary": "Here are the latest NFL depth charts for all 32 teams.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "New NFL blocking, pass rush win rate formulas and takeaways",
+        "url": "https://www.espn.com/nfl/story/_/id/49672562/nfl-new-pass-block-push-rush-win-rates-formula-takeaways-analytics",
+        "publishedAt": "2026-08-22T10:31:26Z",
+        "summary": "After eight years, ESPN tweaked the formula for pass rush win rate and pass block win rate. What's new for 2026? Which players saw their stats impacted the most?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Broncos' Bo Nix throws for TD in return from ankle injury",
         "url": "https://www.espn.com/nfl/story/_/id/49687942/broncos-qb-bo-nix-throws-td-preseason-return-ankle-surgery",
         "publishedAt": "2026-08-22T06:06:40Z",
         "summary": "Broncos quarterback Bo Nix, who underwent two offseason surgeries to repair a fractured right ankle, made his first preseason appearance Friday night, playing 14 snaps and finishing 6-of-9 passing for 76 yards and a touchdown.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
         "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-        "publishedAt": "2026-08-22T04:17:23Z",
+        "publishedAt": "2026-08-22T10:55:19Z",
         "summary": "Week 2 of the NFL preseason is underway, and our NFL Nation reporters are tackling the biggest looming roster questions coming off each game.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26main/fantasy-football-rankings-2026-draft-ppr",
         "publishedAt": "2026-08-22T04:15:22Z",
         "summary": "Fantasy football rankings for the upcoming season, for PPR leagues, as well as IDP and dynasty setups.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873613",
         "publishedAt": "2026-08-22T05:07:29Z",
         "summary": "— Bo Nix 's 21-yard touchdown toss to R.J. Harvey two plays after hooking up with new speedster ",
-        "image": "data/news-images/espn-3.png",
+        "image": "data/news-images/espn-5.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49687337/game-highlights",
         "publishedAt": "2026-08-22T04:11:02Z",
         "summary": "Green Bay Packers vs. Denver Broncos: Game Highlights",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49687242/steelers-qbs-howard-drew-allar-fail-move-offense-preseason-loss-jets",
         "publishedAt": "2026-08-22T04:20:27Z",
         "summary": "Eight days after helping the offense light up the scoreboard with 28 points, young Steelers quarterbacks Will Howard and Drew Allar combined to throw two interceptions, take four sacks and score zero points in a 17-0 preseason loss to the Jets on Friday.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49687000/game-highlights",
         "publishedAt": "2026-08-22T03:31:41Z",
         "summary": "Carolina Panthers vs. Jacksonville Jaguars: Game Highlights",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873287",
         "publishedAt": "2026-08-22T03:30:29Z",
         "summary": "Bryce Young had much more success in his second game of the preseason, going 5 of 6 for 49 yards passing and setting up a touchdown in the Carolina Panthers' 34-17 victory over the Jacksonville Jaguars on Friday night.",
-        "image": "data/news-images/espn-7.png",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873288",
         "publishedAt": "2026-08-22T03:29:29Z",
         "summary": "— Geno Smith's left ankle appears to be just fine. So much so that a one-drive cameo is all the New York Jets quarterback might need to get ready for the regular season.",
-        "image": "data/news-images/espn-8.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49686432/running-back-nick-chubb-announces-retirement-nfl",
         "publishedAt": "2026-08-22T02:48:14Z",
         "summary": "Veteran running back Nick Chubb, a four-time Pro Bowl selection who most recently played for the Texans, announced his retirement Friday night.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "New York Jets vs. Pittsburgh Steelers: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49686335/game-highlights",
-        "publishedAt": "2026-08-22T01:53:38Z",
-        "summary": "New York Jets vs. Pittsburgh Steelers: Game Highlights",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL reviewing Ravens WR Bateman over family violence arrest",
-        "url": "https://www.espn.com/nfl/story/_/id/49685741/nfl-reviewing-ravens-wr-bateman-family-violence-arrest",
-        "publishedAt": "2026-08-22T05:09:00Z",
-        "summary": "The Ravens have informed the NFL of wide receiver Rashod Bateman's arrest in June on family violence charges, and the league said the case is under review.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
