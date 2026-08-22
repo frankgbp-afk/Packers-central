@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T19:11:27.304Z",
+  "updatedAt": "2026-08-22T19:52:17.396Z",
   "sources": {
     "packers": [
       {
@@ -113,19 +113,19 @@
     ],
     "espn": [
       {
-        "title": "Seahawks place WR Bobo on season-ending IR, re-sign WR Hicks",
-        "url": "https://www.espn.com/nfl/story/_/id/49693366/seahawks-place-wr-bobo-season-ending-ir-re-sign-wr-hicks",
-        "publishedAt": "2026-08-22T18:44:52Z",
-        "summary": "The Seahawks have placed receiver Jake Bobo on season-ending injured reserve with a serios knee injury, the team announced Saturday, and re-signed wideout Julian Hicks.",
-        "image": "data/news-images/espn-0.jpg",
+        "title": "Dobbs overcomes two turnovers with long TD run as Lions beat Commanders, 17-13",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873601",
+        "publishedAt": "2026-08-22T19:25:30Z",
+        "summary": "— Joshua Dobbs ran for a 50-yard touchdown and the Detroit Lions held on for a 17-13 preseason win against the Washington Commanders on Saturday.",
+        "image": "data/news-images/espn-0.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills star DT Ed Oliver mourning tragic death of son",
-        "url": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son",
-        "publishedAt": "2026-08-22T18:29:01Z",
-        "summary": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
+        "title": "Washington Commanders vs. Detroit Lions: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49693661/game-highlights",
+        "publishedAt": "2026-08-22T19:30:33Z",
+        "summary": "Washington Commanders vs. Detroit Lions: Game Highlights",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -133,9 +133,27 @@
       {
         "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
         "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-        "publishedAt": "2026-08-22T17:47:52Z",
+        "publishedAt": "2026-08-22T19:13:35Z",
         "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
         "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks place WR Bobo on season-ending IR, re-sign WR Hicks",
+        "url": "https://www.espn.com/nfl/story/_/id/49693366/seahawks-place-wr-bobo-season-ending-ir-re-sign-wr-hicks",
+        "publishedAt": "2026-08-22T19:44:25Z",
+        "summary": "The Seahawks have placed wide receiver Jake Bobo on season-ending injured reserve with a serious knee injury and re-signed wideout Julian Hicks.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bills star DT Ed Oliver mourning tragic death of son",
+        "url": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son",
+        "publishedAt": "2026-08-22T19:30:23Z",
+        "summary": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
         "publishedAt": "2026-08-22T14:51:33Z",
         "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-08-22T14:45:13Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49690629/2026-fantasy-football-cheat-sheet-draft-tips-sleepers-busts",
         "publishedAt": "2026-08-22T14:59:16Z",
         "summary": "All the names we've been talking about in a printable cheat sheet for your fantasy football draft.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-22T12:33:34Z",
         "summary": "Michael Florio provides the biggest fantasy takeaways from Friday's NFL preseason games.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn",
         "publishedAt": "2026-08-22T11:45:33Z",
         "summary": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
         "publishedAt": "2026-08-22T10:47:45Z",
         "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49672562/nfl-new-pass-block-push-rush-win-rates-formula-takeaways-analytics",
         "publishedAt": "2026-08-22T10:31:26Z",
         "summary": "After eight years, ESPN tweaked the formula for pass rush win rate and pass block win rate. What's new for 2026? Which players saw their stats impacted the most?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos' Bo Nix throws for TD in return from ankle injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49687942/broncos-qb-bo-nix-throws-td-preseason-return-ankle-surgery",
-        "publishedAt": "2026-08-22T12:23:11Z",
-        "summary": "Broncos quarterback Bo Nix, who underwent two offseason surgeries to repair a fractured right ankle, made his first preseason appearance Friday night, playing 14 snaps and finishing 6-of-9 passing for 76 yards and a touchdown.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 fantasy football rankings: PPR leagues",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26main/fantasy-football-rankings-2026-draft-ppr",
-        "publishedAt": "2026-08-22T04:15:22Z",
-        "summary": "Fantasy football rankings for the upcoming season, for PPR leagues, as well as IDP and dynasty setups.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Trey Smack continues to pay off on Packers’ and fans’ faith",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85067/trey-smack-continues-to-pay-off-on-packers-and-fans-faith",
+        "publishedAt": "2026-08-22T11:10:00-04:00",
+        "summary": "For a second straight preseason game, the Green Bay Packers got a magnificent performance out of rookie kicker Trey Smack. In the Packers’ 33-13 win over the Denver Broncos on Friday night, Smack had another perfect night, hitting all four of his field goal attempts. Similarly to his debut in Pittsburgh, Smack also booted a [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Depth Chart: Who played for Green Bay’s 1s and 2s vs. the Broncos?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85064/packers-depth-chart-who-played-for-green-bays-1s-and-2s-vs-the-broncos",
         "publishedAt": "2026-08-22T02:57:59-04:00",
         "summary": "If you’re new here, we track who plays with the first- and second-team offensive and defensive units for the Green Bay Packers throughout the preseason because it’s a much cleaner picture of what the team looks like than the overall snap count. When third-stringers are in the game in the first half, like they were [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85061/packers-cb-brandon-cisse-says-injury-vs-broncos-is-nothing-serious",
         "publishedAt": "2026-08-22T01:41:15-04:00",
         "summary": "Green Bay Packers cornerback Brandon Cisse got the start opposite Keisean Nixon on the outside against the Denver Broncos on Friday, but he only played one of the first-team defense’s two drives in the game after going down with an injury after a punt. According to the Green Bay Press-Gazette’s Ryan Wood, Cisse said he [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85050/green-bay-packers-vs-denver-broncos-final-score-recap-trey-smack-continues-hot-start",
         "publishedAt": "2026-08-22T00:16:16-04:00",
         "summary": "Coming into tonight’s action, the Green Bay Packers hadn’t won a game since December 7th against the Chicago Bears, as their last trip to Denver started them on a five game-losing streak (six if you want to include the preseason opener) that capped off with the team being sent home by those same Bears in [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85002/packers-vs-broncos-preseason-game-discussion",
         "publishedAt": "2026-08-21T20:00:00-04:00",
         "summary": "Let’s hope this year’s Green Bay Packers game at Mile High Stadium doesn’t end in similar fashion to the one that took place last December. That sentiment has nothing to do with the result of the game; if the Packers give up a halftime lead on Friday night and end up losing the game, nobody [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85037/kyle-mccord-should-fix-one-thing",
         "publishedAt": "2026-08-21T15:19:52-04:00",
         "summary": "When it comes to backup quarterbacks, I have two profiles that I prefer. The first is the hyper-athlete, along the lines of Malik Willis, because with an extremely shifty, mobile quarterback, at least you can do SOMETHING if he’s forced into the game. Willis is perhaps the best possible version of this quarterback because he [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85020/packers-to-watch-in-the-preseason-broncos-matchup",
         "publishedAt": "2026-08-21T15:15:00-04:00",
         "summary": "The NFL regular season is quickly approaching, but a few Green Bay Packers players are facing big moments in the preseason, including in Friday night’s contest against the Denver Broncos. Whether it’s players fighting for starting/rotational roles on either side of the ball, or under-the-radar names simply trying to make the 53-man roster, there’s still [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85031/packers-tease-new-uniform-reveal-coming-next-tuesday",
         "publishedAt": "2026-08-21T14:32:21-04:00",
         "summary": "The wait for the Packers’ long-anticipated/long-feared “Rivalries” uniform reveal is almost over. The team posted a short teaser video today, announcing the reveal of new alternate uniforms will be coming on Tuesday, August 25. The Packers are getting their new look courtesy of the dual NFL/Nike “Rivalries” uniform venture, duplicating similar initiatives in both the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85023/green-bay-packers-news-packers-cornerback-battle-is-getting-interesting",
         "publishedAt": "2026-08-21T12:29:23-04:00",
         "summary": "Keisean Nixon, Carrington Valentine, Brandon Cisse and Benjamin St-Juste have all gotten first-team snaps during camp, and as Justis Mosqueda recently noted, it seems like the competition at corner is really opening up.&#160; So as Green Bay takes the field against the Denver Broncos on Friday night, noting the cornerback rotation will be particularly interesting [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85015/opportunity-knocks-for-packers-edge-rusher-brenton-cox",
         "publishedAt": "2026-08-21T11:00:00-04:00",
         "summary": "Brenton Cox Jr. has been a model citizen for more than three years in Green Bay. Now he has a rare — but brief — opportunity to let his talent shine. Any discussion about Cox should begin with that first point; since arriving in Green Bay as an undrafted free agent in 2023, he’s been [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "What is the Packers’ plan for Anthony Belton?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85011/what-is-the-packers-plan-for-anthony-belton",
-        "publishedAt": "2026-08-21T09:00:00-04:00",
-        "summary": "Under Matt LaFleur, the Packers have never been afraid to move offensive linemen around. As we head into his eighth season as head coach, constant shifting up front has become commonplace. Guards become tackles, tackles become guards, anybody can play center at any time, and players flip flop from one side to another and back [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
