@@ -1,22 +1,13 @@
 {
-  "updatedAt": "2026-08-22T03:11:21.770Z",
+  "updatedAt": "2026-08-22T04:58:34.342Z",
   "sources": {
     "packers": [
       {
-        "title": "Live Chat: Packers vs. Broncos | Preseason Week 2",
-        "url": "https://www.packers.com/news/live-chat-packers-vs-broncos-preseason-week-2-2026",
-        "publishedAt": "Sat, 22 Aug 2026 04:00:00 GMT",
-        "summary": "Follow Green Bay Packers vs. Denver Broncos with live updates from Empower Field at Mile High",
-        "image": "data/news-images/packers-0.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers lead Broncos 23-10 at halftime",
+        "title": "Packers defeat Broncos, 33-13, in second preseason game",
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-2-broncos-2026",
         "publishedAt": "Sat, 22 Aug 2026 01:47:50 GMT",
-        "summary": "Trey Smack drills three field goals, Will Sheppard catches 2-yard TD",
-        "image": "data/news-images/packers-1.jpg",
+        "summary": "Good finish to first half built Green Bay’s lead",
+        "image": "data/news-images/packers-0.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,6 +16,15 @@
         "url": "https://www.packers.com/news/14-packers-not-suiting-up-in-denver",
         "publishedAt": "Sat, 22 Aug 2026 00:44:09 GMT",
         "summary": "List of scratches similar to last week",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Live Chat: Packers vs. Broncos | Preseason Week 2",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-broncos-preseason-week-2-2026",
+        "publishedAt": "Fri, 21 Aug 2026 20:00:00 GMT",
+        "summary": "Follow Green Bay Packers vs. Denver Broncos with live updates from Empower Field at Mile High",
         "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,20 +113,83 @@
     ],
     "espn": [
       {
+        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
+        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
+        "publishedAt": "2026-08-22T04:17:23Z",
+        "summary": "Week 2 of the NFL preseason is underway, and our NFL Nation reporters are tackling the biggest looming roster questions coming off each game.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 fantasy football rankings: PPR leagues",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26main/fantasy-football-rankings-2026-draft-ppr",
+        "publishedAt": "2026-08-22T04:15:22Z",
+        "summary": "Fantasy football rankings for the upcoming season, for PPR leagues, as well as IDP and dynasty setups.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bo Nix shines in return from broken ankle, but Broncos fall to Packers 33-13",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873613",
+        "publishedAt": "2026-08-22T04:11:30Z",
+        "summary": "— Bo Nix 's 21-yard touchdown toss to R.J. Harvey two plays after hooking up with new speedster ",
+        "image": "data/news-images/espn-2.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Green Bay Packers vs. Denver Broncos: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49687337/game-highlights",
+        "publishedAt": "2026-08-22T04:11:02Z",
+        "summary": "Green Bay Packers vs. Denver Broncos: Game Highlights",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Steelers QBs Howard, Allar sputter in preseason dud vs. Jets",
+        "url": "https://www.espn.com/nfl/story/_/id/49687242/steelers-qbs-howard-drew-allar-fail-move-offense-preseason-loss-jets",
+        "publishedAt": "2026-08-22T04:20:27Z",
+        "summary": "Eight days after helping the offense light up the scoreboard with 28 points, young Steelers quarterbacks Will Howard and Drew Allar combined to throw two interceptions, take four sacks and score zero points in a 17-0 preseason loss to the Jets on Friday.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Carolina Panthers vs. Jacksonville Jaguars: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49687000/game-highlights",
+        "publishedAt": "2026-08-22T03:31:41Z",
+        "summary": "Carolina Panthers vs. Jacksonville Jaguars: Game Highlights",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bryce Young and the Panthers find better footing in a 34-17 victory at the Jaguars",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873287",
+        "publishedAt": "2026-08-22T03:30:29Z",
+        "summary": "Bryce Young had much more success in his second game of the preseason, going 5 of 6 for 49 yards passing and setting up a touchdown in the Carolina Panthers' 34-17 victory over the Jacksonville Jaguars on Friday night.",
+        "image": "data/news-images/espn-6.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Geno Smith throws a touchdown pass during his 1-drive cameo as Jets top Steelers 17-0",
         "url": "http://www.espn.com/nfl/recap?gameId=401873288",
-        "publishedAt": "2026-08-22T02:03:29Z",
-        "summary": "— Geno Smith capped a perfect one-series cameo by throwing for a touchdown and the New York Jets picked off a pair of passes in a 17-0 win over the Pittsburgh Steelers on Friday night.",
-        "image": "data/news-images/espn-0.png",
+        "publishedAt": "2026-08-22T03:29:29Z",
+        "summary": "— Geno Smith's left ankle appears to be just fine. So much so that a one-drive cameo is all the New York Jets quarterback might need to get ready for the regular season.",
+        "image": "data/news-images/espn-7.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Former Browns, Texans RB Nick Chubb announces retirement",
         "url": "https://www.espn.com/nfl/story/_/id/49686432/running-back-nick-chubb-announces-retirement-nfl",
-        "publishedAt": "2026-08-22T02:05:55Z",
+        "publishedAt": "2026-08-22T02:48:14Z",
         "summary": "Veteran running back Nick Chubb, a four-time Pro Bowl selection who most recently played for the Texans, announced his retirement Friday night.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,25 +198,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49686335/game-highlights",
         "publishedAt": "2026-08-22T01:53:38Z",
         "summary": "New York Jets vs. Pittsburgh Steelers: Game Highlights",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
-        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-        "publishedAt": "2026-08-22T02:16:29Z",
-        "summary": "Week 2 of the NFL preseason is underway, and our NFL Nation reporters are tackling the biggest looming roster questions coming off each game.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL reviewing Ravens' Bateman over domestic violence arrest",
-        "url": "https://www.espn.com/nfl/story/_/id/49685741/nfl-reviewing-ravens-wr-bateman-june-arrest-domestic-case",
-        "publishedAt": "2026-08-22T01:43:06Z",
-        "summary": "The Ravens have informed the NFL of wide receiver Rashod Bateman's arrest in June regarding an alleged domestic violence incident, and the league said the case is under review.",
-        "image": "data/news-images/espn-4.jpg",
+        "title": "NFL reviewing Ravens WR Bateman over family violence arrest",
+        "url": "https://www.espn.com/nfl/story/_/id/49685741/nfl-reviewing-ravens-wr-bateman-family-violence-arrest",
+        "publishedAt": "2026-08-22T04:44:06Z",
+        "summary": "The Ravens have informed the NFL of wide receiver Rashod Bateman's arrest in June on family violence charges, and the league said the case is under review.",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
         "publishedAt": "2026-08-21T23:37:40Z",
         "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-21T23:19:06Z",
-        "summary": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dwight Smith's 'I scored a touchdown' story: Super Bowl XXXVII",
-        "url": "https://www.espn.com/video/clip/_/id/49684785/super-bowl-xxxvii",
-        "publishedAt": "2026-08-21T22:05:04Z",
-        "summary": "Dwight Smith's 'I scored a touchdown' story: Super Bowl XXXVII",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ravens' Jesse Minter leads team in rapping Eminem's 'Lose Yourself'",
-        "url": "https://www.espn.com/nfl/story/_/id/49684025/baltimore-ravens-jesse-minter-eminem-lose",
-        "publishedAt": "2026-08-21T21:13:39Z",
-        "summary": "The newly minted Ravens head coach led his team in a rousing rendition of the 2002 classic at a team dinner.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks WR Jake Bobo suffers 'serious' knee injury, coach says",
-        "url": "https://www.espn.com/nfl/story/_/id/49683636/seahawks-wr-jake-bobo-suffers-serious-knee-injury-says-coach",
-        "publishedAt": "2026-08-21T20:41:59Z",
-        "summary": "Seahawks wideout Jake Bobo appeared to suffer a \"serious knee injury during Friday's practice against the Titans, coach Mike Macdonald told reporters.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Massachusetts to investigate Cardinals exec's alleged betting",
-        "url": "https://www.espn.com/nfl/story/_/id/49683212/massachusetts-investigate-cardinals-exec-alleged-betting",
-        "publishedAt": "2026-08-21T19:14:36Z",
-        "summary": "A second investigation has been opened related to former Arizona Cardinals scout Ryan Gold's alleged betting activity.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Brock Purdy is 'extremely happy' for Deebo to be back",
-        "url": "https://www.espn.com/video/clip/_/id/49683048/why-brock-purdy-extremely-happy-deebo-back",
-        "publishedAt": "2026-08-21T18:21:11Z",
-        "summary": "Why Brock Purdy is 'extremely happy' for Deebo to be back ",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Green Bay Packers vs. Denver Broncos final score, recap: Trey Smack continues hot start",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85050/green-bay-packers-vs-denver-broncos-final-score-recap-trey-smack-continues-hot-start",
+        "publishedAt": "2026-08-22T00:16:16-04:00",
+        "summary": "Coming into tonight’s action, the Green Bay Packers hadn’t won a game since December 7th against the Chicago Bears, as their last trip to Denver started them on a five game-losing streak (six if you want to include the preseason opener) that capped off with the team being sent home by those same Bears in [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers vs. Broncos Preseason Game Discussion",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85002/packers-vs-broncos-preseason-game-discussion",
         "publishedAt": "2026-08-21T20:00:00-04:00",
         "summary": "Let’s hope this year’s Green Bay Packers game at Mile High Stadium doesn’t end in similar fashion to the one that took place last December. That sentiment has nothing to do with the result of the game; if the Packers give up a halftime lead on Friday night and end up losing the game, nobody [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85037/kyle-mccord-should-fix-one-thing",
         "publishedAt": "2026-08-21T15:19:52-04:00",
         "summary": "When it comes to backup quarterbacks, I have two profiles that I prefer. The first is the hyper-athlete, along the lines of Malik Willis, because with an extremely shifty, mobile quarterback, at least you can do SOMETHING if he’s forced into the game. Willis is perhaps the best possible version of this quarterback because he [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85020/packers-to-watch-in-the-preseason-broncos-matchup",
         "publishedAt": "2026-08-21T15:15:00-04:00",
         "summary": "The NFL regular season is quickly approaching, but a few Green Bay Packers players are facing big moments in the preseason, including in Friday night’s contest against the Denver Broncos. Whether it’s players fighting for starting/rotational roles on either side of the ball, or under-the-radar names simply trying to make the 53-man roster, there’s still [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85031/packers-tease-new-uniform-reveal-coming-next-tuesday",
         "publishedAt": "2026-08-21T14:32:21-04:00",
         "summary": "The wait for the Packers’ long-anticipated/long-feared “Rivalries” uniform reveal is almost over. The team posted a short teaser video today, announcing the reveal of new alternate uniforms will be coming on Tuesday, August 25. The Packers are getting their new look courtesy of the dual NFL/Nike “Rivalries” uniform venture, duplicating similar initiatives in both the [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85023/green-bay-packers-news-packers-cornerback-battle-is-getting-interesting",
         "publishedAt": "2026-08-21T12:29:23-04:00",
         "summary": "Keisean Nixon, Carrington Valentine, Brandon Cisse and Benjamin St-Juste have all gotten first-team snaps during camp, and as Justis Mosqueda recently noted, it seems like the competition at corner is really opening up.&#160; So as Green Bay takes the field against the Denver Broncos on Friday night, noting the cornerback rotation will be particularly interesting [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85015/opportunity-knocks-for-packers-edge-rusher-brenton-cox",
         "publishedAt": "2026-08-21T11:00:00-04:00",
         "summary": "Brenton Cox Jr. has been a model citizen for more than three years in Green Bay. Now he has a rare — but brief — opportunity to let his talent shine. Any discussion about Cox should begin with that first point; since arriving in Green Bay as an undrafted free agent in 2023, he’s been [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85011/what-is-the-packers-plan-for-anthony-belton",
         "publishedAt": "2026-08-21T09:00:00-04:00",
         "summary": "Under Matt LaFleur, the Packers have never been afraid to move offensive linemen around. As we head into his eighth season as head coach, constant shifting up front has become commonplace. Guards become tackles, tackles become guards, anybody can play center at any time, and players flip flop from one side to another and back [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/84974/packers-vs-broncos-preseason-week-2-game-time-how-to-watch-tv-streaming-more",
         "publishedAt": "2026-08-21T07:00:00-04:00",
         "summary": "The Green Bay Packers have traveled west this week for their second preseason game, a game that they will be playing at significant altitude. The Denver Broncos are playing host to the Packers this week as the two teams look to continue preparing for the regular season to start in a few weeks. Tonight’s game [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84780/jonathan-gannons-2023-cardinals-defense-prioritized-zone-over-everything-else",
         "publishedAt": "2026-08-20T13:00:00-04:00",
         "summary": "Preseason is in full swing and we’re getting our first glimpse into the defensive scheme of Jonathan Gannon. I’ll have more on that in the coming weeks but first, we still need to fill in the context of what his scheme is and where it went, and we’ll do that by diving into his first [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Isaiah Neyor is a truly interesting wide receiver prospect",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/84954/isaiah-neyor-is-a-truly-interesting-wide-receiver-prospect",
-        "publishedAt": "2026-08-20T12:00:00-04:00",
-        "summary": "Both J. Michael Sturdivant and Isaiah Neyor flashed a few times at the back end of Green Bay Packers’ first preseason game in Pittsburgh. I’ve written a bit about Sturdivant before, and while he’s not my favorite wide receiver prospect, he is very toolsy, he fits a need on the team, and he has some [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
