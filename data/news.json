@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:46:22.018Z",
+  "updatedAt": "2026-08-22T14:57:03.810Z",
   "sources": {
     "packers": [
       {
@@ -113,10 +113,10 @@
     ],
     "espn": [
       {
-        "title": "Fantasy football buzz: What you need to know from Friday's games",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-22T12:33:34Z",
-        "summary": "Michael Florio provides the biggest fantasy takeaways from Friday's NFL preseason games.",
+        "title": "Fantasy football cheat sheets: PPR, non-PPR, depth charts",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
+        "publishedAt": "2026-08-22T14:51:33Z",
+        "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -124,9 +124,27 @@
       {
         "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-22T11:56:22Z",
+        "publishedAt": "2026-08-22T14:45:13Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
         "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ultimate Fantasy Football Cheat Sheet: The names you need to know for draft day",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49690629/2026-fantasy-football-cheat-sheet-draft-tips-sleepers-busts",
+        "publishedAt": "2026-08-22T14:40:36Z",
+        "summary": "All the names we've been talking about in a printable cheat sheet for your fantasy football draft.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football buzz: What you need to know from Friday's games",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-08-22T12:33:34Z",
+        "summary": "Michael Florio provides the biggest fantasy takeaways from Friday's NFL preseason games.",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn",
         "publishedAt": "2026-08-22T11:45:33Z",
         "summary": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
         "publishedAt": "2026-08-22T10:47:45Z",
         "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49672562/nfl-new-pass-block-push-rush-win-rates-formula-takeaways-analytics",
         "publishedAt": "2026-08-22T10:31:26Z",
         "summary": "After eight years, ESPN tweaked the formula for pass rush win rate and pass block win rate. What's new for 2026? Which players saw their stats impacted the most?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49687942/broncos-qb-bo-nix-throws-td-preseason-return-ankle-surgery",
         "publishedAt": "2026-08-22T12:23:11Z",
         "summary": "Broncos quarterback Bo Nix, who underwent two offseason surgeries to repair a fractured right ankle, made his first preseason appearance Friday night, playing 14 snaps and finishing 6-of-9 passing for 76 yards and a touchdown.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
         "publishedAt": "2026-08-22T10:58:09Z",
         "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26main/fantasy-football-rankings-2026-draft-ppr",
         "publishedAt": "2026-08-22T04:15:22Z",
         "summary": "Fantasy football rankings for the upcoming season, for PPR leagues, as well as IDP and dynasty setups.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873613",
         "publishedAt": "2026-08-22T05:07:29Z",
         "summary": "— Bo Nix 's 21-yard touchdown toss to R.J. Harvey two plays after hooking up with new speedster ",
-        "image": "data/news-images/espn-8.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49687337/game-highlights",
         "publishedAt": "2026-08-22T04:11:02Z",
         "summary": "Green Bay Packers vs. Denver Broncos: Game Highlights",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Steelers QBs Howard, Allar sputter in preseason dud vs. Jets",
-        "url": "https://www.espn.com/nfl/story/_/id/49687242/steelers-qbs-howard-drew-allar-fail-move-offense-preseason-loss-jets",
-        "publishedAt": "2026-08-22T04:20:27Z",
-        "summary": "Eight days after helping the offense light up the scoreboard with 28 points, young Steelers quarterbacks Will Howard and Drew Allar combined to throw two interceptions, take four sacks and score zero points in a 17-0 preseason loss to the Jets on Friday.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Carolina Panthers vs. Jacksonville Jaguars: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49687000/game-highlights",
-        "publishedAt": "2026-08-22T03:31:41Z",
-        "summary": "Carolina Panthers vs. Jacksonville Jaguars: Game Highlights",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
