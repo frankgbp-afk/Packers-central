@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:55:19.137Z",
+  "updatedAt": "2026-08-22T22:57:15.842Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Baltimore Ravens vs. Minnesota Vikings: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49695313/game-highlights",
+        "publishedAt": "2026-08-22T22:24:43Z",
+        "summary": "Baltimore Ravens vs. Minnesota Vikings: Game Highlights",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "McCarthy plays 18 snaps, gets 'banged up' in Vikings' loss",
+        "url": "https://www.espn.com/nfl/story/_/id/49695231/mccarthy-plays-18-snaps-gets-banged-vikings-loss",
+        "publishedAt": "2026-08-22T22:36:20Z",
+        "summary": "Quarterback J.J. McCarthy, who ended up with 18 snaps, would have played longer Saturday if he had not gotten \"banged up\" during a rough first quarter in the Minnesota Vikings' 13-3 preseason loss to the Baltimore Ravens, coach Kevin O'Connell said.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
         "url": "https://www.espn.com/video/clip/_/id/49694669/game-highlights",
         "publishedAt": "2026-08-22T21:14:27Z",
         "summary": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
         "publishedAt": "2026-08-22T21:38:32Z",
         "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873294",
         "publishedAt": "2026-08-22T20:58:30Z",
         "summary": "— Shedeur Sanders threw a touchdown pass and made good decisions in perhaps his last chance to convince coach Todd Monken he should be Cleveland's starting quarterback in the Browns' 31-7 preseason loss to the Buffalo Bills on Saturday.",
-        "image": "data/news-images/espn-2.png",
+        "image": "data/news-images/espn-4.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +162,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49694493/falcons-quarterback-michael-penix-fully-cleared-practice",
         "publishedAt": "2026-08-22T21:15:49Z",
         "summary": "Falcons quarterback Michael Penix Jr. has been cleared to practice fully, head coach Kevin Stefanski said after Saturday's 34-6 preseason win over the Colts.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "McCarthy's misfires at QB stand out for the Vikings in a 13-3 preseason loss to the Ravens",
+        "title": "J.J. McCarthy's misfires at QB stand out for the Vikings in a 13-3 preseason loss to the Ravens",
         "url": "http://www.espn.com/nfl/recap?gameId=401873291",
-        "publishedAt": "2026-08-22T20:36:30Z",
-        "summary": "— J.J. McCarthy had an erratic start for the Minnesota Vikings, completing 5 of 10 passes for 81 yards in a 13-3 exhibition-game loss to Baltimore on Saturday, after undrafted rookie Joe Fagnano...",
-        "image": "data/news-images/espn-4.png",
+        "publishedAt": "2026-08-22T22:16:29Z",
+        "summary": "— J.J. McCarthy had an erratic start for the Minnesota Vikings, completing 5 of 10 passes for 81 yards in a 13-3 exhibition loss to Baltimore on Saturday, while undrafted rookie Joe Fagnano threw...",
+        "image": "data/news-images/espn-6.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873295",
         "publishedAt": "2026-08-22T21:51:46Z",
         "summary": "— Atlanta Falcons quarterbacks Cooper Rush and Jack Strand took advantage of perhaps their last opportunity to shine this season.",
-        "image": "data/news-images/espn-5.png",
+        "image": "data/news-images/espn-7.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49694281/game-highlights",
         "publishedAt": "2026-08-22T20:26:04Z",
         "summary": "Atlanta Falcons vs. Indianapolis Colts: Game Highlights",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873601",
         "publishedAt": "2026-08-22T20:16:29Z",
         "summary": "— Joshua Dobbs ran for a 50-yard touchdown and the Detroit Lions held on for a 17-13 preseason win against the Washington Commanders on Saturday.",
-        "image": "data/news-images/espn-7.png",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49693661/game-highlights",
         "publishedAt": "2026-08-22T19:30:33Z",
         "summary": "Washington Commanders vs. Detroit Lions: Game Highlights",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49693366/seahawks-place-wr-bobo-season-ending-ir-re-sign-wr-hicks",
         "publishedAt": "2026-08-22T19:44:25Z",
         "summary": "The Seahawks have placed wide receiver Jake Bobo on season-ending injured reserve with a serious knee injury and re-signed wideout Julian Hicks.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bills star DT Ed Oliver mourning tragic death of son",
-        "url": "https://www.espn.com/nfl/story/_/id/49693030/bills-star-dt-ed-oliver-mourning-tragic-death-son",
-        "publishedAt": "2026-08-22T19:30:23Z",
-        "summary": "The 2-year-old son of Bills defensive tackle Ed Oliver died June 28 after he was found unresponsive in a swimming pool by family members at a residence outside Houston.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football cheat sheets: PPR, non-PPR, depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
-        "publishedAt": "2026-08-22T14:51:33Z",
-        "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
