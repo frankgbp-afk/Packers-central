@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:57:33.552Z",
+  "updatedAt": "2026-08-23T21:54:22.505Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Browns' Monken: Watson's comments not a factor in QB decision",
+        "url": "https://www.espn.com/nfl/story/_/id/49705127/browns-monken-watson-comments-not-factor-qb-decision",
+        "publishedAt": "2026-08-23T21:05:14Z",
+        "summary": "Browns coach Todd Monken said he anticipates naming a starting quarterback Monday but that Deshaun Watson's postgame comments Saturday won't factor into his decision.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "CeeDee Lamb's home burglarized while Cowboys WR was at camp",
+        "url": "https://www.espn.com/nfl/story/_/id/49704684/ceedee-lamb-home-burglarized-cowboys-wr-was-camp",
+        "publishedAt": "2026-08-23T20:47:47Z",
+        "summary": "CeeDee Lamb's home in Fairview, Texas, was burglarized while he was attending training camp with the Dallas Cowboys in Oxnard, California, according to police.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-23T20:27:11Z",
+        "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "49ers activate Kittle from PUP list; McCaffrey returns to practice",
         "url": "https://www.espn.com/nfl/story/_/id/49702970/49ers-activate-star-te-george-kittle-pup-list",
-        "publishedAt": "2026-08-23T19:59:38Z",
+        "publishedAt": "2026-08-23T20:14:23Z",
         "summary": "The 49ers have activated tight end George Kittle from the PUP list as he chases a return for Week 1 against the Rams.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49702892/chargers-place-tyler-biadasz-season-ending-injured-reserve",
         "publishedAt": "2026-08-23T17:54:25Z",
         "summary": "The Chargers placed Tyler Biadasz on season-ending injured reserve after the center suffered damage to his ACL and additional injuries to his left knee.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49702666/sources-browns-lose-de-wright-achilles-season-add-barnett",
         "publishedAt": "2026-08-23T17:51:42Z",
         "summary": "The Browns placed starting defensive end Alex Wright on season-ending injured reserve with a ruptured Achilles and signed veteran defensive end Derek Barnett.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-23T14:49:56Z",
         "summary": "Adam Rank provides the biggest fantasy takeaways from Saturday's NFL preseason games.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49651232/seattle-seahawks-cornerback-devon-witherspoon-blitzing-2026-season",
         "publishedAt": "2026-08-23T10:00:11Z",
         "summary": "The NFL's highest-paid cornerback blitzed with success for Seattle in the Super Bowl. Could we see more of that from Witherspoon this season?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49694778/new-england-patriots-campbell-left-tackle-depth-chart",
         "publishedAt": "2026-08-23T12:16:45Z",
         "summary": "After an up and down rookie season, Campbell focused this offseason on regaining strength lost due to 2025 injury. And he's leaning on his peers for advice.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49698924/browns-qb-competition-heats-contrasting-performances",
         "publishedAt": "2026-08-23T06:22:21Z",
         "summary": "Shedeur Sanders showed some flashes while Deshaun Watson struggled in the Browns' second preseason game.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401874101",
         "publishedAt": "2026-08-23T10:18:32Z",
         "summary": "— Joe Milton had another good day in his quest to become the Dallas Cowboys' backup quarterback. Coach Brian Schottenheimer says there's still work to be done.",
-        "image": "data/news-images/espn-7.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
         "publishedAt": "2026-08-23T04:59:35Z",
         "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dallas Cowboys vs. Arizona Cardinals: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49698258/game-highlights",
-        "publishedAt": "2026-08-23T04:52:27Z",
-        "summary": "Dallas Cowboys vs. Arizona Cardinals: Game Highlights",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chiefs' Butker kicks 69-yard field goal, but has late misses as Daniels rallies Bucs to 16-15 win",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873296",
-        "publishedAt": "2026-08-23T04:11:32Z",
-        "summary": "— A stellar night for Harrison Butker soured in a hurry.",
-        "image": "data/news-images/espn-10.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles' Ja'Quinden Jackson taken to hospital after tackle, has movement",
-        "url": "https://www.espn.com/nfl/story/_/id/49697364/eagles-jaquinden-jackson-taken-hospital-tackle-movement",
-        "publishedAt": "2026-08-23T19:21:11Z",
-        "summary": "Eagles running back Ja'Quinden Jackson left the field by ambulance after being injured on the opening kickoff against the Patriots.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
