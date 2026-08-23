@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:54:13.908Z",
+  "updatedAt": "2026-08-23T03:32:38.051Z",
   "sources": {
     "packers": [
       {
@@ -113,37 +113,37 @@
     ],
     "espn": [
       {
-        "title": "New York Giants vs. Miami Dolphins Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49695752/new-york-giants-vs-miami-dolphins-game-highlights",
-        "publishedAt": "2026-08-22T23:35:57Z",
-        "summary": "New York Giants vs. Miami Dolphins Game Highlights",
+        "title": "Kansas City Chiefs vs. Tampa Bay Buccaneers: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49697324/game-highlights",
+        "publishedAt": "2026-08-23T02:50:23Z",
+        "summary": "Kansas City Chiefs vs. Tampa Bay Buccaneers: Game Highlights",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-22T23:34:24Z",
-        "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
+        "title": "Chicago Bears vs. Cincinnati Bengals Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49697247/chicago-bears-vs-cincinnati-bengals-game-highlights",
+        "publishedAt": "2026-08-23T02:41:30Z",
+        "summary": "Chicago Bears vs. Cincinnati Bengals Game Highlights",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jameis Winston runs for a touchdown in the Giants' 26-3 preseason win over the Dolphins",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873292",
-        "publishedAt": "2026-08-22T23:21:30Z",
-        "summary": "— Jameis Winston threw for 150 yards and ran for a touchdown while playing the first half, and the New York Giants beat the Miami Dolphins 26-3 on Saturday.",
+        "title": "Tommy DeVito throws TD pass, Ja’Quinden Jackson taken off in ambulance as Patriots beat Eagles 24-21",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873293",
+        "publishedAt": "2026-08-23T02:32:31Z",
+        "summary": "— Patriots backup quarterback Tommy DeVito tossed a 69-yard touchdown pass to Kyle Williams and New England beat Philadelphia 24-21 in a preseason game Saturday night in which...",
         "image": "data/news-images/espn-2.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Stetson Bennett looks sharp, Saints' backup QBs don't separate in Rams' 34-0 preseason win",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873290",
-        "publishedAt": "2026-08-22T23:15:32Z",
-        "summary": "— Stetson Bennett passed for 181 yards and rushed for two TDs while leading the Rams to a 20-point halftime lead Saturday, and Los Angeles cruised to a 34-0 preseason victory over the New Orleans Saints.",
+        "title": "40-year-old journeyman QB Josh Johnson leads Bengals to 27-9 preseason victory over Bears",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873289",
+        "publishedAt": "2026-08-23T02:29:30Z",
+        "summary": "— With Joe Burrow, Joe Flacco and the rest of Cincinnati's starters and key backups watching in street clothes, 40-year-old journeyman Josh Johnson led the Bengals to a 27-9 preseason victory over the Chicago Bears on Saturday night.",
         "image": "data/news-images/espn-3.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -151,9 +151,54 @@
       {
         "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
         "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-        "publishedAt": "2026-08-22T23:49:56Z",
+        "publishedAt": "2026-08-23T02:53:36Z",
         "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
         "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Deshaun Watson calls out 'disrespectful' boos from fans",
+        "url": "https://www.espn.com/video/clip/_/id/49696808/deshaun-watson-calls-disrespectful-boos-fans",
+        "publishedAt": "2026-08-23T01:52:16Z",
+        "summary": "Deshaun Watson calls out 'disrespectful' boos from fans",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "New York Giants vs. Miami Dolphins Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49695752/new-york-giants-vs-miami-dolphins-game-highlights",
+        "publishedAt": "2026-08-22T23:35:57Z",
+        "summary": "New York Giants vs. Miami Dolphins Game Highlights",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-23T00:21:31Z",
+        "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jameis Winston runs for a touchdown in the Giants' 26-3 preseason win over the Dolphins",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873292",
+        "publishedAt": "2026-08-23T01:01:29Z",
+        "summary": "— The New York Giants appeared to be the better team during their joint practice with the Miami Dolphins this week.",
+        "image": "data/news-images/espn-8.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Stetson Bennett looks sharp, Saints' backup QBs don't separate in Rams' 34-0 preseason win",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873290",
+        "publishedAt": "2026-08-23T00:47:37Z",
+        "summary": "— Stetson Bennett cleared up the Los Angeles Rams' backup quarterback situation a bit with another solid outing Saturday.",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +207,15 @@
         "url": "https://www.espn.com/video/clip/_/id/49695629/game-highlights",
         "publishedAt": "2026-08-22T23:13:30Z",
         "summary": "New Orleans Saints vs. Los Angeles Rams: Game Highlights",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Browns' Watson calls fans' boos 'personal,' not based on play",
         "url": "https://www.espn.com/nfl/story/_/id/49695585/browns-watson-calls-fans-boos-personal-not-based-play",
-        "publishedAt": "2026-08-22T23:48:51Z",
+        "publishedAt": "2026-08-23T01:52:36Z",
         "summary": "Browns quarterback Deshaun Watson was booed in his first home game since suffering a right Achilles tendon injury in October 2024 and said he thought the reaction from the crowd was \"disrespectful\" and felt \"personal.\"",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Baltimore Ravens vs. Minnesota Vikings: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49695313/game-highlights",
-        "publishedAt": "2026-08-22T22:24:43Z",
-        "summary": "Baltimore Ravens vs. Minnesota Vikings: Game Highlights",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "McCarthy plays 18 snaps, gets 'banged up' in Vikings' loss",
-        "url": "https://www.espn.com/nfl/story/_/id/49695231/mccarthy-plays-18-snaps-gets-banged-vikings-loss",
-        "publishedAt": "2026-08-22T23:13:19Z",
-        "summary": "Quarterback J.J. McCarthy, who ended up with 18 snaps, would have played longer Saturday if he had not gotten \"banged up\" during a rough first quarter in the Minnesota Vikings' 13-3 preseason loss to the Baltimore Ravens, coach Kevin O'Connell said.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49694669/game-highlights",
-        "publishedAt": "2026-08-22T21:14:27Z",
-        "summary": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Shedeur Sanders throws TD pass in final chance to win starting QB job but Bills batter Browns 31-7",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873294",
-        "publishedAt": "2026-08-22T23:14:29Z",
-        "summary": "— As thunder rumbled around Huntington Bank Field following Saturday's game, the Browns' confusing quarterback competition grew stormier.",
-        "image": "data/news-images/espn-10.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Falcons quarterback Michael Penix fully cleared to practice",
-        "url": "https://www.espn.com/nfl/story/_/id/49694493/falcons-quarterback-michael-penix-fully-cleared-practice",
-        "publishedAt": "2026-08-22T21:15:49Z",
-        "summary": "Falcons quarterback Michael Penix Jr. has been cleared to practice fully, head coach Kevin Stefanski said after Saturday's 34-6 preseason win over the Colts.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers Discussion: Should Tyrod Taylor or Kyle McCord be the backup QB?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85083/packers-discussion-should-tyrod-taylor-or-kyle-mccord-be-the-backup-qb",
+        "publishedAt": "2026-08-22T20:23:37-04:00",
+        "summary": "Alright, I’m clearing the lane here so you guys can sound off on what you think about the Green Bay Packers’ backup quarterback job in 2026. It’s a bit of a lightning rod topic, so let’s just set the table and recap how we ended up in the position that we’re at right now. Green [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Green Bay Packers Roster: Post-Preseason Week 2 53-man projection",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85071/green-bay-packers-roster-post-preseason-week-2-53-man-projection",
         "publishedAt": "2026-08-22T19:49:05-04:00",
         "summary": "After Week 2’s action against the Denver Broncos, we did a full breakdown of the Green Bay Packers’ entire depth chart, position-by-position, while showing our work. Now we’re going to take it a step further and update our 53-man roster projection with our best guess on what the team will look like when the club [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85074/packers-injuries-5-players-banged-up-in-win-vs-broncos",
         "publishedAt": "2026-08-22T18:48:23-04:00",
         "summary": "The Athletic’s Matt Schneidman got the scoop on the Green Bay Packers’ injuries from the team’s victory over the Denver Broncos on Friday. According to Schneidman, five Packers suffered injuries last night. The first is cornerback Brandon Cisse, who we knew got banged up on special teams between the first and second drive of defense [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85067/trey-smack-continues-to-pay-off-on-packers-and-fans-faith",
         "publishedAt": "2026-08-22T11:10:00-04:00",
         "summary": "For a second straight preseason game, the Green Bay Packers got a magnificent performance out of rookie kicker Trey Smack. In the Packers’ 33-13 win over the Denver Broncos on Friday night, Smack had another perfect night, hitting all four of his field goal attempts. Similarly to his debut in Pittsburgh, Smack also booted a [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85064/packers-depth-chart-who-played-for-green-bays-1s-and-2s-vs-the-broncos",
         "publishedAt": "2026-08-22T02:57:59-04:00",
         "summary": "If you’re new here, we track who plays with the first- and second-team offensive and defensive units for the Green Bay Packers throughout the preseason because it’s a much cleaner picture of what the team looks like than the overall snap count. When third-stringers are in the game in the first half, like they were [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85061/packers-cb-brandon-cisse-says-injury-vs-broncos-is-nothing-serious",
         "publishedAt": "2026-08-22T01:41:15-04:00",
         "summary": "Green Bay Packers cornerback Brandon Cisse got the start opposite Keisean Nixon on the outside against the Denver Broncos on Friday, but he only played one of the first-team defense’s two drives in the game after going down with an injury after a punt. According to the Green Bay Press-Gazette’s Ryan Wood, Cisse said he [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85050/green-bay-packers-vs-denver-broncos-final-score-recap-trey-smack-continues-hot-start",
         "publishedAt": "2026-08-22T00:16:16-04:00",
         "summary": "Coming into tonight’s action, the Green Bay Packers hadn’t won a game since December 7th against the Chicago Bears, as their last trip to Denver started them on a five game-losing streak (six if you want to include the preseason opener) that capped off with the team being sent home by those same Bears in [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85002/packers-vs-broncos-preseason-game-discussion",
         "publishedAt": "2026-08-21T20:00:00-04:00",
         "summary": "Let’s hope this year’s Green Bay Packers game at Mile High Stadium doesn’t end in similar fashion to the one that took place last December. That sentiment has nothing to do with the result of the game; if the Packers give up a halftime lead on Friday night and end up losing the game, nobody [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85037/kyle-mccord-should-fix-one-thing",
         "publishedAt": "2026-08-21T15:19:52-04:00",
         "summary": "When it comes to backup quarterbacks, I have two profiles that I prefer. The first is the hyper-athlete, along the lines of Malik Willis, because with an extremely shifty, mobile quarterback, at least you can do SOMETHING if he’s forced into the game. Willis is perhaps the best possible version of this quarterback because he [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85020/packers-to-watch-in-the-preseason-broncos-matchup",
         "publishedAt": "2026-08-21T15:15:00-04:00",
         "summary": "The NFL regular season is quickly approaching, but a few Green Bay Packers players are facing big moments in the preseason, including in Friday night’s contest against the Denver Broncos. Whether it’s players fighting for starting/rotational roles on either side of the ball, or under-the-radar names simply trying to make the 53-man roster, there’s still [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers tease new uniform reveal coming next Tuesday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85031/packers-tease-new-uniform-reveal-coming-next-tuesday",
-        "publishedAt": "2026-08-21T14:32:21-04:00",
-        "summary": "The wait for the Packers’ long-anticipated/long-feared “Rivalries” uniform reveal is almost over. The team posted a short teaser video today, announcing the reveal of new alternate uniforms will be coming on Tuesday, August 25. The Packers are getting their new look courtesy of the dual NFL/Nike “Rivalries” uniform venture, duplicating similar initiatives in both the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
