@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T13:48:37.078Z",
+  "updatedAt": "2026-08-23T14:59:41.350Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football buzz: What you need to know from Saturday's games",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-08-23T14:49:56Z",
+        "summary": "Adam Rank provides the biggest fantasy takeaways from Saturday's NFL preseason games.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Seahawks' Devon Witherspoon got paid. Will his role change?",
         "url": "https://www.espn.com/nfl/story/_/id/49651232/seattle-seahawks-cornerback-devon-witherspoon-blitzing-2026-season",
         "publishedAt": "2026-08-23T10:00:11Z",
         "summary": "The NFL's highest-paid cornerback blitzed with success for Seattle in the Super Bowl. Could we see more of that from Witherspoon this season?",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49694778/new-england-patriots-campbell-left-tackle-depth-chart",
         "publishedAt": "2026-08-23T12:16:45Z",
         "summary": "After an up and down rookie season, Campbell focused this offseason on regaining strength lost due to 2025 injury. And he's leaning on his peers for advice.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49698924/browns-qb-competition-heats-contrasting-performances",
         "publishedAt": "2026-08-23T06:22:21Z",
         "summary": "Shedeur Sanders showed some flashes while Deshaun Watson struggled in the Browns' second preseason game.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401874101",
         "publishedAt": "2026-08-23T10:18:32Z",
         "summary": "— Joe Milton had another good day in his quest to become the Dallas Cowboys' backup quarterback. Coach Brian Schottenheimer says there's still work to be done.",
-        "image": "data/news-images/espn-3.png",
+        "image": "data/news-images/espn-4.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
         "publishedAt": "2026-08-23T04:59:35Z",
         "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49698258/game-highlights",
         "publishedAt": "2026-08-23T04:52:27Z",
         "summary": "Dallas Cowboys vs. Arizona Cardinals: Game Highlights",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873296",
         "publishedAt": "2026-08-23T04:11:32Z",
         "summary": "— A stellar night for Harrison Butker soured in a hurry.",
-        "image": "data/news-images/espn-6.png",
+        "image": "data/news-images/espn-7.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49697364/eagles-jaquinden-jackson-taken-hospital-tackle-movement",
         "publishedAt": "2026-08-23T11:52:20Z",
         "summary": "Philadelphia Eagles running back Ja'Quinden Jackson left the field by ambulance after being injured on the opening kickoff in Saturday's preseason game against the New England Patriots.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49697361/patriots-come-back-win-home-eagles",
         "publishedAt": "2026-08-23T03:12:21Z",
         "summary": "Patriots come back to win at home over Eagles",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49697324/game-highlights",
         "publishedAt": "2026-08-23T02:50:23Z",
         "summary": "Kansas City Chiefs vs. Tampa Bay Buccaneers: Game Highlights",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,16 +216,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49697247/chicago-bears-vs-cincinnati-bengals-game-highlights",
         "publishedAt": "2026-08-23T02:41:30Z",
         "summary": "Chicago Bears vs. Cincinnati Bengals Game Highlights",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tommy DeVito throws TD pass, Ja’Quinden Jackson taken off in ambulance as Patriots beat Eagles 24-21",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873293",
-        "publishedAt": "2026-08-23T03:44:29Z",
-        "summary": "— The Patriots are set at quarterback with Drake Maye. So are the Eagles with Jalen Hurts. But the players vying to back them up made strong statements in Saturday's preseason game.",
-        "image": "data/news-images/espn-11.png",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
