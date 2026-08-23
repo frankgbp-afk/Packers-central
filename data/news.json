@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:32:38.051Z",
+  "updatedAt": "2026-08-23T05:49:25.863Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Milton throws 2 TDs in 1st half, makes case for Cowboys' backup job in 34-13 win over Cardinals",
+        "url": "http://www.espn.com/nfl/recap?gameId=401874101",
+        "publishedAt": "2026-08-23T04:58:30Z",
+        "summary": "— Joe Milton threw two touchdown passes and ran for a score in another strong effort to secure the backup quarterback job, sparking the Dallas Cowboys to a 34-13 preseason victory over the Arizona Cardinals on Saturday night.",
+        "image": "data/news-images/espn-0.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
+        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
+        "publishedAt": "2026-08-23T04:59:35Z",
+        "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Dallas Cowboys vs. Arizona Cardinals: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49698258/game-highlights",
+        "publishedAt": "2026-08-23T04:52:27Z",
+        "summary": "Dallas Cowboys vs. Arizona Cardinals: Game Highlights",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chiefs' Butker kicks 69-yard field goal, but has late misses as Daniels rallies Bucs to 16-15 win",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873296",
+        "publishedAt": "2026-08-23T04:11:32Z",
+        "summary": "— A stellar night for Harrison Butker soured in a hurry.",
+        "image": "data/news-images/espn-3.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Eagles' Ja'Quinden Jackson taken to hospital after tackle, has movement",
+        "url": "https://www.espn.com/nfl/story/_/id/49697364/eagles-jaquinden-jackson-taken-hospital-tackle-movement",
+        "publishedAt": "2026-08-23T03:41:13Z",
+        "summary": "Philadelphia Eagles running back Ja'Quinden Jackson left the field by ambulance after being injured on the opening kickoff in Saturday's preseason game against the New England Patriots.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots come back to win at home over Eagles",
+        "url": "https://www.espn.com/video/clip/_/id/49697361/patriots-come-back-win-home-eagles",
+        "publishedAt": "2026-08-23T03:12:21Z",
+        "summary": "Patriots come back to win at home over Eagles",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Kansas City Chiefs vs. Tampa Bay Buccaneers: Game Highlights",
         "url": "https://www.espn.com/video/clip/_/id/49697324/game-highlights",
         "publishedAt": "2026-08-23T02:50:23Z",
         "summary": "Kansas City Chiefs vs. Tampa Bay Buccaneers: Game Highlights",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,34 +180,25 @@
         "url": "https://www.espn.com/video/clip/_/id/49697247/chicago-bears-vs-cincinnati-bengals-game-highlights",
         "publishedAt": "2026-08-23T02:41:30Z",
         "summary": "Chicago Bears vs. Cincinnati Bengals Game Highlights",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Tommy DeVito throws TD pass, Ja’Quinden Jackson taken off in ambulance as Patriots beat Eagles 24-21",
         "url": "http://www.espn.com/nfl/recap?gameId=401873293",
-        "publishedAt": "2026-08-23T02:32:31Z",
-        "summary": "— Patriots backup quarterback Tommy DeVito tossed a 69-yard touchdown pass to Kyle Williams and New England beat Philadelphia 24-21 in a preseason game Saturday night in which...",
-        "image": "data/news-images/espn-2.png",
+        "publishedAt": "2026-08-23T03:44:29Z",
+        "summary": "— The Patriots are set at quarterback with Drake Maye. So are the Eagles with Jalen Hurts. But the players vying to back them up made strong statements in Saturday's preseason game.",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "40-year-old journeyman QB Josh Johnson leads Bengals to 27-9 preseason victory over Bears",
         "url": "http://www.espn.com/nfl/recap?gameId=401873289",
-        "publishedAt": "2026-08-23T02:29:30Z",
+        "publishedAt": "2026-08-23T03:31:29Z",
         "summary": "— With Joe Burrow, Joe Flacco and the rest of Cincinnati's starters and key backups watching in street clothes, 40-year-old journeyman Josh Johnson led the Bengals to a 27-9 preseason victory over the Chicago Bears on Saturday night.",
-        "image": "data/news-images/espn-3.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
-        "url": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-        "publishedAt": "2026-08-23T02:53:36Z",
-        "summary": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49696808/deshaun-watson-calls-disrespectful-boos-fans",
         "publishedAt": "2026-08-23T01:52:16Z",
         "summary": "Deshaun Watson calls out 'disrespectful' boos from fans",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49695752/new-york-giants-vs-miami-dolphins-game-highlights",
         "publishedAt": "2026-08-22T23:35:57Z",
         "summary": "New York Giants vs. Miami Dolphins Game Highlights",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-23T00:21:31Z",
-        "summary": "Catch up on our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jameis Winston runs for a touchdown in the Giants' 26-3 preseason win over the Dolphins",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873292",
-        "publishedAt": "2026-08-23T01:01:29Z",
-        "summary": "— The New York Giants appeared to be the better team during their joint practice with the Miami Dolphins this week.",
-        "image": "data/news-images/espn-8.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Stetson Bennett looks sharp, Saints' backup QBs don't separate in Rams' 34-0 preseason win",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873290",
-        "publishedAt": "2026-08-23T00:47:37Z",
-        "summary": "— Stetson Bennett cleared up the Los Angeles Rams' backup quarterback situation a bit with another solid outing Saturday.",
-        "image": "data/news-images/espn-9.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "New Orleans Saints vs. Los Angeles Rams: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49695629/game-highlights",
-        "publishedAt": "2026-08-22T23:13:30Z",
-        "summary": "New Orleans Saints vs. Los Angeles Rams: Game Highlights",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Browns' Watson calls fans' boos 'personal,' not based on play",
-        "url": "https://www.espn.com/nfl/story/_/id/49695585/browns-watson-calls-fans-boos-personal-not-based-play",
-        "publishedAt": "2026-08-23T01:52:36Z",
-        "summary": "Browns quarterback Deshaun Watson was booed in his first home game since suffering a right Achilles tendon injury in October 2024 and said he thought the reaction from the crowd was \"disrespectful\" and felt \"personal.\"",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
