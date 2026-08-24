@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-24T22:01:30.901Z",
+  "updatedAt": "2026-08-24T23:02:17.644Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers to welcome Arizona Cardinals for joint practice, bike tradition",
+        "url": "https://www.packers.com/news/packers-to-welcome-arizona-cardinals-for-joint-practice-bike-tradition-2026",
+        "publishedAt": "Mon, 24 Aug 2026 22:11:06 GMT",
+        "summary": "Start time for practice changed to 11:30 a.m.; kids invited to bring bikes to offer Cardinals and Packers players rides to practice",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "5 things learned at Packers training camp – Aug. 24",
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 21:54:00 GMT",
         "summary": "Several defensive standouts in Monday’s practice",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/packers-announce-time-change-for-joint-practice-with-cardinals-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:58:32 GMT",
         "summary": "Start time moved to 11:30 a.m. CT on Wednesday, Aug. 26",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-finish-preseason-against-cardinals-pre-week-3-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:57:27 GMT",
         "summary": "The contest will feature brothers Matt and Mike LaFleur as the opposing head coaches",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/titletown-gameday-live-presented-by-american-family-insurance-set-to-debut-for-regular-season-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 18:29:13 GMT",
         "summary": "Event kicks off for 2026 season at 3:15 p.m. on Sept. 24 throughout Titletown",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 15:30:00 GMT",
         "summary": "Follow along for practice updates live from Ray Nitschke Field",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/john-williams-has-been-big-surprise-this-preseason-for-packers-o-line-aug-22-2026",
         "publishedAt": "Mon, 24 Aug 2026 14:00:00 GMT",
         "summary": "Key comments from Green Bay’s coordinators and offensive assistants",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-he-continually-proves-he-s-a-pro-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 13:30:00 GMT",
         "summary": "This is not an easy process",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/inbox-that-s-starting-to-show-aug-22-2026",
         "publishedAt": "Sat, 22 Aug 2026 15:30:00 GMT",
         "summary": "Preseason can be a crazy time",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-broncos-preseason-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:09:17 GMT",
         "summary": "RB MarShawn Lloyd, WR Will Sheppard score touchdowns",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/game-notes-packers-rb-marshawn-lloyd-relished-long-awaited-return-to-end-zone-pre-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:05:00 GMT",
         "summary": "Trey Smack goes 4-for-4 on field goals, Pierre Strong Jr. breaks kickoff return",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-2-broncos-2026",
         "publishedAt": "Sat, 22 Aug 2026 01:47:50 GMT",
         "summary": "Good finish to first half built Green Bay’s lead",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "14 Packers not suiting up in Denver",
-        "url": "https://www.packers.com/news/14-packers-not-suiting-up-in-denver",
-        "publishedAt": "Sat, 22 Aug 2026 00:44:09 GMT",
-        "summary": "List of scratches similar to last week",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -124,7 +124,7 @@
       {
         "title": "LSU's Lane Kiffin defends pursuit of NFL players returning to college",
         "url": "https://www.espn.com/college-football/story/_/id/49715699/lsu-lane-kiffin-defends-pursuit-nfl-players-returning-college",
-        "publishedAt": "2026-08-24T21:45:44Z",
+        "publishedAt": "2026-08-24T22:07:29Z",
         "summary": "LSU's Lane Kiffin defended his decision to pursue NFL rookies seeking a fifth year of playing college football, saying he's just one of many coaches trying to do so.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
