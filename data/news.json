@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-24T17:07:40.501Z",
+  "updatedAt": "2026-08-24T19:16:28.637Z",
   "sources": {
     "packers": [
+      {
+        "title": "'Titletown Gameday Live presented by American Family Insurance' set to debut for regular season",
+        "url": "https://www.packers.com/news/titletown-gameday-live-presented-by-american-family-insurance-set-to-debut-for-regular-season-aug-24-2026",
+        "publishedAt": "Mon, 24 Aug 2026 18:29:13 GMT",
+        "summary": "Event kicks off for 2026 season at 3:15 p.m. on Sept. 24 throughout Titletown",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Live Look-In: Packers Training Camp | August 24, 2026",
         "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 15:30:00 GMT",
         "summary": "Follow along for practice updates live from Ray Nitschke Field",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/john-williams-has-been-big-surprise-this-preseason-for-packers-o-line-aug-22-2026",
         "publishedAt": "Mon, 24 Aug 2026 14:00:00 GMT",
         "summary": "Key comments from Green Bay’s coordinators and offensive assistants",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-he-continually-proves-he-s-a-pro-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 13:30:00 GMT",
         "summary": "This is not an easy process",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/inbox-that-s-starting-to-show-aug-22-2026",
         "publishedAt": "Sat, 22 Aug 2026 15:30:00 GMT",
         "summary": "Preseason can be a crazy time",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-broncos-preseason-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:09:17 GMT",
         "summary": "RB MarShawn Lloyd, WR Will Sheppard score touchdowns",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/game-notes-packers-rb-marshawn-lloyd-relished-long-awaited-return-to-end-zone-pre-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:05:00 GMT",
         "summary": "Trey Smack goes 4-for-4 on field goals, Pierre Strong Jr. breaks kickoff return",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-2-broncos-2026",
         "publishedAt": "Sat, 22 Aug 2026 01:47:50 GMT",
         "summary": "Good finish to first half built Green Bay’s lead",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/14-packers-not-suiting-up-in-denver",
         "publishedAt": "Sat, 22 Aug 2026 00:44:09 GMT",
         "summary": "List of scratches similar to last week",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vs-broncos-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 20:00:00 GMT",
         "summary": "Follow Green Bay Packers vs. Denver Broncos with live updates from Empower Field at Mile High",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-vs-broncos-what-to-watch-for-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 14:00:00 GMT",
         "summary": "Topics of interest for preseason game No. 2",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/packers-vs-broncos-how-to-watch-stream-listen-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 13:55:00 GMT",
         "summary": "Green Bay Packers vs. Denver Broncos channel listing, radio & streaming options",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: That would be the biggest win of all",
-        "url": "https://www.packers.com/news/inbox-that-would-be-the-biggest-win-of-all-aug-21-2026",
-        "publishedAt": "Fri, 21 Aug 2026 13:30:00 GMT",
-        "summary": "It’s gonna go right down to the wire on the Packers’ defensive line",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Mike Vrabel emphasizes player development at presser",
-        "url": "https://www.espn.com/video/clip/_/id/49712742/mike-vrabel-emphasizes-player-development-presser",
-        "publishedAt": "2026-08-24T16:20:00Z",
-        "summary": "Mike Vrabel emphasizes player development at presser",
+        "title": "Eagles WR Lemon practices, expects to be in top form for opener",
+        "url": "https://www.espn.com/nfl/story/_/id/49714361/eagles-wr-lemon-practices-expects-top-form-opener",
+        "publishedAt": "2026-08-24T19:14:33Z",
+        "summary": "Eagles rookie receiver Makai Lemon participated fully in practice for the first time since injuring his hamstring early in training camp Monday and believes he can be in top form for the season opener against the Commanders on September 13.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "49ers owner Jed York arrested, pleads no contest to misdemeanor charges",
-        "url": "https://www.espn.com/nfl/story/_/id/49712639/49ers-owner-jed-york-arrested-pleads-no-contest-misdemeanor-charges",
-        "publishedAt": "2026-08-24T16:07:37Z",
-        "summary": "49ers owner Jed York pleaded no contest to a pair of misdemeanor charges after being arrested in Ohio on suspicion of engaging in prostitution.",
+        "title": "Sources: Patriots trading Boutte to Texans for Reed, draft pick",
+        "url": "https://www.espn.com/nfl/story/_/id/49714288/patriots-trading-boutte-texans-reed-draft-pick",
+        "publishedAt": "2026-08-24T19:08:47Z",
+        "summary": "The Patriots have agreed to a trade that will send wide receiver Kayshon Boutte to the Houston Texans, sources confirmed to ESPN on Monday.",
         "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
+        "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
+        "publishedAt": "2026-08-24T18:58:43Z",
+        "summary": "We're following trades right through the kickoff of the 2026 NFL season, including Kayshon Boutte going to the Texans.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 New England Patriots training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-24T18:58:52Z",
+        "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Carolina Panthers training camp: Latest intel, updates",
+        "url": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates",
+        "publishedAt": "2026-08-24T18:29:57Z",
+        "summary": "Catch up on our updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Matt LaFleur on upcoming joint practice against younger brother Mike",
+        "url": "https://www.espn.com/video/clip/_/id/49713827/matt-lafleur-upcoming-joint-practice-younger-brother-mike",
+        "publishedAt": "2026-08-24T18:32:08Z",
+        "summary": "Matt LaFleur on upcoming joint practice against younger brother Mike  ",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bengals release offensive lineman Cody Ford after three seasons",
+        "url": "https://www.espn.com/nfl/story/_/id/49713714/bengals-release-offensive-lineman-cody-ford-three-seasons",
+        "publishedAt": "2026-08-24T18:24:03Z",
+        "summary": "The Bengals released offensive lineman Cody Ford on Monday.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Field Yates' fantasy football PPR rankings: Top 160 for 2026",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
+        "publishedAt": "2026-08-24T17:53:56Z",
+        "summary": "Field provides his latest rankings for the upcoming season, which will be updated throughout the summer.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football Knockout league rankings: The 252 players to draft",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+        "publishedAt": "2026-08-24T17:37:59Z",
+        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Mike Vrabel emphasizes player development at presser",
+        "url": "https://www.espn.com/video/clip/_/id/49712742/mike-vrabel-emphasizes-player-development-presser",
+        "publishedAt": "2026-08-24T16:20:00Z",
+        "summary": "Mike Vrabel emphasizes player development at presser",
+        "image": "data/news-images/espn-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers owner Jed York arrested on suspicion of engaging in prostitution",
+        "url": "https://www.espn.com/nfl/story/_/id/49712639/49ers-owner-jed-york-arrested-pleads-no-contest-misdemeanor-charges",
+        "publishedAt": "2026-08-24T18:58:49Z",
+        "summary": "49ers owner Jed York pleaded no contest to a pair of misdemeanor charges after being arrested in Ohio on suspicion of engaging in prostitution.",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Mike McCarthy says Steelers at 'impasse' with CB Joey Porter",
         "url": "https://www.espn.com/nfl/story/_/id/49712570/mike-mccarthy-says-steelers-impasse-cb-joey-porter",
-        "publishedAt": "2026-08-24T16:12:09Z",
+        "publishedAt": "2026-08-24T18:07:52Z",
         "summary": "The Steelers are at an \"impasse\" with Joey Porter Jr. as the cornerback remains sidelined on the physically unable to perform list, coach Mike McCarthy says.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Matt LaFleur, Mike LaFleur ready for Packers-Cardinals work",
-        "url": "https://www.espn.com/nfl/story/_/id/49712568/matt-lafleur-mike-lafleur-ready-packers-cardinals-work",
-        "publishedAt": "2026-08-24T15:56:55Z",
-        "summary": "Brothers Matt LaFleur and Mike LaFleur prepare to meet as head coaches as Matt's Packers host younger brother Mike's Cardinals in a joint practice and preseason game this week.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Saints to sign two-time All-Pro kicker Daniel Carlson",
-        "url": "https://www.espn.com/nfl/story/_/id/49712363/saints-sign-two-all-pro-kicker-daniel-carlson",
-        "publishedAt": "2026-08-24T16:31:25Z",
-        "summary": "The Saints are signing free agent kicker Daniel Carlson, his agents told The NFL Network's Mike Garafolo and Ian Rapoport.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Orlovsky: Chiefs' dependence on rookies is concerning",
-        "url": "https://www.espn.com/video/clip/_/id/49712245/chiefs-dependence-rookies-concerning",
-        "publishedAt": "2026-08-24T15:19:28Z",
-        "summary": "Orlovsky: Chiefs' dependence on rookies is concerning",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Should fantasy managers be worried about Ashton Jeanty's injury?",
-        "url": "https://www.espn.com/video/clip/_/id/49712218/should-fantasy-managers-worried-ashton-jeanty-injury",
-        "publishedAt": "2026-08-24T15:36:27Z",
-        "summary": "Should fantasy managers be worried about Ashton Jeanty's injury?",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Browns turn to QB Watson with Sanders (and 2027 draft class) lurking",
-        "url": "https://www.espn.com/nfl/story/_/id/49710491/cleveland-browns-deshaun-watson-starting-quarterback-shedeur-sanders-2027-draft-class-lurking",
-        "publishedAt": "2026-08-24T15:33:58Z",
-        "summary": "Cleveland's quest to answer the franchise's quarterback quandary brings them back to a 30-year-old who faces enormous pressure to succeed.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Drafting Monday? What you need to know about Jeanty, Raiders",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-24T15:51:22Z",
-        "summary": "As we await a timetable on Ashton Jeanty, here is an update on his draft outlook and an insurance RB to watch.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Should fantasy managers bet on Mike Washington Jr with Jeanty out?",
-        "url": "https://www.espn.com/video/clip/_/id/49711789/should-fantasy-managers-bet-mike-washington-jr-jeanty-out",
-        "publishedAt": "2026-08-24T15:29:58Z",
-        "summary": "Should fantasy managers bet on Mike Washington Jr with Jeanty out? ",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Kevin Clark: 'Pathetic' for Browns to start Watson",
-        "url": "https://www.espn.com/video/clip/_/id/49711735/pathetic-browns-start-watson",
-        "publishedAt": "2026-08-24T14:20:53Z",
-        "summary": "Kevin Clark: 'Pathetic' for Browns to start Watson",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Browns tab Deshaun Watson, not Shedeur Sanders, as QB1",
-        "url": "https://www.espn.com/nfl/story/_/id/49711613/sources-browns-tab-deshaun-watson-not-shedeur-sanders-qb1",
-        "publishedAt": "2026-08-24T16:24:18Z",
-        "summary": "Deshaun Watson will open the season as the Browns' starting quarterback, coach Todd Monken announced Monday.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
