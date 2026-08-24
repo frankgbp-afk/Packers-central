@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-24T14:27:41.843Z",
+  "updatedAt": "2026-08-24T17:07:40.501Z",
   "sources": {
     "packers": [
+      {
+        "title": "Live Look-In: Packers Training Camp | August 24, 2026",
+        "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-24-2026",
+        "publishedAt": "Mon, 24 Aug 2026 15:30:00 GMT",
+        "summary": "Follow along for practice updates live from Ray Nitschke Field",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "John Williams has been 'big surprise this preseason' for Packers' O-line",
         "url": "https://www.packers.com/news/john-williams-has-been-big-surprise-this-preseason-for-packers-o-line-aug-22-2026",
         "publishedAt": "Mon, 24 Aug 2026 14:00:00 GMT",
         "summary": "Key comments from Green Bay’s coordinators and offensive assistants",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-he-continually-proves-he-s-a-pro-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 13:30:00 GMT",
         "summary": "This is not an easy process",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-that-s-starting-to-show-aug-22-2026",
         "publishedAt": "Sat, 22 Aug 2026 15:30:00 GMT",
         "summary": "Preseason can be a crazy time",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-broncos-preseason-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:09:17 GMT",
         "summary": "RB MarShawn Lloyd, WR Will Sheppard score touchdowns",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/game-notes-packers-rb-marshawn-lloyd-relished-long-awaited-return-to-end-zone-pre-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:05:00 GMT",
         "summary": "Trey Smack goes 4-for-4 on field goals, Pierre Strong Jr. breaks kickoff return",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-2-broncos-2026",
         "publishedAt": "Sat, 22 Aug 2026 01:47:50 GMT",
         "summary": "Good finish to first half built Green Bay’s lead",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/14-packers-not-suiting-up-in-denver",
         "publishedAt": "Sat, 22 Aug 2026 00:44:09 GMT",
         "summary": "List of scratches similar to last week",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vs-broncos-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 20:00:00 GMT",
         "summary": "Follow Green Bay Packers vs. Denver Broncos with live updates from Empower Field at Mile High",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-vs-broncos-what-to-watch-for-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 14:00:00 GMT",
         "summary": "Topics of interest for preseason game No. 2",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-vs-broncos-how-to-watch-stream-listen-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 13:55:00 GMT",
         "summary": "Green Bay Packers vs. Denver Broncos channel listing, radio & streaming options",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/inbox-that-would-be-the-biggest-win-of-all-aug-21-2026",
         "publishedAt": "Fri, 21 Aug 2026 13:30:00 GMT",
         "summary": "It’s gonna go right down to the wire on the Packers’ defensive line",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers to host Season Kickoff Watch Party at Titletown Sunday, Sept. 13",
-        "url": "https://www.packers.com/news/packers-to-host-season-kickoff-watch-party-at-titletown-sunday-sept-13-2026",
-        "publishedAt": "Thu, 20 Aug 2026 17:26:13 GMT",
-        "summary": "Registration required for event presented by Sirius XM, Ticketmaster, Polaris and Verizon; festivities for all ages beginning at 11:25 a.m.",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Kevin Clark: 'Pathetic' for Browns to start Watson",
-        "url": "https://www.espn.com/video/clip/_/id/49711735/pathetic-browns-start-watson",
-        "publishedAt": "2026-08-24T14:20:53Z",
-        "summary": "Kevin Clark: 'Pathetic' for Browns to start Watson",
+        "title": "Mike Vrabel emphasizes player development at presser",
+        "url": "https://www.espn.com/video/clip/_/id/49712742/mike-vrabel-emphasizes-player-development-presser",
+        "publishedAt": "2026-08-24T16:20:00Z",
+        "summary": "Mike Vrabel emphasizes player development at presser",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Browns tab Deshaun Watson, not Shedeur Sanders, as QB1",
-        "url": "https://www.espn.com/nfl/story/_/id/49711613/sources-browns-tab-deshaun-watson-not-shedeur-sanders-qb1",
-        "publishedAt": "2026-08-24T14:24:28Z",
-        "summary": "Deshaun Watson will open the season as the Browns' starting quarterback, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+        "title": "49ers owner Jed York arrested, pleads no contest to misdemeanor charges",
+        "url": "https://www.espn.com/nfl/story/_/id/49712639/49ers-owner-jed-york-arrested-pleads-no-contest-misdemeanor-charges",
+        "publishedAt": "2026-08-24T16:07:37Z",
+        "summary": "49ers owner Jed York pleaded no contest to a pair of misdemeanor charges after being arrested in Ohio on suspicion of engaging in prostitution.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "When will the Raiders start Mendoza?",
-        "url": "https://www.espn.com/video/clip/_/id/49711235/when-raiders-start-mendoza",
-        "publishedAt": "2026-08-24T13:18:34Z",
-        "summary": "When will the Raiders start Mendoza?",
+        "title": "Mike McCarthy says Steelers at 'impasse' with CB Joey Porter",
+        "url": "https://www.espn.com/nfl/story/_/id/49712570/mike-mccarthy-says-steelers-impasse-cb-joey-porter",
+        "publishedAt": "2026-08-24T16:12:09Z",
+        "summary": "The Steelers are at an \"impasse\" with Joey Porter Jr. as the cornerback remains sidelined on the physically unable to perform list, coach Mike McCarthy says.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Patriots' Vrabel says starters sitting in order to develop depth",
-        "url": "https://www.espn.com/nfl/story/_/id/49711015/patriots-vrabel-says-starters-sitting-order-develop-depth",
-        "publishedAt": "2026-08-24T12:39:02Z",
-        "summary": "When Patriots coach Mike Vrabel said \"I do not think we have a very deep team\" on Saturday, he was highlighting why Drake Maye, A.J. Brown and other starters haven't played in a preseason game. But was Vrabel also sending a message to the front office?",
+        "title": "Matt LaFleur, Mike LaFleur ready for Packers-Cardinals work",
+        "url": "https://www.espn.com/nfl/story/_/id/49712568/matt-lafleur-mike-lafleur-ready-packers-cardinals-work",
+        "publishedAt": "2026-08-24T15:56:55Z",
+        "summary": "Brothers Matt LaFleur and Mike LaFleur prepare to meet as head coaches as Matt's Packers host younger brother Mike's Cardinals in a joint practice and preseason game this week.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-24T10:36:37Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+        "title": "Saints to sign two-time All-Pro kicker Daniel Carlson",
+        "url": "https://www.espn.com/nfl/story/_/id/49712363/saints-sign-two-all-pro-kicker-daniel-carlson",
+        "publishedAt": "2026-08-24T16:31:25Z",
+        "summary": "The Saints are signing free agent kicker Daniel Carlson, his agents told The NFL Network's Mike Garafolo and Ian Rapoport.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Field's favorites: The nine players who should go earlier than their ADPs",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49684093/2026-fantasy-football-draft-value-picks-favorite-players-field-yates",
-        "publishedAt": "2026-08-24T10:34:44Z",
-        "summary": "The players Field Yates has been happy to snag most often in drafts this summer.",
+        "title": "Orlovsky: Chiefs' dependence on rookies is concerning",
+        "url": "https://www.espn.com/video/clip/_/id/49712245/chiefs-dependence-rookies-concerning",
+        "publishedAt": "2026-08-24T15:19:28Z",
+        "summary": "Orlovsky: Chiefs' dependence on rookies is concerning",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Predicting NFL teams most likely to improve in 2026 season",
-        "url": "https://www.espn.com/nfl/story/_/id/49671327/2026-nfl-season-predict-teams-improve-more-wins-chiefs-lions-giants-jets-ravens",
-        "publishedAt": "2026-08-24T11:32:53Z",
-        "summary": "Can the Giants and Jets improve on their awful 2025 records? Will the Chiefs, Lions and Ravens all make it back to the playoffs?",
+        "title": "Should fantasy managers be worried about Ashton Jeanty's injury?",
+        "url": "https://www.espn.com/video/clip/_/id/49712218/should-fantasy-managers-worried-ashton-jeanty-injury",
+        "publishedAt": "2026-08-24T15:36:27Z",
+        "summary": "Should fantasy managers be worried about Ashton Jeanty's injury?",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Cleveland Browns: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49669885/2026-nfl-season-cleveland-browns-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T10:01:00Z",
-        "summary": "Not only is there the question of who will be QB1 in Cleveland, but how many signal-callers will even be on the team roster?",
+        "title": "Browns turn to QB Watson with Sanders (and 2027 draft class) lurking",
+        "url": "https://www.espn.com/nfl/story/_/id/49710491/cleveland-browns-deshaun-watson-starting-quarterback-shedeur-sanders-2027-draft-class-lurking",
+        "publishedAt": "2026-08-24T15:33:58Z",
+        "summary": "Cleveland's quest to answer the franchise's quarterback quandary brings them back to a 30-year-old who faces enormous pressure to succeed.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 New England Patriots: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49663810/2026-nfl-season-new-england-patriots-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T10:00:31Z",
-        "summary": "There is one burning question facing the roster: How many receivers will New England keep with seven potential options in play?",
+        "title": "Fantasy football buzz: Drafting Monday? What you need to know about Jeanty, Raiders",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-08-24T15:51:22Z",
+        "summary": "As we await a timetable on Ashton Jeanty, here is an update on his draft outlook and an insurance RB to watch.",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Los Angeles Chargers: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49682597/2026-nfl-season-los-angeles-chargers-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T10:01:02Z",
-        "summary": "Coach Jim Harbaugh and GM Joe Hortiz have difficult decisions to make at outside linebacker, safety and offensive line.",
+        "title": "Should fantasy managers bet on Mike Washington Jr with Jeanty out?",
+        "url": "https://www.espn.com/video/clip/_/id/49711789/should-fantasy-managers-bet-mike-washington-jr-jeanty-out",
+        "publishedAt": "2026-08-24T15:29:58Z",
+        "summary": "Should fantasy managers bet on Mike Washington Jr with Jeanty out? ",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 Seattle Seahawks: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49663819/2026-nfl-season-seattle-seahawks-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T11:39:54Z",
-        "summary": "Let's predict how many wide receivers and cornerbacks Seattle will keep on its roster as Sunday's cut-down day looms.",
+        "title": "Kevin Clark: 'Pathetic' for Browns to start Watson",
+        "url": "https://www.espn.com/video/clip/_/id/49711735/pathetic-browns-start-watson",
+        "publishedAt": "2026-08-24T14:20:53Z",
+        "summary": "Kevin Clark: 'Pathetic' for Browns to start Watson",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL 53-man roster projections for all 32 teams",
-        "url": "https://www.espn.com/nfl/story/_/id/49609341/2026-nfl-53-man-roster-projections-every-team-positions-cuts",
-        "publishedAt": "2026-08-24T10:01:11Z",
-        "summary": "Our NFL Nation team reporters are forecasting who will make all 32 teams' rosters, one week from the cut-down deadline at 6 p.m. ET on Sunday.",
+        "title": "Browns tab Deshaun Watson, not Shedeur Sanders, as QB1",
+        "url": "https://www.espn.com/nfl/story/_/id/49711613/sources-browns-tab-deshaun-watson-not-shedeur-sanders-qb1",
+        "publishedAt": "2026-08-24T16:24:18Z",
+        "summary": "Deshaun Watson will open the season as the Browns' starting quarterback, coach Todd Monken announced Monday.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,38 @@
     ],
     "acme": [
       {
+        "title": "Packers’ Matt LaFleur gives injury updates on Brandon Cisse, Aaron Banks, others",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/85154/packers-matt-lafleur-gives-injury-updates-on-brandon-cisse-aaron-banks-others",
+        "publishedAt": "2026-08-24T11:10:00-04:00",
+        "summary": "Green Bay Packers fans can breathe a sigh of relief on the statuses of a few of the team’s key players who were injured in or before Friday’s preseason game in Denver. Speaking to the press ahead of the team’s penultimate open practice on Monday, head coach Matt LaFleur provided a positive update on Brandon [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Has Packers’ defensive line goes from weakness to strength in record time?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85150/has-packers-defensive-line-goes-from-weakness-to-strength-in-record-time",
+        "publishedAt": "2026-08-24T11:00:00-04:00",
+        "summary": "At the end of the 2025 season, the Green Bay Packers’ defensive line was running on fumes and waiver claims, and the team’s inability to stop the run was painfully apparent. A defense that had allowed an average of 98.3 rushing yards per game through its first 11 games gave up 164.2 yards per game [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Time to temper expectations after two games?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85147/green-bay-packers-news-time-to-temper-expectations-after-two-games",
+        "publishedAt": "2026-08-24T08:45:00-04:00",
+        "summary": "Through two preseason games, the Green Bay Packers have seen plenty of encouraging signs from the players who should have key roles in the regular season. The first game saw the third and fourth string units get exposed in the second half, but in both contests, the starting offense and defense looked solid at worst. [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Film Room, Preseason Week 2: Trey Smack",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85135/packers-film-room-preseason-week-2-trey-smack",
         "publishedAt": "2026-08-24T06:43:07-04:00",
         "summary": "By now, I think we’ve all seen Green Bay Packers special teams coordinator Cam Achord’s presser where he talked about how the hold will change depending on different factors while kicking a field goal. But, in case you missed it, here it is: Here’s a bit of a summary:1. A lot of kickers like the [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85118/packers-discussion-how-many-green-bay-players-are-roster-locks",
         "publishedAt": "2026-08-23T19:01:49-04:00",
         "summary": "It’s a little bit of a dead period in camp, where we can finally all catch our breath after Friday’s preseason game against the Denver Broncos. Why not embrace debate? How many players do you think have a roster spot locked in going into the preseason finale against the Arizona Cardinals, where the backups should [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85087/packers-film-room-preseason-week-2-jordan-love",
         "publishedAt": "2026-08-23T18:07:28-04:00",
         "summary": "Last week, we looked at Green Bay Packers quarterback Jordan Love’s 5 dropbacks in the opening preseason game. We’re doing the same thing with this week’s game against the Denver Broncos. Love and the first-team offense only got one drive, but it was a long one: a 12-play, 63-yard drive that took 6 minutes &#38; [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85083/packers-discussion-should-tyrod-taylor-or-kyle-mccord-be-the-backup-qb",
         "publishedAt": "2026-08-22T20:23:37-04:00",
         "summary": "Alright, I’m clearing the lane here so you guys can sound off on what you think about the Green Bay Packers’ backup quarterback job in 2026. It’s a bit of a lightning rod topic, so let’s just set the table and recap how we ended up in the position that we’re at right now. Green [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85071/green-bay-packers-roster-post-preseason-week-2-53-man-projection",
         "publishedAt": "2026-08-22T19:49:05-04:00",
         "summary": "After Week 2’s action against the Denver Broncos, we did a full breakdown of the Green Bay Packers’ entire depth chart, position-by-position, while showing our work. Now we’re going to take it a step further and update our 53-man roster projection with our best guess on what the team will look like when the club [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85074/packers-injuries-5-players-banged-up-in-win-vs-broncos",
         "publishedAt": "2026-08-22T18:48:23-04:00",
         "summary": "The Athletic’s Matt Schneidman got the scoop on the Green Bay Packers’ injuries from the team’s victory over the Denver Broncos on Friday. According to Schneidman, five Packers suffered injuries last night. The first is cornerback Brandon Cisse, who we knew got banged up on special teams between the first and second drive of defense [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,33 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85067/trey-smack-continues-to-pay-off-on-packers-and-fans-faith",
         "publishedAt": "2026-08-22T11:10:00-04:00",
         "summary": "For a second straight preseason game, the Green Bay Packers got a magnificent performance out of rookie kicker Trey Smack. In the Packers’ 33-13 win over the Denver Broncos on Friday night, Smack had another perfect night, hitting all four of his field goal attempts. Similarly to his debut in Pittsburgh, Smack also booted a [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Depth Chart: Who played for Green Bay’s 1s and 2s vs. the Broncos?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85064/packers-depth-chart-who-played-for-green-bays-1s-and-2s-vs-the-broncos",
-        "publishedAt": "2026-08-22T02:57:59-04:00",
-        "summary": "If you’re new here, we track who plays with the first- and second-team offensive and defensive units for the Green Bay Packers throughout the preseason because it’s a much cleaner picture of what the team looks like than the overall snap count. When third-stringers are in the game in the first half, like they were [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers CB Brandon Cisse says injury vs. Broncos is ‘nothing serious’",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85061/packers-cb-brandon-cisse-says-injury-vs-broncos-is-nothing-serious",
-        "publishedAt": "2026-08-22T01:41:15-04:00",
-        "summary": "Green Bay Packers cornerback Brandon Cisse got the start opposite Keisean Nixon on the outside against the Denver Broncos on Friday, but he only played one of the first-team defense’s two drives in the game after going down with an injury after a punt. According to the Green Bay Press-Gazette’s Ryan Wood, Cisse said he [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers vs. Denver Broncos final score, recap: Trey Smack continues hot start",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85050/green-bay-packers-vs-denver-broncos-final-score-recap-trey-smack-continues-hot-start",
-        "publishedAt": "2026-08-22T00:16:16-04:00",
-        "summary": "Coming into tonight’s action, the Green Bay Packers hadn’t won a game since December 7th against the Chicago Bears, as their last trip to Denver started them on a five game-losing streak (six if you want to include the preseason opener) that capped off with the team being sent home by those same Bears in [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
