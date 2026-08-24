@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-08-24T12:02:05.833Z",
+  "updatedAt": "2026-08-24T14:27:41.843Z",
   "sources": {
     "packers": [
+      {
+        "title": "John Williams has been 'big surprise this preseason' for Packers' O-line",
+        "url": "https://www.packers.com/news/john-williams-has-been-big-surprise-this-preseason-for-packers-o-line-aug-22-2026",
+        "publishedAt": "Mon, 24 Aug 2026 14:00:00 GMT",
+        "summary": "Key comments from Green Bay’s coordinators and offensive assistants",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: He continually proves he's a pro",
+        "url": "https://www.packers.com/news/inbox-he-continually-proves-he-s-a-pro-aug-24-2026",
+        "publishedAt": "Mon, 24 Aug 2026 13:30:00 GMT",
+        "summary": "This is not an easy process",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: That's starting to show",
         "url": "https://www.packers.com/news/inbox-that-s-starting-to-show-aug-22-2026",
         "publishedAt": "Sat, 22 Aug 2026 15:30:00 GMT",
         "summary": "Preseason can be a crazy time",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-broncos-preseason-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:09:17 GMT",
         "summary": "RB MarShawn Lloyd, WR Will Sheppard score touchdowns",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/game-notes-packers-rb-marshawn-lloyd-relished-long-awaited-return-to-end-zone-pre-week-2-2026",
         "publishedAt": "Sat, 22 Aug 2026 05:05:00 GMT",
         "summary": "Trey Smack goes 4-for-4 on field goals, Pierre Strong Jr. breaks kickoff return",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-2-broncos-2026",
         "publishedAt": "Sat, 22 Aug 2026 01:47:50 GMT",
         "summary": "Good finish to first half built Green Bay’s lead",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/14-packers-not-suiting-up-in-denver",
         "publishedAt": "Sat, 22 Aug 2026 00:44:09 GMT",
         "summary": "List of scratches similar to last week",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vs-broncos-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 20:00:00 GMT",
         "summary": "Follow Green Bay Packers vs. Denver Broncos with live updates from Empower Field at Mile High",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-vs-broncos-what-to-watch-for-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 14:00:00 GMT",
         "summary": "Topics of interest for preseason game No. 2",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-vs-broncos-how-to-watch-stream-listen-preseason-week-2-2026",
         "publishedAt": "Fri, 21 Aug 2026 13:55:00 GMT",
         "summary": "Green Bay Packers vs. Denver Broncos channel listing, radio & streaming options",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/inbox-that-would-be-the-biggest-win-of-all-aug-21-2026",
         "publishedAt": "Fri, 21 Aug 2026 13:30:00 GMT",
         "summary": "It’s gonna go right down to the wire on the Packers’ defensive line",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/packers-to-host-season-kickoff-watch-party-at-titletown-sunday-sept-13-2026",
         "publishedAt": "Thu, 20 Aug 2026 17:26:13 GMT",
         "summary": "Registration required for event presented by Sirius XM, Ticketmaster, Polaris and Verizon; festivities for all ages beginning at 11:25 a.m.",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers QB Kyle McCord aims for preseason repeat",
-        "url": "https://www.packers.com/news/packers-qb-kyle-mccord-aims-for-preseason-repeat-aug-20-2026",
-        "publishedAt": "Thu, 20 Aug 2026 14:00:00 GMT",
-        "summary": "No. 3 signal caller looking to build on last week’s performance",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Brenton Cox Jr. brings it every day",
-        "url": "https://www.packers.com/news/inbox-brenton-cox-jr-brings-it-every-day-aug-20-2026",
-        "publishedAt": "Thu, 20 Aug 2026 13:30:00 GMT",
-        "summary": "As grueling as camp gets, you can’t break stride until the finish line",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,47 @@
     ],
     "espn": [
       {
+        "title": "Kevin Clark: 'Pathetic' for Browns to start Watson",
+        "url": "https://www.espn.com/video/clip/_/id/49711735/pathetic-browns-start-watson",
+        "publishedAt": "2026-08-24T14:20:53Z",
+        "summary": "Kevin Clark: 'Pathetic' for Browns to start Watson",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Browns tab Deshaun Watson, not Shedeur Sanders, as QB1",
+        "url": "https://www.espn.com/nfl/story/_/id/49711613/sources-browns-tab-deshaun-watson-not-shedeur-sanders-qb1",
+        "publishedAt": "2026-08-24T14:24:28Z",
+        "summary": "Deshaun Watson will open the season as the Browns' starting quarterback, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "When will the Raiders start Mendoza?",
+        "url": "https://www.espn.com/video/clip/_/id/49711235/when-raiders-start-mendoza",
+        "publishedAt": "2026-08-24T13:18:34Z",
+        "summary": "When will the Raiders start Mendoza?",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots' Vrabel says starters sitting in order to develop depth",
+        "url": "https://www.espn.com/nfl/story/_/id/49711015/patriots-vrabel-says-starters-sitting-order-develop-depth",
+        "publishedAt": "2026-08-24T12:39:02Z",
+        "summary": "When Patriots coach Mike Vrabel said \"I do not think we have a very deep team\" on Saturday, he was highlighting why Drake Maye, A.J. Brown and other starters haven't played in a preseason game. But was Vrabel also sending a message to the front office?",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-08-24T10:36:37Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49684093/2026-fantasy-football-draft-value-picks-favorite-players-field-yates",
         "publishedAt": "2026-08-24T10:34:44Z",
         "summary": "The players Field Yates has been happy to snag most often in drafts this summer.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49671327/2026-nfl-season-predict-teams-improve-more-wins-chiefs-lions-giants-jets-ravens",
         "publishedAt": "2026-08-24T11:32:53Z",
         "summary": "Can the Giants and Jets improve on their awful 2025 records? Will the Chiefs, Lions and Ravens all make it back to the playoffs?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49669885/2026-nfl-season-cleveland-browns-final-roster-projection-depth-chart",
         "publishedAt": "2026-08-24T10:01:00Z",
         "summary": "Not only is there the question of who will be QB1 in Cleveland, but how many signal-callers will even be on the team roster?",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49663810/2026-nfl-season-new-england-patriots-final-roster-projection-depth-chart",
         "publishedAt": "2026-08-24T10:00:31Z",
         "summary": "There is one burning question facing the roster: How many receivers will New England keep with seven potential options in play?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49682597/2026-nfl-season-los-angeles-chargers-final-roster-projection-depth-chart",
         "publishedAt": "2026-08-24T10:01:02Z",
         "summary": "Coach Jim Harbaugh and GM Joe Hortiz have difficult decisions to make at outside linebacker, safety and offensive line.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49663819/2026-nfl-season-seattle-seahawks-final-roster-projection-depth-chart",
         "publishedAt": "2026-08-24T11:39:54Z",
         "summary": "Let's predict how many wide receivers and cornerbacks Seattle will keep on its roster as Sunday's cut-down day looms.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,42 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49609341/2026-nfl-53-man-roster-projections-every-team-positions-cuts",
         "publishedAt": "2026-08-24T10:01:11Z",
         "summary": "Our NFL Nation team reporters are forecasting who will make all 32 teams' rosters, one week from the cut-down deadline at 6 p.m. ET on Sunday.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Pittsburgh Steelers: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49659150/2026-nfl-season-pittsburgh-steelers-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T10:01:51Z",
-        "summary": "The toughest decision facing Pittsburgh comes behind QB Aaron Rodgers and the deliberation between keeping two or three backups.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Tampa Bay Buccaneers: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49685840/2026-nfl-season-tampa-bay-buccaneers-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T10:01:01Z",
-        "summary": "Tampa Bay has some decisions to make on defense.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Detroit Lions: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49663557/2026-nfl-season-detroit-lions-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T10:00:44Z",
-        "summary": "Who will make the team? Which positions have tough decisions on deck? Lions reporter Eric Woodyard makes his predictions.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Denver Broncos: Projecting final 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49662953/2026-nfl-season-denver-broncos-final-roster-projection-depth-chart",
-        "publishedAt": "2026-08-24T10:02:12Z",
-        "summary": "The Broncos have mostly run it back with last season's AFC Championship Game roster, but there are a couple positions worth watching.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
