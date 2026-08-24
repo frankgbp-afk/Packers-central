@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:02:17.644Z",
+  "updatedAt": "2026-08-24T23:55:08.100Z",
   "sources": {
     "packers": [
       {
@@ -113,29 +113,47 @@
     ],
     "espn": [
       {
+        "title": "Gibbs or Bijan: Who should be the first pick in fantasy drafts?",
+        "url": "https://www.espn.com/video/clip/_/id/49716521/the-first-pick-fantasy-drafts",
+        "publishedAt": "2026-08-24T23:38:17Z",
+        "summary": "Gibbs or Bijan: Who should be the first pick in fantasy drafts?",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "ESPN Fantasy Football Hall of Fame inducts its first two players",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49711175/espn-fantasy-football-hall-fame",
+        "publishedAt": "2026-08-24T23:37:37Z",
+        "summary": "A celebration of the best players and moments since ESPN's fantasy game was introduced in 1995.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Cowboys OL Shiyazh Pete, Schottenheimer reflect on viral postgame speech",
         "url": "https://www.espn.com/nfl/story/_/id/49715273/dallas-cowboys-shiyazh-pete-brian-schottenheimer-postgame-speech",
         "publishedAt": "2026-08-24T21:47:49Z",
         "summary": "Shiyazh Pete, a member of the Navajo Nation, said the reaction from fans during the Cowboys game against the Cardinals was overwhelming to him.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "LSU's Lane Kiffin defends pursuit of NFL players returning to college",
         "url": "https://www.espn.com/college-football/story/_/id/49715699/lsu-lane-kiffin-defends-pursuit-nfl-players-returning-college",
-        "publishedAt": "2026-08-24T22:07:29Z",
+        "publishedAt": "2026-08-24T23:09:50Z",
         "summary": "LSU's Lane Kiffin defended his decision to pursue NFL rookies seeking a fifth year of playing college football, saying he's just one of many coaches trying to do so.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "2026 Green Bay Packers training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-24T21:38:00Z",
+        "publishedAt": "2026-08-24T22:32:01Z",
         "summary": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49715422/harbaugh-reasonable-assume-nabers-ready-opener",
         "publishedAt": "2026-08-24T21:31:33Z",
         "summary": "Giants wide receiver Malik Nabers shed the red no-contact jersey and took part in live drills Monday for the first time with Week 1 in sight.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49715232/why-dan-orlovsky-loves-kayshon-boutte-trade-texans",
         "publishedAt": "2026-08-24T20:36:55Z",
         "summary": "Why Dan Orlovsky loves Kayshon Boutte's trade to Texans",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
         "publishedAt": "2026-08-24T20:22:03Z",
         "summary": "We're sizing up post-June 1 deals, including the blockbuster A.J. Brown and Myles Garrett trades along with Kayshon Boutte going to Houston.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-24T20:15:33Z",
         "summary": "What does Monday's trade mean for Kayshon Boutte's fantasy potential as he joins the Houston Texans?",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49714805/ravens-believe-center-danny-pinter-season",
         "publishedAt": "2026-08-24T20:08:39Z",
         "summary": "The Ravens now believe center Danny Pinter is out for the season and are unsure whether Pro Bowl defensive tackle Nnamdi Madubuike will be ready for the start of the regular season.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49682780/2026-nfl-season-las-vegas-raiders-final-roster-projection-depth-chart",
         "publishedAt": "2026-08-24T19:41:07Z",
         "summary": "Coach Klint Kubiak and GM John Spytek have difficult decisions to make at quarterback, wide receiver and cornerback.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49714361/eagles-wr-lemon-practices-expects-top-form-opener",
         "publishedAt": "2026-08-24T19:34:05Z",
         "summary": "Eagles rookie receiver Makai Lemon participated fully in practice for the first time since injuring his hamstring early in training camp Monday and believes he can be in top form for the season opener against the Commanders on Sept. 13.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Patriots trade Kayshon Boutte to Texans for Jaylen Reed, pick",
-        "url": "https://www.espn.com/nfl/story/_/id/49714288/patriots-trading-boutte-texans-reed-draft-pick",
-        "publishedAt": "2026-08-24T21:53:44Z",
-        "summary": "The Texans acquired wide receiver Kayshon Boutte in a trade with the Patriots on Monday.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
-        "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
-        "publishedAt": "2026-08-24T18:58:43Z",
-        "summary": "We're following trades right through the kickoff of the 2026 NFL season, including Kayshon Boutte going to the Texans.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,56 +223,11 @@
     ],
     "acme": [
       {
-        "title": "Packers Training Camp Recap: Final open practice before the Cardinals come to town",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85164/packers-training-camp-recap-final-open-practice-before-the-cardinals-come-to-town",
-        "publishedAt": "2026-08-24T16:57:24-04:00",
-        "summary": "The Green Bay Packers had about a two-hour practice on Monday that got a chippy at the end. The first fight started between receiver Matthew Golden and edge defender Barryn Sorrell, two Texas Longhorns who were brought to the Packers via last year’s draft. According to reports from the press, linebacker Zaire Franklin and edge [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ Matt LaFleur gives injury updates on Brandon Cisse, Aaron Banks, others",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/85154/packers-matt-lafleur-gives-injury-updates-on-brandon-cisse-aaron-banks-others",
-        "publishedAt": "2026-08-24T11:10:00-04:00",
-        "summary": "Green Bay Packers fans can breathe a sigh of relief on the statuses of a few of the team’s key players who were injured in or before Friday’s preseason game in Denver. Speaking to the press ahead of the team’s penultimate open practice on Monday, head coach Matt LaFleur provided a positive update on Brandon [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Has Packers’ defensive line goes from weakness to strength in record time?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85150/has-packers-defensive-line-goes-from-weakness-to-strength-in-record-time",
-        "publishedAt": "2026-08-24T11:00:00-04:00",
-        "summary": "At the end of the 2025 season, the Green Bay Packers’ defensive line was running on fumes and waiver claims, and the team’s inability to stop the run was painfully apparent. A defense that had allowed an average of 98.3 rushing yards per game through its first 11 games gave up 164.2 yards per game [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Time to temper expectations after two games?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85147/green-bay-packers-news-time-to-temper-expectations-after-two-games",
-        "publishedAt": "2026-08-24T08:45:00-04:00",
-        "summary": "Through two preseason games, the Green Bay Packers have seen plenty of encouraging signs from the players who should have key roles in the regular season. The first game saw the third and fourth string units get exposed in the second half, but in both contests, the starting offense and defense looked solid at worst. [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room, Preseason Week 2: Trey Smack",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85135/packers-film-room-preseason-week-2-trey-smack",
-        "publishedAt": "2026-08-24T06:43:07-04:00",
-        "summary": "By now, I think we’ve all seen Green Bay Packers special teams coordinator Cam Achord’s presser where he talked about how the hold will change depending on different factors while kicking a field goal. But, in case you missed it, here it is: Here’s a bit of a summary:1. A lot of kickers like the [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "Packers Discussion: How many Green Bay players are roster locks?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85118/packers-discussion-how-many-green-bay-players-are-roster-locks",
         "publishedAt": "2026-08-23T19:01:49-04:00",
         "summary": "It’s a little bit of a dead period in camp, where we can finally all catch our breath after Friday’s preseason game against the Denver Broncos. Why not embrace debate? How many players do you think have a roster spot locked in going into the preseason finale against the Arizona Cardinals, where the backups should [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85087/packers-film-room-preseason-week-2-jordan-love",
         "publishedAt": "2026-08-23T18:07:28-04:00",
         "summary": "Last week, we looked at Green Bay Packers quarterback Jordan Love’s 5 dropbacks in the opening preseason game. We’re doing the same thing with this week’s game against the Denver Broncos. Love and the first-team offense only got one drive, but it was a long one: a 12-play, 63-yard drive that took 6 minutes &#38; [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85083/packers-discussion-should-tyrod-taylor-or-kyle-mccord-be-the-backup-qb",
         "publishedAt": "2026-08-22T20:23:37-04:00",
         "summary": "Alright, I’m clearing the lane here so you guys can sound off on what you think about the Green Bay Packers’ backup quarterback job in 2026. It’s a bit of a lightning rod topic, so let’s just set the table and recap how we ended up in the position that we’re at right now. Green [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85071/green-bay-packers-roster-post-preseason-week-2-53-man-projection",
         "publishedAt": "2026-08-22T19:49:05-04:00",
         "summary": "After Week 2’s action against the Denver Broncos, we did a full breakdown of the Green Bay Packers’ entire depth chart, position-by-position, while showing our work. Now we’re going to take it a step further and update our 53-man roster projection with our best guess on what the team will look like when the club [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +263,51 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85074/packers-injuries-5-players-banged-up-in-win-vs-broncos",
         "publishedAt": "2026-08-22T18:48:23-04:00",
         "summary": "The Athletic’s Matt Schneidman got the scoop on the Green Bay Packers’ injuries from the team’s victory over the Denver Broncos on Friday. According to Schneidman, five Packers suffered injuries last night. The first is cornerback Brandon Cisse, who we knew got banged up on special teams between the first and second drive of defense [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Trey Smack continues to pay off on Packers’ and fans’ faith",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85067/trey-smack-continues-to-pay-off-on-packers-and-fans-faith",
+        "publishedAt": "2026-08-22T11:10:00-04:00",
+        "summary": "For a second straight preseason game, the Green Bay Packers got a magnificent performance out of rookie kicker Trey Smack. In the Packers’ 33-13 win over the Denver Broncos on Friday night, Smack had another perfect night, hitting all four of his field goal attempts. Similarly to his debut in Pittsburgh, Smack also booted a [&#8230;]",
+        "image": "data/news-images/acme-5.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Depth Chart: Who played for Green Bay’s 1s and 2s vs. the Broncos?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85064/packers-depth-chart-who-played-for-green-bays-1s-and-2s-vs-the-broncos",
+        "publishedAt": "2026-08-22T02:57:59-04:00",
+        "summary": "If you’re new here, we track who plays with the first- and second-team offensive and defensive units for the Green Bay Packers throughout the preseason because it’s a much cleaner picture of what the team looks like than the overall snap count. When third-stringers are in the game in the first half, like they were [&#8230;]",
+        "image": "data/news-images/acme-6.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers CB Brandon Cisse says injury vs. Broncos is ‘nothing serious’",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85061/packers-cb-brandon-cisse-says-injury-vs-broncos-is-nothing-serious",
+        "publishedAt": "2026-08-22T01:41:15-04:00",
+        "summary": "Green Bay Packers cornerback Brandon Cisse got the start opposite Keisean Nixon on the outside against the Denver Broncos on Friday, but he only played one of the first-team defense’s two drives in the game after going down with an injury after a punt. According to the Green Bay Press-Gazette’s Ryan Wood, Cisse said he [&#8230;]",
+        "image": "data/news-images/acme-7.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers vs. Denver Broncos final score, recap: Trey Smack continues hot start",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85050/green-bay-packers-vs-denver-broncos-final-score-recap-trey-smack-continues-hot-start",
+        "publishedAt": "2026-08-22T00:16:16-04:00",
+        "summary": "Coming into tonight’s action, the Green Bay Packers hadn’t won a game since December 7th against the Chicago Bears, as their last trip to Denver started them on a five game-losing streak (six if you want to include the preseason opener) that capped off with the team being sent home by those same Bears in [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Broncos Preseason Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85002/packers-vs-broncos-preseason-game-discussion",
+        "publishedAt": "2026-08-21T20:00:00-04:00",
+        "summary": "Let’s hope this year’s Green Bay Packers game at Mile High Stadium doesn’t end in similar fashion to the one that took place last December. That sentiment has nothing to do with the result of the game; if the Packers give up a halftime lead on Friday night and end up losing the game, nobody [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
