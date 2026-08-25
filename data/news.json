@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:27:36.926Z",
+  "updatedAt": "2026-08-25T05:52:32.455Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Allen Robinson officially announces retirement on 33rd birthday",
+        "url": "https://www.espn.com/nfl/story/_/id/49718354/allen-robinson-officially-announces-retirement-33rd-birthday",
+        "publishedAt": "2026-08-25T04:29:37Z",
+        "summary": "Allen Robinson, a former Pro Bowl receiver who most recently played in the NFL in 2024, officially announced his retirement Monday.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Why Liz Loza is avoiding Joe Burrow in fantasy drafts",
         "url": "https://www.espn.com/video/clip/_/id/49717034/why-liz-loza-avoiding-joe-burrow-fantasy-drafts",
         "publishedAt": "2026-08-25T00:49:59Z",
         "summary": "Why Liz Loza is avoiding Joe Burrow in fantasy drafts",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49717013/cardinals-activate-edge-rusher-josh-sweat-pup-list",
         "publishedAt": "2026-08-25T00:57:35Z",
         "summary": "Cardinals pass rusher Josh Sweat was activated off the physically unable to perform list Monday.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/college-football/story/_/id/49716985/pro-athletes-not-return-college-competition",
         "publishedAt": "2026-08-25T02:19:56Z",
         "summary": "As LSU hopes to sign NFL tight end Dae'Quan Wright, if he clears waivers, the SEC on Monday issued a statement emphasizing its belief that athletes who choose to leave to sign pro contracts \"should not then be permitted to return to college competition.\"",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49716920/which-panthers-rb-preferred-fantasy-option",
         "publishedAt": "2026-08-25T00:40:00Z",
         "summary": "Which Panthers RB is the preferred fantasy option?",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49716656/kyler-murray-one-sneakiest-late-round-fliers-qb",
         "publishedAt": "2026-08-25T00:02:16Z",
         "summary": "Clay: Kyler Murray could be one of the 'sneakiest late-round fliers' at QB",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49716563/texas-police-close-case-death-bills-defensive-tackle-ed-oliver-son",
         "publishedAt": "2026-08-25T00:26:33Z",
         "summary": "A police investigation into the death of Bills defensive tackle Ed Oliver's son has resulted in no criminal findings and the case is now considered closed, the Harris County Sheriff's Office in Texas announced Monday.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49716521/the-first-pick-fantasy-drafts",
         "publishedAt": "2026-08-24T23:54:38Z",
         "summary": "Gibbs or Bijan: Who should be the first pick in fantasy drafts?",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49711175/espn-fantasy-football-hall-fame",
         "publishedAt": "2026-08-24T23:37:37Z",
         "summary": "A celebration of the best players and moments since ESPN's fantasy game was introduced in 1995.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,16 +198,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49715273/dallas-cowboys-shiyazh-pete-brian-schottenheimer-postgame-speech",
         "publishedAt": "2026-08-24T21:47:49Z",
         "summary": "Shiyazh Pete, a member of the Navajo Nation, said the reaction from fans during the Cowboys game against the Cardinals was overwhelming to him.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "LSU's Lane Kiffin defends pursuit of NFL players returning to college",
         "url": "https://www.espn.com/college-football/story/_/id/49715699/lsu-lane-kiffin-defends-pursuit-nfl-players-returning-college",
-        "publishedAt": "2026-08-25T00:57:07Z",
+        "publishedAt": "2026-08-25T04:41:37Z",
         "summary": "LSU's Lane Kiffin defended his decision to pursue NFL rookies seeking a fifth year of playing college football, saying he's just one of many coaches trying to do so.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-24T22:32:01Z",
         "summary": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Harbaugh: 'Reasonable to assume' Nabers will be ready for opener",
-        "url": "https://www.espn.com/nfl/story/_/id/49715422/harbaugh-reasonable-assume-nabers-ready-opener",
-        "publishedAt": "2026-08-24T21:31:33Z",
-        "summary": "Giants wide receiver Malik Nabers shed the red no-contact jersey and took part in live drills Monday for the first time with Week 1 in sight.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
