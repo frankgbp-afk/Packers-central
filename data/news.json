@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:03:34.674Z",
+  "updatedAt": "2026-08-25T21:13:53.179Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Bengals' Ja'Marr Chase says he is 'fine' after injury scare",
+        "url": "https://www.espn.com/nfl/story/_/id/49724848/bengals-jamarr-chase-says-fine-injury-scare",
+        "publishedAt": "2026-08-25T20:29:31Z",
+        "summary": "Bengals star Ja'Marr Chase says he is \"fine\" after an injury scare at practice in which the WR appeared to injure his knee.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Raiders' Klint Kubiak says injured Ashton Jeanty 'on the mend'",
+        "url": "https://www.espn.com/nfl/story/_/id/49724805/raiders-klint-kubiak-says-injured-ashton-jeanty-mend",
+        "publishedAt": "2026-08-25T20:30:47Z",
+        "summary": "Asked Tuesday about the severity of Ashton Jeanty's injury or if the second-year player will begin the season on the injured reserve, coach Klint Kubiak simply said, \"He's on the mend.\"",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "New York Giants WR Calvin Austin carted off practice field",
         "url": "https://www.espn.com/nfl/story/_/id/49724505/new-york-giants-wr-calvin-austin-carted-practice-field",
-        "publishedAt": "2026-08-25T19:58:33Z",
-        "summary": "New York Giants receiver Calvin Austin, 27, who was having a strong camp and preseason and looked to be on track for a prominent role on offense, was carted off the field during a training camp practice Tuesday after appearing to injure his right knee.",
-        "image": "data/news-images/espn-0.jpg",
+        "publishedAt": "2026-08-25T20:39:18Z",
+        "summary": "New York receiver Calvin Austin III, 27, who signed with the Giants after spending four seasons with Pittsburgh, suffered a \"serious\" injury to his right knee while running a route at Tuesday's training camp practice, a source told ESPN's Adam Schefter.",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Patrick Mahomes feeling 'great,' on track to start Week 1",
         "url": "https://www.espn.com/nfl/story/_/id/49724277/patrick-mahomes-feeling-great-track-start-week-1",
-        "publishedAt": "2026-08-25T19:38:34Z",
+        "publishedAt": "2026-08-25T20:07:50Z",
         "summary": "Chiefs QB Patrick Mahomes said he has felt better and better the more he has practiced this summer and expects to remain on track to start in Week 1.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49723906/welcome-new-era-espn-fantasy-football",
         "publishedAt": "2026-08-25T18:05:16Z",
         "summary": "Welcome to a new era of ESPN Fantasy Football",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49723682/sources-cardinals-hjalte-froholdt-reach-2-year-20m-extension",
         "publishedAt": "2026-08-25T17:49:25Z",
         "summary": "The Cardinals and center Hjalte Froholdt have agreed to terms on a two-year, $20 million contract extension, sources told NFL Network's Ian Rapoport on Tuesday.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49723635/49ers-owner-jed-york-contacted-fictitious-prostitution-ad-3-s-arrest",
         "publishedAt": "2026-08-25T18:16:55Z",
         "summary": "49ers owner Jed York used a pseudonym and responded multiple times to a fictitious ad for a prostitute prior to his arrest in Ohio over the weekend.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49722980/how-kyler-murray-makes-justin-jefferson-more-enticing-fantasy-pick",
         "publishedAt": "2026-08-25T16:10:38Z",
         "summary": "How Kyler Murray makes Justin Jefferson a more enticing fantasy pick",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49722917/does-kayshon-boutte-trade-texans-help-fantasy-stock",
         "publishedAt": "2026-08-25T16:33:03Z",
         "summary": "Does Kayshon Boutte's trade to Texans help his fantasy stock?",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49722685/giants-top-10-offense-healthy-malik-nabers",
         "publishedAt": "2026-08-25T15:22:00Z",
         "summary": "Jordan Rodgers: Giants a top-10 offense with a healthy Malik Nabers",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49722622/why-fantasy-managers-bet-jaxson-dart",
         "publishedAt": "2026-08-25T18:20:33Z",
         "summary": "Why fantasy managers should bet on Jaxson Dart",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49722598/is-matthew-golden-late-round-fantasy-steal",
         "publishedAt": "2026-08-25T15:35:42Z",
         "summary": "Is Matthew Golden a late-round fantasy steal?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Field Yates can't work out Bryce Young in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/49722593/why-field-yates-work-bryce-young-fantasy",
-        "publishedAt": "2026-08-25T15:32:58Z",
-        "summary": "Why Field Yates can't work out Bryce Young in fantasy",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "McCourty's message to Deshaun Watson on fan criticism: 'Deal with it'",
-        "url": "https://www.espn.com/video/clip/_/id/49722557/deal-it",
-        "publishedAt": "2026-08-25T14:57:14Z",
-        "summary": "McCourty's message to Deshaun Watson on fan criticism: 'Deal with it'  ",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
