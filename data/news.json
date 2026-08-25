@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-08-25T16:18:22.001Z",
+  "updatedAt": "2026-08-25T19:16:28.114Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers, Thrivent announce details of new 'Game Changing Players' community program",
+        "url": "https://www.packers.com/news/packers-thrivent-announce-details-of-new-game-changing-players-community-program-2026",
+        "publishedAt": "Tue, 25 Aug 2026 18:49:01 GMT",
+        "summary": "10 Wisconsin nonprofits to be honored on gamedays this season",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers vs. Cardinals | How to watch, stream & listen | Preseason Week 3",
+        "url": "https://www.packers.com/news/packers-vs-cardinals-how-to-watch-stream-listen-preseason-week-3-2026",
+        "publishedAt": "Tue, 25 Aug 2026 17:55:15 GMT",
+        "summary": "Green Bay Packers vs. Arizona Cardinals channel listing, radio & streaming options",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers reveal NFL Rivalries uniforms, celebrating team's unique ownership",
         "url": "https://www.packers.com/news/packers-reveal-nfl-rivalries-uniforms-celebrating-team-s-unique-ownership",
         "publishedAt": "Tue, 25 Aug 2026 13:55:00 GMT",
         "summary": "New jersey, pants and helmet, along with unique product line, highlights public ownership, team history and fan culture",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-trending-in-the-right-direction-aug-25-2026",
         "publishedAt": "Tue, 25 Aug 2026 13:30:00 GMT",
         "summary": "The Packers’ rookie class has played its way into the conversation",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-to-welcome-arizona-cardinals-for-joint-practice-bike-tradition-2026",
         "publishedAt": "Mon, 24 Aug 2026 22:11:06 GMT",
         "summary": "Start time for practice changed to 11:30 a.m.; kids invited to bring bikes to offer Cardinals and Packers players rides to practice",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 21:54:00 GMT",
         "summary": "Several defensive standouts in Monday’s practice",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-announce-time-change-for-joint-practice-with-cardinals-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:58:32 GMT",
         "summary": "Start time moved to 11:30 a.m. CT on Wednesday, Aug. 26",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-finish-preseason-against-cardinals-pre-week-3-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:57:27 GMT",
         "summary": "The contest will feature brothers Matt and Mike LaFleur as the opposing head coaches",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/titletown-gameday-live-presented-by-american-family-insurance-set-to-debut-for-regular-season-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 18:29:13 GMT",
         "summary": "Event kicks off for 2026 season at 3:15 p.m. on Sept. 24 throughout Titletown",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 15:30:00 GMT",
         "summary": "Follow along for practice updates live from Ray Nitschke Field",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/john-williams-has-been-big-surprise-this-preseason-for-packers-o-line-aug-22-2026",
         "publishedAt": "Mon, 24 Aug 2026 14:00:00 GMT",
         "summary": "Key comments from Green Bay’s coordinators and offensive assistants",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/inbox-he-continually-proves-he-s-a-pro-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 13:30:00 GMT",
         "summary": "This is not an easy process",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: That's starting to show",
-        "url": "https://www.packers.com/news/inbox-that-s-starting-to-show-aug-22-2026",
-        "publishedAt": "Sat, 22 Aug 2026 15:30:00 GMT",
-        "summary": "Preseason can be a crazy time",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Game recap: 5 takeaways from Packers' preseason win over Broncos",
-        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-broncos-preseason-week-2-2026",
-        "publishedAt": "Sat, 22 Aug 2026 05:09:17 GMT",
-        "summary": "RB MarShawn Lloyd, WR Will Sheppard score touchdowns",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
+        "title": "Patrick Mahomes feeling 'great', on track to start Week 1",
+        "url": "https://www.espn.com/nfl/story/_/id/49724277/patrick-mahomes-feeling-great-track-start-week-1",
+        "publishedAt": "2026-08-25T19:12:09Z",
+        "summary": "Chiefs QB Patrick Mahomes said he's felt better and better the more he's practiced this summer and expects to remain on track to start in Week 1.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Welcome to a new era of ESPN Fantasy Football",
+        "url": "https://www.espn.com/video/clip/_/id/49723906/welcome-new-era-espn-fantasy-football",
+        "publishedAt": "2026-08-25T18:05:16Z",
+        "summary": "Welcome to a new era of ESPN Fantasy Football",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Cardinals, Hjalte Froholdt reach 2-year, $20M extension",
+        "url": "https://www.espn.com/nfl/story/_/id/49723682/sources-cardinals-hjalte-froholdt-reach-2-year-20m-extension",
+        "publishedAt": "2026-08-25T17:49:25Z",
+        "summary": "The Cardinals and center Hjalte Froholdt have agreed to terms on a two-year, $20 million contract extension, sources told NFL Network's Ian Rapoport on Tuesday.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers owner York contacted prostitution ad 3 times before arrest",
+        "url": "https://www.espn.com/nfl/story/_/id/49723635/49ers-owner-jed-york-contacted-fictitious-prostitution-ad-3-s-arrest",
+        "publishedAt": "2026-08-25T18:16:55Z",
+        "summary": "49ers owner Jed York used a pseudonym and responded multiple times to a fictitious ad for a prostitute prior to his arrest in Ohio over the weekend.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "How Kyler Murray makes Justin Jefferson a more enticing fantasy pick",
         "url": "https://www.espn.com/video/clip/_/id/49722980/how-kyler-murray-makes-justin-jefferson-more-enticing-fantasy-pick",
         "publishedAt": "2026-08-25T16:10:38Z",
         "summary": "How Kyler Murray makes Justin Jefferson a more enticing fantasy pick",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Does Kayshon Boutte's trade to Texans help his fantasy stock?",
+        "url": "https://www.espn.com/video/clip/_/id/49722917/does-kayshon-boutte-trade-texans-help-fantasy-stock",
+        "publishedAt": "2026-08-25T16:33:03Z",
+        "summary": "Does Kayshon Boutte's trade to Texans help his fantasy stock?",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +171,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49722685/giants-top-10-offense-healthy-malik-nabers",
         "publishedAt": "2026-08-25T15:22:00Z",
         "summary": "Jordan Rodgers: Giants a top-10 offense with a healthy Malik Nabers",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Why fantasy managers should bet on Jaxson Dart",
         "url": "https://www.espn.com/video/clip/_/id/49722622/why-fantasy-managers-bet-jaxson-dart",
-        "publishedAt": "2026-08-25T15:43:52Z",
+        "publishedAt": "2026-08-25T18:20:33Z",
         "summary": "Why fantasy managers should bet on Jaxson Dart",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49722598/is-matthew-golden-late-round-fantasy-steal",
         "publishedAt": "2026-08-25T15:35:42Z",
         "summary": "Is Matthew Golden a late-round fantasy steal?",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49722593/why-field-yates-work-bryce-young-fantasy",
         "publishedAt": "2026-08-25T15:32:58Z",
         "summary": "Why Field Yates can't work out Bryce Young in fantasy",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +207,15 @@
         "url": "https://www.espn.com/video/clip/_/id/49722557/deal-it",
         "publishedAt": "2026-08-25T14:57:14Z",
         "summary": "McCourty's message to Deshaun Watson on fan criticism: 'Deal with it'  ",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Why Davante Adams is one of Daniel Dopp's 'do not draft players'",
         "url": "https://www.espn.com/video/clip/_/id/49722530/why-davante-adams-one-daniel-dopp-do-not-draft-players",
-        "publishedAt": "2026-08-25T15:19:34Z",
+        "publishedAt": "2026-08-25T18:19:52Z",
         "summary": "Why Davante Adams is one of Daniel Dopp's 'do not draft players'",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Rivalries uniforms 2026: Designs, debuts and details",
-        "url": "https://www.espn.com/nfl/story/_/id/49578264/nfl-nike-2026-rivalries-uniform-gear-series-unveiling-nfc-north-afc-south",
-        "publishedAt": "2026-08-25T14:00:31Z",
-        "summary": "The second iteration of the NFL's Rivalries uniform series is unveiled with eight new teams from the AFC South and NFC North sharing their threads.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Big Ten won't allow players to return from NFL",
-        "url": "https://www.espn.com/college-football/story/_/id/49721908/sources-big-ten-allow-players-return-nfl",
-        "publishedAt": "2026-08-25T14:36:00Z",
-        "summary": "The Big Ten is set to pass a rule Tuesday that doesn't allow players to return from the NFL and play for one of its schools, sources told ESPN's Pete Thamel.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Commanders release S Will Harris, place LB Drake Jackson on IR",
-        "url": "https://www.espn.com/nfl/story/_/id/49721716/commanders-release-s-harris-place-lb-drake-jackson-ir",
-        "publishedAt": "2026-08-25T13:25:46Z",
-        "summary": "The Commanders released veteran safety Will Harris on Tuesday, one year after he had opened the season as a starter.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "McCourty: Kayshon Boutte a 'huge pickup' for the Texans",
-        "url": "https://www.espn.com/video/clip/_/id/49721579/kayshon-boutte-huge-pickup-texans",
-        "publishedAt": "2026-08-25T12:53:32Z",
-        "summary": "McCourty: Kayshon Boutte a 'huge pickup' for the Texans",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Study: At least 25% of NFL players in sample had CTE",
-        "url": "https://www.espn.com/nfl/story/_/id/49721156/study-shows-least-25-nfl-players-develop-cte",
-        "publishedAt": "2026-08-25T15:00:01Z",
-        "summary": "A new study published Tuesday by the British Medical Journal showed that at least 25% of NFL players who died between 2016 and 2021 had CTE.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -254,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85200/packers-unveil-new-rivalries-uniform",
         "publishedAt": "2026-08-25T10:30:51-04:00",
         "summary": "The Packers have unveiled their new “Rivalries” uniforms, and they confirm what we’ve previously suspected: the uniforms pay tribute to the Packers’ unique ownership structure, and Ed Policy was absolutely right in his extremely tepid praise for them. These are certainly among the Packers’ uniforms of all time. The set trades the Packers’ iconic green [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-3.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
