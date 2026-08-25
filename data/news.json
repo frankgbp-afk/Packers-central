@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:08:15.889Z",
+  "updatedAt": "2026-08-25T16:18:22.001Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,83 @@
     ],
     "espn": [
       {
+        "title": "How Kyler Murray makes Justin Jefferson a more enticing fantasy pick",
+        "url": "https://www.espn.com/video/clip/_/id/49722980/how-kyler-murray-makes-justin-jefferson-more-enticing-fantasy-pick",
+        "publishedAt": "2026-08-25T16:10:38Z",
+        "summary": "How Kyler Murray makes Justin Jefferson a more enticing fantasy pick",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jordan Rodgers: Giants a top-10 offense with a healthy Malik Nabers",
+        "url": "https://www.espn.com/video/clip/_/id/49722685/giants-top-10-offense-healthy-malik-nabers",
+        "publishedAt": "2026-08-25T15:22:00Z",
+        "summary": "Jordan Rodgers: Giants a top-10 offense with a healthy Malik Nabers",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why fantasy managers should bet on Jaxson Dart",
+        "url": "https://www.espn.com/video/clip/_/id/49722622/why-fantasy-managers-bet-jaxson-dart",
+        "publishedAt": "2026-08-25T15:43:52Z",
+        "summary": "Why fantasy managers should bet on Jaxson Dart",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Is Matthew Golden a late-round fantasy steal?",
+        "url": "https://www.espn.com/video/clip/_/id/49722598/is-matthew-golden-late-round-fantasy-steal",
+        "publishedAt": "2026-08-25T15:35:42Z",
+        "summary": "Is Matthew Golden a late-round fantasy steal?",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Field Yates can't work out Bryce Young in fantasy",
+        "url": "https://www.espn.com/video/clip/_/id/49722593/why-field-yates-work-bryce-young-fantasy",
+        "publishedAt": "2026-08-25T15:32:58Z",
+        "summary": "Why Field Yates can't work out Bryce Young in fantasy",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "McCourty's message to Deshaun Watson on fan criticism: 'Deal with it'",
+        "url": "https://www.espn.com/video/clip/_/id/49722557/deal-it",
+        "publishedAt": "2026-08-25T14:57:14Z",
+        "summary": "McCourty's message to Deshaun Watson on fan criticism: 'Deal with it'  ",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Davante Adams is one of Daniel Dopp's 'do not draft players'",
+        "url": "https://www.espn.com/video/clip/_/id/49722530/why-davante-adams-one-daniel-dopp-do-not-draft-players",
+        "publishedAt": "2026-08-25T15:19:34Z",
+        "summary": "Why Davante Adams is one of Daniel Dopp's 'do not draft players'",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "NFL Rivalries uniforms 2026: Designs, debuts and details",
         "url": "https://www.espn.com/nfl/story/_/id/49578264/nfl-nike-2026-rivalries-uniform-gear-series-unveiling-nfc-north-afc-south",
         "publishedAt": "2026-08-25T14:00:31Z",
         "summary": "The second iteration of the NFL's Rivalries uniform series is unveiled with eight new teams from the AFC South and NFC North sharing their threads.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Big Ten won't allow players to return from NFL",
         "url": "https://www.espn.com/college-football/story/_/id/49721908/sources-big-ten-allow-players-return-nfl",
-        "publishedAt": "2026-08-25T13:42:51Z",
+        "publishedAt": "2026-08-25T14:36:00Z",
         "summary": "The Big Ten is set to pass a rule Tuesday that doesn't allow players to return from the NFL and play for one of its schools, sources told ESPN's Pete Thamel.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49721716/commanders-release-s-harris-place-lb-drake-jackson-ir",
         "publishedAt": "2026-08-25T13:25:46Z",
         "summary": "The Commanders released veteran safety Will Harris on Tuesday, one year after he had opened the season as a starter.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,78 +207,15 @@
         "url": "https://www.espn.com/video/clip/_/id/49721579/kayshon-boutte-huge-pickup-texans",
         "publishedAt": "2026-08-25T12:53:32Z",
         "summary": "McCourty: Kayshon Boutte a 'huge pickup' for the Texans",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Study: At least 25% of NFL players in sample had CTE",
         "url": "https://www.espn.com/nfl/story/_/id/49721156/study-shows-least-25-nfl-players-develop-cte",
-        "publishedAt": "2026-08-25T13:48:42Z",
+        "publishedAt": "2026-08-25T15:00:01Z",
         "summary": "A new study published Tuesday by the British Medical Journal showed that at least 25% of NFL players who died between 2016 and 2021 had CTE.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-25T10:57:07Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL rookies to pick in later rounds of fantasy football drafts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49702808/2026-fantasy-football-sleepers-nfl-rookie-dynasty-leagues",
-        "publishedAt": "2026-08-25T10:54:32Z",
-        "summary": "Whether you're in a standard league or a deeper league, these rookies could emerge in 2026 and beyond.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Predicting NFL teams most likely to decline in 2026 season",
-        "url": "https://www.espn.com/nfl/story/_/id/49676613/2026-nfl-season-predict-teams-decline-fewer-wins-bears-broncos-jaguars-panthers-patriots",
-        "publishedAt": "2026-08-25T13:21:32Z",
-        "summary": "Are the Bears getting too much hype? Did the Panthers and Jaguars overachieve last season? And will the Broncos and Patriots come up short of expectations this season?",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How Jesse Minter has motivated Lamar Jackson, Ravens to 'Be The Best'",
-        "url": "https://www.espn.com/nfl/story/_/id/49712761/how-jesse-minter-motivated-lamar-jackson-ravens-best",
-        "publishedAt": "2026-08-25T10:00:11Z",
-        "summary": "Competitive drive. Player connection. Cool demeanor. All these are why the Ravens believe the 43-year-old can elevate Baltimore to a championship level.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Did Aaron Glenn, Geno Smith change? 10 notes from Jets camp",
-        "url": "https://www.espn.com/nfl/story/_/id/49712241/nfl-new-york-jets-aaron-glenn-geno-smith-david-bailey",
-        "publishedAt": "2026-08-25T10:00:02Z",
-        "summary": "As New York heads toward the regular season, we look back at training camp, including the high-end promise of rookie linebacker David Bailey﻿.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos QB Bo Nix hopes slowing down leads to improvement",
-        "url": "https://www.espn.com/nfl/story/_/id/49682968/denver-broncos-quarterback-bo-nix-year-3-improvement-slow-dropbacks-progressions",
-        "publishedAt": "2026-08-25T10:00:07Z",
-        "summary": "Nix's mobility and sack avoidance have led to success, but the Broncos think slowing him down and getting his footwork right could produce more big plays.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Allen Robinson officially announces retirement on 33rd birthday",
-        "url": "https://www.espn.com/nfl/story/_/id/49718354/allen-robinson-officially-announces-retirement-33rd-birthday",
-        "publishedAt": "2026-08-25T04:29:37Z",
-        "summary": "Allen Robinson, a former Pro Bowl receiver who most recently played in the NFL in 2024, officially announced his retirement Monday.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,56 @@
     ],
     "acme": [
       {
+        "title": "Aaron Banks, the Packers, and the sunk cost fallacy",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85198/aaron-banks-the-packers-and-the-sunk-cost-fallacy",
+        "publishedAt": "2026-08-25T11:35:00-04:00",
+        "summary": "The Cleveland Browns and their years-long saga with Deshaun Watson has brought up a lot of arguments citing the “sunk cost fallacy” as to why the Browns should stop considering their quarterback’s hefty contract when making decisions about their future. The Green Bay Packers might already have a similar (albeit less impactful) situation on their [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Cardinals arrive for joint practices",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85220/green-bay-packers-news-cardinals-arrive-for-joint-practices",
+        "publishedAt": "2026-08-25T11:16:35-04:00",
+        "summary": "Now that the long-threatened and long-feared Rivalries uniforms have been revealed, all that’s left between the Packers’ and the regular season is a week of practices with the Cardinals and one last exhibition game. For it is Cardinals week. The Arizona Cardinals are in Green Bay, squaring off with the Packers in the last bit [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Thumbs up or thumbs down to the Packers’ new Rivalries uniforms?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85195/thumbs-up-or-thumbs-down-to-the-packers-new-rivalries-uniforms",
+        "publishedAt": "2026-08-25T10:51:42-04:00",
+        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. The Green Bay Packers’ new Rivalries uniforms have arrived, and they sure are…something. Our Jon Meerdink broke down the story of these uniforms in detail, so [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers unveil new ‘Rivalries’ uniform",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85200/packers-unveil-new-rivalries-uniform",
+        "publishedAt": "2026-08-25T10:30:51-04:00",
+        "summary": "The Packers have unveiled their new “Rivalries” uniforms, and they confirm what we’ve previously suspected: the uniforms pay tribute to the Packers’ unique ownership structure, and Ed Policy was absolutely right in his extremely tepid praise for them. These are certainly among the Packers’ uniforms of all time. The set trades the Packers’ iconic green [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Tyrod Taylor vs. Kyle McCord: The Case for Each Packers QB",
+        "url": "https://www.acmepackingcompany.com/general/85163/tyrod-taylor-vs-kyle-mccord-the-case-for-each-packers-qb",
+        "publishedAt": "2026-08-24T20:52:57-04:00",
+        "summary": "As we march towards the Green Bay Packers’ final preseason game against the Arizona Cardinals, all (some) eyes will be on the battle for the backup QB spot, which is being fought by veteran Tyrod Taylor and second-year player Kyle McCord. With starter Jordan Love missing some time in each of the previous two seasons, [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Training Camp Recap: Final open practice before the Cardinals come to town",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85164/packers-training-camp-recap-final-open-practice-before-the-cardinals-come-to-town",
         "publishedAt": "2026-08-24T16:57:24-04:00",
         "summary": "The Green Bay Packers had about a two-hour practice on Monday that got a chippy at the end. The first fight started between receiver Matthew Golden and edge defender Barryn Sorrell, two Texas Longhorns who were brought to the Packers via last year’s draft. According to reports from the press, linebacker Zaire Franklin and edge [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/85154/packers-matt-lafleur-gives-injury-updates-on-brandon-cisse-aaron-banks-others",
         "publishedAt": "2026-08-24T11:10:00-04:00",
         "summary": "Green Bay Packers fans can breathe a sigh of relief on the statuses of a few of the team’s key players who were injured in or before Friday’s preseason game in Denver. Speaking to the press ahead of the team’s penultimate open practice on Monday, head coach Matt LaFleur provided a positive update on Brandon [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85150/has-packers-defensive-line-goes-from-weakness-to-strength-in-record-time",
         "publishedAt": "2026-08-24T11:00:00-04:00",
         "summary": "At the end of the 2025 season, the Green Bay Packers’ defensive line was running on fumes and waiver claims, and the team’s inability to stop the run was painfully apparent. A defense that had allowed an average of 98.3 rushing yards per game through its first 11 games gave up 164.2 yards per game [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85147/green-bay-packers-news-time-to-temper-expectations-after-two-games",
         "publishedAt": "2026-08-24T08:45:00-04:00",
         "summary": "Through two preseason games, the Green Bay Packers have seen plenty of encouraging signs from the players who should have key roles in the regular season. The first game saw the third and fourth string units get exposed in the second half, but in both contests, the starting offense and defense looked solid at worst. [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,51 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85135/packers-film-room-preseason-week-2-trey-smack",
         "publishedAt": "2026-08-24T06:43:07-04:00",
         "summary": "By now, I think we’ve all seen Green Bay Packers special teams coordinator Cam Achord’s presser where he talked about how the hold will change depending on different factors while kicking a field goal. But, in case you missed it, here it is: Here’s a bit of a summary:1. A lot of kickers like the [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: How many Green Bay players are roster locks?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85118/packers-discussion-how-many-green-bay-players-are-roster-locks",
-        "publishedAt": "2026-08-23T19:01:49-04:00",
-        "summary": "It’s a little bit of a dead period in camp, where we can finally all catch our breath after Friday’s preseason game against the Denver Broncos. Why not embrace debate? How many players do you think have a roster spot locked in going into the preseason finale against the Arizona Cardinals, where the backups should [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room, Preseason Week 2: Jordan Love",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85087/packers-film-room-preseason-week-2-jordan-love",
-        "publishedAt": "2026-08-23T18:07:28-04:00",
-        "summary": "Last week, we looked at Green Bay Packers quarterback Jordan Love’s 5 dropbacks in the opening preseason game. We’re doing the same thing with this week’s game against the Denver Broncos. Love and the first-team offense only got one drive, but it was a long one: a 12-play, 63-yard drive that took 6 minutes &#38; [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: Should Tyrod Taylor or Kyle McCord be the backup QB?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85083/packers-discussion-should-tyrod-taylor-or-kyle-mccord-be-the-backup-qb",
-        "publishedAt": "2026-08-22T20:23:37-04:00",
-        "summary": "Alright, I’m clearing the lane here so you guys can sound off on what you think about the Green Bay Packers’ backup quarterback job in 2026. It’s a bit of a lightning rod topic, so let’s just set the table and recap how we ended up in the position that we’re at right now. Green [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers Roster: Post-Preseason Week 2 53-man projection",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85071/green-bay-packers-roster-post-preseason-week-2-53-man-projection",
-        "publishedAt": "2026-08-22T19:49:05-04:00",
-        "summary": "After Week 2’s action against the Denver Broncos, we did a full breakdown of the Green Bay Packers’ entire depth chart, position-by-position, while showing our work. Now we’re going to take it a step further and update our 53-man roster projection with our best guess on what the team will look like when the club [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injuries: 5 players banged up in win vs. Broncos",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85074/packers-injuries-5-players-banged-up-in-win-vs-broncos",
-        "publishedAt": "2026-08-22T18:48:23-04:00",
-        "summary": "The Athletic’s Matt Schneidman got the scoop on the Green Bay Packers’ injuries from the team’s victory over the Denver Broncos on Friday. According to Schneidman, five Packers suffered injuries last night. The first is cornerback Brandon Cisse, who we knew got banged up on special teams between the first and second drive of defense [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
