@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-08-26T14:07:12.025Z",
+  "updatedAt": "2026-08-26T16:57:57.287Z",
   "sources": {
     "packers": [
+      {
+        "title": "Live Look-In: Packers Training Camp | August 26, 2026",
+        "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-26-2026",
+        "publishedAt": "Wed, 26 Aug 2026 16:30:00 GMT",
+        "summary": "Follow along for updates live from joint practice with the Cardinals at Ray Nitschke Field",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Cam Achord's energy palpable on Packers' special teams",
+        "url": "https://www.packers.com/news/cam-achord-s-energy-palpable-on-packers-special-teams-aug-26-2026",
+        "publishedAt": "Wed, 26 Aug 2026 14:30:00 GMT",
+        "summary": "New coordinator has brought swagger, new perspective",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers edge rusher Micah Parsons ranked No. 8 in NFL 'Top 100'",
         "url": "https://www.packers.com/news/packers-edge-rusher-micah-parsons-ranked-no-8-in-nfl-top-100-2026",
         "publishedAt": "Wed, 26 Aug 2026 14:00:00 GMT",
         "summary": "Four-time All-Pro earns his highest ranking yet",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-it-feels-time-for-the-real-games-aug-26-2026",
         "publishedAt": "Wed, 26 Aug 2026 13:30:00 GMT",
         "summary": "That’s all for the personnel department to figure out",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-thrivent-announce-details-of-new-game-changing-players-community-program-2026",
         "publishedAt": "Tue, 25 Aug 2026 18:49:01 GMT",
         "summary": "10 Wisconsin nonprofits to be honored on gamedays this season",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-vs-cardinals-how-to-watch-stream-listen-preseason-week-3-2026",
         "publishedAt": "Tue, 25 Aug 2026 17:55:15 GMT",
         "summary": "Green Bay Packers vs. Arizona Cardinals channel listing, radio & streaming options",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-reveal-nfl-rivalries-uniforms-celebrating-team-s-unique-ownership",
         "publishedAt": "Tue, 25 Aug 2026 13:55:00 GMT",
         "summary": "New jersey, pants and helmet, along with unique product line, highlights public ownership, team history and fan culture",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-trending-in-the-right-direction-aug-25-2026",
         "publishedAt": "Tue, 25 Aug 2026 13:30:00 GMT",
         "summary": "The Packers’ rookie class has played its way into the conversation",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-to-welcome-arizona-cardinals-for-joint-practice-bike-tradition-2026",
         "publishedAt": "Mon, 24 Aug 2026 22:11:06 GMT",
         "summary": "Start time for practice changed to 11:30 a.m.; kids invited to bring bikes to offer Cardinals and Packers players rides to practice",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 21:54:00 GMT",
         "summary": "Several defensive standouts in Monday’s practice",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-announce-time-change-for-joint-practice-with-cardinals-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:58:32 GMT",
         "summary": "Start time moved to 11:30 a.m. CT on Wednesday, Aug. 26",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/packers-finish-preseason-against-cardinals-pre-week-3-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:57:27 GMT",
         "summary": "The contest will feature brothers Matt and Mike LaFleur as the opposing head coaches",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "'Titletown Gameday Live presented by American Family Insurance' set to debut for regular season",
-        "url": "https://www.packers.com/news/titletown-gameday-live-presented-by-american-family-insurance-set-to-debut-for-regular-season-aug-24-2026",
-        "publishedAt": "Mon, 24 Aug 2026 18:29:13 GMT",
-        "summary": "Event kicks off for 2026 season at 3:15 p.m. on Sept. 24 throughout Titletown",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Live Look-In: Packers Training Camp | August 24, 2026",
-        "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-24-2026",
-        "publishedAt": "Mon, 24 Aug 2026 15:30:00 GMT",
-        "summary": "Follow along for practice updates live from Ray Nitschke Field",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,83 @@
     ],
     "espn": [
       {
+        "title": "Texans' Braden Smith, Ali Gaye carted off from joint practice",
+        "url": "https://www.espn.com/nfl/story/_/id/49732922/texans-braden-smith-ali-gaye-carted-joint-practice",
+        "publishedAt": "2026-08-26T16:52:23Z",
+        "summary": "Texans starting right tackle Braden Smith and reserve defensive end Ali Gaye were carted off the field together Wednesday early in a joint practice with the Panthers.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Mad Dog fired up over discourse surrounding Deshaun Watson starting for Browns",
+        "url": "https://www.espn.com/video/clip/_/id/49732656/mad-dog-fired-discourse-surrounding-deshaun-watson-starting-browns",
+        "publishedAt": "2026-08-26T16:04:26Z",
+        "summary": "Mad Dog fired up over discourse surrounding Deshaun Watson starting for Browns",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Where Zay Flowers falls in Field Yates' fantasy WR ranking",
+        "url": "https://www.espn.com/video/clip/_/id/49732224/where-zay-flowers-falls-field-yates-fantasy-wr-ranking",
+        "publishedAt": "2026-08-26T15:52:51Z",
+        "summary": "Where Zay Flowers falls in Field Yates' fantasy WR ranking",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Keenan Allen might not be worth the waiver pick up",
+        "url": "https://www.espn.com/video/clip/_/id/49732168/why-keenan-allen-not-worth-waiver-pick-up",
+        "publishedAt": "2026-08-26T16:02:18Z",
+        "summary": "Why Keenan Allen might not be worth the waiver pick up",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Mad Dog rips LSU, Kiffin on recruiting Dae'Quan Wright",
+        "url": "https://www.espn.com/video/clip/_/id/49732146/mad-dog-rips-lsu-kiffin-recruiting-daequan-wright",
+        "publishedAt": "2026-08-26T14:52:01Z",
+        "summary": "Mad Dog rips LSU, Kiffin on recruiting Dae'Quan Wright ",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Daniel Dopp is taking a chance on Kyle Monangai",
+        "url": "https://www.espn.com/video/clip/_/id/49732102/why-daniel-dopp-taking-chance-kyle-monangai",
+        "publishedAt": "2026-08-26T15:34:34Z",
+        "summary": "Why Daniel Dopp is taking a chance on Kyle Monangai",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why fantasy mangers should be excited about Tyler Shough's ceiling",
+        "url": "https://www.espn.com/video/clip/_/id/49732063/why-fantasy-mangers-excited-tyler-shough-ceiling",
+        "publishedAt": "2026-08-26T15:25:07Z",
+        "summary": "Why fantasy mangers should be excited about Tyler Shough's ceiling",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Mike Clay: Long shot for Jordan Love to be in QB1 conversation this season",
+        "url": "https://www.espn.com/video/clip/_/id/49732060/long-shot-jordan-love-qb1-conversation-season",
+        "publishedAt": "2026-08-26T15:08:41Z",
+        "summary": "Mike Clay: Long shot for Jordan Love to be in QB1 conversation this season",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Sources: Buccaneers rookie Bain has AC sprain, 'nothing serious'",
         "url": "https://www.espn.com/nfl/story/_/id/49731749/sources-buccaneers-rookie-bain-ac-sprain-serious",
-        "publishedAt": "2026-08-26T13:53:42Z",
+        "publishedAt": "2026-08-26T14:11:07Z",
         "summary": "Buccaneers rookie pass rusher Rueben Bain Jr. suffered an AC sprain, but it is said to be \"nothing serious,\" and he is expected to be ready Week 1, sources told ESPN's Adam Schefter.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49731495/what-forecast-giants-calvin-austin-iii-season",
         "publishedAt": "2026-08-26T13:01:06Z",
         "summary": "What is the forecast for Giants with Calvin Austin III out for the season?",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,87 +207,15 @@
         "url": "https://www.espn.com/video/clip/_/id/49731410/story-far-over",
         "publishedAt": "2026-08-26T12:54:58Z",
         "summary": "Thamel on NFL players returning to CFB: 'This story is far from over'",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Source: Giants WR Calvin Austin (torn ACL) out for season",
         "url": "https://www.espn.com/nfl/story/_/id/49731270/source-giants-wr-calvin-austin-miss-upcoming-season",
-        "publishedAt": "2026-08-26T13:03:32Z",
+        "publishedAt": "2026-08-26T16:42:12Z",
         "summary": "Giants wide receiver Calvin Austin III will miss the upcoming season after suffering a torn ACL in his right knee while running a route at Tuesday's training camp practice, a source told ESPN's Adam Schefter.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Who's in, who's out? Best bets to make or miss the NFL playoffs",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49660541/2026-nfl-betting-playoffs-odds-futures-picks-predictions",
-        "publishedAt": "2026-08-26T11:12:00Z",
-        "summary": "Our betting analysts break down the odds and offer their favorite bets for teams they like to make or miss the playoffs.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football: Answering one key preseason question for 25 NFL teams",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49714327/fantasy-football-2026-nfl-position-battles-surprises-breakouts",
-        "publishedAt": "2026-08-26T11:08:55Z",
-        "summary": "NFL Nation reporters answer the most important fantasy questions, providing insight from training camps.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2027 NFL mock draft: Reid's preseason first-round predictions",
-        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49684109/2027-nfl-mock-draft-reid-preseason-first-round-predictions-32-picks-manning-moore-carr",
-        "publishedAt": "2026-08-26T10:26:49Z",
-        "summary": "With the college and NFL seasons about to start, Jordan Reid projected the top 32 picks in next year's draft -- including a blockbuster trade.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Texans' C.J. Stroud talks new look, improved scrambling ability",
-        "url": "https://www.espn.com/nfl/story/_/id/49712506/houston-texans-cj-stroud-new-look-cut-hair-leaner",
-        "publishedAt": "2026-08-26T10:00:02Z",
-        "summary": "Houston's quarterback showed up with a new haircut and leaner appearance to help him be more of a dual threat.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Four under-the-radar players, one position to watch for 49ers",
-        "url": "https://www.espn.com/nfl/story/_/id/49722650/san-francisco-49ers-2026-nfl-season-underrated-players-positions",
-        "publishedAt": "2026-08-26T13:17:19Z",
-        "summary": "For the 49ers to return to the playoffs, it could depend on under-the-radar players like Demarcus Robinson and whoever starts at left guard.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What to expect from Jaguars' running backs in 2026",
-        "url": "https://www.espn.com/nfl/story/_/id/49725895/what-expect-jaguars-running-backs-bhayshul-tuten-chris-rodriguez-jr-2026",
-        "publishedAt": "2026-08-26T12:53:41Z",
-        "summary": "With no clear No. 1 rusher, Jacksonville will try the running-back-by-committee approach on offense. Will it work?﻿",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "4 issues Saints face ahead of cuts, final week of camp",
-        "url": "https://www.espn.com/nfl/story/_/id/49724290/4-issues-new-orleans-saints-face-ahead-cuts-53-roster-final-week-training-camp",
-        "publishedAt": "2026-08-26T11:52:36Z",
-        "summary": "New Orleans is facing mounting injuries, a kicker battle, control issues and a QB quandary entering final week of its preseason.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL execs on most likely non-U.S. cities to add a team and why",
-        "url": "https://www.espn.com/nfl/story/_/id/49721794/nfl-international-mexico-city-london-toronto-berlin-goodell",
-        "publishedAt": "2026-08-26T09:56:11Z",
-        "summary": "Roger Goodell has \"no doubt\" there will be NFL teams outside the US. We asked team executives which cities make the most sense.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,38 @@
     ],
     "acme": [
       {
+        "title": "Packers-Cardinals joint practice: Live updates",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85284/packers-cardinals-joint-practice-live-updates",
+        "publishedAt": "2026-08-26T12:39:39-04:00",
+        "summary": "Since today’s practice is a different vibe than the rest of the Green Bay Packers’ practices so far this summer, as the Arizona Cardinals are in town for the final day of training camp, I figured that we should have a different type of practice post up on the site today. Instead of doing a [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Niche CBA rule unlikely to impact Packers roster at cutdowns",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85261/niche-cba-rule-unlikely-to-impact-packers-roster-at-cutdowns",
+        "publishedAt": "2026-08-26T11:30:00-04:00",
+        "summary": "With the preseason nearly over and cutdowns on the horizon, very little on the Green Bay Packers’ roster seems up for much debate. Like most years, it’s about weighing keeping an extra receiver or an extra defensive back, or to keep nine or ten offensive lineman. Most of these decisions, particularly at the non-line positions, [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Final roster work underway as training camp winds down",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85264/green-bay-packers-news-final-roster-work-underway-as-training-camp-winds-down",
+        "publishedAt": "2026-08-26T10:47:03-04:00",
+        "summary": "For the players who find themselves on the roster bubble, it’s getting to be about that time. The Packers have joint practices with the Cardinals this week and a preseason game on Friday, and then it’s cutdown weekend; the Packers will trim their roster to 53 players by early Sunday evening. Suffice it to say, [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Explaining the Green Bay Packers’ new 3-safety package",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85251/explaining-the-green-bay-packers-new-3-safety-package",
         "publishedAt": "2026-08-25T17:12:54-04:00",
         "summary": "I’ve been getting some questions about the Green Bay Packers’ “three-safety package,” and how it’s different — if at all — from the team’s Nickel package. After all, if we’re playing a third safety in the slot in Nickel, a role that Javon Bullard has usually played, then how is this package any different? I’m [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85123/2024-cardinals-defense-jonathan-gannons-most-consistent-season",
         "publishedAt": "2026-08-25T16:00:16-04:00",
         "summary": "As I explored the data around new Green Bay Packers defensive coordinator Jonathan’s Gannon’s Cardinals defense, it appeared to me that 2024 was their most consistent year. Largely because they relied more on early down zone coverage for the entire year, unlike 2023. And if 2023 was about how much zone the Cardinals could run, [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85198/aaron-banks-the-packers-and-the-sunk-cost-fallacy",
         "publishedAt": "2026-08-25T11:35:00-04:00",
         "summary": "The Cleveland Browns and their years-long saga with Deshaun Watson has brought up a lot of arguments citing the “sunk cost fallacy” as to why the Browns should stop considering their quarterback’s hefty contract when making decisions about their future. The Green Bay Packers might already have a similar (albeit less impactful) situation on their [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85220/green-bay-packers-news-cardinals-arrive-for-joint-practices",
         "publishedAt": "2026-08-25T11:16:35-04:00",
         "summary": "Now that the long-threatened and long-feared Rivalries uniforms have been revealed, all that’s left between the Packers’ and the regular season is a week of practices with the Cardinals and one last exhibition game. For it is Cardinals week. The Arizona Cardinals are in Green Bay, squaring off with the Packers in the last bit [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85195/thumbs-up-or-thumbs-down-to-the-packers-new-rivalries-uniforms",
         "publishedAt": "2026-08-25T10:51:42-04:00",
         "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. The Green Bay Packers’ new Rivalries uniforms have arrived, and they sure are…something. Our Jon Meerdink broke down the story of these uniforms in detail, so [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85200/packers-unveil-new-rivalries-uniform",
         "publishedAt": "2026-08-25T10:30:51-04:00",
         "summary": "The Packers have unveiled their new “Rivalries” uniforms, and they confirm what we’ve previously suspected: the uniforms pay tribute to the Packers’ unique ownership structure, and Ed Policy was absolutely right in his extremely tepid praise for them. These are certainly among the Packers’ uniforms of all time. The set trades the Packers’ iconic green [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,33 +308,6 @@
         "url": "https://www.acmepackingcompany.com/general/85163/tyrod-taylor-vs-kyle-mccord-the-case-for-each-packers-qb",
         "publishedAt": "2026-08-24T20:52:57-04:00",
         "summary": "As we march towards the Green Bay Packers’ final preseason game against the Arizona Cardinals, all (some) eyes will be on the battle for the backup QB spot, which is being fought by veteran Tyrod Taylor and second-year player Kyle McCord. With starter Jordan Love missing some time in each of the previous two seasons, [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Training Camp Recap: Final open practice before the Cardinals come to town",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85164/packers-training-camp-recap-final-open-practice-before-the-cardinals-come-to-town",
-        "publishedAt": "2026-08-24T16:57:24-04:00",
-        "summary": "The Green Bay Packers had about a two-hour practice on Monday that got a chippy at the end. The first fight started between receiver Matthew Golden and edge defender Barryn Sorrell, two Texas Longhorns who were brought to the Packers via last year’s draft. According to reports from the press, linebacker Zaire Franklin and edge [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ Matt LaFleur gives injury updates on Brandon Cisse, Aaron Banks, others",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/85154/packers-matt-lafleur-gives-injury-updates-on-brandon-cisse-aaron-banks-others",
-        "publishedAt": "2026-08-24T11:10:00-04:00",
-        "summary": "Green Bay Packers fans can breathe a sigh of relief on the statuses of a few of the team’s key players who were injured in or before Friday’s preseason game in Denver. Speaking to the press ahead of the team’s penultimate open practice on Monday, head coach Matt LaFleur provided a positive update on Brandon [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Has Packers’ defensive line goes from weakness to strength in record time?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85150/has-packers-defensive-line-goes-from-weakness-to-strength-in-record-time",
-        "publishedAt": "2026-08-24T11:00:00-04:00",
-        "summary": "At the end of the 2025 season, the Green Bay Packers’ defensive line was running on fumes and waiver claims, and the team’s inability to stop the run was painfully apparent. A defense that had allowed an average of 98.3 rushing yards per game through its first 11 games gave up 164.2 yards per game [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
