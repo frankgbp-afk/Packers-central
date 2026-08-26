@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T08:24:15.276Z",
+  "updatedAt": "2026-08-26T11:01:00.724Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "2027 NFL mock draft: Reid's preseason first-round predictions",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49684109/2027-nfl-mock-draft-reid-preseason-first-round-predictions-32-picks-manning-moore-carr",
+        "publishedAt": "2026-08-26T10:26:49Z",
+        "summary": "With the college and NFL seasons about to start, Jordan Reid projected the top 32 picks in next year's draft -- including a blockbuster trade.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Texans' C.J. Stroud talks new look, improved scrambling ability",
+        "url": "https://www.espn.com/nfl/story/_/id/49712506/houston-texans-cj-stroud-new-look-cut-hair-leaner",
+        "publishedAt": "2026-08-26T10:00:02Z",
+        "summary": "Houston's quarterback showed up with a new haircut and leaner appearance to help him be more of a dual threat.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Four under-the-radar players, one position to watch for 49ers",
+        "url": "https://www.espn.com/nfl/story/_/id/49722650/san-francisco-49ers-2026-nfl-season-underrated-players-positions",
+        "publishedAt": "2026-08-26T10:00:12Z",
+        "summary": "For the 49ers to return to the playoffs, it could depend on under-the-radar players like DeMarcus Robinson and whoever starts at left guard.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What to expect from Jaguars' running backs in 2026",
+        "url": "https://www.espn.com/nfl/story/_/id/49725895/what-expect-jaguars-running-backs-bhayshul-tuten-chris-rodriguez-jr-2026",
+        "publishedAt": "2026-08-26T10:14:19Z",
+        "summary": "With no clear No. 1 rusher, Jacksonville will try the running-back-by-committee approach on offense. Will it work?﻿",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "4 issues Saints face ahead of cuts, final week of camp",
+        "url": "https://www.espn.com/nfl/story/_/id/49724290/4-issues-new-orleans-saints-face-ahead-cuts-53-roster-final-week-training-camp",
+        "publishedAt": "2026-08-26T10:00:02Z",
+        "summary": "New Orleans is facing mounting injuries, a kicker battle, control issues and a QB quandary entering final week of its preseason.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL execs on most likely non-U.S. cities to add a team and why",
+        "url": "https://www.espn.com/nfl/story/_/id/49721794/nfl-international-mexico-city-london-toronto-berlin-goodell",
+        "publishedAt": "2026-08-26T09:56:11Z",
+        "summary": "Roger Goodell has \"no doubt\" there will be NFL teams outside the US. We asked team executives which cities make the most sense.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-08-26T04:34:36Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49711682/2026-fantasy-football-marathon-mock-draft-ppr",
         "publishedAt": "2026-08-26T05:00:49Z",
         "summary": "The annual event concluded with a 10-team mock, during which top backs went early and most waited on QBs.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +189,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-26T02:59:31Z",
         "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Giants trading OL Josh Ezeudu to Chiefs for '28 pick",
         "url": "https://www.espn.com/nfl/story/_/id/49727700/sources-giants-trading-ol-josh-ezeudu-chiefs-28-pick",
-        "publishedAt": "2026-08-26T03:02:48Z",
+        "publishedAt": "2026-08-26T10:12:11Z",
         "summary": "The Giants are trading offensive lineman Josh Ezeudu to the Chiefs for a 2028 seventh-round pick, sources said.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
         "publishedAt": "2026-08-26T01:01:37Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including Kayshon Boutte going to the Texans.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725989/ann-michael-maye-new-england-patriots-make-wish",
         "publishedAt": "2026-08-26T00:56:04Z",
         "summary": "Ann Michael granted a Make-A-Wish on Friday at Gillette Stadium for Skylar, a 16-year-old from Massachusetts diagnosed with a brain tumor.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chargers wrap training camp with a familiar question: Is the offensive line good enough to contend?",
-        "url": "https://www.espn.com/video/clip/_/id/49726410/offensive-line-good-enough-contend",
-        "publishedAt": "2026-08-25T23:46:26Z",
-        "summary": "As the Chargers close out training camp, questions remain about whether their offensive line is strong enough to help the team make a serious run this season.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tennessee, Peyton Manning, Dallas Cowboys lead tributes to Dolly Parton",
-        "url": "https://www.espn.com/college-football/story/_/id/49725155/tennessee-volunteers-dallas-cowboys-dolly-parton-tributes-social-media",
-        "publishedAt": "2026-08-25T22:50:38Z",
-        "summary": "The legendary singer-songwriter from the Volunteer State died Tuesday at the age of 80.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Gonzalez focused on season, but irked by talks with Patriots",
-        "url": "https://www.espn.com/nfl/story/_/id/49725854/gonzalez-focused-season-irked-talks-patriots",
-        "publishedAt": "2026-08-25T23:49:05Z",
-        "summary": "Cornerback Christian Gonzalez, 24, and the New England Patriots continue to discuss a contract extension, and with the regular-season opener Sept. 9 closing in, the veteran defensive back expressed disappointment the sides have yet to reach an agreement.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Panthers coach Canales backs QB Young, defers on extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49725757/panthers-coach-canales-backs-qb-young-defers-extension",
-        "publishedAt": "2026-08-25T22:21:38Z",
-        "summary": "Dave Canales reiterated Carolina's commitment to Bryce Young for the 2026 season but said any talk of a potential long-term pact with the quarterback will be the responsibility of the front office.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Commanders to sign veteran tackle Humphries, source says",
-        "url": "https://www.espn.com/nfl/story/_/id/49725726/commanders-sign-veteran-tackle-humphries-source-says",
-        "publishedAt": "2026-08-25T22:23:31Z",
-        "summary": "The Commanders, who lost Laremy Tunsil to a torn triceps on Aug. 5, are signing veteran tackle D.J. Humphries, a source told ESPN.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears LT competition still 'a hot spot,' Ben Johnson says",
-        "url": "https://www.espn.com/nfl/story/_/id/49725718/bears-lt-competition-hot-spot-ben-johnson-says",
-        "publishedAt": "2026-08-25T22:42:02Z",
-        "summary": "The Bears are still searching for their starting left tackle 19 days ahead of their season opener at the Panthers.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
