@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T00:57:00Z",
+  "updatedAt": "2026-08-26T00:43:00Z",
   "label": "Training Camp Availability",
   "players": [
     {"player":"Warren Brinson","position":"DL","status":"NOT PRACTICING / MONITOR","detail":"Missed the Aug. 24 practice after tweaking his calf during pregame warmups Aug. 21. Matt LaFleur said he will miss a little bit of time; no specific return date was given.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-24"},
@@ -9,6 +9,7 @@
     {"player":"Arron Mosby","position":"EDGE","status":"NOT PRACTICING / MONITOR","detail":"Missed the Aug. 24 practice after being injured during the Aug. 21 preseason game. The specific injury has not been publicly established, so no diagnosis is listed.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
     {"player":"Benjamin St-Juste","position":"CB","status":"NOT PRACTICING / MONITOR","detail":"Missed the Aug. 24 practice with a hamstring issue sustained during the Aug. 21 preseason game. No confirmed return date has been established.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
     {"player":"Javon Bullard","position":"S","status":"NOT PRACTICING / MONITOR","detail":"Missed the Aug. 24 practice while recovering from a foot bone bruise. No return to practice has been confirmed yet.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
+    {"player":"J. Michael Sturdivant","position":"WR","status":"CONCUSSION PROTOCOL / MONITOR","detail":"Was suited up around the Aug. 24 practice, but reporting from Matt Schneidman said he remained in concussion protocol and had not been cleared for a full return. Keep him active here until clearance is confirmed.","source":"The Athletic / Matt Schneidman; CheeseheadTV practice roundup","sourceDate":"2026-08-24"},
     {"player":"Aaron Banks","position":"G","status":"LIMITED / RAMPING UP","detail":"Practiced Aug. 24 but rotated at left guard while the team continues to manage knee tendinitis. Matt LaFleur said he is trending in the right direction toward the regular season.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-24"},
     {"player":"Zach Bako-Bewele","position":"OL","status":"LIMITED / RAMPING UP","detail":"Participated Aug. 24 but remains limited in full practice participation while coming back from a knee injury.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
     {"player":"Javon Hargrave","position":"DL","status":"LIMITED / RAMPING UP","detail":"Continued receiving team work Aug. 24 but was still described as less than a full participant during his managed return from a knee injury.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
@@ -18,7 +19,6 @@
     {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"Remained on the PUP list through the Aug. 24 practice with a neck issue.","source":"Acme Packing Company","sourceDate":"2026-08-24"}
   ],
   "recentReturns": [
-    {"player":"J. Michael Sturdivant","position":"WR","status":"RETURNED / MONITOR","detail":"Was not among the players who missed the Aug. 24 practice after being evaluated following the Aug. 21 preseason game. No concussion diagnosis was publicly confirmed.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
     {"player":"Darian Kinnard","position":"OL","status":"RETURNED","detail":"Was not among the players who missed the Aug. 24 practice after previously being sidelined with an ankle issue, indicating he returned to practice participation.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
     {"player":"Brandon Cisse","position":"CB","status":"RETURNED","detail":"Returned to practice Aug. 24 after leaving the Aug. 21 preseason game with a knee issue. Matt LaFleur said he was good to go, and Cisse was observed participating in defensive-back drills.","source":"Matt LaFleur / Acme Packing Company","sourceDate":"2026-08-24"},
     {"player":"Josh Jacobs","position":"RB","status":"RETURNED / RAMPING UP","detail":"Returned to practice after a groin injury and was scheduled for limited team-period work on Aug. 24 as the Packers continued to ramp him up.","source":"Matt LaFleur / Acme Packing Company","sourceDate":"2026-08-24"},
