@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T03:38:27.433Z",
+  "updatedAt": "2026-08-26T05:58:24.906Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
+        "publishedAt": "2026-08-26T04:34:36Z",
+        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy Football Marathon mock draft: RBs taken in 13 of first 20 picks",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49711682/2026-fantasy-football-marathon-mock-draft-ppr",
+        "publishedAt": "2026-08-26T05:00:49Z",
+        "summary": "The annual event concluded with a 10-team mock, during which top backs went early and most waited on QBs.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 New England Patriots training camp: Latest intel, updates",
         "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
         "publishedAt": "2026-08-26T02:59:31Z",
         "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49727700/sources-giants-trading-ol-josh-ezeudu-chiefs-28-pick",
         "publishedAt": "2026-08-26T03:02:48Z",
         "summary": "The Giants are trading offensive lineman Josh Ezeudu to the Chiefs for a 2028 seventh-round pick, sources said.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
         "publishedAt": "2026-08-26T01:01:37Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including Kayshon Boutte going to the Texans.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725989/ann-michael-maye-new-england-patriots-make-wish",
         "publishedAt": "2026-08-26T00:56:04Z",
         "summary": "Ann Michael granted a Make-A-Wish on Friday at Gillette Stadium for Skylar, a 16-year-old from Massachusetts diagnosed with a brain tumor.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49726410/offensive-line-good-enough-contend",
         "publishedAt": "2026-08-25T23:46:26Z",
         "summary": "As the Chargers close out training camp, questions remain about whether their offensive line is strong enough to help the team make a serious run this season.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/college-football/story/_/id/49725155/tennessee-volunteers-dallas-cowboys-dolly-parton-tributes-social-media",
         "publishedAt": "2026-08-25T22:50:38Z",
         "summary": "The legendary singer-songwriter from the Volunteer State died Tuesday at the age of 80.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725854/gonzalez-focused-season-irked-talks-patriots",
         "publishedAt": "2026-08-25T23:49:05Z",
         "summary": "Cornerback Christian Gonzalez, 24, and the New England Patriots continue to discuss a contract extension, and with the regular-season opener Sept. 9 closing in, the veteran defensive back expressed disappointment the sides have yet to reach an agreement.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725757/panthers-coach-canales-backs-qb-young-defers-extension",
         "publishedAt": "2026-08-25T22:21:38Z",
         "summary": "Dave Canales reiterated Carolina's commitment to Bryce Young for the 2026 season but said any talk of a potential long-term pact with the quarterback will be the responsibility of the front office.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725726/commanders-sign-veteran-tackle-humphries-source-says",
         "publishedAt": "2026-08-25T22:23:31Z",
         "summary": "The Commanders, who lost Laremy Tunsil to a torn triceps on Aug. 5, are signing veteran tackle D.J. Humphries, a source told ESPN.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725718/bears-lt-competition-hot-spot-ben-johnson-says",
         "publishedAt": "2026-08-25T22:42:02Z",
         "summary": "The Bears are still searching for their starting left tackle 19 days ahead of their season opener at the Panthers.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New York Jets training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-25T21:58:34Z",
-        "summary": "Catch up on our updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks put Clark, Richman on season-ending injured reserve",
-        "url": "https://www.espn.com/nfl/story/_/id/49725451/seahawks-put-clark-richman-season-ending-injured-reserve",
-        "publishedAt": "2026-08-25T21:28:00Z",
-        "summary": "Seahawks rookie safety Bud Clark and offensive lineman Mason Richman, who were both injured in the team's preseason game against the Titans on Sunday, will miss the 2026 season after being placed on injured reserve Tuesday.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Explaining the Green Bay Packers’ new 3-safety package",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85251/explaining-the-green-bay-packers-new-3-safety-package",
+        "publishedAt": "2026-08-25T17:12:54-04:00",
+        "summary": "I’ve been getting some questions about the Green Bay Packers’ “three-safety package,” and how it’s different — if at all — from the team’s Nickel package. After all, if we’re playing a third safety in the slot in Nickel, a role that Javon Bullard has usually played, then how is this package any different? I’m [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "2024 Cardinals defense: Jonathan Gannon’s most consistent season",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85123/2024-cardinals-defense-jonathan-gannons-most-consistent-season",
+        "publishedAt": "2026-08-25T16:00:16-04:00",
+        "summary": "As I explored the data around new Green Bay Packers defensive coordinator Jonathan’s Gannon’s Cardinals defense, it appeared to me that 2024 was their most consistent year. Largely because they relied more on early down zone coverage for the entire year, unlike 2023. And if 2023 was about how much zone the Cardinals could run, [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Aaron Banks, the Packers, and the sunk cost fallacy",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85198/aaron-banks-the-packers-and-the-sunk-cost-fallacy",
         "publishedAt": "2026-08-25T11:35:00-04:00",
         "summary": "The Cleveland Browns and their years-long saga with Deshaun Watson has brought up a lot of arguments citing the “sunk cost fallacy” as to why the Browns should stop considering their quarterback’s hefty contract when making decisions about their future. The Green Bay Packers might already have a similar (albeit less impactful) situation on their [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85220/green-bay-packers-news-cardinals-arrive-for-joint-practices",
         "publishedAt": "2026-08-25T11:16:35-04:00",
         "summary": "Now that the long-threatened and long-feared Rivalries uniforms have been revealed, all that’s left between the Packers’ and the regular season is a week of practices with the Cardinals and one last exhibition game. For it is Cardinals week. The Arizona Cardinals are in Green Bay, squaring off with the Packers in the last bit [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85195/thumbs-up-or-thumbs-down-to-the-packers-new-rivalries-uniforms",
         "publishedAt": "2026-08-25T10:51:42-04:00",
         "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. The Green Bay Packers’ new Rivalries uniforms have arrived, and they sure are…something. Our Jon Meerdink broke down the story of these uniforms in detail, so [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85200/packers-unveil-new-rivalries-uniform",
         "publishedAt": "2026-08-25T10:30:51-04:00",
         "summary": "The Packers have unveiled their new “Rivalries” uniforms, and they confirm what we’ve previously suspected: the uniforms pay tribute to the Packers’ unique ownership structure, and Ed Policy was absolutely right in his extremely tepid praise for them. These are certainly among the Packers’ uniforms of all time. The set trades the Packers’ iconic green [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/general/85163/tyrod-taylor-vs-kyle-mccord-the-case-for-each-packers-qb",
         "publishedAt": "2026-08-24T20:52:57-04:00",
         "summary": "As we march towards the Green Bay Packers’ final preseason game against the Arizona Cardinals, all (some) eyes will be on the battle for the backup QB spot, which is being fought by veteran Tyrod Taylor and second-year player Kyle McCord. With starter Jordan Love missing some time in each of the previous two seasons, [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85164/packers-training-camp-recap-final-open-practice-before-the-cardinals-come-to-town",
         "publishedAt": "2026-08-24T16:57:24-04:00",
         "summary": "The Green Bay Packers had about a two-hour practice on Monday that got a chippy at the end. The first fight started between receiver Matthew Golden and edge defender Barryn Sorrell, two Texas Longhorns who were brought to the Packers via last year’s draft. According to reports from the press, linebacker Zaire Franklin and edge [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/85154/packers-matt-lafleur-gives-injury-updates-on-brandon-cisse-aaron-banks-others",
         "publishedAt": "2026-08-24T11:10:00-04:00",
         "summary": "Green Bay Packers fans can breathe a sigh of relief on the statuses of a few of the team’s key players who were injured in or before Friday’s preseason game in Denver. Speaking to the press ahead of the team’s penultimate open practice on Monday, head coach Matt LaFleur provided a positive update on Brandon [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85150/has-packers-defensive-line-goes-from-weakness-to-strength-in-record-time",
         "publishedAt": "2026-08-24T11:00:00-04:00",
         "summary": "At the end of the 2025 season, the Green Bay Packers’ defensive line was running on fumes and waiver claims, and the team’s inability to stop the run was painfully apparent. A defense that had allowed an average of 98.3 rushing yards per game through its first 11 games gave up 164.2 yards per game [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Time to temper expectations after two games?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85147/green-bay-packers-news-time-to-temper-expectations-after-two-games",
-        "publishedAt": "2026-08-24T08:45:00-04:00",
-        "summary": "Through two preseason games, the Green Bay Packers have seen plenty of encouraging signs from the players who should have key roles in the regular season. The first game saw the third and fourth string units get exposed in the second half, but in both contests, the starting offense and defense looked solid at worst. [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room, Preseason Week 2: Trey Smack",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85135/packers-film-room-preseason-week-2-trey-smack",
-        "publishedAt": "2026-08-24T06:43:07-04:00",
-        "summary": "By now, I think we’ve all seen Green Bay Packers special teams coordinator Cam Achord’s presser where he talked about how the hold will change depending on different factors while kicking a field goal. But, in case you missed it, here it is: Here’s a bit of a summary:1. A lot of kickers like the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
