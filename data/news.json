@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-08-26T11:01:00.724Z",
+  "updatedAt": "2026-08-26T14:07:12.025Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers edge rusher Micah Parsons ranked No. 8 in NFL 'Top 100'",
+        "url": "https://www.packers.com/news/packers-edge-rusher-micah-parsons-ranked-no-8-in-nfl-top-100-2026",
+        "publishedAt": "Wed, 26 Aug 2026 14:00:00 GMT",
+        "summary": "Four-time All-Pro earns his highest ranking yet",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: It feels time for the real games",
+        "url": "https://www.packers.com/news/inbox-it-feels-time-for-the-real-games-aug-26-2026",
+        "publishedAt": "Wed, 26 Aug 2026 13:30:00 GMT",
+        "summary": "That’s all for the personnel department to figure out",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers, Thrivent announce details of new 'Game Changing Players' community program",
         "url": "https://www.packers.com/news/packers-thrivent-announce-details-of-new-game-changing-players-community-program-2026",
         "publishedAt": "Tue, 25 Aug 2026 18:49:01 GMT",
         "summary": "10 Wisconsin nonprofits to be honored on gamedays this season",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-vs-cardinals-how-to-watch-stream-listen-preseason-week-3-2026",
         "publishedAt": "Tue, 25 Aug 2026 17:55:15 GMT",
         "summary": "Green Bay Packers vs. Arizona Cardinals channel listing, radio & streaming options",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-reveal-nfl-rivalries-uniforms-celebrating-team-s-unique-ownership",
         "publishedAt": "Tue, 25 Aug 2026 13:55:00 GMT",
         "summary": "New jersey, pants and helmet, along with unique product line, highlights public ownership, team history and fan culture",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-trending-in-the-right-direction-aug-25-2026",
         "publishedAt": "Tue, 25 Aug 2026 13:30:00 GMT",
         "summary": "The Packers’ rookie class has played its way into the conversation",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-to-welcome-arizona-cardinals-for-joint-practice-bike-tradition-2026",
         "publishedAt": "Mon, 24 Aug 2026 22:11:06 GMT",
         "summary": "Start time for practice changed to 11:30 a.m.; kids invited to bring bikes to offer Cardinals and Packers players rides to practice",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/5-things-learned-at-packers-training-camp-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 21:54:00 GMT",
         "summary": "Several defensive standouts in Monday’s practice",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-announce-time-change-for-joint-practice-with-cardinals-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:58:32 GMT",
         "summary": "Start time moved to 11:30 a.m. CT on Wednesday, Aug. 26",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-finish-preseason-against-cardinals-pre-week-3-2026",
         "publishedAt": "Mon, 24 Aug 2026 20:57:27 GMT",
         "summary": "The contest will feature brothers Matt and Mike LaFleur as the opposing head coaches",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/titletown-gameday-live-presented-by-american-family-insurance-set-to-debut-for-regular-season-aug-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 18:29:13 GMT",
         "summary": "Event kicks off for 2026 season at 3:15 p.m. on Sept. 24 throughout Titletown",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/live-look-in-packers-training-camp-august-24-2026",
         "publishedAt": "Mon, 24 Aug 2026 15:30:00 GMT",
         "summary": "Follow along for practice updates live from Ray Nitschke Field",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "John Williams has been 'big surprise this preseason' for Packers' O-line",
-        "url": "https://www.packers.com/news/john-williams-has-been-big-surprise-this-preseason-for-packers-o-line-aug-22-2026",
-        "publishedAt": "Mon, 24 Aug 2026 14:00:00 GMT",
-        "summary": "Key comments from Green Bay’s coordinators and offensive assistants",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: He continually proves he's a pro",
-        "url": "https://www.packers.com/news/inbox-he-continually-proves-he-s-a-pro-aug-24-2026",
-        "publishedAt": "Mon, 24 Aug 2026 13:30:00 GMT",
-        "summary": "This is not an easy process",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Sources: Buccaneers rookie Bain has AC sprain, 'nothing serious'",
+        "url": "https://www.espn.com/nfl/story/_/id/49731749/sources-buccaneers-rookie-bain-ac-sprain-serious",
+        "publishedAt": "2026-08-26T13:53:42Z",
+        "summary": "Buccaneers rookie pass rusher Rueben Bain Jr. suffered an AC sprain, but it is said to be \"nothing serious,\" and he is expected to be ready Week 1, sources told ESPN's Adam Schefter.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What is the forecast for Giants with Calvin Austin III out for the season?",
+        "url": "https://www.espn.com/video/clip/_/id/49731495/what-forecast-giants-calvin-austin-iii-season",
+        "publishedAt": "2026-08-26T13:01:06Z",
+        "summary": "What is the forecast for Giants with Calvin Austin III out for the season?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Thamel on NFL players returning to CFB: 'This story is far from over'",
+        "url": "https://www.espn.com/video/clip/_/id/49731410/story-far-over",
+        "publishedAt": "2026-08-26T12:54:58Z",
+        "summary": "Thamel on NFL players returning to CFB: 'This story is far from over'",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Giants WR Calvin Austin (torn ACL) out for season",
+        "url": "https://www.espn.com/nfl/story/_/id/49731270/source-giants-wr-calvin-austin-miss-upcoming-season",
+        "publishedAt": "2026-08-26T13:03:32Z",
+        "summary": "Giants wide receiver Calvin Austin III will miss the upcoming season after suffering a torn ACL in his right knee while running a route at Tuesday's training camp practice, a source told ESPN's Adam Schefter.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Who's in, who's out? Best bets to make or miss the NFL playoffs",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49660541/2026-nfl-betting-playoffs-odds-futures-picks-predictions",
+        "publishedAt": "2026-08-26T11:12:00Z",
+        "summary": "Our betting analysts break down the odds and offer their favorite bets for teams they like to make or miss the playoffs.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football: Answering one key preseason question for 25 NFL teams",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49714327/fantasy-football-2026-nfl-position-battles-surprises-breakouts",
+        "publishedAt": "2026-08-26T11:08:55Z",
+        "summary": "NFL Nation reporters answer the most important fantasy questions, providing insight from training camps.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2027 NFL mock draft: Reid's preseason first-round predictions",
         "url": "https://www.espn.com/nfl/draft2027/story/_/id/49684109/2027-nfl-mock-draft-reid-preseason-first-round-predictions-32-picks-manning-moore-carr",
         "publishedAt": "2026-08-26T10:26:49Z",
         "summary": "With the college and NFL seasons about to start, Jordan Reid projected the top 32 picks in next year's draft -- including a blockbuster trade.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,34 +180,34 @@
         "url": "https://www.espn.com/nfl/story/_/id/49712506/houston-texans-cj-stroud-new-look-cut-hair-leaner",
         "publishedAt": "2026-08-26T10:00:02Z",
         "summary": "Houston's quarterback showed up with a new haircut and leaner appearance to help him be more of a dual threat.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Four under-the-radar players, one position to watch for 49ers",
         "url": "https://www.espn.com/nfl/story/_/id/49722650/san-francisco-49ers-2026-nfl-season-underrated-players-positions",
-        "publishedAt": "2026-08-26T10:00:12Z",
-        "summary": "For the 49ers to return to the playoffs, it could depend on under-the-radar players like DeMarcus Robinson and whoever starts at left guard.",
-        "image": "data/news-images/espn-2.jpg",
+        "publishedAt": "2026-08-26T13:17:19Z",
+        "summary": "For the 49ers to return to the playoffs, it could depend on under-the-radar players like Demarcus Robinson and whoever starts at left guard.",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "What to expect from Jaguars' running backs in 2026",
         "url": "https://www.espn.com/nfl/story/_/id/49725895/what-expect-jaguars-running-backs-bhayshul-tuten-chris-rodriguez-jr-2026",
-        "publishedAt": "2026-08-26T10:14:19Z",
+        "publishedAt": "2026-08-26T12:53:41Z",
         "summary": "With no clear No. 1 rusher, Jacksonville will try the running-back-by-committee approach on offense. Will it work?﻿",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "4 issues Saints face ahead of cuts, final week of camp",
         "url": "https://www.espn.com/nfl/story/_/id/49724290/4-issues-new-orleans-saints-face-ahead-cuts-53-roster-final-week-training-camp",
-        "publishedAt": "2026-08-26T10:00:02Z",
+        "publishedAt": "2026-08-26T11:52:36Z",
         "summary": "New Orleans is facing mounting injuries, a kicker battle, control issues and a QB quandary entering final week of its preseason.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49721794/nfl-international-mexico-city-london-toronto-berlin-goodell",
         "publishedAt": "2026-08-26T09:56:11Z",
         "summary": "Roger Goodell has \"no doubt\" there will be NFL teams outside the US. We asked team executives which cities make the most sense.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-26T04:34:36Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy Football Marathon mock draft: RBs taken in 13 of first 20 picks",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49711682/2026-fantasy-football-marathon-mock-draft-ppr",
-        "publishedAt": "2026-08-26T05:00:49Z",
-        "summary": "The annual event concluded with a 10-team mock, during which top backs went early and most waited on QBs.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 New England Patriots training camp: Latest intel, updates",
-        "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-        "publishedAt": "2026-08-26T02:59:31Z",
-        "summary": "Catch up on our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Giants trading OL Josh Ezeudu to Chiefs for '28 pick",
-        "url": "https://www.espn.com/nfl/story/_/id/49727700/sources-giants-trading-ol-josh-ezeudu-chiefs-28-pick",
-        "publishedAt": "2026-08-26T10:12:11Z",
-        "summary": "The Giants are trading offensive lineman Josh Ezeudu to the Chiefs for a 2028 seventh-round pick, sources said.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
-        "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
-        "publishedAt": "2026-08-26T01:01:37Z",
-        "summary": "We're following trades right through the kickoff of the 2026 NFL season, including Kayshon Boutte going to the Texans.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ann Michael Maye grants Patriots fan's baking Make-a-Wish",
-        "url": "https://www.espn.com/nfl/story/_/id/49725989/ann-michael-maye-new-england-patriots-make-wish",
-        "publishedAt": "2026-08-26T00:56:04Z",
-        "summary": "Ann Michael granted a Make-A-Wish on Friday at Gillette Stadium for Skylar, a 16-year-old from Massachusetts diagnosed with a brain tumor.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
