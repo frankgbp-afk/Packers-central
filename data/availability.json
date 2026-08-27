@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T18:53:00Z",
+  "updatedAt": "2026-08-27T00:51:00Z",
   "label": "Training Camp Availability",
   "players": [
     {"player":"Warren Brinson","position":"DL","status":"NOT PRACTICING / MONITOR","detail":"Missed the Aug. 24 practice after tweaking his calf during pregame warmups Aug. 21. Matt LaFleur said he will miss a little bit of time; no confirmed return has been established.","source":"Acme Packing Company / Matt LaFleur","sourceDate":"2026-08-24"},
@@ -16,11 +16,12 @@
     {"player":"Luke Musgrave","position":"TE","status":"PUP","detail":"No activation from PUP has been confirmed through the Aug. 26 joint practice while he recovers from a neck issue.","source":"Packers camp reporting / Acme Packing Company","sourceDate":"2026-08-26"}
   ],
   "recentReturns": [
-    {"player":"Javon Bullard","position":"S","status":"RETURNED","detail":"Returned to the practice field for the Aug. 26 joint practice with Arizona after missing Aug. 24 while recovering from a foot bone bruise.","source":"Acme Packing Company joint-practice live updates","sourceDate":"2026-08-26"},
-    {"player":"Benjamin St-Juste","position":"CB","status":"RETURNED","detail":"Returned to practice for the Aug. 26 joint session with Arizona after missing Aug. 24 with a hamstring issue.","source":"Acme Packing Company joint-practice reporting","sourceDate":"2026-08-26"},
-    {"player":"Arron Mosby","position":"EDGE","status":"RETURNED","detail":"Returned to practice for the Aug. 26 joint session with Arizona after missing Aug. 24 following an issue from the Denver preseason game.","source":"Acme Packing Company joint-practice reporting","sourceDate":"2026-08-26"},
+    {"player":"Tucker Kraft","position":"TE","status":"RETURNED / FULL PRACTICE","detail":"Reached his stated goal of full participation in the Aug. 26 joint practice with Arizona, taking physical team reps without a rep count as he continues his ACL comeback.","source":"Packers.com","sourceDate":"2026-08-26"},
+    {"player":"Javon Bullard","position":"S","status":"RETURNED / RAMPING UP","detail":"Returned to the field for the Aug. 26 joint practice, participating in the early individual period for his first on-field work since bruising his foot Aug. 9. He did not resume his usual team-period nickel reps yet.","source":"Packers.com","sourceDate":"2026-08-26"},
+    {"player":"Benjamin St-Juste","position":"CB","status":"RETURNED","detail":"Returned to practice for the Aug. 26 joint session with Arizona after missing Aug. 24 with a hamstring issue.","source":"Packers.com","sourceDate":"2026-08-26"},
+    {"player":"Arron Mosby","position":"EDGE","status":"RETURNED","detail":"Returned to practice for the Aug. 26 joint session with Arizona after missing Aug. 24 with an illness.","source":"Packers.com","sourceDate":"2026-08-26"},
     {"player":"Darian Kinnard","position":"OL","status":"RETURNED","detail":"Was not among the players who missed the Aug. 24 practice after previously being sidelined with an ankle issue, indicating he returned to practice participation.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
-    {"player":"Brandon Cisse","position":"CB","status":"RETURNED","detail":"Returned to practice Aug. 24 after leaving the Aug. 21 preseason game with a knee issue and participated in the Aug. 26 joint practice.","source":"Matt LaFleur / Acme Packing Company","sourceDate":"2026-08-26"},
+    {"player":"Brandon Cisse","position":"CB","status":"RETURNED","detail":"Returned to practice Aug. 24 after leaving the Aug. 21 preseason game with a knee issue and participated in the Aug. 26 joint practice.","source":"Packers.com / Acme Packing Company","sourceDate":"2026-08-26"},
     {"player":"Josh Jacobs","position":"RB","status":"RETURNED / RAMPING UP","detail":"Returned to practice after a groin injury and began limited team-period work Aug. 24 as the Packers continued to ramp him up.","source":"Matt LaFleur / Acme Packing Company","sourceDate":"2026-08-24"},
     {"player":"Bo Melton","position":"WR","status":"RETURNED","detail":"Returned for the Aug. 20 walkthrough after leaving an earlier practice late with a stinger.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
     {"player":"Nyjalik Kelly","position":"EDGE","status":"RETURNED","detail":"Returned to practice after missing time with a knee issue and was available for the Aug. 20 walkthrough.","source":"Acme Packing Company","sourceDate":"2026-08-20"},
@@ -30,7 +31,6 @@
     {"player":"Domani Jackson","position":"CB","status":"RETURNED","detail":"Progressed to full team drills by Aug. 18 after offseason core-muscle surgery.","source":"Packers camp reporting","sourceDate":"2026-08-18"},
     {"player":"Chris Brooks","position":"RB","status":"RETURNED","detail":"Returned to practice after missing time with a hamstring issue.","source":"Acme Packing Company","sourceDate":"2026-08-16"},
     {"player":"Devonte Wyatt","position":"DL","status":"RETURNED","detail":"Returned to practice after missing time earlier in camp and played against Denver on Aug. 21.","source":"Acme Packing Company","sourceDate":"2026-08-22"},
-    {"player":"Tucker Kraft","position":"TE","status":"RETURNED / RAMPING UP","detail":"Continued his managed ACL comeback and took 11-on-11 reps during the Aug. 26 joint practice with Arizona.","source":"Packers.com / Matt LaFleur; Acme Packing Company","sourceDate":"2026-08-26"},
     {"player":"Carrington Valentine","position":"CB","status":"RETURNED","detail":"Returned to practice after being sidelined earlier in camp and was taking team reps Aug. 18.","source":"Acme Packing Company","sourceDate":"2026-08-18"},
     {"player":"Matthew Golden","position":"WR","status":"RETURNED","detail":"Returned to practice after a brief absence/rehab period.","source":"Acme Packing Company","sourceDate":"2026-08-11"},
     {"player":"Jayden Reed","position":"WR","status":"RETURNED","detail":"Returned to practice after a brief absence/rehab period. His Aug. 21 game absence was reported as personal rather than injury-related.","source":"Acme Packing Company","sourceDate":"2026-08-24"},
