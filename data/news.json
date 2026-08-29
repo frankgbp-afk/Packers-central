@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T00:20:04.096Z",
+  "updatedAt": "2026-08-29T01:19:54.478Z",
   "sources": {
     "packers": [
       {
@@ -12,11 +12,29 @@
         "icon": "GB"
       },
       {
+        "title": "Packers and Cardinals tied at 3 after first quarter",
+        "url": "https://www.packers.com/news/in-game-updates-preseason-week-3-cardinals-2026",
+        "publishedAt": "Sat, 29 Aug 2026 00:34:43 GMT",
+        "summary": "Trey Smack makes a 36-yard field goal, Dani Dennis-Sutton gets big sack of Gardner Minshew",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
         "title": "37 Packers not suiting up vs. Cardinals",
         "url": "https://www.packers.com/news/37-packers-not-suiting-up-vs-cardinals",
         "publishedAt": "Fri, 28 Aug 2026 23:48:08 GMT",
         "summary": "Final preseason game features battles for roster spots",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers salute U.S. Air Force veteran Morgan Saracena for 'Operation Fan Mail'",
+        "url": "https://www.packers.com/news/packers-salute-u-s-air-force-veteran-morgan-saracena-for-operation-fan-mail-pre-week-3-2026",
+        "publishedAt": "Fri, 28 Aug 2026 23:00:00 GMT",
+        "summary": "Packers, Network Health honored Saracena during Friday's game against the Cardinals",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-vs-cardinals-what-to-watch-for-pre-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 14:00:00 GMT",
         "summary": "Roster decisions loom in the coming days",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-vs-cardinals-how-to-watch-stream-listen-preseason-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 13:55:00 GMT",
         "summary": "Green Bay Packers vs. Arizona Cardinals channel listing, radio & streaming options",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-it-is-time-for-the-final-audition-aug-28-2026",
         "publishedAt": "Fri, 28 Aug 2026 13:30:00 GMT",
         "summary": "Setting the 53 is a bittersweet part of the personnel process",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-invite-high-school-teams-to-submit-highlights-for-high-school-plays-of-the-month-program-2026",
         "publishedAt": "Thu, 27 Aug 2026 22:05:00 GMT",
         "summary": "Program will feature five teams each month; each team will receive a $2,000 donation courtesy of the Packers and UW Health Kids",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-seeking-employees-at-september-job-fairs-2026",
         "publishedAt": "Thu, 27 Aug 2026 22:00:00 GMT",
         "summary": "Walk-in job fairs to be held in the Verizon Loft, Atrium Eateries and Johnsonville Tailgate Village for gameday and seasonal positions",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-lb-edgerrin-cooper-receives-2026-community-service-award",
         "publishedAt": "Thu, 27 Aug 2026 20:35:39 GMT",
         "summary": "Third-year linebacker was a second-round pick in 2024",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/football-and-family-go-hand-in-hand-for-the-lafleurs-aug-27-2026",
         "publishedAt": "Thu, 27 Aug 2026 14:00:00 GMT",
         "summary": "Matt and Mike LaFleur chased their dreams to the NFL sideline",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/inbox-it-was-two-teams-making-each-other-better-aug-27-2026",
         "publishedAt": "Thu, 27 Aug 2026 13:30:00 GMT",
         "summary": "None of us knows what the cards show until the hand is dealt",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "5 takeaways from Packers-Cardinals joint practice",
-        "url": "https://www.packers.com/news/5-takeaways-from-packers-cardinals-joint-practice-2026",
-        "publishedAt": "Wed, 26 Aug 2026 23:10:00 GMT",
-        "summary": "Tucker Kraft enjoyed being back in the fray on Wednesday",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers award matching grants to 20 Wisconsin youth football programs",
-        "url": "https://www.packers.com/news/packers-award-matching-grants-to-20-wisconsin-youth-football-programs-aug-26-2026",
-        "publishedAt": "Wed, 26 Aug 2026 22:22:08 GMT",
-        "summary": "Grants will support equipment purchases, new uniforms and football facility improvements",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
