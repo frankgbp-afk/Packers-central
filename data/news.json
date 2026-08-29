@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T09:20:32.320Z",
+  "updatedAt": "2026-08-29T10:20:28.915Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Why more NFL teams than ever are using GoPros on their QBs",
+        "url": "https://www.espn.com/nfl/story/_/id/49725881/nfl-teams-using-gopro-cameras-quarterbacks",
+        "publishedAt": "2026-08-29T10:00:04Z",
+        "summary": "Six NFL teams are using GoPro cameras on their quarterbacks, but not always for the reasons you might think.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Biggest decisions facing the Raiders ahead of roster cutdown deadline",
+        "url": "https://www.espn.com/nfl/story/_/id/49755300/las-vegas-raiders-questions-decisions-ahead-nfl-roster-cutdown-deadline",
+        "publishedAt": "2026-08-29T10:00:03Z",
+        "summary": "We answer the five biggest questions the Raiders are facing ahead of cutdown day.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Matt LaFleur: 'Fully anticipate' Josh Jacobs being on team amid charges",
         "url": "https://www.espn.com/nfl/story/_/id/49759295/matt-lafleur-fully-anticipate-josh-jacobs-packers",
         "publishedAt": "2026-08-29T06:31:01Z",
         "summary": "Green Bay Packers coach Matt LaFleur addressed Josh Jacobs' future with the team Friday, one day after Jacobs was charged with two misdemeanors related to an alleged incident earlier this year with a woman at his home.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49759181/cowboys-marist-liufau-fractures-forearm-preseason-finale-set-surgery",
         "publishedAt": "2026-08-29T05:34:18Z",
         "summary": "Cowboys outside linebacker Marist Liufau is scheduled to have surgery as early as Monday on a fractured left forearm he suffered in Friday's preseason finale. Coach Brian Schottenheimer said Liufau would miss \"weeks,\" but Jerry Jones was more optimistic.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49759091/giants-harbaugh-beckham-done-enough-make-nfl-roster",
         "publishedAt": "2026-08-29T05:21:03Z",
         "summary": "Odell Beckham Jr. had three catches for 53 yards in the Giants' preseason finale Friday, after which head coach John Harbaugh said he believes Beckham has \"done enough to make an NFL roster.\"",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49758949/game-highlights",
         "publishedAt": "2026-08-29T04:21:14Z",
         "summary": "Minnesota Vikings vs. Denver Broncos: Game Highlights",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49758932/arizona-cardinals-vs-green-bay-packers-game-highlights",
         "publishedAt": "2026-08-29T04:16:09Z",
         "summary": "Arizona Cardinals vs. Green Bay Packers Game Highlights",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873614",
         "publishedAt": "2026-08-29T05:14:29Z",
         "summary": "— Sam Ehlinger capped a three-touchdown performance with an 88-yard strike to rookie tight end Justin Joly in the Denver...",
-        "image": "data/news-images/espn-5.png",
+        "image": "data/news-images/espn-7.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49690629/2026-fantasy-football-cheat-sheet-draft-tips-sleepers-busts",
         "publishedAt": "2026-08-29T04:03:29Z",
         "summary": "All the names we've been talking about in a printable cheat sheet for your fantasy football draft.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49758745/new-york-giants-vs-new-york-jets-game-highlights",
         "publishedAt": "2026-08-29T03:52:58Z",
         "summary": "New York Giants vs. New York Jets Game Highlights",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401874102",
         "publishedAt": "2026-08-29T05:22:29Z",
         "summary": "— Kyle McCord wanted to prove this summer that he could play in the NFL.",
-        "image": "data/news-images/espn-8.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,25 +216,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873305",
         "publishedAt": "2026-08-29T04:28:31Z",
         "summary": "— Seattle's Jason Myers missed a 52-yard field goal as time expired, and the Seahawks played to a 9-9 tie with the Kansas City Chiefs Friday night in a preseason matchup of rookie third-string quarterbacks.",
-        "image": "data/news-images/espn-9.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seattle Seahawks vs. Kansas City Chiefs Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49758527/seattle-seahawks-vs-kansas-city-chiefs-game-highlights",
-        "publishedAt": "2026-08-29T03:22:42Z",
-        "summary": "Seattle Seahawks vs. Kansas City Chiefs Game Highlights",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "New Orleans Saints vs. Dallas Cowboys: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49758526/game-highlights",
-        "publishedAt": "2026-08-29T03:46:32Z",
-        "summary": "New Orleans Saints vs. Dallas Cowboys: Game Highlights",
-        "image": "data/news-images/espn-11.jpg",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
