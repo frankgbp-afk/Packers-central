@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:19:52.614Z",
+  "updatedAt": "2026-08-29T22:19:56.278Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
+        "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
+        "publishedAt": "2026-08-29T22:07:02Z",
+        "summary": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jacksonville Jaguars acquire Quinn Ewers from Miami Dolphins",
+        "url": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
+        "publishedAt": "2026-08-29T22:16:55Z",
+        "summary": "On Saturday, the Jacksonville Jaguars traded for quarterback Quinn Ewers, 23, who played in four games last season and completed 66.3% of his passes, sending a sixth-round pick in 2028 to the Miami Dolphins for the second-year player, the teams announced.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
+        "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
+        "publishedAt": "2026-08-29T21:24:06Z",
+        "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Dobbs makes his case to be Goff's backup by taking Lions on 3 TD drives in 25-16 win over Colts",
         "url": "http://www.espn.com/nfl/recap?gameId=401873308",
-        "publishedAt": "2026-08-29T20:14:29Z",
-        "summary": "— Josh Dobbs made his case Saturday to be Detroit's top backup quarterback by throwing two touchdown passes and leading the Lions on another TD drive to help the Lions beat the Indianapolis Colts 25-16.",
-        "image": "data/news-images/espn-0.png",
+        "publishedAt": "2026-08-29T21:08:29Z",
+        "summary": "— Josh Dobbs and Luke Altmyer went into the Detroit Lions' preseason finale on what appeared to be a level playing field in the battle to back up Jared Goff.",
+        "image": "data/news-images/espn-3.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,25 +153,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49765050/lions-colts-final-preseason-game",
         "publishedAt": "2026-08-29T20:04:57Z",
         "summary": "Lions down the Colts in final preseason game",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Dolphins' Hafley says success won't be defined by winning",
         "url": "https://www.espn.com/nfl/story/_/id/49764367/dolphins-hafley-says-success-defined-winning",
-        "publishedAt": "2026-08-29T19:22:20Z",
+        "publishedAt": "2026-08-29T21:17:51Z",
         "summary": "Dolphins coach Jeff Hafley says he won't measure the team's success this season by wins and losses.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
-        "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-        "publishedAt": "2026-08-29T20:43:16Z",
-        "summary": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49764268/source-panthers-agree-veteran-lb-bobby-okereke",
         "publishedAt": "2026-08-29T19:04:53Z",
         "summary": "The Carolina Panthers agreed to terms on a one-year deal with veteran inside linebacker Bobby Okereke on Saturday, a source told ESPN's Jeremy Fowler.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,16 +180,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49762865/source-bills-releasing-veterans-hardman-wishnowsky",
         "publishedAt": "2026-08-29T20:10:53Z",
         "summary": "The Bills are releasing veteran returner and wide receiver Mecole Hardman Jr. A source confirmed to ESPN that the team is also releasing punter Mitch Wishnowsky.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Giants trade for DT CJ Okoye from Ravens for '28 draft pick",
         "url": "https://www.espn.com/nfl/story/_/id/49762578/sources-giants-acquire-dt-okoye-ravens-28-pick",
-        "publishedAt": "2026-08-29T20:33:47Z",
-        "summary": "Defensive tackle CJ Okoye, 24, will reunite with Giants coach John Harbaugh, after the Baltimore Ravens dealt the veteran reserve to New York for a 2028 seventh-round pick, the teams announced on Saturday afternoon.",
-        "image": "data/news-images/espn-6.jpg",
+        "publishedAt": "2026-08-29T21:26:04Z",
+        "summary": "Defensive tackle CJ Okoye, 24, will reunite with Giants coach John Harbaugh, after the Baltimore Ravens dealt the veteran reserve to New York for a 2028 seventh-round pick, the teams announced Saturday afternoon.",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-29T12:46:35Z",
         "summary": "Looking at performances by Emmett Johnson, Makai Lemon and more and what it means for fantasy.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49744451/nfl-sack-projections-2026-season-top-50-pass-rushers",
         "publishedAt": "2026-08-29T10:46:47Z",
         "summary": "Will Aidan Hutchinson topple Myles Garrett as the sack champion? What about Micah Parsons? Seth Walder projects this season's top sack-getters.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725881/nfl-teams-using-gopro-cameras-quarterbacks",
         "publishedAt": "2026-08-29T10:00:04Z",
         "summary": "Six NFL teams are using GoPro cameras on their quarterbacks, but not always for the reasons you might think.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Biggest decisions facing the Raiders ahead of roster cutdown deadline",
-        "url": "https://www.espn.com/nfl/story/_/id/49755300/las-vegas-raiders-questions-decisions-ahead-nfl-roster-cutdown-deadline",
-        "publishedAt": "2026-08-29T10:00:03Z",
-        "summary": "We answer the five biggest questions the Raiders are facing ahead of cutdown day.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Matt LaFleur: 'Fully anticipate' Josh Jacobs being on team amid charges",
-        "url": "https://www.espn.com/nfl/story/_/id/49759295/matt-lafleur-fully-anticipate-josh-jacobs-packers",
-        "publishedAt": "2026-08-29T13:57:09Z",
-        "summary": "Packers coach Matt LaFleur addressed Josh Jacobs' future with the team Friday, one day after the running back was charged with two misdemeanors related to an alleged incident earlier this year with a woman at his home.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
