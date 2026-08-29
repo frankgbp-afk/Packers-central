@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-29T03:20:09.923Z",
+  "updatedAt": "2026-08-29T04:19:56.253Z",
   "sources": {
     "packers": [
       {
-        "title": "Cardinals lead Packers 31-24 after three",
+        "title": "Packers end preseason with 42-38 victory over Cardinals",
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-3-cardinals-2026",
         "publishedAt": "Sat, 29 Aug 2026 00:34:43 GMT",
-        "summary": "Rookie Nyjalik Kelly has a sack and interception",
+        "summary": "Young receivers made big plays for Green Bay",
         "image": "data/news-images/packers-0.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,175 +113,121 @@
     ],
     "espn": [
       {
+        "title": "Arizona Cardinals vs. Green Bay Packers Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49758932/arizona-cardinals-vs-green-bay-packers-game-highlights",
+        "publishedAt": "2026-08-29T04:16:09Z",
+        "summary": "Arizona Cardinals vs. Green Bay Packers Game Highlights",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "An 88-yard strike and 3 TDs: Sam Ehlinger’s big night for the Broncos in 34-6 rout of Vikings",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873614",
+        "publishedAt": "2026-08-29T04:12:30Z",
+        "summary": "— Sam Ehlinger capped a three-touchdown performance with an 88-yard strike to rookie tight end Justin Joly in the Denver Broncos' 34-6 rout of the Minnesota Vikings on Friday night in their preseason finale.",
+        "image": "data/news-images/espn-1.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ultimate Fantasy Football Cheat Sheet: The names you need to know for draft day",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49690629/2026-fantasy-football-cheat-sheet-draft-tips-sleepers-busts",
+        "publishedAt": "2026-08-29T04:03:29Z",
+        "summary": "All the names we've been talking about in a printable cheat sheet for your fantasy football draft.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "New York Giants vs. New York Jets Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49758745/new-york-giants-vs-new-york-jets-game-highlights",
+        "publishedAt": "2026-08-29T03:52:58Z",
+        "summary": "New York Giants vs. New York Jets Game Highlights",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Kyle McCord throws 4 TD passes as Packers beat Cardinals 42-38 in preseason finale",
+        "url": "http://www.espn.com/nfl/recap?gameId=401874102",
+        "publishedAt": "2026-08-29T03:36:29Z",
+        "summary": "— Kyle McCord threw four touchdown passes — including two to Kisean Johnson in the last 3 1/2 minutes of the game — and the Green Bay Packers rallied to beat the Arizona Cardinals 42-38 in the preseason finale for both teams Friday night.",
+        "image": "data/news-images/espn-4.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seattle's Myers misses field goal on final play and Seahawks play to 9-9 tie with Chiefs",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873305",
+        "publishedAt": "2026-08-29T03:32:31Z",
+        "summary": "— Seattle's Jason Myers missed a 52-yard field goal as time expired, and the Seahawks and the Kansas City Chiefs played to a 9-9 tie Friday night in a preseason matchup of rookie third-string quarterbacks.",
+        "image": "data/news-images/espn-5.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seattle Seahawks vs. Kansas City Chiefs Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49758527/seattle-seahawks-vs-kansas-city-chiefs-game-highlights",
+        "publishedAt": "2026-08-29T03:22:42Z",
+        "summary": "Seattle Seahawks vs. Kansas City Chiefs Game Highlights",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "New Orleans Saints vs. Dallas Cowboys: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49758526/game-highlights",
+        "publishedAt": "2026-08-29T03:46:32Z",
+        "summary": "New Orleans Saints vs. Dallas Cowboys: Game Highlights",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Josh Johnson helps Bengals conclude perfect preseason with 30-13 win over Eagles",
         "url": "http://www.espn.com/nfl/recap?gameId=401873301",
         "publishedAt": "2026-08-29T03:15:49Z",
         "summary": "— Veteran Josh Johnson threw for 156 yards in the first half, Evan McPherson kicked a 56-yarder for one of his three field goals and the Cincinnati Bengals capped a perfect preseason with a 30-13 victory over the Philadelphia Eagles on Friday night.",
-        "image": "data/news-images/espn-0.png",
+        "image": "data/news-images/espn-8.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ravens' Loop misses two FGs, booed amid job security questions",
+        "url": "https://www.espn.com/nfl/story/_/id/49758492/ravens-loop-misses-two-fgs-booed-amid-job-security-questions",
+        "publishedAt": "2026-08-29T04:05:51Z",
+        "summary": "Ravens kicker Tyler Loop missed two field goal attempts of 51 and 58 yards vs. the Commanders on Friday night, leading to boos at M&T Bank Stadium and questions about his job security.",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Zach Wilson leads winning drive for Saints, who are unsettled at backup QB along with Cowboys",
         "url": "http://www.espn.com/nfl/recap?gameId=401874048",
-        "publishedAt": "2026-08-29T03:11:30Z",
-        "summary": "— Zach Wilson led a drive to Daniel Carlson's 53-yard field goal with 1:55 remaining, and the New Orleans Saints beat the Dallas Cowboys 27-24 in a preseason finale Friday night.",
-        "image": "data/news-images/espn-1.png",
+        "publishedAt": "2026-08-29T04:02:29Z",
+        "summary": "— The Dallas Cowboys and New Orleans Saints finished the preseason without about as much clarity with their backup quarterbacks as they had at the start of training camp.",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cincinnati Bengals vs. Philadelphia Eagles: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49758417/game-highlights",
-        "publishedAt": "2026-08-29T03:07:40Z",
-        "summary": "Cincinnati Bengals vs. Philadelphia Eagles: Game Highlights",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets' Chip Trayanum hospitalized with neck injury after early TD in 23-6 preseason loss to Giants",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873303",
-        "publishedAt": "2026-08-29T02:47:32Z",
-        "summary": "— Chip Trayanum was taken to a hospital with a neck injury after earlier running for a touchdown in the New York Jets' 23-6 preseason loss to the...",
-        "image": "data/news-images/espn-3.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bucs GM Jason Licht 'optimistic' about re-signing Baker Mayfield",
-        "url": "https://www.espn.com/nfl/story/_/id/49758243/bucs-gm-jason-licht-optimistic-re-signing-baker-mayfield",
-        "publishedAt": "2026-08-29T02:46:05Z",
-        "summary": "Buccaneers general manager Jason Licht said Friday that he is \"very optimistic\" about quarterback Baker Mayfield playing in Tampa beyond the 2026 season despite Mayfield saying he felt \"disrespected\" by what the Bucs initially offered.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bucs rookie QB Jalon Daniels gets a surprise start but falters in preseason loss at Jaguars",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873306",
-        "publishedAt": "2026-08-29T02:30:31Z",
-        "summary": "Jalon Daniels’ chances of earning Tampa Bay’s backup quarterback job seemed to diminish in the team’s preseason finale, a 19-0 loss at Jacksonville on Friday night in which neither side played starters.",
-        "image": "data/news-images/espn-5.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tua Tagovailoa leads TD drive and loses fumble in Falcons' 17-12 preseason win over Dolphins",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873304",
-        "publishedAt": "2026-08-29T02:25:34Z",
-        "summary": "— Tua Tagovailoa led a touchdown drive but lost a fumble while playing the first quarter for Atlanta against his former team, and the Falcons beat the Miami Dolphins 17-12 on Friday night.",
-        "image": "data/news-images/espn-6.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Miles Davis' TD run lifts Panthers to 16-13 win over Texans in preseason finale",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873307",
-        "publishedAt": "2026-08-29T02:25:29Z",
-        "summary": "— Rookie Miles Davis ran for a 1-yard touchdown, Ryan Fitzgerald kicked three field goals and the Carolina Panthers held on to defeat the Houston Texans 16-13 on Friday night in the preseason finale for both teams.",
-        "image": "data/news-images/espn-7.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos' Marvin Mims Jr. exits preseason game with foot injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49758060/broncos-marvin-mims-jr-exits-preseason-game-foot-injury",
-        "publishedAt": "2026-08-29T02:49:17Z",
-        "summary": "Broncos wide receiver Marvin Mims Jr. left the team's preseason finale Friday night because of a right foot injury and was not expected to return.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Houston Texans vs. Carolina Panthers Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49758059/houston-texans-vs-carolina-panthers-game-highlights",
-        "publishedAt": "2026-08-29T02:53:41Z",
-        "summary": "Houston Texans vs. Carolina Panthers Game Highlights",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets RB Chip Trayanum taken to hospital with neck injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49758023/jets-chip-trayanum-taken-hospital-injuring-neck-preseason-game-vs-giants",
-        "publishedAt": "2026-08-29T03:14:43Z",
-        "summary": "Jets rookie running back Chip Trayanum was taken to a hospital because of a neck injury after being tackled on the final play of the first half against the Giants on Friday night.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ravens bludgeon Commanders 41-3 in preseason finale, but Tyler Loop misses 2 more field goals",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873302",
-        "publishedAt": "2026-08-29T02:40:30Z",
-        "summary": "— In a preseason finale that was nearly flawless for Baltimore, kicker Tyler Loop gave the Ravens cause for concern.",
-        "image": "data/news-images/espn-11.png",
+        "title": "Atlanta Falcons vs. Miami Dolphins: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49758431/game-highlights",
+        "publishedAt": "2026-08-29T03:45:56Z",
+        "summary": "Atlanta Falcons vs. Miami Dolphins: Game Highlights",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
-        "title": "Packers vs. Cardinals Preseason Game #3 Discussion",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85238/packers-vs-cardinals-preseason-game-3-discussion",
-        "publishedAt": "2026-08-28T19:00:00-04:00",
-        "summary": "The joint practices are over — now it’s time for an actual game. Well, a preseason game, at least. That’s what awaits the Green Bay Packers and Arizona Cardinals tonight at Lambeau Field as the LaFleur brothers’ teams meet in their final games before the start of the regular season. The Packers are 1-1 in [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers fans should be watching Pierre Strong in the preseason finale",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85512/packers-fans-should-be-watching-pierre-strong-in-the-preseason-finale",
-        "publishedAt": "2026-08-28T16:30:00-04:00",
-        "summary": "Pierre Strong was drafted by the New England Patriots in the fourth round of the 2022 NFL draft after an incredible final season at South Dakota State, when he carried the football 240 times for 1686 yards and 18 touchdowns. In his draft guide, The Beast, Dane Brugler had him as a likely fifth rounder [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room, Preseason Week 2: Emptying the Notebook on the Offense",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85421/packers-film-room-preseason-week-2-emptying-the-notebook-on-the-offense",
-        "publishedAt": "2026-08-28T12:00:00-04:00",
-        "summary": "During the season, I tend to dig into either specific plays or look at some of the bigger picture takeaways. Scheme and gameplan and blah blah blah. The preseason is different because those things don’t really matter. I’m more concerned with how individual players looked. So I watch a ton of players, taking notes and [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Tyrod Taylor vs. Kyle McCord: The Case Against Each Packers QB",
-        "url": "https://www.acmepackingcompany.com/general/85166/tyrod-taylor-vs-kyle-mccord-the-case-against-each-packers-qb",
-        "publishedAt": "2026-08-28T09:30:00-04:00",
-        "summary": "A few days ago, I tried with all my might to make the case for why each of Tyrod Taylor and Kyle McCord are worthy of being the Green Bay Packers QB2. Dear reader, there was a reason that article was like 300 words long. With one preseason game left for the Packers, the team [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Green Bay becomes the city of brotherly love for a day",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85458/green-bay-packers-news-green-bay-becomes-the-city-of-brotherly-love-for-a-day",
-        "publishedAt": "2026-08-28T09:03:24-04:00",
-        "summary": "You may have heard that there’s a family reunion happening in Green Bay this week. Have you heard about this? Apparently Matt LaFleur and his younger brother Mike are both NFL head coaches, and their teams are playing each other for the first time. I’m sure this is news to everyone reading this. The LaFleur [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Cardinals Preseason Week 3: Game time, how to watch, streaming, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/85189/packers-vs-cardinals-preseason-week-3-game-time-how-to-watch-streaming-more",
-        "publishedAt": "2026-08-28T07:00:00-04:00",
-        "summary": "Just sixty more minutes of preseason football remain before the Green Bay Packers can move on to the business of games whose final results matter. Tonight, the Packers host their one and only home preseason game, welcoming the Arizona Cardinals into Lambeau Field for the teams’ exhibition finale. The two squads, coached by brothers Matt [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "Packers RB Josh Jacobs charged with battery and criminal damage to property",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85440/packers-rb-josh-jacobs-charged-with-battery-and-criminal-damage-to-property",
         "publishedAt": "2026-08-27T15:43:36-04:00",
         "summary": "The Brown County District Attorney’s Office announced on Thursday that the county has officially charged Green Bay Packers running back Josh Jacobs after he was initially arrested for a domestic abuse complaint back in May. Jacobs was let out of county jail after a short stint this spring, as the county continued to investigate the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85431/green-bay-packers-to-sign-te-jonnu-smith",
         "publishedAt": "2026-08-27T12:46:50-04:00",
         "summary": "NFL insider Jordan Schultz is reporting that the Green Bay Packers are signing tight end Jonnu Smith, who has previous experience playing for Packers head coach Matt LaFleur when they were together with the Tennessee Titans. This report has been confirmed by other news breakers like ESPN’s Adam Schefter. Smith will join the Packers on [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85427/green-bay-packers-news-keisean-nixon-is-going-to-play-a-lot",
         "publishedAt": "2026-08-27T12:35:56-04:00",
         "summary": "There’s a version of the Keisean Nixon conversation that has been playing on loop in the greater Packers chattersphere: He misses a tackle, gets flagged, gives up a completion, or maybe shows poor effort in a preseason game, and suddenly the question becomes why the Packers keep him around at all. That criticism isn&#8217;t entirely [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +254,60 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85357/the-packers-disney-draft-pick-vs-every-opponent-on-the-2026-schedule",
         "publishedAt": "2026-08-27T09:00:00-04:00",
         "summary": "With the big game set to air on ABC and ESPN in February, the NFL announced a collaboration with Disney as part of Disney and ESPN’s “Year of the Super Bowl.” The press release shares that the organizations teamed up with Champion and Fanatics for a “draft” that paired a Disney-owned icon with each NFL [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Cardinals joint practice: Live updates",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85284/packers-cardinals-joint-practice-live-updates",
+        "publishedAt": "2026-08-26T12:39:39-04:00",
+        "summary": "Since today’s practice is a different vibe than the rest of the Green Bay Packers’ practices so far this summer, as the Arizona Cardinals are in town for the final day of training camp, I figured that we should have a different type of practice post up on the site today. Instead of doing a [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Niche CBA rule unlikely to impact Packers roster at cutdowns",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85261/niche-cba-rule-unlikely-to-impact-packers-roster-at-cutdowns",
+        "publishedAt": "2026-08-26T11:30:00-04:00",
+        "summary": "With the preseason nearly over and cutdowns on the horizon, very little on the Green Bay Packers’ roster seems up for much debate. Like most years, it’s about weighing keeping an extra receiver or an extra defensive back, or to keep nine or ten offensive lineman. Most of these decisions, particularly at the non-line positions, [&#8230;]",
+        "image": "data/news-images/acme-5.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Final roster work underway as training camp winds down",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85264/green-bay-packers-news-final-roster-work-underway-as-training-camp-winds-down",
+        "publishedAt": "2026-08-26T10:47:03-04:00",
+        "summary": "For the players who find themselves on the roster bubble, it’s getting to be about that time. The Packers have joint practices with the Cardinals this week and a preseason game on Friday, and then it’s cutdown weekend; the Packers will trim their roster to 53 players by early Sunday evening. Suffice it to say, [&#8230;]",
+        "image": "data/news-images/acme-6.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Explaining the Green Bay Packers’ new 3-safety package",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85251/explaining-the-green-bay-packers-new-3-safety-package",
+        "publishedAt": "2026-08-25T17:12:54-04:00",
+        "summary": "I’ve been getting some questions about the Green Bay Packers’ “three-safety package,” and how it’s different — if at all — from the team’s Nickel package. After all, if we’re playing a third safety in the slot in Nickel, a role that Javon Bullard has usually played, then how is this package any different? I’m [&#8230;]",
+        "image": "data/news-images/acme-7.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "2024 Cardinals defense: Jonathan Gannon’s most consistent season",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85123/2024-cardinals-defense-jonathan-gannons-most-consistent-season",
+        "publishedAt": "2026-08-25T16:00:16-04:00",
+        "summary": "As I explored the data around new Green Bay Packers defensive coordinator Jonathan’s Gannon’s Cardinals defense, it appeared to me that 2024 was their most consistent year. Largely because they relied more on early down zone coverage for the entire year, unlike 2023. And if 2023 was about how much zone the Cardinals could run, [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Aaron Banks, the Packers, and the sunk cost fallacy",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85198/aaron-banks-the-packers-and-the-sunk-cost-fallacy",
+        "publishedAt": "2026-08-25T11:35:00-04:00",
+        "summary": "The Cleveland Browns and their years-long saga with Deshaun Watson has brought up a lot of arguments citing the “sunk cost fallacy” as to why the Browns should stop considering their quarterback’s hefty contract when making decisions about their future. The Green Bay Packers might already have a similar (albeit less impactful) situation on their [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
