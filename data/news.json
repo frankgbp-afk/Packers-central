@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-08-28T23:19:59.043Z",
+  "updatedAt": "2026-08-29T00:20:04.096Z",
   "sources": {
     "packers": [
+      {
+        "title": "Live Chat: Packers vs. Cardinals | Preseason Week 3",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-cardinals-preseason-week-3-2026",
+        "publishedAt": "Sat, 29 Aug 2026 03:00:00 GMT",
+        "summary": "Follow Green Bay Packers vs. Arizona Cardinals with live updates from Lambeau Field",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "37 Packers not suiting up vs. Cardinals",
+        "url": "https://www.packers.com/news/37-packers-not-suiting-up-vs-cardinals",
+        "publishedAt": "Fri, 28 Aug 2026 23:48:08 GMT",
+        "summary": "Final preseason game features battles for roster spots",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Cardinals: What to watch for",
         "url": "https://www.packers.com/news/packers-vs-cardinals-what-to-watch-for-pre-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 14:00:00 GMT",
         "summary": "Roster decisions loom in the coming days",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-vs-cardinals-how-to-watch-stream-listen-preseason-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 13:55:00 GMT",
         "summary": "Green Bay Packers vs. Arizona Cardinals channel listing, radio & streaming options",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/inbox-it-is-time-for-the-final-audition-aug-28-2026",
         "publishedAt": "Fri, 28 Aug 2026 13:30:00 GMT",
         "summary": "Setting the 53 is a bittersweet part of the personnel process",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-invite-high-school-teams-to-submit-highlights-for-high-school-plays-of-the-month-program-2026",
         "publishedAt": "Thu, 27 Aug 2026 22:05:00 GMT",
         "summary": "Program will feature five teams each month; each team will receive a $2,000 donation courtesy of the Packers and UW Health Kids",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-seeking-employees-at-september-job-fairs-2026",
         "publishedAt": "Thu, 27 Aug 2026 22:00:00 GMT",
         "summary": "Walk-in job fairs to be held in the Verizon Loft, Atrium Eateries and Johnsonville Tailgate Village for gameday and seasonal positions",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-lb-edgerrin-cooper-receives-2026-community-service-award",
         "publishedAt": "Thu, 27 Aug 2026 20:35:39 GMT",
         "summary": "Third-year linebacker was a second-round pick in 2024",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/football-and-family-go-hand-in-hand-for-the-lafleurs-aug-27-2026",
         "publishedAt": "Thu, 27 Aug 2026 14:00:00 GMT",
         "summary": "Matt and Mike LaFleur chased their dreams to the NFL sideline",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/inbox-it-was-two-teams-making-each-other-better-aug-27-2026",
         "publishedAt": "Thu, 27 Aug 2026 13:30:00 GMT",
         "summary": "None of us knows what the cards show until the hand is dealt",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/5-takeaways-from-packers-cardinals-joint-practice-2026",
         "publishedAt": "Wed, 26 Aug 2026 23:10:00 GMT",
         "summary": "Tucker Kraft enjoyed being back in the fray on Wednesday",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/packers-award-matching-grants-to-20-wisconsin-youth-football-programs-aug-26-2026",
         "publishedAt": "Wed, 26 Aug 2026 22:22:08 GMT",
         "summary": "Grants will support equipment purchases, new uniforms and football facility improvements",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Lambeau Field ready for Friday's preseason matchup against Arizona",
-        "url": "https://www.packers.com/news/lambeau-field-ready-for-friday-s-preseason-matchup-against-arizona-aug-26-2026",
-        "publishedAt": "Wed, 26 Aug 2026 22:12:09 GMT",
-        "summary": "‘Packers Give Back Game’ to honor NAMI Wisconsin’s commitment to mental health advocacy throughout Wisconsin",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Cam Achord's energy palpable on Packers' special teams",
-        "url": "https://www.packers.com/news/cam-achord-s-energy-palpable-on-packers-special-teams-aug-26-2026",
-        "publishedAt": "Wed, 26 Aug 2026 16:35:00 GMT",
-        "summary": "New coordinator has brought swagger, new perspective",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -115,7 +115,7 @@
       {
         "title": "Vikings' McCarthy out for preseason finale due to ankle injury",
         "url": "https://www.espn.com/nfl/story/_/id/49756810/vikings-mccarthy-preseason-finale-due-ankle-injury",
-        "publishedAt": "2026-08-28T23:14:03Z",
+        "publishedAt": "2026-08-28T23:40:31Z",
         "summary": "Vikings quarterback J.J. McCarthy will not play in Friday's preseason game against the Broncos because of an ankle injury, but a source told ESPN the team does not consider it a long-term issue.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
@@ -124,7 +124,7 @@
       {
         "title": "Polymarket withdraws market on Mahomes' return from injury",
         "url": "https://www.espn.com/nfl/story/_/id/49756697/polymarket-withdraws-market-mahomes-return-injury",
-        "publishedAt": "2026-08-28T22:58:43Z",
+        "publishedAt": "2026-08-28T23:19:04Z",
         "summary": "Polymarket US said it withdrew plans to offer trading on Patrick Mahomes' return to the field, a type of market the NFL says should be prohibited.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers vs. Cardinals Preseason Game #3 Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85238/packers-vs-cardinals-preseason-game-3-discussion",
+        "publishedAt": "2026-08-28T19:00:00-04:00",
+        "summary": "The joint practices are over — now it’s time for an actual game. Well, a preseason game, at least. That’s what awaits the Green Bay Packers and Arizona Cardinals tonight at Lambeau Field as the LaFleur brothers’ teams meet in their final games before the start of the regular season. The Packers are 1-1 in [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers fans should be watching Pierre Strong in the preseason finale",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85512/packers-fans-should-be-watching-pierre-strong-in-the-preseason-finale",
         "publishedAt": "2026-08-28T16:30:00-04:00",
         "summary": "Pierre Strong was drafted by the New England Patriots in the fourth round of the 2022 NFL draft after an incredible final season at South Dakota State, when he carried the football 240 times for 1686 yards and 18 touchdowns. In his draft guide, The Beast, Dane Brugler had him as a likely fifth rounder [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85421/packers-film-room-preseason-week-2-emptying-the-notebook-on-the-offense",
         "publishedAt": "2026-08-28T12:00:00-04:00",
         "summary": "During the season, I tend to dig into either specific plays or look at some of the bigger picture takeaways. Scheme and gameplan and blah blah blah. The preseason is different because those things don’t really matter. I’m more concerned with how individual players looked. So I watch a ton of players, taking notes and [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/general/85166/tyrod-taylor-vs-kyle-mccord-the-case-against-each-packers-qb",
         "publishedAt": "2026-08-28T09:30:00-04:00",
         "summary": "A few days ago, I tried with all my might to make the case for why each of Tyrod Taylor and Kyle McCord are worthy of being the Green Bay Packers QB2. Dear reader, there was a reason that article was like 300 words long. With one preseason game left for the Packers, the team [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85458/green-bay-packers-news-green-bay-becomes-the-city-of-brotherly-love-for-a-day",
         "publishedAt": "2026-08-28T09:03:24-04:00",
         "summary": "You may have heard that there’s a family reunion happening in Green Bay this week. Have you heard about this? Apparently Matt LaFleur and his younger brother Mike are both NFL head coaches, and their teams are playing each other for the first time. I’m sure this is news to everyone reading this. The LaFleur [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/85189/packers-vs-cardinals-preseason-week-3-game-time-how-to-watch-streaming-more",
         "publishedAt": "2026-08-28T07:00:00-04:00",
         "summary": "Just sixty more minutes of preseason football remain before the Green Bay Packers can move on to the business of games whose final results matter. Tonight, the Packers host their one and only home preseason game, welcoming the Arizona Cardinals into Lambeau Field for the teams’ exhibition finale. The two squads, coached by brothers Matt [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85440/packers-rb-josh-jacobs-charged-with-battery-and-criminal-damage-to-property",
         "publishedAt": "2026-08-27T15:43:36-04:00",
         "summary": "The Brown County District Attorney’s Office announced on Thursday that the county has officially charged Green Bay Packers running back Josh Jacobs after he was initially arrested for a domestic abuse complaint back in May. Jacobs was let out of county jail after a short stint this spring, as the county continued to investigate the [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85431/green-bay-packers-to-sign-te-jonnu-smith",
         "publishedAt": "2026-08-27T12:46:50-04:00",
         "summary": "NFL insider Jordan Schultz is reporting that the Green Bay Packers are signing tight end Jonnu Smith, who has previous experience playing for Packers head coach Matt LaFleur when they were together with the Tennessee Titans. This report has been confirmed by other news breakers like ESPN’s Adam Schefter. Smith will join the Packers on [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-preseason/85427/green-bay-packers-news-keisean-nixon-is-going-to-play-a-lot",
         "publishedAt": "2026-08-27T12:35:56-04:00",
         "summary": "There’s a version of the Keisean Nixon conversation that has been playing on loop in the greater Packers chattersphere: He misses a tackle, gets flagged, gives up a completion, or maybe shows poor effort in a preseason game, and suddenly the question becomes why the Packers keep him around at all. That criticism isn&#8217;t entirely [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85357/the-packers-disney-draft-pick-vs-every-opponent-on-the-2026-schedule",
         "publishedAt": "2026-08-27T09:00:00-04:00",
         "summary": "With the big game set to air on ABC and ESPN in February, the NFL announced a collaboration with Disney as part of Disney and ESPN’s “Year of the Super Bowl.” The press release shares that the organizations teamed up with Champion and Fanatics for a “draft” that paired a Disney-owned icon with each NFL [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers-Cardinals joint practice: Live updates",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85284/packers-cardinals-joint-practice-live-updates",
-        "publishedAt": "2026-08-26T12:39:39-04:00",
-        "summary": "Since today’s practice is a different vibe than the rest of the Green Bay Packers’ practices so far this summer, as the Arizona Cardinals are in town for the final day of training camp, I figured that we should have a different type of practice post up on the site today. Instead of doing a [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
