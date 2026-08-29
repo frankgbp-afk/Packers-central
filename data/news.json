@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T14:20:01.687Z",
+  "updatedAt": "2026-08-29T15:19:53.630Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Sources: Giants acquire DT CJ Okoye from Ravens for '28 pick",
+        "url": "https://www.espn.com/nfl/story/_/id/49762578/sources-giants-acquire-dt-okoye-ravens-28-pick",
+        "publishedAt": "2026-08-29T15:09:23Z",
+        "summary": "The Giants acquired DT CJ Okoye from the Ravens on Saturday for a 2028 seventh-round pick, according to NFL Network's Ian Rapoport and Mike Garafolo.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football buzz: What you need to know from Friday's games",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-29T12:46:35Z",
         "summary": "Looking at performances by Emmett Johnson, Makai Lemon and more and what it means for fantasy.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49744451/nfl-sack-projections-2026-season-top-50-pass-rushers",
         "publishedAt": "2026-08-29T10:46:47Z",
         "summary": "Will Aidan Hutchinson topple Myles Garrett as the sack champion? What about Micah Parsons? Seth Walder projects this season's top sack-getters.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49725881/nfl-teams-using-gopro-cameras-quarterbacks",
         "publishedAt": "2026-08-29T10:00:04Z",
         "summary": "Six NFL teams are using GoPro cameras on their quarterbacks, but not always for the reasons you might think.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49755300/las-vegas-raiders-questions-decisions-ahead-nfl-roster-cutdown-deadline",
         "publishedAt": "2026-08-29T10:00:03Z",
         "summary": "We answer the five biggest questions the Raiders are facing ahead of cutdown day.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,25 +162,25 @@
         "url": "https://www.espn.com/nfl/story/_/id/49759295/matt-lafleur-fully-anticipate-josh-jacobs-packers",
         "publishedAt": "2026-08-29T13:57:09Z",
         "summary": "Packers coach Matt LaFleur addressed Josh Jacobs' future with the team Friday, one day after the running back was charged with two misdemeanors related to an alleged incident earlier this year with a woman at his home.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Cowboys' Marist Liufau to miss time after fracturing forearm",
         "url": "https://www.espn.com/nfl/story/_/id/49759181/cowboys-marist-liufau-fractures-forearm-preseason-finale-set-surgery",
-        "publishedAt": "2026-08-29T05:34:18Z",
+        "publishedAt": "2026-08-29T14:30:49Z",
         "summary": "Cowboys outside linebacker Marist Liufau is scheduled to have surgery as early as Monday on a fractured left forearm he suffered in Friday's preseason finale. Coach Brian Schottenheimer said Liufau would miss \"weeks,\" but Jerry Jones was more optimistic.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Giants' Harbaugh: Beckham has 'done enough' to make NFL roster",
         "url": "https://www.espn.com/nfl/story/_/id/49759091/giants-harbaugh-beckham-done-enough-make-nfl-roster",
-        "publishedAt": "2026-08-29T05:21:03Z",
-        "summary": "Odell Beckham Jr. had three catches for 53 yards in the Giants' preseason finale Friday, after which head coach John Harbaugh said he believes Beckham has \"done enough to make an NFL roster.\"",
-        "image": "data/news-images/espn-6.jpg",
+        "publishedAt": "2026-08-29T14:21:19Z",
+        "summary": "Odell Beckham Jr. had three catches for 53 yards in the Giants' preseason finale, after which coach John Harbaugh said he believes the wide receiver has \"done enough to make an NFL roster.\"",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49758949/game-highlights",
         "publishedAt": "2026-08-29T04:21:14Z",
         "summary": "Minnesota Vikings vs. Denver Broncos: Game Highlights",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49758932/arizona-cardinals-vs-green-bay-packers-game-highlights",
         "publishedAt": "2026-08-29T04:16:09Z",
         "summary": "Arizona Cardinals vs. Green Bay Packers Game Highlights",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873614",
         "publishedAt": "2026-08-29T05:14:29Z",
         "summary": "— Sam Ehlinger capped a three-touchdown performance with an 88-yard strike to rookie tight end Justin Joly in the Denver...",
-        "image": "data/news-images/espn-9.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49690629/2026-fantasy-football-cheat-sheet-draft-tips-sleepers-busts",
         "publishedAt": "2026-08-29T04:03:29Z",
         "summary": "All the names we've been talking about in a printable cheat sheet for your fantasy football draft.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "New York Giants vs. New York Jets Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49758745/new-york-giants-vs-new-york-jets-game-highlights",
-        "publishedAt": "2026-08-29T03:52:58Z",
-        "summary": "New York Giants vs. New York Jets Game Highlights",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
