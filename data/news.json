@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-08-29T20:20:09.060Z",
+  "updatedAt": "2026-08-29T21:19:52.614Z",
   "sources": {
     "packers": [
+      {
+        "title": "5 things to know about new Packers TE Jonnu Smith",
+        "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-te-jonnu-smith-aug-29-2026",
+        "publishedAt": "Sat, 29 Aug 2026 20:21:38 GMT",
+        "summary": "Veteran tight end played for Matt LaFleur in Tennessee in 2018",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers sign TE Jonnu Smith",
+        "url": "https://www.packers.com/news/packers-sign-te-jonnu-smith-aug-29-2026",
+        "publishedAt": "Sat, 29 Aug 2026 20:00:00 GMT",
+        "summary": "Green Bay releases S Tra Fluellen",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: It's a tough business",
         "url": "https://www.packers.com/news/inbox-it-s-a-tough-business-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 15:30:00 GMT",
         "summary": "Now it’s simply wait and see",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-cardinals-pre-week-3-2026",
         "publishedAt": "Sat, 29 Aug 2026 04:59:01 GMT",
         "summary": "Late fourth-quarter comeback caps wild summer finale",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/game-notes-kisean-johnson-captures-his-lambeau-field-moment-pre-week-3-2026",
         "publishedAt": "Sat, 29 Aug 2026 04:55:00 GMT",
         "summary": "Packers punt team finds end zone, Arron Mosby’s INT turns the momentum",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-3-cardinals-2026",
         "publishedAt": "Sat, 29 Aug 2026 00:34:43 GMT",
         "summary": "Young receivers made big plays for Green Bay",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/37-packers-not-suiting-up-vs-cardinals",
         "publishedAt": "Fri, 28 Aug 2026 23:48:08 GMT",
         "summary": "Final preseason game features battles for roster spots",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-salute-u-s-air-force-veteran-morgan-saracena-for-operation-fan-mail-pre-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 23:00:00 GMT",
         "summary": "Packers, Network Health honored Saracena during Friday's game against the Cardinals",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vs-cardinals-preseason-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 21:00:00 GMT",
         "summary": "Follow Green Bay Packers vs. Arizona Cardinals with live updates from Lambeau Field",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-vs-cardinals-what-to-watch-for-pre-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 14:00:00 GMT",
         "summary": "Roster decisions loom in the coming days",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-vs-cardinals-how-to-watch-stream-listen-preseason-week-3-2026",
         "publishedAt": "Fri, 28 Aug 2026 13:55:00 GMT",
         "summary": "Green Bay Packers vs. Arizona Cardinals channel listing, radio & streaming options",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/inbox-it-is-time-for-the-final-audition-aug-28-2026",
         "publishedAt": "Fri, 28 Aug 2026 13:30:00 GMT",
         "summary": "Setting the 53 is a bittersweet part of the personnel process",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers invite high school teams to submit highlights for 'High School Plays of the Month' program",
-        "url": "https://www.packers.com/news/packers-invite-high-school-teams-to-submit-highlights-for-high-school-plays-of-the-month-program-2026",
-        "publishedAt": "Thu, 27 Aug 2026 22:05:00 GMT",
-        "summary": "Program will feature five teams each month; each team will receive a $2,000 donation courtesy of the Packers and UW Health Kids",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers seeking employees at September job fairs",
-        "url": "https://www.packers.com/news/packers-seeking-employees-at-september-job-fairs-2026",
-        "publishedAt": "Thu, 27 Aug 2026 22:00:00 GMT",
-        "summary": "Walk-in job fairs to be held in the Verizon Loft, Atrium Eateries and Johnsonville Tailgate Village for gameday and seasonal positions",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -142,7 +142,7 @@
       {
         "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
         "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-        "publishedAt": "2026-08-29T20:16:11Z",
+        "publishedAt": "2026-08-29T20:43:16Z",
         "summary": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
@@ -167,10 +167,10 @@
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Giants trade for DT CJ Okoye from Ravens for '28 pick",
+        "title": "Giants trade for DT CJ Okoye from Ravens for '28 draft pick",
         "url": "https://www.espn.com/nfl/story/_/id/49762578/sources-giants-acquire-dt-okoye-ravens-28-pick",
-        "publishedAt": "2026-08-29T15:18:00Z",
-        "summary": "The Giants have acquired defensive tackle CJ Okoye from the Ravens for a 2028 seventh-round pick, according to NFL Network's Ian Rapoport and Mike Garafolo.",
+        "publishedAt": "2026-08-29T20:33:47Z",
+        "summary": "Defensive tackle CJ Okoye, 24, will reunite with Giants coach John Harbaugh, after the Baltimore Ravens dealt the veteran reserve to New York for a 2028 seventh-round pick, the teams announced on Saturday afternoon.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers Roster Cut Tracker 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
+        "publishedAt": "2026-08-29T16:29:20-04:00",
+        "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Discussion: Who do you think makes the team?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85563/packers-discussion-who-do-you-think-makes-the-team",
         "publishedAt": "2026-08-29T15:52:04-04:00",
         "summary": "I know we’re all sort of just refreshing the news right now to see who will get cut and who will be kept by the Green Bay Packers, so I wanted to open a discussion post for us to talk about the roster cutdown generally. Feel free to drop your own 53-man roster prediction in [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85273/nfl-waiver-rules-order-packers-sit-20th-at-cutdown-deadline",
         "publishedAt": "2026-08-29T12:00:00-04:00",
         "summary": "The NFL’s roster cut deadline is fast approaching, and with it comes one of the more convoluted and hectic days of the league’s schedule. Sunday’s cut-down leads to chaos the following day, when players subject to waivers can either be claimed by new teams or become free agents. At that time, teams will also begin [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,15 +254,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85556/packers-wide-receivers-make-their-cases-in-final-preseason-game",
         "publishedAt": "2026-08-29T10:02:35-04:00",
         "summary": "Earlier in the preseason I suggested the Packers open up their wide receiver competition. I don’t know if the Packers’ brass got the message, but the receivers on the lower end of the roster certainly lived up to their end of the bargain. The third preseason game was a 60 minute wide receiver showcase, with [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Roster Cut Tracker 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
-        "publishedAt": "2026-08-29T10:00:00-04:00",
-        "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
         "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
