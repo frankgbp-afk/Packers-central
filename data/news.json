@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T01:19:54.478Z",
+  "updatedAt": "2026-08-29T02:20:10.864Z",
   "sources": {
     "packers": [
       {
@@ -12,10 +12,10 @@
         "icon": "GB"
       },
       {
-        "title": "Packers and Cardinals tied at 3 after first quarter",
+        "title": "Packers lead Cardinals 24-20 at halftime",
         "url": "https://www.packers.com/news/in-game-updates-preseason-week-3-cardinals-2026",
         "publishedAt": "Sat, 29 Aug 2026 00:34:43 GMT",
-        "summary": "Trey Smack makes a 36-yard field goal, Dani Dennis-Sutton gets big sack of Gardner Minshew",
+        "summary": "Will Sheppard scores twice, J.Michael Sturdivant catches a touchdown",
         "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Ravens bludgeon Commanders 41-3 in preseason finale, but Tyler Loop misses 2 more field goals",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873302",
+        "publishedAt": "2026-08-29T01:23:30Z",
+        "summary": "— Tyler Huntley and Joe Fagnano each threw a touchdown pass in a dominant first half for the Baltimore Ravens, who wrapped up their preseason schedule with a 41-3 rout of the Washington Commanders on Friday night.",
+        "image": "data/news-images/espn-0.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Washington Commanders vs. Baltimore Ravens Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49757636/washington-commanders-vs-baltimore-ravens-game-highlights",
+        "publishedAt": "2026-08-29T01:33:58Z",
+        "summary": "Washington Commanders vs. Baltimore Ravens Game Highlights",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Vikings' McCarthy out for preseason finale due to ankle injury",
         "url": "https://www.espn.com/nfl/story/_/id/49756810/vikings-mccarthy-preseason-finale-due-ankle-injury",
         "publishedAt": "2026-08-28T23:40:31Z",
         "summary": "Vikings quarterback J.J. McCarthy will not play in Friday's preseason game against the Broncos because of an ankle injury, but a source told ESPN the team does not consider it a long-term issue.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49756697/polymarket-withdraws-market-mahomes-return-injury",
         "publishedAt": "2026-08-28T23:19:04Z",
         "summary": "Polymarket US said it withdrew plans to offer trading on Patrick Mahomes' return to the field, a type of market the NFL says should be prohibited.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26DST/nfl-fantasy-football-draft-rankings-2026-dst-defense",
         "publishedAt": "2026-08-28T19:38:08Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26K/nfl-fantasy-football-draft-rankings-2026-k-kicker",
         "publishedAt": "2026-08-28T19:38:26Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26IDP/nfl-fantasy-football-draft-rankings-2026-idp",
         "publishedAt": "2026-08-28T19:38:43Z",
         "summary": "Fantasy football draft rankings from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26WR/nfl-fantasy-football-draft-rankings-2026-wr-wide-receiver",
         "publishedAt": "2026-08-28T19:37:31Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26RB/nfl-fantasy-football-draft-rankings-2026-rb-running-back",
         "publishedAt": "2026-08-28T19:37:13Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26TE/nfl-fantasy-football-draft-rankings-2026-te-tight-end",
         "publishedAt": "2026-08-28T19:37:49Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26QB/nfl-fantasy-football-draft-rankings-2026-qb-quarterback",
         "publishedAt": "2026-08-28T19:36:56Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
         "publishedAt": "2026-08-28T19:32:21Z",
         "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football 2026 offensive depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
-        "publishedAt": "2026-08-28T19:31:33Z",
-        "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mike Clay's fantasy football dynasty and rookie rankings",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-dynasty-rookie-fantasy-football-rankings",
-        "publishedAt": "2026-08-28T19:29:07Z",
-        "summary": "Mike Clay offers his updated fantasy rankings for dynasty leagues and for the 2026 rookie class.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
