@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:20:01.026Z",
+  "updatedAt": "2026-08-30T19:19:54.809Z",
   "sources": {
     "packers": [
       {
@@ -115,17 +115,17 @@
       {
         "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
         "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-        "publishedAt": "2026-08-30T18:15:04Z",
+        "publishedAt": "2026-08-30T19:17:05Z",
         "summary": "Today is the cut-down deadline (6 p.m. ET)! We're following releases, trades, signings, practice squad additions for 32 NFL teams.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Packers acquire Kaleb Johnson in trade with Steelers",
-        "url": "https://www.espn.com/nfl/story/_/id/49774343/sources-packers-acquire-kaleb-johnson-trade-steelers",
-        "publishedAt": "2026-08-30T18:08:21Z",
-        "summary": "The Packers added some depth at running back by trading for former third-round pick Kaleb Johnson on Sunday ahead of final roster cuts",
+        "title": "Sources: Titans waive former starting QB Will Levis",
+        "url": "https://www.espn.com/nfl/story/_/id/49774800/titans-waive-former-starting-qb-levis",
+        "publishedAt": "2026-08-30T19:15:51Z",
+        "summary": "The Titans are waiving quarterback Will Levis, sources told ESPN's Jeremy Fowler and NFL Network's Ian Rapoport.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -133,18 +133,45 @@
       {
         "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
-        "publishedAt": "2026-08-30T17:58:42Z",
+        "publishedAt": "2026-08-30T19:01:54Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
+        "title": "Sources: Broncos OLB Jonathon Cooper placed on exempt list",
+        "url": "https://www.espn.com/nfl/story/_/id/49774684/sources-broncos-olb-jonathon-cooper-placed-exempt-list",
+        "publishedAt": "2026-08-30T19:14:06Z",
+        "summary": "The NFL is placing Broncos outside linebacker Jonathon Cooper on the commissioner exempt list following a pair of arrests earlier this summer on domestic violence charges.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Packers RB Josh Jacobs placed on commissioner exempt list",
+        "url": "https://www.espn.com/nfl/story/_/id/49774523/packers-rb-josh-jacobs-placed-commission-exempt-list",
+        "publishedAt": "2026-08-30T19:12:22Z",
+        "summary": "The NFL has placed Packers running back Josh Jacobs on the commissioner exempt list.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Packers acquire Kaleb Johnson in trade with Steelers",
+        "url": "https://www.espn.com/nfl/story/_/id/49774343/sources-packers-acquire-kaleb-johnson-trade-steelers",
+        "publishedAt": "2026-08-30T18:22:35Z",
+        "summary": "The Packers added some depth at running back by trading for former third-round pick Kaleb Johnson on Sunday ahead of final roster cuts",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Dolphins acquire QB Kyle McCord in trade with Packers",
         "url": "https://www.espn.com/nfl/story/_/id/49773349/sources-dolphins-acquire-qb-kyle-mccord-trade-packers",
-        "publishedAt": "2026-08-30T17:50:47Z",
+        "publishedAt": "2026-08-30T19:07:14Z",
         "summary": "The Dolphins acquired quarterback Kyle McCord in a trade with the Packers to serve as Malik Willis' backup.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49773129/sources-dolphins-releasing-ex-starting-lb-tyrel-dodson",
         "publishedAt": "2026-08-30T16:17:09Z",
         "summary": "The Dolphins are releasing linebacker Tyrel Dodson, a source confirmed to ESPN, after two seasons with the team.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49772519/source-bucs-tab-undrafted-rookie-jalon-daniels-backup-qb",
         "publishedAt": "2026-08-30T16:35:01Z",
         "summary": "The Buccaneers have decided that Jalon Daniels, an undrafted rookie free agent, will be their backup quarterback to start the season, a source told NFL Network.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
         "publishedAt": "2026-08-30T14:48:53Z",
         "summary": "We're making sense of seven big preseason deals, including Broderick Jones to the Cowboys.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49771892/sources-falcons-add-gervon-dexter-sr-trade-bears",
         "publishedAt": "2026-08-30T17:59:16Z",
         "summary": "The Falcons traded for defensive tackle Gervon Dexter Sr. in a deal with the Bears, sources told ESPN.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,53 +216,26 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49734412/2026-fantasy-football-breakout-stars-league-winners-michael-florio",
         "publishedAt": "2026-08-30T12:10:07Z",
         "summary": "Michael F. Florio shares his players with breakout potential who could lead fantasy managers to titles in 2026.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Colts WR Keenan Allen arrested on drunken driving charges",
-        "url": "https://www.espn.com/nfl/story/_/id/49771289/colts-wr-keenan-allen-arrested-drunk-driving-charges",
-        "publishedAt": "2026-08-30T13:49:04Z",
-        "summary": "Colts wide receiver Keenan Allen was arrested early Sunday morning on drunken driving charges.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Drake Maye didn't play preseason; will it matter in Week 1?",
-        "url": "https://www.espn.com/nfl/story/_/id/49756779/why-new-england-patriots-qb-drake-maye-didnt-play-preseason-matter-week-1-vs-seattle-seahawks",
-        "publishedAt": "2026-08-30T10:00:07Z",
-        "summary": "New England will kick off the season in Seattle for a Super Bowl rematch on Wednesday, Sept. 9.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tyson Bagent sparks the Bears with a 97-yard opening TD to wrap preseason with win over Titans",
-        "url": "http://www.espn.com/nfl/recap?gameId=401874394",
-        "publishedAt": "2026-08-30T02:39:32Z",
-        "summary": "— Tyson Bagent gave the Chicago Bears just the offensive start to wrap up the preseason in winning style.",
-        "image": "data/news-images/espn-11.png",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
-        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-08-30T14:00:00-04:00",
-        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
+        "title": "Packers Roster Cut Tracker 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
+        "publishedAt": "2026-08-30T15:07:39-04:00",
+        "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
         "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Roster Cut Tracker 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
-        "publishedAt": "2026-08-30T13:51:14-04:00",
-        "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
+        "title": "Packers trade for Rams TE Mark Redman",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85645/packers-trade-for-rams-te-mark-redman",
+        "publishedAt": "2026-08-30T15:03:41-04:00",
+        "summary": "The Green Bay Packers have traded for former Los Angeles Rams tight end Mark Redman, according to NFL insider Jordan Schultz. Redman, who played at Washington, San Diego State and Louisville at the college level, was signed as an undrafted free agent in 2025. So far, Redman hasn’t been active in an NFL regular-season game. [&#8230;]",
         "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
@@ -243,9 +243,27 @@
       {
         "title": "Packers trade for RB Kaleb Johnson at cutdown deadline",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
-        "publishedAt": "2026-08-30T13:47:42-04:00",
+        "publishedAt": "2026-08-30T14:56:32-04:00",
         "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
         "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers RB Josh Jacobs placed on the NFL’s commissioner exempt list",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85639/packers-rb-josh-jacobs-placed-on-the-nfls-commissioner-exempt-list",
+        "publishedAt": "2026-08-30T14:33:32-04:00",
+        "summary": "ESPN’s Adam Schefter is reporting that Green Bay Packers running back Josh Jacobs is being placed on the NFL’s commissioner exempt list, which means that he will not start on the team’s 53-man roster to open the season. At the time, there is no timeframe for a Jacobs suspension following the news earlier this week [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
+        "publishedAt": "2026-08-30T14:00:00-04:00",
+        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85622/green-bay-packers-officially-win-the-zaire-franklin-colby-wooden-trade",
         "publishedAt": "2026-08-30T13:25:05-04:00",
         "summary": "Earlier this offseason, the Green Bay Packers traded defensive lineman Colby Wooden, who was going into the final year of his rookie contract, for then-Indianapolis Colts linebacker Zaire Franklin. Since joining the Packers, Franklin has been the team’s starting Mike after Quay Walker signed with the Las Vegas Raiders in free agency, received a new contract and was [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85605/packers-waive-rookie-draft-pick-domani-jackson",
         "publishedAt": "2026-08-30T12:41:57-04:00",
         "summary": "The Green Bay Packers are waiving rookie cornerback Domani Jackson at the cutdown deadline, according to CBS Sports’ Matt Zenitz. Jackson, who was taken 201st overall in the draft by the team in April, had a poor performance in Green Bay’s preseason finale against the Arizona Cardinals after looking alright in his Week 2 debut. [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85592/packers-preseason-star-kyle-mccord-traded-to-miami-dolphins",
         "publishedAt": "2026-08-30T12:13:23-04:00",
         "summary": "You could argue that no one had a better preseason for the Green Bay Packers than quarterback Kyle McCord, who was able to put up a 102.4 passer rating after completing 46 of 70 passes for 446 yards and four touchdowns. McCord had a fairly quick rise in Green Bay, as he was battling for [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85587/packers-special-teams-units-passed-their-preseason-test",
         "publishedAt": "2026-08-30T11:36:31-04:00",
         "summary": "The Packers’ renovated their special teams operation this offseason, and their reworked approach is already paying dividends. Gone is Rich Bisaccia, embattled coordinator of (kind of) underperforming special teams units. Now those phases of the game fall under the purview of Cam Achord, recently of the New York Giants. How are things going so far? [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85569/green-bay-packers-will-have-2nd-shot-at-running-back-damon-bankston",
         "publishedAt": "2026-08-29T20:27:19-04:00",
         "summary": "If you’re an avid reader of Acme Packing Company, you know that I feel like the Green Bay Packers show their cards a bit when it comes to pre-draft visitors. Since 2022, when the Packers appeared to have changed their visit strategy from almost being used exclusively on undrafted free agent rookie recruiting to more [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: Who do you think makes the team?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85563/packers-discussion-who-do-you-think-makes-the-team",
-        "publishedAt": "2026-08-29T15:52:04-04:00",
-        "summary": "I know we’re all sort of just refreshing the news right now to see who will get cut and who will be kept by the Green Bay Packers, so I wanted to open a discussion post for us to talk about the roster cutdown generally. Feel free to drop your own 53-man roster prediction in [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL Waiver Rules &#038; Order: Packers sit 20th at cutdown deadline",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85273/nfl-waiver-rules-order-packers-sit-20th-at-cutdown-deadline",
-        "publishedAt": "2026-08-29T12:00:00-04:00",
-        "summary": "The NFL’s roster cut deadline is fast approaching, and with it comes one of the more convoluted and hectic days of the league’s schedule. Sunday’s cut-down leads to chaos the following day, when players subject to waivers can either be claimed by new teams or become free agents. At that time, teams will also begin [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
