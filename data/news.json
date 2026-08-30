@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:20:05.291Z",
+  "updatedAt": "2026-08-30T02:20:14.219Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,38 @@
     ],
     "espn": [
       {
-        "title": "2026 NFL offseason trade grades: Broderick Jones, Tutu Atwell",
-        "url": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
-        "publishedAt": "2026-08-30T00:53:37Z",
-        "summary": "We're making sense of six big preseason deals, including Tutu Atwell to the Rams.",
-        "image": "data/news-images/espn-0.jpg",
+        "title": "Tyson Bagent sparks the Bears with a 97-yard opening TD to wrap preseason with win over Titans",
+        "url": "http://www.espn.com/nfl/recap?gameId=401874394",
+        "publishedAt": "2026-08-30T01:14:30Z",
+        "summary": "— Tyson Bagent connected with Zavion Thomas for a 97-yard touchdown on Chicago's first offensive play and the Bears wrapped up the ",
+        "image": "data/news-images/espn-0.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
         "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-        "publishedAt": "2026-08-30T00:17:28Z",
+        "publishedAt": "2026-08-30T01:08:58Z",
         "summary": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
         "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chicago Bears vs. Tennessee Titans: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49767821/game-highlights",
+        "publishedAt": "2026-08-30T01:09:40Z",
+        "summary": "Chicago Bears vs. Tennessee Titans: Game Highlights",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL offseason trade grades: Broderick Jones, Tutu Atwell",
+        "url": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
+        "publishedAt": "2026-08-30T00:53:37Z",
+        "summary": "We're making sense of six big preseason deals, including Tutu Atwell to the Rams.",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +153,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
         "publishedAt": "2026-08-29T23:17:28Z",
         "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Cowboys acquire OT Jones in exchange for two draft picks",
         "url": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
-        "publishedAt": "2026-08-29T23:12:27Z",
-        "summary": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick to the Cowboys in exchange for a future third- and sixth-round pick, sources told ESPN.",
-        "image": "data/news-images/espn-3.jpg",
+        "publishedAt": "2026-08-30T01:38:40Z",
+        "summary": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick in 2027 to the Cowboys in exchange for a 2027 third- and sixth-round pick, sources told ESPN.",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
         "publishedAt": "2026-08-29T22:27:07Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
         "publishedAt": "2026-08-29T23:24:22Z",
         "summary": "On Saturday, the Jacksonville Jaguars traded for quarterback Quinn Ewers, 23, who played in four games last season and completed 66.3% of his passes, sending a sixth-round pick in 2028 to the Miami Dolphins for the second-year player, the teams announced.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873308",
         "publishedAt": "2026-08-29T21:08:29Z",
         "summary": "— Josh Dobbs and Luke Altmyer went into the Detroit Lions' preseason finale on what appeared to be a level playing field in the battle to back up Jared Goff.",
-        "image": "data/news-images/espn-6.png",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49765050/lions-colts-final-preseason-game",
         "publishedAt": "2026-08-29T20:04:57Z",
         "summary": "Lions down the Colts in final preseason game",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49764367/dolphins-hafley-says-success-defined-winning",
         "publishedAt": "2026-08-29T21:17:51Z",
         "summary": "Dolphins coach Jeff Hafley says he won't measure the team's success this season by wins and losses.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49764268/source-panthers-agree-veteran-lb-bobby-okereke",
         "publishedAt": "2026-08-29T19:04:53Z",
         "summary": "The Carolina Panthers agreed to terms on a one-year deal with veteran inside linebacker Bobby Okereke on Saturday, a source told ESPN's Jeremy Fowler.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Bills cut punter Wishnowsky; Hardman also released",
-        "url": "https://www.espn.com/nfl/story/_/id/49762865/source-bills-releasing-veterans-hardman-wishnowsky",
-        "publishedAt": "2026-08-29T20:10:53Z",
-        "summary": "The Bills are releasing veteran returner and wide receiver Mecole Hardman Jr. A source confirmed to ESPN that the team is also releasing punter Mitch Wishnowsky.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants trade for DT CJ Okoye from Ravens for '28 draft pick",
-        "url": "https://www.espn.com/nfl/story/_/id/49762578/sources-giants-acquire-dt-okoye-ravens-28-pick",
-        "publishedAt": "2026-08-29T21:26:04Z",
-        "summary": "Defensive tackle CJ Okoye, 24, will reunite with Giants coach John Harbaugh, after the Baltimore Ravens dealt the veteran reserve to New York for a 2028 seventh-round pick, the teams announced Saturday afternoon.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,20 +223,11 @@
     ],
     "acme": [
       {
-        "title": "Green Bay Packers will have 2nd shot at running back Damon Bankston",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85569/green-bay-packers-will-have-2nd-shot-at-running-back-damon-bankston",
-        "publishedAt": "2026-08-29T20:27:19-04:00",
-        "summary": "If you’re an avid reader of Acme Packing Company, you know that I feel like the Green Bay Packers show their cards a bit when it comes to pre-draft visitors. Since 2022, when the Packers appeared to have changed their visit strategy from almost being used exclusively on undrafted free agent rookie recruiting to more [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "Packers Roster Cut Tracker 2026",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
         "publishedAt": "2026-08-29T16:29:20-04:00",
         "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85563/packers-discussion-who-do-you-think-makes-the-team",
         "publishedAt": "2026-08-29T15:52:04-04:00",
         "summary": "I know we’re all sort of just refreshing the news right now to see who will get cut and who will be kept by the Green Bay Packers, so I wanted to open a discussion post for us to talk about the roster cutdown generally. Feel free to drop your own 53-man roster prediction in [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85273/nfl-waiver-rules-order-packers-sit-20th-at-cutdown-deadline",
         "publishedAt": "2026-08-29T12:00:00-04:00",
         "summary": "The NFL’s roster cut deadline is fast approaching, and with it comes one of the more convoluted and hectic days of the league’s schedule. Sunday’s cut-down leads to chaos the following day, when players subject to waivers can either be claimed by new teams or become free agents. At that time, teams will also begin [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85556/packers-wide-receivers-make-their-cases-in-final-preseason-game",
         "publishedAt": "2026-08-29T10:02:35-04:00",
         "summary": "Earlier in the preseason I suggested the Packers open up their wide receiver competition. I don’t know if the Packers’ brass got the message, but the receivers on the lower end of the roster certainly lived up to their end of the bargain. The third preseason game was a 60 minute wide receiver showcase, with [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85547/green-bay-packers-roster-a-final-2026-53-man-prediction",
         "publishedAt": "2026-08-29T03:11:51-04:00",
         "summary": "Alright, here’s my final stab at the Green Bay Packers’ 53-man roster before Sunday’s cutdowns. As a reminder, this prediction is mostly based on the work I’ve done on the Packers’ depth chart, and there weren’t huge changes to the pecking order in Green Bay’s preseason finale — where 37 players sat against the Arizona [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85536/packers-preseason-game-3-some-statistical-nuggets-vs-the-cardinals",
         "publishedAt": "2026-08-29T02:27:23-04:00",
         "summary": "“Did you all see that awesome preseason game,” is not something I am in the habit of saying, yet here we are. It was an instant (preseason) classic: a 42-38 barn-burner that saw the Green Bay Packers score twice in the final 3-and-a-half minutes to take home a win. We’re going to try something this [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85537/matt-lafleur-packers-fully-anticipate-rb-josh-jacobs-to-remain-on-roster",
         "publishedAt": "2026-08-29T01:47:59-04:00",
         "summary": "Green Bay Packers head coach Matt LaFleur was asked about starting running back Josh Jacobs’ standing with the club, following Thursday’s news that Jacobs was officially being charged with battery and criminal damage to property, after the Packers’ win on Friday against the Arizona Cardinals. He didn’t leave any grey area in his response: “I [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85523/packers-cardinals-preseason-final-score-recap-kyle-mccord-wills-green-bay-to-victory",
         "publishedAt": "2026-08-28T23:32:06-04:00",
         "summary": "The Green Bay Packers won a thriller, if there can ever be one in August, in their preseason finale against the Arizona Cardinals. Mike LaFleur, trying to best his older brother, called two timeouts in the final five seconds of the game, trying to set up a Hail Mary after receiver KiSean Johnson’s second fourth-quarter [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +299,15 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85238/packers-vs-cardinals-preseason-game-3-discussion",
         "publishedAt": "2026-08-28T19:00:00-04:00",
         "summary": "The joint practices are over — now it’s time for an actual game. Well, a preseason game, at least. That’s what awaits the Green Bay Packers and Arizona Cardinals tonight at Lambeau Field as the LaFleur brothers’ teams meet in their final games before the start of the regular season. The Packers are 1-1 in [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers fans should be watching Pierre Strong in the preseason finale",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85512/packers-fans-should-be-watching-pierre-strong-in-the-preseason-finale",
+        "publishedAt": "2026-08-28T16:30:00-04:00",
+        "summary": "Pierre Strong was drafted by the New England Patriots in the fourth round of the 2022 NFL draft after an incredible final season at South Dakota State, when he carried the football 240 times for 1686 yards and 18 touchdowns. In his draft guide, The Beast, Dane Brugler had him as a likely fifth rounder [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
