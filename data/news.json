@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T23:20:06.664Z",
+  "updatedAt": "2026-08-30T00:20:04.388Z",
   "sources": {
     "packers": [
       {
@@ -115,9 +115,18 @@
       {
         "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
         "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-        "publishedAt": "2026-08-29T23:12:51Z",
+        "publishedAt": "2026-08-29T23:31:22Z",
         "summary": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
         "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL depth charts for all 32 teams",
+        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+        "publishedAt": "2026-08-29T23:17:28Z",
+        "summary": "Here are the latest NFL depth charts for all 32 teams.",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
         "publishedAt": "2026-08-29T23:12:27Z",
         "summary": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick to the Cowboys in exchange for a future third- and sixth-round pick, sources told ESPN.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +144,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
         "publishedAt": "2026-08-29T22:27:07Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Jacksonville Jaguars acquire Quinn Ewers from Miami Dolphins",
         "url": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
-        "publishedAt": "2026-08-29T22:23:46Z",
+        "publishedAt": "2026-08-29T23:24:22Z",
         "summary": "On Saturday, the Jacksonville Jaguars traded for quarterback Quinn Ewers, 23, who played in four games last season and completed 66.3% of his passes, sending a sixth-round pick in 2028 to the Miami Dolphins for the second-year player, the teams announced.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873308",
         "publishedAt": "2026-08-29T21:08:29Z",
         "summary": "— Josh Dobbs and Luke Altmyer went into the Detroit Lions' preseason finale on what appeared to be a level playing field in the battle to back up Jared Goff.",
-        "image": "data/news-images/espn-4.png",
+        "image": "data/news-images/espn-5.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49765050/lions-colts-final-preseason-game",
         "publishedAt": "2026-08-29T20:04:57Z",
         "summary": "Lions down the Colts in final preseason game",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49764367/dolphins-hafley-says-success-defined-winning",
         "publishedAt": "2026-08-29T21:17:51Z",
         "summary": "Dolphins coach Jeff Hafley says he won't measure the team's success this season by wins and losses.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49764268/source-panthers-agree-veteran-lb-bobby-okereke",
         "publishedAt": "2026-08-29T19:04:53Z",
         "summary": "The Carolina Panthers agreed to terms on a one-year deal with veteran inside linebacker Bobby Okereke on Saturday, a source told ESPN's Jeremy Fowler.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49762865/source-bills-releasing-veterans-hardman-wishnowsky",
         "publishedAt": "2026-08-29T20:10:53Z",
         "summary": "The Bills are releasing veteran returner and wide receiver Mecole Hardman Jr. A source confirmed to ESPN that the team is also releasing punter Mitch Wishnowsky.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49762578/sources-giants-acquire-dt-okoye-ravens-28-pick",
         "publishedAt": "2026-08-29T21:26:04Z",
         "summary": "Defensive tackle CJ Okoye, 24, will reunite with Giants coach John Harbaugh, after the Baltimore Ravens dealt the veteran reserve to New York for a 2028 seventh-round pick, the teams announced Saturday afternoon.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-08-29T12:46:35Z",
         "summary": "Looking at performances by Emmett Johnson, Makai Lemon and more and what it means for fantasy.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL projected sack leaders: Top 50 pass rushers",
-        "url": "https://www.espn.com/nfl/story/_/id/49744451/nfl-sack-projections-2026-season-top-50-pass-rushers",
-        "publishedAt": "2026-08-29T10:46:47Z",
-        "summary": "Will Aidan Hutchinson topple Myles Garrett as the sack champion? What about Micah Parsons? Seth Walder projects this season's top sack-getters.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
