@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T09:20:04.804Z",
+  "updatedAt": "2026-08-30T10:20:04.308Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Why Drake Maye didn't play preseason; will it matter in Week 1?",
+        "url": "https://www.espn.com/nfl/story/_/id/49756779/why-new-england-patriots-qb-drake-maye-didnt-play-preseason-matter-week-1-vs-seattle-seahawks",
+        "publishedAt": "2026-08-30T10:00:07Z",
+        "summary": "New England will kick off the season in Seattle for a Super Bowl rematch on Wednesday, Sept. 9.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Tyson Bagent sparks the Bears with a 97-yard opening TD to wrap preseason with win over Titans",
         "url": "http://www.espn.com/nfl/recap?gameId=401874394",
         "publishedAt": "2026-08-30T02:39:32Z",
         "summary": "— Tyson Bagent gave the Chicago Bears just the offensive start to wrap up the preseason in winning style.",
-        "image": "data/news-images/espn-0.png",
+        "image": "data/news-images/espn-1.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
         "publishedAt": "2026-08-30T01:08:58Z",
         "summary": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49767821/game-highlights",
         "publishedAt": "2026-08-30T01:09:40Z",
         "summary": "Chicago Bears vs. Tennessee Titans: Game Highlights",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
         "publishedAt": "2026-08-30T00:53:37Z",
         "summary": "We're making sense of six big preseason deals, including Tutu Atwell to the Rams.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
         "publishedAt": "2026-08-29T23:17:28Z",
         "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
         "publishedAt": "2026-08-30T02:26:08Z",
         "summary": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick in 2027 to the Cowboys in exchange for a 2027 third- and sixth-round pick, sources told ESPN.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
         "publishedAt": "2026-08-29T22:27:07Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
         "publishedAt": "2026-08-29T23:24:22Z",
         "summary": "On Saturday, the Jacksonville Jaguars traded for quarterback Quinn Ewers, 23, who played in four games last season and completed 66.3% of his passes, sending a sixth-round pick in 2028 to the Miami Dolphins for the second-year player, the teams announced.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "http://www.espn.com/nfl/recap?gameId=401873308",
         "publishedAt": "2026-08-29T21:08:29Z",
         "summary": "— Josh Dobbs and Luke Altmyer went into the Detroit Lions' preseason finale on what appeared to be a level playing field in the battle to back up Jared Goff.",
-        "image": "data/news-images/espn-8.png",
+        "image": "data/news-images/espn-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49765050/lions-colts-final-preseason-game",
         "publishedAt": "2026-08-29T20:04:57Z",
         "summary": "Lions down the Colts in final preseason game",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49764367/dolphins-hafley-says-success-defined-winning",
         "publishedAt": "2026-08-29T21:17:51Z",
         "summary": "Dolphins coach Jeff Hafley says he won't measure the team's success this season by wins and losses.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Panthers agree with veteran LB Bobby Okereke",
-        "url": "https://www.espn.com/nfl/story/_/id/49764268/source-panthers-agree-veteran-lb-bobby-okereke",
-        "publishedAt": "2026-08-29T19:04:53Z",
-        "summary": "The Carolina Panthers agreed to terms on a one-year deal with veteran inside linebacker Bobby Okereke on Saturday, a source told ESPN's Jeremy Fowler.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
