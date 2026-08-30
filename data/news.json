@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:20:06.227Z",
+  "updatedAt": "2026-08-30T06:20:04.440Z",
   "sources": {
     "packers": [
       {
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Green Bay Packers will have 2nd shot at running back Damon Bankston",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85569/green-bay-packers-will-have-2nd-shot-at-running-back-damon-bankston",
+        "publishedAt": "2026-08-29T20:27:19-04:00",
+        "summary": "If you’re an avid reader of Acme Packing Company, you know that I feel like the Green Bay Packers show their cards a bit when it comes to pre-draft visitors. Since 2022, when the Packers appeared to have changed their visit strategy from almost being used exclusively on undrafted free agent rookie recruiting to more [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Roster Cut Tracker 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
+        "publishedAt": "2026-08-29T16:29:20-04:00",
+        "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Discussion: Who do you think makes the team?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85563/packers-discussion-who-do-you-think-makes-the-team",
         "publishedAt": "2026-08-29T15:52:04-04:00",
         "summary": "I know we’re all sort of just refreshing the news right now to see who will get cut and who will be kept by the Green Bay Packers, so I wanted to open a discussion post for us to talk about the roster cutdown generally. Feel free to drop your own 53-man roster prediction in [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85273/nfl-waiver-rules-order-packers-sit-20th-at-cutdown-deadline",
         "publishedAt": "2026-08-29T12:00:00-04:00",
         "summary": "The NFL’s roster cut deadline is fast approaching, and with it comes one of the more convoluted and hectic days of the league’s schedule. Sunday’s cut-down leads to chaos the following day, when players subject to waivers can either be claimed by new teams or become free agents. At that time, teams will also begin [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,16 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85556/packers-wide-receivers-make-their-cases-in-final-preseason-game",
         "publishedAt": "2026-08-29T10:02:35-04:00",
         "summary": "Earlier in the preseason I suggested the Packers open up their wide receiver competition. I don’t know if the Packers’ brass got the message, but the receivers on the lower end of the roster certainly lived up to their end of the bargain. The third preseason game was a 60 minute wide receiver showcase, with [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Roster Cut Tracker 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
-        "publishedAt": "2026-08-29T10:00:00-04:00",
-        "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85547/green-bay-packers-roster-a-final-2026-53-man-prediction",
         "publishedAt": "2026-08-29T03:11:51-04:00",
         "summary": "Alright, here’s my final stab at the Green Bay Packers’ 53-man roster before Sunday’s cutdowns. As a reminder, this prediction is mostly based on the work I’ve done on the Packers’ depth chart, and there weren’t huge changes to the pecking order in Green Bay’s preseason finale — where 37 players sat against the Arizona [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85536/packers-preseason-game-3-some-statistical-nuggets-vs-the-cardinals",
         "publishedAt": "2026-08-29T02:27:23-04:00",
         "summary": "“Did you all see that awesome preseason game,” is not something I am in the habit of saying, yet here we are. It was an instant (preseason) classic: a 42-38 barn-burner that saw the Green Bay Packers score twice in the final 3-and-a-half minutes to take home a win. We’re going to try something this [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85537/matt-lafleur-packers-fully-anticipate-rb-josh-jacobs-to-remain-on-roster",
         "publishedAt": "2026-08-29T01:47:59-04:00",
         "summary": "Green Bay Packers head coach Matt LaFleur was asked about starting running back Josh Jacobs’ standing with the club, following Thursday’s news that Jacobs was officially being charged with battery and criminal damage to property, after the Packers’ win on Friday against the Arizona Cardinals. He didn’t leave any grey area in his response: “I [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85523/packers-cardinals-preseason-final-score-recap-kyle-mccord-wills-green-bay-to-victory",
         "publishedAt": "2026-08-28T23:32:06-04:00",
         "summary": "The Green Bay Packers won a thriller, if there can ever be one in August, in their preseason finale against the Arizona Cardinals. Mike LaFleur, trying to best his older brother, called two timeouts in the final five seconds of the game, trying to set up a Hail Mary after receiver KiSean Johnson’s second fourth-quarter [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85238/packers-vs-cardinals-preseason-game-3-discussion",
         "publishedAt": "2026-08-28T19:00:00-04:00",
         "summary": "The joint practices are over — now it’s time for an actual game. Well, a preseason game, at least. That’s what awaits the Green Bay Packers and Arizona Cardinals tonight at Lambeau Field as the LaFleur brothers’ teams meet in their final games before the start of the regular season. The Packers are 1-1 in [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers fans should be watching Pierre Strong in the preseason finale",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85512/packers-fans-should-be-watching-pierre-strong-in-the-preseason-finale",
-        "publishedAt": "2026-08-28T16:30:00-04:00",
-        "summary": "Pierre Strong was drafted by the New England Patriots in the fourth round of the 2022 NFL draft after an incredible final season at South Dakota State, when he carried the football 240 times for 1686 yards and 18 touchdowns. In his draft guide, The Beast, Dane Brugler had him as a likely fifth rounder [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
