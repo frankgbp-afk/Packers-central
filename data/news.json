@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-08-31T20:19:59.439Z",
+  "updatedAt": "2026-08-31T21:20:18.472Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers, Greater Green Bay Chamber celebrate new chapter for 'Welcome Back Packers Luncheon'",
+        "url": "https://www.packers.com/news/packers-greater-green-bay-chamber-celebrate-new-chapter-for-welcome-back-packers-luncheon-aug-31-2026",
+        "publishedAt": "Mon, 31 Aug 2026 20:38:18 GMT",
+        "summary": "August event marked final luncheon in current format, with future years to extend luncheon’s reach across regional nonprofit community",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "'Packers Give Us a Sign Contest' winner chosen",
         "url": "https://www.packers.com/news/packers-give-us-a-sign-contest-winner-chosen-2026",
         "publishedAt": "Mon, 31 Aug 2026 18:16:19 GMT",
         "summary": "Frank Falcone of Rio Rancho, N.M. will have his caption idea turned into a gameday sign for fans to use at Lambeau Field",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/5-takeaways-from-packers-roster-decisions-2026",
         "publishedAt": "Mon, 31 Aug 2026 14:00:00 GMT",
         "summary": "Addressing depth at two offensive positions was a priority",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-never-a-dull-moment-around-here-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 13:30:00 GMT",
         "summary": "Competition is never just in-house",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-keep-six-receivers-seven-defensive-linemen-here-s-the-initial-2026-roster",
         "publishedAt": "Sun, 30 Aug 2026 22:02:00 GMT",
         "summary": "J. Michael Sturdivant extends undrafted rookie streak to 22 years; DL Anthony Campbell makes the cut",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-rb-kaleb-johnson-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:01:00 GMT",
         "summary": "Green Bay acquires backfield depth in trade with Pittsburgh",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:00:00 GMT",
         "summary": "Green Bay makes third trade Sunday, gets down to 53 active players",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-agree-to-terms-on-trade-with-rams-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 20:00:00 GMT",
         "summary": "Green Bay acquires TE Mark Redman in exchange for a 2028 seventh-round pick",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-announce-trade-with-dolphins-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 17:20:00 GMT",
         "summary": "Green Bay acquires a 2028 sixth-round pick in exchange for QB Kyle McCord",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-te-jonnu-smith-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 20:21:38 GMT",
         "summary": "Veteran tight end played for Matt LaFleur in Tennessee in 2018",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-sign-te-jonnu-smith-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 20:00:00 GMT",
         "summary": "Green Bay releases S Tra Fluellen",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/inbox-it-s-a-tough-business-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 15:30:00 GMT",
         "summary": "Now it’s simply wait and see",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Game recap: 5 takeaways from Packers' preseason win over Cardinals",
-        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-cardinals-pre-week-3-2026",
-        "publishedAt": "Sat, 29 Aug 2026 04:59:01 GMT",
-        "summary": "Late fourth-quarter comeback caps wild summer finale",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,29 +113,47 @@
     ],
     "espn": [
       {
+        "title": "Sources: Berrios on Giants practice squad, should play opener",
+        "url": "https://www.espn.com/nfl/story/_/id/49786388/berrios-giants-practice-squad-play-opener",
+        "publishedAt": "2026-08-31T20:31:14Z",
+        "summary": "The New York Giants on Monday re-signed veteran wide receiver and returner Braxton Berrios, 30, to the practice squad with the intention of him being active Week 1 against the Dallas Cowboys, sources told ESPN.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rookie Cade Klubnik is Jets' QB2 entering season, Aaron Glenn says",
+        "url": "https://www.espn.com/nfl/story/_/id/49786366/rookie-cade-klubnik-jets-qb2-entering-season-aaron-glenn-says",
+        "publishedAt": "2026-08-31T20:58:21Z",
+        "summary": "Instead of adding a veteran insurance policy, the Jets will enter the season with rookie Cade Klubnik as their No. 2 quarterback.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Cowboys waive Joe Milton III, name Sam Howell backup QB",
         "url": "https://www.espn.com/nfl/story/_/id/49786242/cowboys-waive-joe-milton-iii-name-sam-howell-backup-qb",
-        "publishedAt": "2026-08-31T20:16:03Z",
+        "publishedAt": "2026-08-31T20:58:48Z",
         "summary": "The Cowboys named Sam Howell as the team's backup QB after waiving Joe Milton III on Monday to make room for free agent RB Emari Demercado.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Broncos' Cooper pleads not guilty to domestic violence charges",
         "url": "https://www.espn.com/nfl/story/_/id/49786038/broncos-cooper-pleads-not-guilty-domestic-violence-charges",
-        "publishedAt": "2026-08-31T20:05:10Z",
+        "publishedAt": "2026-08-31T20:41:41Z",
         "summary": "Broncos outside linebacker Jonathon Cooper pleaded not guilty to multiple domestic violence charges Monday in a Douglas County (Colorado) courtroom.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Steelers won't negotiate with CB Joey Porter Jr. during season",
         "url": "https://www.espn.com/nfl/story/_/id/49785992/steelers-negotiate-cb-joey-porter-jr-season",
-        "publishedAt": "2026-08-31T20:02:51Z",
+        "publishedAt": "2026-08-31T20:18:35Z",
         "summary": "The Steelers say their longtime policy of not negotiating contracts in-season will stand when it comes to cornerback Joey Porter Jr., who is in the final year of his rookie deal.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +162,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49779308/san-francisco-49ers-sports-teams-poke-fun-daejon-love-federal-charges",
         "publishedAt": "2026-08-31T19:37:54Z",
         "summary": "Since two men were arrested with conspiracy to commit wire fraud and wire fraud, the story has dominated social media, with even athletes and sports teams chiming in.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Schottenheimer: Jones, Steele to compete for Cowboys' RT job",
         "url": "https://www.espn.com/nfl/story/_/id/49785579/schottenheimer-jones-steele-compete-cowboys-rt-job",
-        "publishedAt": "2026-08-31T19:51:47Z",
+        "publishedAt": "2026-08-31T20:30:26Z",
         "summary": "Cowboys coach Brian Schottenheimer said there will be a competition for the starting right tackle job between Terence Steele and Broderick Jones.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49660378/nick-jonas-brother-new-york-knicks-yankees-giants-told-songs",
         "publishedAt": "2026-08-31T19:22:20Z",
         "summary": "The Jonas Brothers are longtime New York sports fans and have a song that can speak to their favorite teams.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49782349/fantasy-football-mock-draft-12-teams-ppr",
         "publishedAt": "2026-08-31T19:12:56Z",
         "summary": "The final mock draft of the summer revealed where our drafters stand on the Packers' backfield.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49752772/week-1-starting-quarterbacks-modern-era",
         "publishedAt": "2026-08-31T16:49:25Z",
         "summary": "Since the NFL expanded to 32 teams in 2002, no team has used more Week 1 starting quarterbacks than the Browns.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49784093/rams-gm-joins-mcafee-dishes-aaron-donald-return",
         "publishedAt": "2026-08-31T17:27:30Z",
         "summary": "Rams GM joins McAfee, dishes on Aaron Donald's return",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49537787/2026-nfl-season-rams-superteams-preseason-favorites-win-super-bowl-barnwell",
         "publishedAt": "2026-08-31T16:33:26Z",
         "summary": "The Rams are loaded this season, and basically everyone is picking them to win the Super Bowl. But preseason darlings of the past 35 years haven't always met expectations.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy Football 'Do Draft' list: Derrick Henry, Patrick Mahomes among undervalued players to pick",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49556816/2026-fantasy-football-sleepers-value-picks-undervalued-karabell",
-        "publishedAt": "2026-08-31T15:59:19Z",
-        "summary": "You've read the \"Do Not Draft\" list. Now, Eric Karabell lists players being drafted later than they should be.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy Football 'Do Not Draft' list: Giants' young trio among players being overvalued",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49529494/2026-fantasy-football-busts-overvalued-do-not-draft-karabell",
-        "publishedAt": "2026-08-31T15:58:09Z",
-        "summary": "The annual hit is back, with players Eric Karabell feels are going earlier than they should in drafts this summer.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
+        "publishedAt": "2026-08-31T16:51:24-04:00",
+        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "NFL Cutdowns: Former Packers pre-draft visitors released on Sunday",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
         "publishedAt": "2026-08-31T16:05:14-04:00",
         "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,15 +245,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
         "publishedAt": "2026-08-31T15:37:52-04:00",
         "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-08-31T15:07:35-04:00",
-        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
         "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
