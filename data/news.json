@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T23:20:06.651Z",
+  "updatedAt": "2026-08-31T00:20:17.214Z",
   "sources": {
     "packers": [
       {
@@ -115,35 +115,35 @@
       {
         "title": "2026 NFL roster cuts: Biggest moves, more for all 32 teams",
         "url": "https://www.espn.com/nfl/story/_/id/49681232/2026-nfl-cuts-all-32-teams-cutdown-moves-updates-tracker",
-        "publishedAt": "2026-08-30T23:14:38Z",
+        "publishedAt": "2026-08-31T00:14:42Z",
         "summary": "Sunday was the deadline for NFL teams to finalize their 53-man rosters ahead of the 2026 season. We have full lists of cuts and big moves for all 32.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Texans place Tank Dell on IR as WR out at least 4 weeks",
-        "url": "https://www.espn.com/nfl/story/_/id/49777386/texans-place-tank-dell-ir-wr-least-4-weeks",
-        "publishedAt": "2026-08-30T23:03:06Z",
-        "summary": "Tank Dell was placed on injured reserve Sunday as the team made its 53-man roster cuts, and the WR won't be eligible to return to action until Week 5.",
+        "title": "Aaron Donald's wife, Erica, has humorous response to Donald's return",
+        "url": "https://www.espn.com/nfl/story/_/id/49777339/aaron-erica-donald-response-los-angeles-rams-nfl-unretirement-return",
+        "publishedAt": "2026-08-30T23:59:55Z",
+        "summary": "Aaron Donald's wife, Erica, was a key part of the offseason rumors swirling that Donald might return to the Los Angeles Rams.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers keep QBs Rudolph, Howard, Allar on roster behind Rodgers",
-        "url": "https://www.espn.com/nfl/story/_/id/49777239/steelers-keep-mason-rudolph-howard-drew-allar-initial-53-man-roster-aaron-rodgers",
-        "publishedAt": "2026-08-30T23:04:50Z",
-        "summary": "The Steelers are keeping four quarterbacks on their initial 53-man roster, with Mason Rudolph, Will Howard and Drew Allar earning spots behind starter Aaron Rodgers.",
+        "title": "Fantasy football Knockout league rankings: The 252 players to draft",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+        "publishedAt": "2026-08-30T23:50:36Z",
+        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jonathan Greenard off PUP as Eagles finalize initial 53-man roster",
-        "url": "https://www.espn.com/nfl/story/_/id/49777172/jonathan-greenard-pup-eagles-finalize-initial-53-man-roster",
-        "publishedAt": "2026-08-30T22:45:54Z",
-        "summary": "The Eagles put outside linebacker Jonathan Greenard on the initial 53-man roster, a positive sign as he continues to recover from a pec injury.",
+        "title": "Aaron Donald unretires, rejoins Rams",
+        "url": "https://www.espn.com/video/clip/_/id/49777699/aaron-donald-unretires-rejoins-rams",
+        "publishedAt": "2026-08-30T23:41:12Z",
+        "summary": "Sarah Barshop breaks down what the expected role is for Aaron Donald with the Rams.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -151,9 +151,45 @@
       {
         "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
         "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-        "publishedAt": "2026-08-30T22:38:00Z",
-        "summary": "Today is the cut-down deadline (6 p.m. ET)! We're following releases, trades, signings, practice squad additions for 32 NFL teams.",
+        "publishedAt": "2026-08-31T00:02:33Z",
+        "summary": "The roster cut deadline has passed! We followed all the releases, trades, signings, practice squad additions for 32 NFL teams.",
         "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
+        "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
+        "publishedAt": "2026-08-30T23:45:36Z",
+        "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Texans place Tank Dell on IR as WR out at least 4 weeks",
+        "url": "https://www.espn.com/nfl/story/_/id/49777386/texans-place-tank-dell-ir-wr-least-4-weeks",
+        "publishedAt": "2026-08-30T23:22:15Z",
+        "summary": "Tank Dell was placed on injured reserve Sunday as the team made its 53-man roster cuts, and the receiver won't be eligible to return to action until Week 5.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Steelers keep QBs Rudolph, Howard, Allar on roster behind Rodgers",
+        "url": "https://www.espn.com/nfl/story/_/id/49777239/steelers-keep-mason-rudolph-howard-drew-allar-initial-53-man-roster-aaron-rodgers",
+        "publishedAt": "2026-08-30T23:28:31Z",
+        "summary": "The Steelers are keeping four quarterbacks on their initial 53-man roster, with Mason Rudolph, Will Howard and Drew Allar earning spots behind starter Aaron Rodgers.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jonathan Greenard off PUP as Eagles finalize initial 53-man roster",
+        "url": "https://www.espn.com/nfl/story/_/id/49777172/jonathan-greenard-pup-eagles-finalize-initial-53-man-roster",
+        "publishedAt": "2026-08-30T23:31:22Z",
+        "summary": "The Eagles put outside linebacker Jonathan Greenard on the initial 53-man roster, a positive sign as he continues to recover from a pec injury.",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn",
         "publishedAt": "2026-08-30T22:21:44Z",
         "summary": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49735540/espn-nfl-fantasy-football-best-ball-15-players-keep-drafting",
         "publishedAt": "2026-08-30T22:17:31Z",
         "summary": "Seth Walder, Ben Solak and Mackenzie Kraemer reveal the players they're drafting over and over in Best Ball.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,42 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49776103/los-angeles-rams-aaron-donald-return-miami-heat-lebron-james-live-stream-link",
         "publishedAt": "2026-08-30T22:04:39Z",
         "summary": "A minute before announcing Aaron Donald's return, the Rams poked fun at the Heat, who accidentally posted a live stream link for LeBron James' return.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How active NFL players continue to redefine all-time sack list",
-        "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-        "publishedAt": "2026-08-30T21:34:46Z",
-        "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
-        "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
-        "publishedAt": "2026-08-30T21:49:16Z",
-        "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Browns keep 3 QBs on roster, put Dillon Gabriel (back) on IR",
-        "url": "https://www.espn.com/nfl/story/_/id/49776263/browns-keep-3-qbs-roster-put-dillon-gabriel-back-ir",
-        "publishedAt": "2026-08-30T22:51:58Z",
-        "summary": "Cleveland placed Dillon Gabriel on injured reserve and designated him to return with a back injury, and will carry Deshaun Watson, Shedeur Sanders and rookie Taylen Green as the quarterbacks on their initial 53-man roster.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: What to know about Packers RBs before you draft",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-08-30T22:54:31Z",
-        "summary": "When to draft MarShawn Lloyd, Josh Jacobs and other Green Bay Packers running backs.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,91 +223,91 @@
     ],
     "acme": [
       {
-        "title": "Green Bay Packers Roster: A final 2026 53-man prediction",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85547/green-bay-packers-roster-a-final-2026-53-man-prediction",
-        "publishedAt": "2026-08-29T03:11:51-04:00",
-        "summary": "Alright, here’s my final stab at the Green Bay Packers’ 53-man roster before Sunday’s cutdowns. As a reminder, this prediction is mostly based on the work I’ve done on the Packers’ depth chart, and there weren’t huge changes to the pecking order in Green Bay’s preseason finale — where 37 players sat against the Arizona [&#8230;]",
+        "title": "Green Bay Packers announce initial 53-man roster of 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85690/green-bay-packers-announce-initial-53-man-roster-of-2026",
+        "publishedAt": "2026-08-30T18:46:26-04:00",
+        "summary": "After much debate, the Green Bay Packers announced their first 53-man roster of the 2026 season after a day full of news. We’ll go position by position, showing you who made the team and the big information of the day. Quarterback Earlier today, the Packers traded third-string quarterback Kyle McCord to the Miami Dolphins for [&#8230;]",
         "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Preseason Game 3: Some statistical nuggets vs. the Cardinals",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85536/packers-preseason-game-3-some-statistical-nuggets-vs-the-cardinals",
-        "publishedAt": "2026-08-29T02:27:23-04:00",
-        "summary": "“Did you all see that awesome preseason game,” is not something I am in the habit of saying, yet here we are. It was an instant (preseason) classic: a 42-38 barn-burner that saw the Green Bay Packers score twice in the final 3-and-a-half minutes to take home a win. We’re going to try something this [&#8230;]",
+        "title": "Packers Roster Cut Tracker 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
+        "publishedAt": "2026-08-30T18:32:43-04:00",
+        "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
         "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Matt LaFleur: Packers ‘fully anticipate’ RB Josh Jacobs to remain on roster",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85537/matt-lafleur-packers-fully-anticipate-rb-josh-jacobs-to-remain-on-roster",
-        "publishedAt": "2026-08-29T01:47:59-04:00",
-        "summary": "Green Bay Packers head coach Matt LaFleur was asked about starting running back Josh Jacobs’ standing with the club, following Thursday’s news that Jacobs was officially being charged with battery and criminal damage to property, after the Packers’ win on Friday against the Arizona Cardinals. He didn’t leave any grey area in his response: “I [&#8230;]",
+        "title": "Packers trade for Rams TE Mark Redman",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85645/packers-trade-for-rams-te-mark-redman",
+        "publishedAt": "2026-08-30T16:05:55-04:00",
+        "summary": "The Green Bay Packers have traded for former Los Angeles Rams tight end Mark Redman, according to NFL insider Jordan Schultz. Redman, who played at Washington, San Diego State and Louisville at the college level, was signed as an undrafted free agent in 2025. So far, Redman hasn’t been active in an NFL regular-season game. [&#8230;]",
         "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers-Cardinals Preseason Final Score, Recap: Kyle McCord wills Green Bay to victory",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/85523/packers-cardinals-preseason-final-score-recap-kyle-mccord-wills-green-bay-to-victory",
-        "publishedAt": "2026-08-28T23:32:06-04:00",
-        "summary": "The Green Bay Packers won a thriller, if there can ever be one in August, in their preseason finale against the Arizona Cardinals. Mike LaFleur, trying to best his older brother, called two timeouts in the final five seconds of the game, trying to set up a Hail Mary after receiver KiSean Johnson’s second fourth-quarter [&#8230;]",
+        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
+        "publishedAt": "2026-08-30T15:58:58-04:00",
+        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
         "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers vs. Cardinals Preseason Game #3 Discussion",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85238/packers-vs-cardinals-preseason-game-3-discussion",
-        "publishedAt": "2026-08-28T19:00:00-04:00",
-        "summary": "The joint practices are over — now it’s time for an actual game. Well, a preseason game, at least. That’s what awaits the Green Bay Packers and Arizona Cardinals tonight at Lambeau Field as the LaFleur brothers’ teams meet in their final games before the start of the regular season. The Packers are 1-1 in [&#8230;]",
+        "title": "Packers RB Josh Jacobs placed on the NFL’s commissioner exempt list",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85639/packers-rb-josh-jacobs-placed-on-the-nfls-commissioner-exempt-list",
+        "publishedAt": "2026-08-30T15:26:09-04:00",
+        "summary": "ESPN’s Adam Schefter is reporting that Green Bay Packers running back Josh Jacobs is being placed on the NFL’s commissioner exempt list, which means that he will not start on the team’s 53-man roster to open the season. At the time, there is no timeframe for a Jacobs suspension following the news earlier this week [&#8230;]",
         "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers fans should be watching Pierre Strong in the preseason finale",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85512/packers-fans-should-be-watching-pierre-strong-in-the-preseason-finale",
-        "publishedAt": "2026-08-28T16:30:00-04:00",
-        "summary": "Pierre Strong was drafted by the New England Patriots in the fourth round of the 2022 NFL draft after an incredible final season at South Dakota State, when he carried the football 240 times for 1686 yards and 18 touchdowns. In his draft guide, The Beast, Dane Brugler had him as a likely fifth rounder [&#8230;]",
+        "title": "Packers trade for RB Kaleb Johnson at cutdown deadline",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
+        "publishedAt": "2026-08-30T14:56:32-04:00",
+        "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
         "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Film Room, Preseason Week 2: Emptying the Notebook on the Offense",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85421/packers-film-room-preseason-week-2-emptying-the-notebook-on-the-offense",
-        "publishedAt": "2026-08-28T12:00:00-04:00",
-        "summary": "During the season, I tend to dig into either specific plays or look at some of the bigger picture takeaways. Scheme and gameplan and blah blah blah. The preseason is different because those things don’t really matter. I’m more concerned with how individual players looked. So I watch a ton of players, taking notes and [&#8230;]",
+        "title": "Green Bay Packers officially win the Zaire Franklin-Colby Wooden trade",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85622/green-bay-packers-officially-win-the-zaire-franklin-colby-wooden-trade",
+        "publishedAt": "2026-08-30T13:25:05-04:00",
+        "summary": "Earlier this offseason, the Green Bay Packers traded defensive lineman Colby Wooden, who was going into the final year of his rookie contract, for then-Indianapolis Colts linebacker Zaire Franklin. Since joining the Packers, Franklin has been the team’s starting Mike after Quay Walker signed with the Las Vegas Raiders in free agency, received a new contract and was [&#8230;]",
         "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Tyrod Taylor vs. Kyle McCord: The Case Against Each Packers QB",
-        "url": "https://www.acmepackingcompany.com/general/85166/tyrod-taylor-vs-kyle-mccord-the-case-against-each-packers-qb",
-        "publishedAt": "2026-08-28T09:30:00-04:00",
-        "summary": "A few days ago, I tried with all my might to make the case for why each of Tyrod Taylor and Kyle McCord are worthy of being the Green Bay Packers QB2. Dear reader, there was a reason that article was like 300 words long. With one preseason game left for the Packers, the team [&#8230;]",
+        "title": "Packers waive rookie draft pick Domani Jackson",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85605/packers-waive-rookie-draft-pick-domani-jackson",
+        "publishedAt": "2026-08-30T12:41:57-04:00",
+        "summary": "The Green Bay Packers are waiving rookie cornerback Domani Jackson at the cutdown deadline, according to CBS Sports’ Matt Zenitz. Jackson, who was taken 201st overall in the draft by the team in April, had a poor performance in Green Bay’s preseason finale against the Arizona Cardinals after looking alright in his Week 2 debut. [&#8230;]",
         "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Green Bay Packers News: Green Bay becomes the city of brotherly love for a day",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85458/green-bay-packers-news-green-bay-becomes-the-city-of-brotherly-love-for-a-day",
-        "publishedAt": "2026-08-28T09:03:24-04:00",
-        "summary": "You may have heard that there’s a family reunion happening in Green Bay this week. Have you heard about this? Apparently Matt LaFleur and his younger brother Mike are both NFL head coaches, and their teams are playing each other for the first time. I’m sure this is news to everyone reading this. The LaFleur [&#8230;]",
+        "title": "Packers preseason star Kyle McCord traded to Miami Dolphins",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85592/packers-preseason-star-kyle-mccord-traded-to-miami-dolphins",
+        "publishedAt": "2026-08-30T12:13:23-04:00",
+        "summary": "You could argue that no one had a better preseason for the Green Bay Packers than quarterback Kyle McCord, who was able to put up a 102.4 passer rating after completing 46 of 70 passes for 446 yards and four touchdowns. McCord had a fairly quick rise in Green Bay, as he was battling for [&#8230;]",
         "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers vs. Cardinals Preseason Week 3: Game time, how to watch, streaming, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/85189/packers-vs-cardinals-preseason-week-3-game-time-how-to-watch-streaming-more",
-        "publishedAt": "2026-08-28T07:00:00-04:00",
-        "summary": "Just sixty more minutes of preseason football remain before the Green Bay Packers can move on to the business of games whose final results matter. Tonight, the Packers host their one and only home preseason game, welcoming the Arizona Cardinals into Lambeau Field for the teams’ exhibition finale. The two squads, coached by brothers Matt [&#8230;]",
+        "title": "Packers’ special teams units passed their preseason test",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85587/packers-special-teams-units-passed-their-preseason-test",
+        "publishedAt": "2026-08-30T11:36:31-04:00",
+        "summary": "The Packers’ renovated their special teams operation this offseason, and their reworked approach is already paying dividends. Gone is Rich Bisaccia, embattled coordinator of (kind of) underperforming special teams units. Now those phases of the game fall under the purview of Cam Achord, recently of the New York Giants. How are things going so far? [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
