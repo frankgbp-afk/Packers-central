@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T19:20:03.340Z",
+  "updatedAt": "2026-08-31T20:19:59.439Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Cowboys waive Joe Milton III, name Sam Howell backup QB",
+        "url": "https://www.espn.com/nfl/story/_/id/49786242/cowboys-waive-joe-milton-iii-name-sam-howell-backup-qb",
+        "publishedAt": "2026-08-31T20:16:03Z",
+        "summary": "The Cowboys named Sam Howell as the team's backup QB after waiving Joe Milton III on Monday to make room for free agent RB Emari Demercado.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Broncos' Cooper pleads not guilty to domestic violence charges",
+        "url": "https://www.espn.com/nfl/story/_/id/49786038/broncos-cooper-pleads-not-guilty-domestic-violence-charges",
+        "publishedAt": "2026-08-31T20:05:10Z",
+        "summary": "Broncos outside linebacker Jonathon Cooper pleaded not guilty to multiple domestic violence charges Monday in a Douglas County (Colorado) courtroom.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Steelers won't negotiate with CB Joey Porter Jr. during season",
+        "url": "https://www.espn.com/nfl/story/_/id/49785992/steelers-negotiate-cb-joey-porter-jr-season",
+        "publishedAt": "2026-08-31T20:02:51Z",
+        "summary": "The Steelers say their longtime policy of not negotiating contracts in-season will stand when it comes to cornerback Joey Porter Jr., who is in the final year of his rookie deal.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers, Chargers top sports world poking fun at man who posed as 49ers player",
+        "url": "https://www.espn.com/nfl/story/_/id/49779308/san-francisco-49ers-sports-teams-poke-fun-daejon-love-federal-charges",
+        "publishedAt": "2026-08-31T19:37:54Z",
+        "summary": "Since two men were arrested with conspiracy to commit wire fraud and wire fraud, the story has dominated social media, with even athletes and sports teams chiming in.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Schottenheimer: Jones, Steele to compete for Cowboys' RT job",
+        "url": "https://www.espn.com/nfl/story/_/id/49785579/schottenheimer-jones-steele-compete-cowboys-rt-job",
+        "publishedAt": "2026-08-31T19:51:47Z",
+        "summary": "Cowboys coach Brian Schottenheimer said there will be a competition for the starting right tackle job between Terence Steele and Broderick Jones.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "From Knicks to Yankees, Nick Jonas finds the perfect song",
+        "url": "https://www.espn.com/nfl/story/_/id/49660378/nick-jonas-brother-new-york-knicks-yankees-giants-told-songs",
+        "publishedAt": "2026-08-31T19:22:20Z",
+        "summary": "The Jonas Brothers are longtime New York sports fans and have a song that can speak to their favorite teams.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football mock draft: Josh Jacobs drops, MarShawn Lloyd goes in Round 6",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49782349/fantasy-football-mock-draft-12-teams-ppr",
         "publishedAt": "2026-08-31T19:12:56Z",
         "summary": "The final mock draft of the summer revealed where our drafters stand on the Packers' backfield.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49752772/week-1-starting-quarterbacks-modern-era",
         "publishedAt": "2026-08-31T16:49:25Z",
         "summary": "Since the NFL expanded to 32 teams in 2002, no team has used more Week 1 starting quarterbacks than the Browns.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49784093/rams-gm-joins-mcafee-dishes-aaron-donald-return",
         "publishedAt": "2026-08-31T17:27:30Z",
         "summary": "Rams GM joins McAfee, dishes on Aaron Donald's return",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49537787/2026-nfl-season-rams-superteams-preseason-favorites-win-super-bowl-barnwell",
         "publishedAt": "2026-08-31T16:33:26Z",
         "summary": "The Rams are loaded this season, and basically everyone is picking them to win the Super Bowl. But preseason darlings of the past 35 years haven't always met expectations.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49556816/2026-fantasy-football-sleepers-value-picks-undervalued-karabell",
         "publishedAt": "2026-08-31T15:59:19Z",
         "summary": "You've read the \"Do Not Draft\" list. Now, Eric Karabell lists players being drafted later than they should be.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49529494/2026-fantasy-football-busts-overvalued-do-not-draft-karabell",
         "publishedAt": "2026-08-31T15:58:09Z",
         "summary": "The annual hit is back, with players Eric Karabell feels are going earlier than they should in drafts this summer.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Liz Loza's fantasy hot take about Isiah Pacheco and Breece Hall",
-        "url": "https://www.espn.com/video/clip/_/id/49783517/liz-loza-fantasy-hot-take-isiah-pacheco-breece-hall",
-        "publishedAt": "2026-08-31T15:38:21Z",
-        "summary": "Liz Loza's fantasy hot take about Isiah Pacheco and Breece Hall",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Daniel Dopp is moving Puka Nacua up his fantasy rankings",
-        "url": "https://www.espn.com/video/clip/_/id/49783507/why-daniel-dopp-moving-puka-nacua-fantasy-rankings",
-        "publishedAt": "2026-08-31T18:50:22Z",
-        "summary": "Why Daniel Dopp is moving Puka Nacua up his fantasy rankings",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why MarShawn Lloyd could be a strong short-term option for fantasy managers",
-        "url": "https://www.espn.com/video/clip/_/id/49783484/why-marshawn-lloyd-strong-short-term-option-fantasy-managers",
-        "publishedAt": "2026-08-31T18:51:22Z",
-        "summary": "Why MarShawn Lloyd could be a strong short-term option for fantasy managers",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Where is an appropriate spot to draft Jeremiyah Love in fantasy?",
-        "url": "https://www.espn.com/video/clip/_/id/49783482/where-appropriate-spot-draft-jeremiyah-love-fantasy",
-        "publishedAt": "2026-08-31T18:52:01Z",
-        "summary": "Where is an appropriate spot to draft Jeremiyah Love in fantasy?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eric Karabell's 2026 fantasy football flex and superflex rankings",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47539664/2026-fantasy-football-rankings-flex-superflex-ppr-eric-karabell",
-        "publishedAt": "2026-08-31T15:19:14Z",
-        "summary": "A look at the top 200 QBs, RBs, WRs and TEs for 2026 drafts, updated throughout the fantasy football offseason.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings: Eric Karabell's running back tiers for 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49614875/2026-fantasy-football-rankings-running-back-tiers-rb",
-        "publishedAt": "2026-08-31T15:16:08Z",
-        "summary": "Eric Karabell breaks his running backs into tiers, helping you identify where value drops off throughout the draft.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,10 +223,10 @@
     ],
     "acme": [
       {
-        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-08-31T15:07:35-04:00",
-        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
+        "title": "NFL Cutdowns: Former Packers pre-draft visitors released on Sunday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
+        "publishedAt": "2026-08-31T16:05:14-04:00",
+        "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
         "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
@@ -234,17 +234,17 @@
       {
         "title": "Who will be the Packers’ third quarterback?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
-        "publishedAt": "2026-08-31T15:06:35-04:00",
+        "publishedAt": "2026-08-31T15:37:52-04:00",
         "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
         "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "NFL Cutdowns: Former Packers pre-draft visitors released on Sunday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
-        "publishedAt": "2026-08-31T14:05:07-04:00",
-        "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
+        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
+        "publishedAt": "2026-08-31T15:07:35-04:00",
+        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
         "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
