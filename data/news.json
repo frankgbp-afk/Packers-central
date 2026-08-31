@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T03:20:02.165Z",
+  "updatedAt": "2026-08-31T04:20:05.125Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Field Yates' fantasy football PPR rankings: Top 160 for 2026",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
+        "publishedAt": "2026-08-31T04:05:53Z",
+        "summary": "Field provides his latest rankings for the upcoming season, which will be updated throughout the summer.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 NFL roster cuts: Biggest moves, more for all 32 teams",
         "url": "https://www.espn.com/nfl/story/_/id/49681232/2026-nfl-cuts-all-32-teams-cutdown-moves-updates-tracker",
-        "publishedAt": "2026-08-31T03:15:59Z",
+        "publishedAt": "2026-08-31T03:52:59Z",
         "summary": "Sunday was the deadline for NFL teams to finalize their 53-man rosters ahead of the 2026 season. We have full lists of cuts and big moves for all 32.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49778534/seahawks-zach-charbonnet-remains-pup-list-miss-least-first-four-games",
         "publishedAt": "2026-08-31T02:02:39Z",
         "summary": "Seahawks running back Zach Charbonnet remains on the physically unable to perform list, meaning he will miss at least Seattle's first four games. Meanwhile, the team released cornerback Trevon Diggs but expects to sign him to the practice squad.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49778514/raiders-place-de-keyron-crawford-ankle-season-ending-ir",
         "publishedAt": "2026-08-31T01:33:13Z",
         "summary": "Las Vegas Raiders rookie defensive end Keyron Crawford was placed on the season-ending injured reserve list because of an ankle injury.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
         "publishedAt": "2026-08-31T00:41:00Z",
         "summary": "The roster cut deadline has passed! We followed all the releases, trades, signings, practice squad additions for 32 NFL teams.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49777339/aaron-erica-donald-response-los-angeles-rams-nfl-unretirement-return",
         "publishedAt": "2026-08-30T23:59:55Z",
         "summary": "Aaron Donald's wife, Erica, was a key part of the offseason rumors swirling that Donald might return to the Los Angeles Rams.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
         "publishedAt": "2026-08-30T23:50:36Z",
         "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49777699/aaron-donald-unretires-rejoins-rams",
         "publishedAt": "2026-08-30T23:41:12Z",
         "summary": "Sarah Barshop breaks down what the expected role is for Aaron Donald with the Rams.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
         "publishedAt": "2026-08-30T23:45:36Z",
         "summary": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49777386/texans-place-tank-dell-ir-wr-least-4-weeks",
         "publishedAt": "2026-08-30T23:22:15Z",
         "summary": "Tank Dell was placed on injured reserve Sunday as the team made its 53-man roster cuts, and the receiver won't be eligible to return to action until Week 5.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49777239/steelers-keep-mason-rudolph-howard-drew-allar-initial-53-man-roster-aaron-rodgers",
         "publishedAt": "2026-08-30T23:28:31Z",
         "summary": "The Steelers are keeping four quarterbacks on their initial 53-man roster, with Mason Rudolph, Will Howard and Drew Allar earning spots behind starter Aaron Rodgers.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49777172/jonathan-greenard-pup-eagles-finalize-initial-53-man-roster",
         "publishedAt": "2026-08-30T23:31:22Z",
         "summary": "The Eagles put outside linebacker Jonathan Greenard on the initial 53-man roster, a positive sign as he continues to recover from a pec injury.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mike Clay's Ultimate Draft Board: Perfect picks for every round in a 12-team league",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn",
-        "publishedAt": "2026-08-30T22:21:44Z",
-        "summary": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
