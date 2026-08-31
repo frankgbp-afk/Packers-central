@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-08-31T13:20:12.310Z",
+  "updatedAt": "2026-08-31T14:20:07.411Z",
   "sources": {
     "packers": [
+      {
+        "title": "5 takeaways from Packers' roster decisions",
+        "url": "https://www.packers.com/news/5-takeaways-from-packers-roster-decisions-2026",
+        "publishedAt": "Mon, 31 Aug 2026 14:00:00 GMT",
+        "summary": "Addressing depth at two offensive positions was a priority",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: Never a dull moment around here",
+        "url": "https://www.packers.com/news/inbox-never-a-dull-moment-around-here-aug-31-2026",
+        "publishedAt": "Mon, 31 Aug 2026 13:30:00 GMT",
+        "summary": "Competition is never just in-house",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers keep six receivers, seven defensive linemen: Here's the initial 2026 roster",
         "url": "https://www.packers.com/news/packers-keep-six-receivers-seven-defensive-linemen-here-s-the-initial-2026-roster",
         "publishedAt": "Sun, 30 Aug 2026 22:02:00 GMT",
         "summary": "J. Michael Sturdivant extends undrafted rookie streak to 22 years; DL Anthony Campbell makes the cut",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-rb-kaleb-johnson-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:01:00 GMT",
         "summary": "Green Bay acquires backfield depth in trade with Pittsburgh",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:00:00 GMT",
         "summary": "Green Bay makes third trade Sunday, gets down to 53 active players",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-agree-to-terms-on-trade-with-rams-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 20:00:00 GMT",
         "summary": "Green Bay acquires TE Mark Redman in exchange for a 2028 seventh-round pick",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-announce-trade-with-dolphins-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 17:20:00 GMT",
         "summary": "Green Bay acquires a 2028 sixth-round pick in exchange for QB Kyle McCord",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-te-jonnu-smith-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 20:21:38 GMT",
         "summary": "Veteran tight end played for Matt LaFleur in Tennessee in 2018",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-sign-te-jonnu-smith-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 20:00:00 GMT",
         "summary": "Green Bay releases S Tra Fluellen",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-a-tough-business-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 15:30:00 GMT",
         "summary": "Now it’s simply wait and see",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-preseason-win-over-cardinals-pre-week-3-2026",
         "publishedAt": "Sat, 29 Aug 2026 04:59:01 GMT",
         "summary": "Late fourth-quarter comeback caps wild summer finale",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/game-notes-kisean-johnson-captures-his-lambeau-field-moment-pre-week-3-2026",
         "publishedAt": "Sat, 29 Aug 2026 04:55:00 GMT",
         "summary": "Packers punt team finds end zone, Arron Mosby’s INT turns the momentum",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers end preseason with 42-38 victory over Cardinals",
-        "url": "https://www.packers.com/news/in-game-updates-preseason-week-3-cardinals-2026",
-        "publishedAt": "Sat, 29 Aug 2026 00:34:43 GMT",
-        "summary": "Young receivers made big plays for Green Bay",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "37 Packers not suiting up vs. Cardinals",
-        "url": "https://www.packers.com/news/37-packers-not-suiting-up-vs-cardinals",
-        "publishedAt": "Fri, 28 Aug 2026 23:48:08 GMT",
-        "summary": "Final preseason game features battles for roster spots",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "What is next for Josh Jacobs after being placed on commissioner exempt list?",
+        "url": "https://www.espn.com/video/clip/_/id/49782749/what-next-josh-jacobs-being-placed-commissioner-exempt-list",
+        "publishedAt": "2026-08-31T14:10:33Z",
+        "summary": "What is next for Josh Jacobs after being placed on commissioner exempt list?",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
+        "publishedAt": "2026-08-31T13:34:05Z",
+        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Orlovsky: Giants offense will be their best in 10 years",
         "url": "https://www.espn.com/video/clip/_/id/49782361/giants-offense-their-best-10-years",
         "publishedAt": "2026-08-31T13:15:50Z",
         "summary": "Orlovsky: Giants offense will be their best in 10 years",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +144,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
         "publishedAt": "2026-08-31T12:37:49Z",
         "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Could Aaron Donald's return power the Rams to a perfect season?",
         "url": "https://www.espn.com/video/clip/_/id/49782150/could-aaron-donald-return-power-rams-perfect-season",
-        "publishedAt": "2026-08-31T12:27:35Z",
+        "publishedAt": "2026-08-31T13:21:54Z",
         "summary": "Could Aaron Donald's return power the Rams to a perfect season?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/tennis/story/_/id/46064085/signature-sport-food-drink-us-open-honey-deuce-derby-mint-julep-masters-pimento-cheese",
         "publishedAt": "2026-08-31T13:02:32Z",
         "summary": "The refreshing concoction is a USTA Billie Jean King National Tennis Center staple, but the US Open isn't the only event associated with a signature food or beverage item.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/college-football/story/_/id/49277965/college-football-texas-tech-brendan-sorsby-eligibility-ncaa-big12-nfl",
         "publishedAt": "2026-08-31T11:21:56Z",
         "summary": "The fighting behind the scenes between the Big 12 and Texas Tech, and the NFL's ultimate decision of denial.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
         "publishedAt": "2026-08-31T11:07:43Z",
         "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
         "publishedAt": "2026-08-31T11:07:53Z",
         "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26K/nfl-fantasy-football-draft-rankings-2026-k-kicker",
         "publishedAt": "2026-08-31T11:04:19Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26DST/nfl-fantasy-football-draft-rankings-2026-dst-defense",
         "publishedAt": "2026-08-31T11:03:41Z",
         "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26IDP/nfl-fantasy-football-draft-rankings-2026-idp",
         "publishedAt": "2026-08-31T11:04:00Z",
         "summary": "Fantasy football draft rankings from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football draft rankings 2026: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26WR/nfl-fantasy-football-draft-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-08-31T11:02:34Z",
-        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football draft rankings 2026: Running back",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26RB/nfl-fantasy-football-draft-rankings-2026-rb-running-back",
-        "publishedAt": "2026-08-31T11:02:16Z",
-        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Here’s how the Packers’ initial roster compares to previous years",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85737/heres-how-the-packers-initial-roster-compares-to-previous-years",
+        "publishedAt": "2026-08-31T09:37:01-04:00",
+        "summary": "There are only so many ways you can stack a 53 man roster. Despite plenty of handwringing year in and year out from fans and media alike as to what the roster will look like, the Packers’ initial roster every year is configured in more or less the same way. The same way, that is, [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Green Bay Packers News: Final cuts are in, but the work has only just begun",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85731/green-bay-packers-news-final-cuts-are-in-but-the-work-has-only-just-begun",
         "publishedAt": "2026-08-31T09:15:00-04:00",
         "summary": "Brian Gutekunst and the Green Bay Packers’ front office have their work cut out for them on cutdown day. It’s a tough 48 hours or so between the final preseason game and the deadline to trim a roster down to 53 players, and they were plenty busy on Sunday. Gutekunst and company made three trades, [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
         "publishedAt": "2026-08-31T00:30:52-04:00",
         "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
         "publishedAt": "2026-08-30T21:47:28-04:00",
         "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
         "publishedAt": "2026-08-30T21:45:20-04:00",
         "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85690/green-bay-packers-announce-initial-53-man-roster-of-2026",
         "publishedAt": "2026-08-30T18:46:26-04:00",
         "summary": "After much debate, the Green Bay Packers announced their first 53-man roster of the 2026 season after a day full of news. We’ll go position by position, showing you who made the team and the big information of the day. Quarterback Earlier today, the Packers traded third-string quarterback Kyle McCord to the Miami Dolphins for [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85259/packers-roster-cut-tracker-2026",
         "publishedAt": "2026-08-30T18:32:43-04:00",
         "summary": "Sunday, August 30th is a big day for the NFL this year. In 2026, the league has set the deadline for teams to cut their rosters down from 90 players to 53 for Sunday at 6:00 PM Eastern Time (5:00 Central), an odd time compared to recent deadlines. Recent years have seen the league require [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85645/packers-trade-for-rams-te-mark-redman",
         "publishedAt": "2026-08-30T16:05:55-04:00",
         "summary": "The Green Bay Packers have traded for former Los Angeles Rams tight end Mark Redman, according to NFL insider Jordan Schultz. Redman, who played at Washington, San Diego State and Louisville at the college level, was signed as an undrafted free agent in 2025. So far, Redman hasn’t been active in an NFL regular-season game. [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
         "publishedAt": "2026-08-30T15:58:58-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85639/packers-rb-josh-jacobs-placed-on-the-nfls-commissioner-exempt-list",
         "publishedAt": "2026-08-30T15:26:09-04:00",
         "summary": "ESPN’s Adam Schefter is reporting that Green Bay Packers running back Josh Jacobs is being placed on the NFL’s commissioner exempt list, which means that he will not start on the team’s 53-man roster to open the season. At the time, there is no timeframe for a Jacobs suspension following the news earlier this week [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers officially win the Zaire Franklin-Colby Wooden trade",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85622/green-bay-packers-officially-win-the-zaire-franklin-colby-wooden-trade",
-        "publishedAt": "2026-08-30T13:25:05-04:00",
-        "summary": "Earlier this offseason, the Green Bay Packers traded defensive lineman Colby Wooden, who was going into the final year of his rookie contract, for then-Indianapolis Colts linebacker Zaire Franklin. Since joining the Packers, Franklin has been the team’s starting Mike after Quay Walker signed with the Las Vegas Raiders in free agency, received a new contract and was [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
