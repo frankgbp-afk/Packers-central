@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T16:20:29.925Z",
+  "updatedAt": "2026-08-31T17:19:59.653Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "How many different Week 1 starting QBs has each NFL team used?",
+        "url": "https://www.espn.com/nfl/story/_/id/49752772/week-1-starting-quarterbacks-modern-era",
+        "publishedAt": "2026-08-31T16:49:25Z",
+        "summary": "Since the NFL expanded to 32 teams in 2002, no team has used more Week 1 starting quarterbacks than the Browns.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rams GM joins McAfee, dishes on Aaron Donald's return",
+        "url": "https://www.espn.com/video/clip/_/id/49784093/rams-gm-joins-mcafee-dishes-aaron-donald-return",
+        "publishedAt": "2026-08-31T16:50:33Z",
+        "summary": "Rams GM joins McAfee, dishes on Aaron Donald's return",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Do NFL superteams usually win the Super Bowl? Will the Rams?",
+        "url": "https://www.espn.com/nfl/story/_/id/49537787/2026-nfl-season-rams-superteams-preseason-favorites-win-super-bowl-barnwell",
+        "publishedAt": "2026-08-31T16:33:26Z",
+        "summary": "The Rams are loaded this season, and basically everyone is picking them to win the Super Bowl. But preseason darlings of the past 35 years haven't always met expectations.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy Football 'Do Draft' list: Derrick Henry, Patrick Mahomes among undervalued players to pick",
         "url": "https://www.espn.com/fantasy/football/story/_/id/49556816/2026-fantasy-football-sleepers-value-picks-undervalued-karabell",
         "publishedAt": "2026-08-31T15:59:19Z",
         "summary": "You've read the \"Do Not Draft\" list. Now, Eric Karabell lists players being drafted later than they should be.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49529494/2026-fantasy-football-busts-overvalued-do-not-draft-karabell",
         "publishedAt": "2026-08-31T15:58:09Z",
         "summary": "The annual hit is back, with players Eric Karabell feels are going earlier than they should in drafts this summer.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49783517/liz-loza-fantasy-hot-take-isiah-pacheco-breece-hall",
         "publishedAt": "2026-08-31T15:38:21Z",
         "summary": "Liz Loza's fantasy hot take about Isiah Pacheco and Breece Hall",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49783507/why-daniel-dopp-moving-puka-nacua-fantasy-rankings",
         "publishedAt": "2026-08-31T15:51:46Z",
         "summary": "Why Daniel Dopp is moving Puka Nacua up his fantasy rankings",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49783484/why-marshawn-lloyd-strong-short-term-option-fantasy-managers",
         "publishedAt": "2026-08-31T16:01:35Z",
         "summary": "Why MarShawn Lloyd could be a strong short-term option for fantasy managers",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49783482/where-appropriate-spot-draft-jeremiyah-love-fantasy",
         "publishedAt": "2026-08-31T16:02:21Z",
         "summary": "Where is an appropriate spot to draft Jeremiyah Love in fantasy?",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47539664/2026-fantasy-football-rankings-flex-superflex-ppr-eric-karabell",
         "publishedAt": "2026-08-31T15:19:14Z",
         "summary": "A look at the top 200 QBs, RBs, WRs and TEs for 2026 drafts, updated throughout the fantasy football offseason.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49614875/2026-fantasy-football-rankings-running-back-tiers-rb",
         "publishedAt": "2026-08-31T15:16:08Z",
         "summary": "Eric Karabell breaks his running backs into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49782944/stephen-fired-rams-sb-chances-aaron-donald-return",
         "publishedAt": "2026-08-31T14:45:10Z",
         "summary": "Stephen A. fired up for Rams' SB chances after Aaron Donald's return",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What is next for Josh Jacobs after being placed on commissioner exempt list?",
-        "url": "https://www.espn.com/video/clip/_/id/49782749/what-next-josh-jacobs-being-placed-commissioner-exempt-list",
-        "publishedAt": "2026-08-31T14:10:33Z",
-        "summary": "What is next for Josh Jacobs after being placed on commissioner exempt list?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-08-31T13:34:05Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Orlovsky: Giants offense will be their best in 10 years",
-        "url": "https://www.espn.com/video/clip/_/id/49782361/giants-offense-their-best-10-years",
-        "publishedAt": "2026-08-31T13:15:50Z",
-        "summary": "Orlovsky: Giants offense will be their best in 10 years",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
+        "publishedAt": "2026-08-31T13:03:31-04:00",
+        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Film Room, Preseason Week 3: Sturdivant goes for 6",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85574/packers-film-room-preseason-week-3-sturdivant-goes-for-6",
         "publishedAt": "2026-08-31T12:00:00-04:00",
         "summary": "The final preseason game is in the books, so I’m working to get into regular season shape by doing what I love doing the most: breaking down plays. It’s never quite as interesting in the preseason because the focus of the offense isn’t on sequencing in the same way we see in the regular season. [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85527/packers-fans-reaction-to-new-rivalries-uniforms-is-decidedly-meh",
         "publishedAt": "2026-08-31T11:30:00-04:00",
         "summary": "It has been an eventful seven days for the Green Bay Packers. Looking back at the chaos of the last few days — between the final preseason game and the roster cut deadline on Sunday — it feels a bit bizarre to remember that the Packers released a new slate of alternate uniforms just six [&#8230;]",
-        "image": "data/news-images/acme-1.jpg",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85461/where-is-the-weirdest-or-most-remote-place-youve-watched-a-packers-game",
         "publishedAt": "2026-08-31T11:00:00-04:00",
         "summary": "If you’re a Green Bay Packers fan, you’re a die-hard. That pretty much comes with the territory. As a result, you probably will go to just about any length to watch your team play. I know I certainly have. Over the years, I’ve watched Packers games in some far-flung places. From following the 2021 Divisional [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85719/jonathan-gannons-packers-preseason-pressure-packages",
         "publishedAt": "2026-08-31T10:00:00-04:00",
         "summary": "The 2026 preseason has concluded, but the Green Bay Packers’ three games gave us a glimpse into the mind of Jonathan Gannon as the new defensive coordinator gears up for his first season calling the defense. While Gannon called a mostly vanilla preseason, he did throw a couple of interesting blitz calls out in the [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85737/heres-how-the-packers-initial-roster-compares-to-previous-years",
         "publishedAt": "2026-08-31T09:37:01-04:00",
         "summary": "There are only so many ways you can stack a 53 man roster. Despite plenty of handwringing year in and year out from fans and media alike as to what the roster will look like, the Packers’ initial roster every year is configured in more or less the same way. The same way, that is, [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85731/green-bay-packers-news-final-cuts-are-in-but-the-work-has-only-just-begun",
         "publishedAt": "2026-08-31T09:15:00-04:00",
         "summary": "Brian Gutekunst and the Green Bay Packers’ front office have their work cut out for them on cutdown day. It’s a tough 48 hours or so between the final preseason game and the deadline to trim a roster down to 53 players, and they were plenty busy on Sunday. Gutekunst and company made three trades, [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
         "publishedAt": "2026-08-31T00:30:52-04:00",
         "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
         "publishedAt": "2026-08-30T21:47:28-04:00",
         "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
         "publishedAt": "2026-08-30T21:45:20-04:00",
         "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers announce initial 53-man roster of 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85690/green-bay-packers-announce-initial-53-man-roster-of-2026",
-        "publishedAt": "2026-08-30T18:46:26-04:00",
-        "summary": "After much debate, the Green Bay Packers announced their first 53-man roster of the 2026 season after a day full of news. We’ll go position by position, showing you who made the team and the big information of the day. Quarterback Earlier today, the Packers traded third-string quarterback Kyle McCord to the Miami Dolphins for [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
