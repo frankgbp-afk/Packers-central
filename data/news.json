@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T23:20:09.258Z",
+  "updatedAt": "2026-09-01T00:36:13.601Z",
   "sources": {
     "packers": [
       {
@@ -115,7 +115,7 @@
       {
         "title": "Giants WR Nabers feeling 'good' but mum on playing Week 1",
         "url": "https://www.espn.com/nfl/story/_/id/49787690/giants-wr-nabers-feeling-good-mum-playing-week-1",
-        "publishedAt": "2026-08-31T23:15:30Z",
+        "publishedAt": "2026-08-31T23:55:03Z",
         "summary": "Malik Nabers is feeling \"real good\" ahead of the Giants' season opener against the Cowboys but remained noncommittal about playing Week 1.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Who will be the Packers’ third quarterback?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
+        "publishedAt": "2026-08-31T17:32:00-04:00",
+        "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
         "publishedAt": "2026-08-31T16:51:24-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,15 +245,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
         "publishedAt": "2026-08-31T16:05:14-04:00",
         "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Who will be the Packers’ third quarterback?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
-        "publishedAt": "2026-08-31T15:37:52-04:00",
-        "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
         "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
