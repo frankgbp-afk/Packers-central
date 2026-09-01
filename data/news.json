@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:29:36.335Z",
+  "updatedAt": "2026-09-01T19:23:19.781Z",
   "sources": {
     "packers": [
       {
@@ -236,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85895/packers-injuries-updates-on-ird-players-and-micah-parsons",
         "publishedAt": "2026-09-01T13:41:27-04:00",
         "summary": "The Green Bay Packers’ brass spoke to the media on Tuesday for the first time since roster cuts. The deadline also came with some injury news, as both receiver Savion Williams and edge rusher Collin Oliver were placed on the injured reserve, with a return designation, to make room for other players to be retained [&#8230;]",
-        "image": "data/news-images/acme-1.jpg",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85837/packers-film-review-te-mark-redman",
         "publishedAt": "2026-09-01T13:26:19-04:00",
         "summary": "On August 30th, the Green Bay Packers traded a 2028 7th-round pick to the Los Angeles Rams for tight end Mark Redman. Given that the Rams had eight tight ends at the start of the month, it’s no surprise they’d be open to getting rid of one of them. (As currently stands, the Rams have [&#8230;]",
-        "image": "data/news-images/acme-2.jpg",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85858/green-bay-packers-news-its-time-for-jordan-love-to-ascend",
         "publishedAt": "2026-09-01T11:02:04-04:00",
         "summary": "Jordan Love is heading into his fourth season as the Packers’ starting quarterback, but in some ways, this feels like the first season where he’ll be asked to be the face of the franchise. 2023 was very much a trial period. He had to prove he could do the job, and ultimately he did. The [&#8230;]",
-        "image": "data/news-images/acme-3.jpg",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85849/packers-will-sign-kedon-slovis-to-practice-squad-as-3rd-quarterback",
         "publishedAt": "2026-09-01T10:35:06-04:00",
         "summary": "After trading Kyle McCord away ahead of Sunday’s roster cut deadline, the Green Bay Packers have decided on which player will be their third quarterback to start the 2026 season. That player is the one who got out-dueled by McCord in last Friday’s preseason finale: former Cardinals quarterback Kedon Slovis. General manager Brian Gutekunst said [&#8230;]",
-        "image": "data/news-images/acme-4.jpg",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
