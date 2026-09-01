@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-01T16:42:10.911Z",
+  "updatedAt": "2026-09-01T17:24:54.932Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers Everywhere set to host free pep rally in Tampa",
+        "url": "https://www.packers.com/news/packers-everywhere-set-to-host-free-pep-rally-in-tampa-2026",
+        "publishedAt": "Tue, 01 Sep 2026 16:40:00 GMT",
+        "summary": "Fans can pre-register for the event by signing up for Packers Pass",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "5 things learned from GM Brian Gutekunst about Packers' roster",
         "url": "https://www.packers.com/news/5-things-learned-from-gm-brian-gutekunst-about-packers-roster-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 16:35:39 GMT",
         "summary": "Notes on key decisions and injury updates",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-a-great-opportunity-for-a-fresh-start-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 13:30:00 GMT",
         "summary": "You can’t have the rainbow without a few showers",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-sign-13-players-to-practice-squad-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 22:00:00 GMT",
         "summary": "All 13 players spent time with Green Bay during 2026 preseason",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-greater-green-bay-chamber-celebrate-new-chapter-for-welcome-back-packers-luncheon-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 20:38:18 GMT",
         "summary": "August event marked final luncheon in current format, with future years to extend luncheon’s reach across regional nonprofit community",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-give-us-a-sign-contest-winner-chosen-2026",
         "publishedAt": "Mon, 31 Aug 2026 18:16:19 GMT",
         "summary": "Frank Falcone of Rio Rancho, N.M. will have his caption idea turned into a gameday sign for fans to use at Lambeau Field",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/5-takeaways-from-packers-roster-decisions-2026",
         "publishedAt": "Mon, 31 Aug 2026 14:00:00 GMT",
         "summary": "Addressing depth at two offensive positions was a priority",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-never-a-dull-moment-around-here-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 13:30:00 GMT",
         "summary": "Competition is never just in-house",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-keep-six-receivers-seven-defensive-linemen-here-s-the-initial-2026-roster",
         "publishedAt": "Sun, 30 Aug 2026 22:02:00 GMT",
         "summary": "J. Michael Sturdivant extends undrafted rookie streak to 22 years; DL Anthony Campbell makes the cut",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-rb-kaleb-johnson-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:01:00 GMT",
         "summary": "Green Bay acquires backfield depth in trade with Pittsburgh",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:00:00 GMT",
         "summary": "Green Bay makes third trade Sunday, gets down to 53 active players",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/packers-agree-to-terms-on-trade-with-rams-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 20:00:00 GMT",
         "summary": "Green Bay acquires TE Mark Redman in exchange for a 2028 seventh-round pick",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers announce trade with Dolphins",
-        "url": "https://www.packers.com/news/packers-announce-trade-with-dolphins-aug-30-2026",
-        "publishedAt": "Sun, 30 Aug 2026 17:20:00 GMT",
-        "summary": "Green Bay acquires a 2028 sixth-round pick in exchange for QB Kyle McCord",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Colts GM expects Keenan Allen to play in Week 1",
+        "url": "https://www.espn.com/video/clip/_/id/49794979/colts-gm-expects-keenan-allen-play-week-1",
+        "publishedAt": "2026-09-01T17:21:24Z",
+        "summary": "Colts GM expects Keenan Allen to play in Week 1",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ex-NFL QB, CBS Sports analyst Tony Romo pleads no contest to OWI",
+        "url": "https://www.espn.com/nfl/story/_/id/49794939/ex-nfl-qb-cbs-sports-analyst-tony-romo-pleads-no-contest-owi",
+        "publishedAt": "2026-09-01T17:20:12Z",
+        "summary": "Ex-Dallas Cowboys quarterback and CBS Sports lead football analyst Tony Romo pleaded no contest to OWI charges in Milwaukee. He will have driving privileges revoked for six months and will seek help from a team of doctors.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Packers GM: We not not seen the video in Josh Jacobs case",
+        "url": "https://www.espn.com/video/clip/_/id/49794900/not-not-seen-video-josh-jacobs-case",
+        "publishedAt": "2026-09-01T17:04:51Z",
+        "summary": "Packers GM: We not not seen the video in Josh Jacobs case",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Colts WR Keenan Allen expected to play opener despite arrest",
         "url": "https://www.espn.com/nfl/story/_/id/49794710/colts-wr-keenan-allen-expected-play-opener-arrest",
-        "publishedAt": "2026-09-01T16:40:33Z",
+        "publishedAt": "2026-09-01T17:16:22Z",
         "summary": "Colts wide receiver Keenan Allen is expected to play in the team's season opener despite his arrest on Sunday morning for drunken driving, general manager Chris Ballard said.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794143/travis-kelce-taylor-swift-dog-tommy-hilfiger-kansas-city-chiefs-samoyed",
         "publishedAt": "2026-09-01T16:11:50Z",
         "summary": "The dog, a female Samoyed, starred alongside Kelce in an ad campaign for Tommy Hilfiger.",
-        "image": "data/news-images/espn-1.png",
+        "image": "data/news-images/espn-4.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49794299/is-myles-garrett-top-player-nfl-stephen-weighs-in",
         "publishedAt": "2026-09-01T16:05:06Z",
         "summary": "Is Myles Garrett the top player in the NFL? Stephen A. weighs in",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +171,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794128/texans-negotiate-stroud-season-gm-says",
         "publishedAt": "2026-09-01T16:06:48Z",
         "summary": "The Texans have set a Week 1 deadline for agreeing to a contract extension with quarterback C.J. Stroud this year, general manager Nick Caserio said.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Packers have not seen video in Josh Jacobs case, GM says",
         "url": "https://www.espn.com/nfl/story/_/id/49794123/packers-not-seen-video-josh-jacobs-case-gm-says",
-        "publishedAt": "2026-09-01T16:18:39Z",
+        "publishedAt": "2026-09-01T17:05:52Z",
         "summary": "The Packers have not seen the video evidence in the Josh Jacobs criminal case, according to GM Brian Gutekunst.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794019/source-chargers-sign-te-patrick-herbert-brother-starting-qb",
         "publishedAt": "2026-09-01T15:27:43Z",
         "summary": "The Chargers have signed tight end Patrick Herbert, younger brother of starting quarterback Justin, to their practice squad, a source told the NFL Network's Mike Garafolo.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49794018/zac-taylor-lucky-job-bengals",
         "publishedAt": "2026-09-01T15:25:57Z",
         "summary": "Stephen A.: Zac Taylor is lucky to have a job with the Bengals",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49793982/why-yates-projecting-big-step-forward-justin-herbert",
         "publishedAt": "2026-09-01T16:20:01Z",
         "summary": "Why Yates is projecting a big step forward for Justin Herbert",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49793980/why-ladd-mcconkey-moving-daniel-dopp-ranking",
         "publishedAt": "2026-09-01T16:22:54Z",
         "summary": "Why Ladd McConkey is moving up Daniel Dopp's ranking",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Field Yates is high on Emeka Egbuka this season",
-        "url": "https://www.espn.com/video/clip/_/id/49793979/why-field-yates-high-emeka-egbuka-season",
-        "publishedAt": "2026-09-01T16:23:50Z",
-        "summary": "Why Field Yates is high on Emeka Egbuka this season",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Dopp prefers Chase Brown over CMC in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/49793978/why-dopp-prefers-chase-brown-cmc-fantasy",
-        "publishedAt": "2026-09-01T16:24:30Z",
-        "summary": "Why Dopp prefers Chase Brown over CMC in fantasy",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Jaxson Dart is Mike Clay's guy at fantasy QB this season",
-        "url": "https://www.espn.com/video/clip/_/id/49793977/why-jaxson-dart-mike-clay-guy-fantasy-qb-season",
-        "publishedAt": "2026-09-01T16:25:17Z",
-        "summary": "Why Jaxson Dart is Mike Clay's guy at fantasy QB this season",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
