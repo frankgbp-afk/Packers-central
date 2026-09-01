@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T21:24:44.156Z",
+  "updatedAt": "2026-09-01T22:23:39.963Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Colin Kaepernick says he now shuns NFL for 'blackballing me'",
+        "url": "https://www.espn.com/nfl/story/_/id/49796833/colin-kaepernick-says-now-shuns-nfl-blackballing-me",
+        "publishedAt": "2026-09-01T22:13:14Z",
+        "summary": "Colin Kaepernick told NBC News he prefers to watch college football over the NFL because the NFL is \"actively blackballing me.\"",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Detroit Lions place RB Isiah Pacheco on injured reserve",
         "url": "https://www.espn.com/nfl/story/_/id/49796729/detroit-lions-place-rb-isiah-pacheco-injured-reserve",
-        "publishedAt": "2026-09-01T21:20:39Z",
-        "summary": "The Detroit Lions have placed running back Isiah Pacheco, 27, on the injured reserve list, the team announced on Tuesday, as the veteran is dealing with a MCL sprain in addition to a recent back injury that he suffered during training camp.",
-        "image": "data/news-images/espn-0.jpg",
+        "publishedAt": "2026-09-01T21:40:15Z",
+        "summary": "The Detroit Lions have placed running back Isiah Pacheco, 27, on the injured reserve list, the team announced Tuesday. The veteran is dealing with an MCL sprain in addition to a recent back injury that he suffered during training camp.",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Steelers' Joey Porter Jr. on playing without deal: 'I don't know'",
         "url": "https://www.espn.com/nfl/story/_/id/49796601/steelers-joey-porter-jr-playing-deal-know",
-        "publishedAt": "2026-09-01T21:20:04Z",
+        "publishedAt": "2026-09-01T21:59:44Z",
         "summary": "Steelers cornerback Joey Porter Jr. was noncommittal Tuesday when asked if he would play without a contract extension.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49796201/chase-higgins-ready-bengals-opener",
         "publishedAt": "2026-09-01T20:10:12Z",
         "summary": "Coach Zac Taylor indicated Cincinnati wide receivers Ja'Marr Chase and Tee Higgins, who are nursing injuries in the final days before the official start of the season, should be ready for the Bengals' Week 1 game against the Tampa Bay Buccaneers Sept. 13.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49795974/the-defenses-fantasy-managers-need-get-weeks-1-2",
         "publishedAt": "2026-09-01T19:34:46Z",
         "summary": "The defenses fantasy managers need to get in Weeks 1 and 2",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49795935/wait-see-how-mike-mcdaniel-unlocks-justin-herbert",
         "publishedAt": "2026-09-01T19:34:33Z",
         "summary": "Jim Harbaugh: Can't wait to see how Mike McDaniel unlocks Justin Herbert",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49795043/gm-hope-cb-kyler-gordon-calf-plays-bears-again",
         "publishedAt": "2026-09-01T18:05:37Z",
         "summary": "GM Ryan Poles said Tuesday he didn't know if CB Kyler Gordon, who is on the PUP list as he recovers from a calf injury, will play for the Bears again.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49794979/colts-gm-expects-keenan-allen-play-week-1",
         "publishedAt": "2026-09-01T17:21:24Z",
         "summary": "Colts GM expects Keenan Allen to play in Week 1",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794939/ex-nfl-qb-cbs-sports-analyst-tony-romo-pleads-no-contest-owi",
         "publishedAt": "2026-09-01T17:28:32Z",
         "summary": "Ex-Dallas Cowboys quarterback and CBS Sports lead football analyst Tony Romo pleaded no contest to OWI charges in Milwaukee. He will have driving privileges revoked for six months and will seek help from a team of doctors.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49794900/not-not-seen-video-josh-jacobs-case",
         "publishedAt": "2026-09-01T17:04:51Z",
         "summary": "Packers GM: We not not seen the video in Josh Jacobs case",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794710/colts-wr-keenan-allen-expected-play-opener-arrest",
         "publishedAt": "2026-09-01T18:14:19Z",
         "summary": "Colts wide receiver Keenan Allen is expected to play in the team's season opener despite his arrest on Sunday morning for drunken driving, general manager Chris Ballard said.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,16 +216,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794143/travis-kelce-taylor-swift-dog-tommy-hilfiger-kansas-city-chiefs-samoyed",
         "publishedAt": "2026-09-01T16:11:50Z",
         "summary": "The dog, a female Samoyed, starred alongside Kelce in an ad campaign for Tommy Hilfiger.",
-        "image": "data/news-images/espn-10.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Is Myles Garrett the top player in the NFL? Stephen A. weighs in",
-        "url": "https://www.espn.com/video/clip/_/id/49794299/is-myles-garrett-top-player-nfl-stephen-weighs-in",
-        "publishedAt": "2026-09-01T16:05:06Z",
-        "summary": "Is Myles Garrett the top player in the NFL? Stephen A. weighs in",
-        "image": "data/news-images/espn-11.jpg",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
@@ -225,7 +225,7 @@
       {
         "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-09-01T16:19:52-04:00",
+        "publishedAt": "2026-09-01T17:26:19-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
         "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
