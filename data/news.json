@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T09:26:45.774Z",
+  "updatedAt": "2026-09-01T10:29:14.299Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "2026 NFL Rank: Predicting top 100 players for this season",
+        "url": "https://www.espn.com/nfl/story/_/id/49706895/2026-nfl-season-rankings-top-100-players-predictions-stats",
+        "publishedAt": "2026-09-01T10:26:29Z",
+        "summary": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL execs pick snubs in ESPN's 2026 top 100 player rankings",
+        "url": "https://www.espn.com/nfl/story/_/id/49784013/nfl-rank-top-100-players-rankings-2026-biggest-snubs-scouts-executives",
+        "publishedAt": "2026-09-01T10:27:55Z",
+        "summary": "Only 100 players can make our list of the top NFL players for this season. Here are nine who league insiders believe should have been there.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Will Packers coach Matt LaFleur let Jordan Love cook in '26?",
+        "url": "https://www.espn.com/nfl/story/_/id/49752350/nfl-green-bay-packers-jordan-love-matt-lafleur-aaron-rodgers",
+        "publishedAt": "2026-09-01T10:00:02Z",
+        "summary": "LaFleur recently said Love is \"the best I've been around in terms of protections and adjustments.\"",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Rams' Aaron Donald misses practice as planned; return date TBD",
         "url": "https://www.espn.com/tennis/story/_/id/49789227/rams-aaron-donald-misses-practice-planned-return-date-tbd",
         "publishedAt": "2026-09-01T03:06:14Z",
         "summary": "Sean McVay won't put a timeline on when Aaron Donald will play in his first game after being retired for two years.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49787690/giants-wr-nabers-feeling-good-mum-playing-week-1",
         "publishedAt": "2026-09-01T03:07:03Z",
         "summary": "Malik Nabers is feeling \"real good\" ahead of the Giants' season opener against the Cowboys but remained noncommittal about playing Week 1.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49787595/minter-backs-loop-ravens-add-kicker-competition-moody",
         "publishedAt": "2026-09-01T03:05:55Z",
         "summary": "Baltimore signed Jake Moody to the practice squad three days after Tyler Loop missed two kicks in the preseason finale.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49786388/berrios-giants-practice-squad-play-opener",
         "publishedAt": "2026-08-31T21:40:41Z",
         "summary": "The New York Giants on Monday re-signed veteran wide receiver and returner Braxton Berrios, 30, to the practice squad with the intention of him being active Week 1 against the Dallas Cowboys, sources told ESPN.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49786366/rookie-cade-klubnik-jets-qb2-entering-season-aaron-glenn-says",
         "publishedAt": "2026-08-31T21:27:04Z",
         "summary": "Instead of adding a veteran insurance policy, the Jets will enter the season with rookie Cade Klubnik as their No. 2 quarterback.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49786242/cowboys-waive-joe-milton-iii-name-sam-howell-backup-qb",
         "publishedAt": "2026-08-31T23:15:11Z",
         "summary": "The Cowboys named Sam Howell as the team's backup QB after waiving Joe Milton III on Monday to make room for free agent RB Emari Demercado.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49786038/broncos-cooper-pleads-not-guilty-domestic-violence-charges",
         "publishedAt": "2026-09-01T01:47:54Z",
         "summary": "Broncos outside linebacker Jonathon Cooper pleaded not guilty to multiple domestic violence charges Monday in a Douglas County (Colorado) courtroom.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49785992/steelers-negotiate-cb-joey-porter-jr-season",
         "publishedAt": "2026-08-31T20:18:35Z",
         "summary": "The Steelers say their longtime policy of not negotiating contracts in-season will stand when it comes to cornerback Joey Porter Jr., who is in the final year of his rookie deal.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49779308/san-francisco-49ers-sports-teams-poke-fun-daejon-love-federal-charges",
         "publishedAt": "2026-08-31T19:37:54Z",
         "summary": "Since two men were arrested with conspiracy to commit wire fraud and wire fraud, the story has dominated social media, with even athletes and sports teams chiming in.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Schottenheimer: Jones, Steele to compete for Cowboys' RT job",
-        "url": "https://www.espn.com/nfl/story/_/id/49785579/schottenheimer-jones-steele-compete-cowboys-rt-job",
-        "publishedAt": "2026-08-31T22:17:36Z",
-        "summary": "Cowboys coach Brian Schottenheimer said there will be a competition for the starting right tackle job between Terence Steele and Broderick Jones.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "From Knicks to Yankees, Nick Jonas finds the perfect song",
-        "url": "https://www.espn.com/nfl/story/_/id/49660378/nick-jonas-brother-new-york-knicks-yankees-giants-told-songs",
-        "publishedAt": "2026-08-31T19:22:20Z",
-        "summary": "The Jonas Brothers are longtime New York sports fans and have a song that can speak to their favorite teams.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football mock draft: Josh Jacobs drops, MarShawn Lloyd goes in Round 6",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFMockDraft26-49782349/fantasy-football-mock-draft-12-teams-ppr",
-        "publishedAt": "2026-08-31T19:12:56Z",
-        "summary": "The final mock draft of the summer revealed where our drafters stand on the Packers' backfield.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
