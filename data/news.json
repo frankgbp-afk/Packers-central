@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-01T13:26:42.496Z",
+  "updatedAt": "2026-09-01T14:27:17.801Z",
   "sources": {
     "packers": [
+      {
+        "title": "Inbox: It's a great opportunity for a fresh start",
+        "url": "https://www.packers.com/news/inbox-it-s-a-great-opportunity-for-a-fresh-start-sep-1-2026",
+        "publishedAt": "Tue, 01 Sep 2026 13:30:00 GMT",
+        "summary": "You can’t have the rainbow without a few showers",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers sign 13 players to practice squad",
         "url": "https://www.packers.com/news/packers-sign-13-players-to-practice-squad-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 22:00:00 GMT",
         "summary": "All 13 players spent time with Green Bay during 2026 preseason",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/packers-greater-green-bay-chamber-celebrate-new-chapter-for-welcome-back-packers-luncheon-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 20:38:18 GMT",
         "summary": "August event marked final luncheon in current format, with future years to extend luncheon’s reach across regional nonprofit community",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-give-us-a-sign-contest-winner-chosen-2026",
         "publishedAt": "Mon, 31 Aug 2026 18:16:19 GMT",
         "summary": "Frank Falcone of Rio Rancho, N.M. will have his caption idea turned into a gameday sign for fans to use at Lambeau Field",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/5-takeaways-from-packers-roster-decisions-2026",
         "publishedAt": "Mon, 31 Aug 2026 14:00:00 GMT",
         "summary": "Addressing depth at two offensive positions was a priority",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/inbox-never-a-dull-moment-around-here-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 13:30:00 GMT",
         "summary": "Competition is never just in-house",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-keep-six-receivers-seven-defensive-linemen-here-s-the-initial-2026-roster",
         "publishedAt": "Sun, 30 Aug 2026 22:02:00 GMT",
         "summary": "J. Michael Sturdivant extends undrafted rookie streak to 22 years; DL Anthony Campbell makes the cut",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-rb-kaleb-johnson-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:01:00 GMT",
         "summary": "Green Bay acquires backfield depth in trade with Pittsburgh",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:00:00 GMT",
         "summary": "Green Bay makes third trade Sunday, gets down to 53 active players",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-agree-to-terms-on-trade-with-rams-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 20:00:00 GMT",
         "summary": "Green Bay acquires TE Mark Redman in exchange for a 2028 seventh-round pick",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-announce-trade-with-dolphins-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 17:20:00 GMT",
         "summary": "Green Bay acquires a 2028 sixth-round pick in exchange for QB Kyle McCord",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-te-jonnu-smith-aug-29-2026",
         "publishedAt": "Sat, 29 Aug 2026 20:21:38 GMT",
         "summary": "Veteran tight end played for Matt LaFleur in Tennessee in 2018",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers sign TE Jonnu Smith",
-        "url": "https://www.packers.com/news/packers-sign-te-jonnu-smith-aug-29-2026",
-        "publishedAt": "Sat, 29 Aug 2026 20:00:00 GMT",
-        "summary": "Green Bay releases S Tra Fluellen",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Eleven NFL player props we're buying before the season gets underway",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49671577/2026-nfl-player-props-best-bets-futures-picks-predictions",
+        "publishedAt": "2026-09-01T14:15:19Z",
+        "summary": "The player props that stand out heading into the 2026 NFL season and why we're betting them.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What is the NFL commissioner exempt list? Who is on it?",
+        "url": "https://www.espn.com/nfl/story/_/id/41125210/what-nfl-commissioner-exempt-list-it",
+        "publishedAt": "2026-09-01T13:34:58Z",
+        "summary": "What does it mean when a player is put on the NFL commissioner exempt list?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-09-01T10:44:36Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49755632/fantasy-football-2026-rankings-bold-predictions",
         "publishedAt": "2026-09-01T10:42:45Z",
         "summary": "Our fantasy analysts picked their favorite \"out on a limb\" predictions for the NFL season ahead.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49706895/2026-nfl-season-rankings-top-100-players-predictions-stats",
         "publishedAt": "2026-09-01T10:32:43Z",
         "summary": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49784013/nfl-rank-top-100-players-rankings-2026-biggest-snubs-scouts-executives",
         "publishedAt": "2026-09-01T10:27:55Z",
         "summary": "Only 100 players can make our list of the top NFL players for this season. Here are nine who league insiders believe should have been there.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49752350/nfl-green-bay-packers-jordan-love-matt-lafleur-aaron-rodgers",
         "publishedAt": "2026-09-01T10:00:02Z",
         "summary": "LaFleur recently said Love is \"the best I've been around in terms of protections and adjustments.\"",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,16 +180,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49782813/los-angeles-rams-aaron-donald-how-got-back",
         "publishedAt": "2026-09-01T11:23:47Z",
         "summary": "It was a conversation coach Sean McVay never expected to have with the 10-season vet, but three months later, Donald is back in a Rams uniform.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Cardinals QB Jacoby Brissett learning quickly under Mike LaFleur",
         "url": "https://www.espn.com/nfl/story/_/id/49784509/jacoby-brissett-finding-groove-new-cardinals-coach-mike-lafleur",
-        "publishedAt": "2026-09-01T10:49:15Z",
-        "summary": "After an extended hold-out/hold-in, Brissett is learning a new system and picking it up quickly.",
-        "image": "data/news-images/espn-6.jpg",
+        "publishedAt": "2026-09-01T13:53:13Z",
+        "summary": "After an extended holdout/hold-in, Brissett is learning a new system and picking it up quickly.",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/tennis/story/_/id/49789227/rams-aaron-donald-misses-practice-planned-return-date-tbd",
         "publishedAt": "2026-09-01T03:06:14Z",
         "summary": "Sean McVay won't put a timeline on when Aaron Donald will play in his first game after being retired for two years.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49787690/giants-wr-nabers-feeling-good-mum-playing-week-1",
         "publishedAt": "2026-09-01T03:07:03Z",
         "summary": "Malik Nabers is feeling \"real good\" ahead of the Giants' season opener against the Cowboys but remained noncommittal about playing Week 1.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49787595/minter-backs-loop-ravens-add-kicker-competition-moody",
         "publishedAt": "2026-09-01T03:05:55Z",
         "summary": "Baltimore signed Jake Moody to the practice squad three days after Tyler Loop missed two kicks in the preseason finale.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Berrios on Giants practice squad, should play opener",
-        "url": "https://www.espn.com/nfl/story/_/id/49786388/berrios-giants-practice-squad-play-opener",
-        "publishedAt": "2026-08-31T21:40:41Z",
-        "summary": "The New York Giants on Monday re-signed veteran wide receiver and returner Braxton Berrios, 30, to the practice squad with the intention of him being active Week 1 against the Dallas Cowboys, sources told ESPN.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rookie Cade Klubnik is Jets' QB2 entering season, Aaron Glenn says",
-        "url": "https://www.espn.com/nfl/story/_/id/49786366/rookie-cade-klubnik-jets-qb2-entering-season-aaron-glenn-says",
-        "publishedAt": "2026-08-31T21:27:04Z",
-        "summary": "Instead of adding a veteran insurance policy, the Jets will enter the season with rookie Cade Klubnik as their No. 2 quarterback.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
