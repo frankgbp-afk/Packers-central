@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-01T19:23:19.781Z",
+  "updatedAt": "2026-09-01T20:25:23.004Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers sign QB Kedon Slovis to practice squad",
+        "url": "https://www.packers.com/news/packers-sign-qb-kedon-slovis-to-practice-squad-sep-1-2026",
+        "publishedAt": "Tue, 01 Sep 2026 20:00:00 GMT",
+        "summary": "General Manager Brian Gutekunst announced the transaction Tuesday",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers Everywhere set to host free pep rally in Tampa",
         "url": "https://www.packers.com/news/packers-everywhere-set-to-host-free-pep-rally-in-tampa-2026",
         "publishedAt": "Tue, 01 Sep 2026 16:40:00 GMT",
         "summary": "Fans can pre-register for the event by signing up for Packers Pass",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/5-things-learned-from-gm-brian-gutekunst-about-packers-roster-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 16:35:39 GMT",
         "summary": "Notes on key decisions and injury updates",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-a-great-opportunity-for-a-fresh-start-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 13:30:00 GMT",
         "summary": "You can’t have the rainbow without a few showers",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-sign-13-players-to-practice-squad-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 22:00:00 GMT",
         "summary": "All 13 players spent time with Green Bay during 2026 preseason",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-greater-green-bay-chamber-celebrate-new-chapter-for-welcome-back-packers-luncheon-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 20:38:18 GMT",
         "summary": "August event marked final luncheon in current format, with future years to extend luncheon’s reach across regional nonprofit community",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-give-us-a-sign-contest-winner-chosen-2026",
         "publishedAt": "Mon, 31 Aug 2026 18:16:19 GMT",
         "summary": "Frank Falcone of Rio Rancho, N.M. will have his caption idea turned into a gameday sign for fans to use at Lambeau Field",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/5-takeaways-from-packers-roster-decisions-2026",
         "publishedAt": "Mon, 31 Aug 2026 14:00:00 GMT",
         "summary": "Addressing depth at two offensive positions was a priority",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/inbox-never-a-dull-moment-around-here-aug-31-2026",
         "publishedAt": "Mon, 31 Aug 2026 13:30:00 GMT",
         "summary": "Competition is never just in-house",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-keep-six-receivers-seven-defensive-linemen-here-s-the-initial-2026-roster",
         "publishedAt": "Sun, 30 Aug 2026 22:02:00 GMT",
         "summary": "J. Michael Sturdivant extends undrafted rookie streak to 22 years; DL Anthony Campbell makes the cut",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-rb-kaleb-johnson-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:01:00 GMT",
         "summary": "Green Bay acquires backfield depth in trade with Pittsburgh",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-aug-30-2026",
         "publishedAt": "Sun, 30 Aug 2026 22:00:00 GMT",
         "summary": "Green Bay makes third trade Sunday, gets down to 53 active players",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers agree to terms on trade with Rams",
-        "url": "https://www.packers.com/news/packers-agree-to-terms-on-trade-with-rams-aug-30-2026",
-        "publishedAt": "Sun, 30 Aug 2026 20:00:00 GMT",
-        "summary": "Green Bay acquires TE Mark Redman in exchange for a 2028 seventh-round pick",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Taylor: Chase, Higgins should be ready for Bengals' opener",
+        "url": "https://www.espn.com/nfl/story/_/id/49796201/chase-higgins-ready-bengals-opener",
+        "publishedAt": "2026-09-01T20:10:12Z",
+        "summary": "Coach Zac Taylor indicated Cincinnati wide receivers Ja'Marr Chase and Tee Higgins, who are nursing injuries in the final days before the official start of the season, should be ready for the Bengals' Week 1 game against the Tampa Bay Buccaneers Sept. 13.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "The defenses fantasy managers need to get in Weeks 1 and 2",
+        "url": "https://www.espn.com/video/clip/_/id/49795974/the-defenses-fantasy-managers-need-get-weeks-1-2",
+        "publishedAt": "2026-09-01T19:34:46Z",
+        "summary": "The defenses fantasy managers need to get in Weeks 1 and 2",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jim Harbaugh: Can't wait to see how Mike McDaniel unlocks Justin Herbert",
+        "url": "https://www.espn.com/video/clip/_/id/49795935/wait-see-how-mike-mcdaniel-unlocks-justin-herbert",
+        "publishedAt": "2026-09-01T19:34:33Z",
+        "summary": "Jim Harbaugh: Can't wait to see how Mike McDaniel unlocks Justin Herbert",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "GM has 'hope' CB Kyler Gordon (calf) plays with Bears again",
         "url": "https://www.espn.com/nfl/story/_/id/49795043/gm-hope-cb-kyler-gordon-calf-plays-bears-again",
         "publishedAt": "2026-09-01T18:05:37Z",
         "summary": "GM Ryan Poles said Tuesday he didn't know if CB Kyler Gordon, who is on the PUP list as he recovers from a calf injury, will play for the Bears again.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49794979/colts-gm-expects-keenan-allen-play-week-1",
         "publishedAt": "2026-09-01T17:21:24Z",
         "summary": "Colts GM expects Keenan Allen to play in Week 1",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794939/ex-nfl-qb-cbs-sports-analyst-tony-romo-pleads-no-contest-owi",
         "publishedAt": "2026-09-01T17:28:32Z",
         "summary": "Ex-Dallas Cowboys quarterback and CBS Sports lead football analyst Tony Romo pleaded no contest to OWI charges in Milwaukee. He will have driving privileges revoked for six months and will seek help from a team of doctors.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49794900/not-not-seen-video-josh-jacobs-case",
         "publishedAt": "2026-09-01T17:04:51Z",
         "summary": "Packers GM: We not not seen the video in Josh Jacobs case",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794710/colts-wr-keenan-allen-expected-play-opener-arrest",
         "publishedAt": "2026-09-01T18:14:19Z",
         "summary": "Colts wide receiver Keenan Allen is expected to play in the team's season opener despite his arrest on Sunday morning for drunken driving, general manager Chris Ballard said.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794143/travis-kelce-taylor-swift-dog-tommy-hilfiger-kansas-city-chiefs-samoyed",
         "publishedAt": "2026-09-01T16:11:50Z",
         "summary": "The dog, a female Samoyed, starred alongside Kelce in an ad campaign for Tommy Hilfiger.",
-        "image": "data/news-images/espn-5.png",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49794299/is-myles-garrett-top-player-nfl-stephen-weighs-in",
         "publishedAt": "2026-09-01T16:05:06Z",
         "summary": "Is Myles Garrett the top player in the NFL? Stephen A. weighs in",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794128/texans-negotiate-stroud-season-gm-says",
         "publishedAt": "2026-09-01T16:06:48Z",
         "summary": "The Texans have set a Week 1 deadline for agreeing to a contract extension with quarterback C.J. Stroud this year, general manager Nick Caserio said.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49794123/packers-not-seen-video-josh-jacobs-case-gm-says",
         "publishedAt": "2026-09-01T17:37:43Z",
         "summary": "The Packers have not seen the video evidence in the Josh Jacobs criminal case, according to GM Brian Gutekunst.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Chargers sign TE Patrick Herbert, brother of starting QB",
-        "url": "https://www.espn.com/nfl/story/_/id/49794019/source-chargers-sign-te-patrick-herbert-brother-starting-qb",
-        "publishedAt": "2026-09-01T15:27:43Z",
-        "summary": "The Chargers have signed tight end Patrick Herbert, younger brother of starting quarterback Justin, to their practice squad, a source told the NFL Network's Mike Garafolo.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Stephen A.: Zac Taylor is lucky to have a job with the Bengals",
-        "url": "https://www.espn.com/video/clip/_/id/49794018/zac-taylor-lucky-job-bengals",
-        "publishedAt": "2026-09-01T15:25:57Z",
-        "summary": "Stephen A.: Zac Taylor is lucky to have a job with the Bengals",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Yates is projecting a big step forward for Justin Herbert",
-        "url": "https://www.espn.com/video/clip/_/id/49793982/why-yates-projecting-big-step-forward-justin-herbert",
-        "publishedAt": "2026-09-01T16:20:01Z",
-        "summary": "Why Yates is projecting a big step forward for Justin Herbert",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -225,9 +225,18 @@
       {
         "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-09-01T14:07:32-04:00",
+        "publishedAt": "2026-09-01T16:19:52-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
         "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Discussion: What does a gameday roster look like for Green Bay?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85905/packers-discussion-what-does-a-gameday-roster-look-like-for-green-bay",
+        "publishedAt": "2026-09-01T15:39:27-04:00",
+        "summary": "A lot of focus has been put on the Green Bay Packers’ 53-man roster recently, and I don’t blame people for looking at it — since we just had roster cutdowns. To me, though, there are really three different versions of the roster: Today, I want to talk about the 48-man game-day roster. A lot [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85895/packers-injuries-updates-on-ird-players-and-micah-parsons",
         "publishedAt": "2026-09-01T13:41:27-04:00",
         "summary": "The Green Bay Packers’ brass spoke to the media on Tuesday for the first time since roster cuts. The deadline also came with some injury news, as both receiver Savion Williams and edge rusher Collin Oliver were placed on the injured reserve, with a return designation, to make room for other players to be retained [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85837/packers-film-review-te-mark-redman",
         "publishedAt": "2026-09-01T13:26:19-04:00",
         "summary": "On August 30th, the Green Bay Packers traded a 2028 7th-round pick to the Los Angeles Rams for tight end Mark Redman. Given that the Rams had eight tight ends at the start of the month, it’s no surprise they’d be open to getting rid of one of them. (As currently stands, the Rams have [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85858/green-bay-packers-news-its-time-for-jordan-love-to-ascend",
         "publishedAt": "2026-09-01T11:02:04-04:00",
         "summary": "Jordan Love is heading into his fourth season as the Packers’ starting quarterback, but in some ways, this feels like the first season where he’ll be asked to be the face of the franchise. 2023 was very much a trial period. He had to prove he could do the job, and ultimately he did. The [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85849/packers-will-sign-kedon-slovis-to-practice-squad-as-3rd-quarterback",
         "publishedAt": "2026-09-01T10:35:06-04:00",
         "summary": "After trading Kyle McCord away ahead of Sunday’s roster cut deadline, the Green Bay Packers have decided on which player will be their third quarterback to start the 2026 season. That player is the one who got out-dueled by McCord in last Friday’s preseason finale: former Cardinals quarterback Kedon Slovis. General manager Brian Gutekunst said [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/general/85169/get-the-best-of-acme-packing-company-on-the-new-sb-nation-app",
         "publishedAt": "2026-09-01T08:00:00-04:00",
         "summary": "It’s a big day for Acme Packing Company. Today, the SB Nation app is live, and it’s the best way to follow the Packers.&#160; You can download it by searching SB Nation for iOS or Android. A year ago, we made some big changes to our community, including offering fewer ads and the addition of [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
         "publishedAt": "2026-08-31T21:32:01-04:00",
         "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
         "publishedAt": "2026-08-31T20:56:17-04:00",
         "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85770/packers-nazir-stackhouse-claimed-by-titans",
         "publishedAt": "2026-08-31T14:00:48-04:00",
         "summary": "Only one of the Green Bay Packers’ players was claimed on waivers on Monday, as Nazir Stackhouse will now be a Tennessee Titan moving forward. The defensive lineman was signed to a significant UDFA contract in 2025, but was passed on the depth chart in 2026 by both Jonathan Ford and Anthony Campbell, two out-of-nowhere [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers trade for RB Kaleb Johnson at cutdown deadline",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
-        "publishedAt": "2026-08-31T13:24:55-04:00",
-        "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
