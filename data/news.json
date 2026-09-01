@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T14:27:17.801Z",
+  "updatedAt": "2026-09-01T15:47:05.110Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,92 @@
     ],
     "espn": [
       {
+        "title": "Texans won't negotiate with Stroud during season, GM says",
+        "url": "https://www.espn.com/nfl/story/_/id/49794128/texans-negotiate-stroud-season-gm-says",
+        "publishedAt": "2026-09-01T15:38:06Z",
+        "summary": "The Texans have set a Week 1 deadline for agreeing to a contract extension with quarterback C.J. Stroud this year, general manager Nick Caserio said.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Packers have not seen video in Josh Jacobs case, GM says",
+        "url": "https://www.espn.com/nfl/story/_/id/49794123/packers-not-seen-video-josh-jacobs-case-gm-says",
+        "publishedAt": "2026-09-01T15:32:05Z",
+        "summary": "The Packers have not seen the video evidence in the Josh Jacobs criminal case, according to GM Brian Gutekunst.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Chargers sign TE Patrick Herbert, brother of starting QB",
+        "url": "https://www.espn.com/nfl/story/_/id/49794019/source-chargers-sign-te-patrick-herbert-brother-starting-qb",
+        "publishedAt": "2026-09-01T15:27:43Z",
+        "summary": "The Chargers have signed tight end Patrick Herbert, younger brother of starting quarterback Justin, to their practice squad, a source told the NFL Network's Mike Garafolo.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Stephen A.: Zac Taylor is lucky to have a job with the Bengals",
+        "url": "https://www.espn.com/video/clip/_/id/49794018/zac-taylor-lucky-job-bengals",
+        "publishedAt": "2026-09-01T15:25:57Z",
+        "summary": "Stephen A.: Zac Taylor is lucky to have a job with the Bengals",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Yates is projecting a big step forward for Justin Herbert",
+        "url": "https://www.espn.com/video/clip/_/id/49793982/why-yates-projecting-big-step-forward-justin-herbert",
+        "publishedAt": "2026-09-01T15:23:14Z",
+        "summary": "Why Yates is projecting a big step forward for Justin Herbert",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Ladd McConkey is moving up Daniel Dopp's ranking",
+        "url": "https://www.espn.com/video/clip/_/id/49793980/why-ladd-mcconkey-moving-daniel-dopp-ranking",
+        "publishedAt": "2026-09-01T15:28:45Z",
+        "summary": "Why Ladd McConkey is moving up Daniel Dopp's ranking",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Field Yates is high on Emeka Egbuka this season",
+        "url": "https://www.espn.com/video/clip/_/id/49793979/why-field-yates-high-emeka-egbuka-season",
+        "publishedAt": "2026-09-01T15:38:29Z",
+        "summary": "Why Field Yates is high on Emeka Egbuka this season",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Dopp prefers Chase Brown over CMC in fantasy",
+        "url": "https://www.espn.com/video/clip/_/id/49793978/why-dopp-prefers-chase-brown-cmc-fantasy",
+        "publishedAt": "2026-09-01T15:23:52Z",
+        "summary": "Why Dopp prefers Chase Brown over CMC in fantasy",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Jaxson Dart is Mike Clay's guy at fantasy QB this season",
+        "url": "https://www.espn.com/video/clip/_/id/49793977/why-jaxson-dart-mike-clay-guy-fantasy-qb-season",
+        "publishedAt": "2026-09-01T15:22:37Z",
+        "summary": "Why Jaxson Dart is Mike Clay's guy at fantasy QB this season",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Eleven NFL player props we're buying before the season gets underway",
         "url": "https://www.espn.com/espn/betting/story/_/id/49671577/2026-nfl-player-props-best-bets-futures-picks-predictions",
         "publishedAt": "2026-09-01T14:15:19Z",
         "summary": "The player props that stand out heading into the 2026 NFL season and why we're betting them.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/41125210/what-nfl-commissioner-exempt-list-it",
         "publishedAt": "2026-09-01T13:34:58Z",
         "summary": "What does it mean when a player is put on the NFL commissioner exempt list?",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,87 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-09-01T10:44:36Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football: 10 bold predictions for the 2026 season",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49755632/fantasy-football-2026-rankings-bold-predictions",
-        "publishedAt": "2026-09-01T10:42:45Z",
-        "summary": "Our fantasy analysts picked their favorite \"out on a limb\" predictions for the NFL season ahead.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL Rank: Predicting top 100 players for this season",
-        "url": "https://www.espn.com/nfl/story/_/id/49706895/2026-nfl-season-rankings-top-100-players-predictions-stats",
-        "publishedAt": "2026-09-01T10:32:43Z",
-        "summary": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL execs pick snubs in ESPN's 2026 top 100 player rankings",
-        "url": "https://www.espn.com/nfl/story/_/id/49784013/nfl-rank-top-100-players-rankings-2026-biggest-snubs-scouts-executives",
-        "publishedAt": "2026-09-01T10:27:55Z",
-        "summary": "Only 100 players can make our list of the top NFL players for this season. Here are nine who league insiders believe should have been there.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Will Packers coach Matt LaFleur let Jordan Love cook in '26?",
-        "url": "https://www.espn.com/nfl/story/_/id/49752350/nfl-green-bay-packers-jordan-love-matt-lafleur-aaron-rodgers",
-        "publishedAt": "2026-09-01T10:00:02Z",
-        "summary": "LaFleur recently said Love is \"the best I've been around in terms of protections and adjustments.\"",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How the Los Angeles Rams got Aaron Donald back",
-        "url": "https://www.espn.com/nfl/story/_/id/49782813/los-angeles-rams-aaron-donald-how-got-back",
-        "publishedAt": "2026-09-01T11:23:47Z",
-        "summary": "It was a conversation coach Sean McVay never expected to have with the 10-season vet, but three months later, Donald is back in a Rams uniform.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cardinals QB Jacoby Brissett learning quickly under Mike LaFleur",
-        "url": "https://www.espn.com/nfl/story/_/id/49784509/jacoby-brissett-finding-groove-new-cardinals-coach-mike-lafleur",
-        "publishedAt": "2026-09-01T13:53:13Z",
-        "summary": "After an extended holdout/hold-in, Brissett is learning a new system and picking it up quickly.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams' Aaron Donald misses practice as planned; return date TBD",
-        "url": "https://www.espn.com/tennis/story/_/id/49789227/rams-aaron-donald-misses-practice-planned-return-date-tbd",
-        "publishedAt": "2026-09-01T03:06:14Z",
-        "summary": "Sean McVay won't put a timeline on when Aaron Donald will play in his first game after being retired for two years.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants WR Nabers feeling 'good' but mum on playing Week 1",
-        "url": "https://www.espn.com/nfl/story/_/id/49787690/giants-wr-nabers-feeling-good-mum-playing-week-1",
-        "publishedAt": "2026-09-01T03:07:03Z",
-        "summary": "Malik Nabers is feeling \"real good\" ahead of the Giants' season opener against the Cowboys but remained noncommittal about playing Week 1.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Minter backs Loop as Ravens add kicker competition in Moody",
-        "url": "https://www.espn.com/nfl/story/_/id/49787595/minter-backs-loop-ravens-add-kicker-competition-moody",
-        "publishedAt": "2026-09-01T03:05:55Z",
-        "summary": "Baltimore signed Jake Moody to the practice squad three days after Tyler Loop missed two kicks in the preseason finale.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,38 @@
     ],
     "acme": [
       {
+        "title": "Green Bay Packers News: It’s time for Jordan Love to ascend",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85858/green-bay-packers-news-its-time-for-jordan-love-to-ascend",
+        "publishedAt": "2026-09-01T11:02:04-04:00",
+        "summary": "Jordan Love is heading into his fourth season as the Packers’ starting quarterback, but in some ways, this feels like the first season where he’ll be asked to be the face of the franchise. 2023 was very much a trial period. He had to prove he could do the job, and ultimately he did. The [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers will sign Kedon Slovis to practice squad as 3rd quarterback",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85849/packers-will-sign-kedon-slovis-to-practice-squad-as-3rd-quarterback",
+        "publishedAt": "2026-09-01T10:35:06-04:00",
+        "summary": "After trading Kyle McCord away ahead of Sunday’s roster cut deadline, the Green Bay Packers have decided on which player will be their third quarterback to start the 2026 season. That player is the one who got out-dueled by McCord in last Friday’s preseason finale: former Cardinals quarterback Kedon Slovis. General manager Brian Gutekunst said [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
+        "publishedAt": "2026-09-01T10:34:00-04:00",
+        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Get the best of Acme Packing Company on the new SB Nation app",
         "url": "https://www.acmepackingcompany.com/general/85169/get-the-best-of-acme-packing-company-on-the-new-sb-nation-app",
         "publishedAt": "2026-09-01T08:00:00-04:00",
         "summary": "It’s a big day for Acme Packing Company. Today, the SB Nation app is live, and it’s the best way to follow the Packers.&#160; You can download it by searching SB Nation for iOS or Android. A year ago, we made some big changes to our community, including offering fewer ads and the addition of [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
         "publishedAt": "2026-08-31T21:32:01-04:00",
         "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,16 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
         "publishedAt": "2026-08-31T20:56:17-04:00",
         "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-08-31T16:51:24-04:00",
-        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85770/packers-nazir-stackhouse-claimed-by-titans",
         "publishedAt": "2026-08-31T14:00:48-04:00",
         "summary": "Only one of the Green Bay Packers’ players was claimed on waivers on Monday, as Nazir Stackhouse will now be a Tennessee Titan moving forward. The defensive lineman was signed to a significant UDFA contract in 2025, but was passed on the depth chart in 2026 by both Jonathan Ford and Anthony Campbell, two out-of-nowhere [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
         "publishedAt": "2026-08-31T13:24:55-04:00",
         "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85574/packers-film-room-preseason-week-3-sturdivant-goes-for-6",
         "publishedAt": "2026-08-31T12:00:00-04:00",
         "summary": "The final preseason game is in the books, so I’m working to get into regular season shape by doing what I love doing the most: breaking down plays. It’s never quite as interesting in the preseason because the focus of the offense isn’t on sequencing in the same way we see in the regular season. [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85527/packers-fans-reaction-to-new-rivalries-uniforms-is-decidedly-meh",
         "publishedAt": "2026-08-31T11:30:00-04:00",
         "summary": "It has been an eventful seven days for the Green Bay Packers. Looking back at the chaos of the last few days — between the final preseason game and the roster cut deadline on Sunday — it feels a bit bizarre to remember that the Packers released a new slate of alternate uniforms just six [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Where is the weirdest or most remote place you’ve watched a Packers game?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85461/where-is-the-weirdest-or-most-remote-place-youve-watched-a-packers-game",
-        "publishedAt": "2026-08-31T11:00:00-04:00",
-        "summary": "If you’re a Green Bay Packers fan, you’re a die-hard. That pretty much comes with the territory. As a result, you probably will go to just about any length to watch your team play. I know I certainly have. Over the years, I’ve watched Packers games in some far-flung places. From following the 2021 Divisional [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Jonathan Gannon’s Packers preseason pressure packages",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85719/jonathan-gannons-packers-preseason-pressure-packages",
-        "publishedAt": "2026-08-31T10:00:00-04:00",
-        "summary": "The 2026 preseason has concluded, but the Green Bay Packers’ three games gave us a glimpse into the mind of Jonathan Gannon as the new defensive coordinator gears up for his first season calling the defense. While Gannon called a mostly vanilla preseason, he did throw a couple of interesting blitz calls out in the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
