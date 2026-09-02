@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T15:30:12.168Z",
+  "updatedAt": "2026-09-02T16:27:54.237Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,47 @@
     ],
     "espn": [
       {
+        "title": "Why Mike Clay loves David Montgomery's early fantasy schedule",
+        "url": "https://www.espn.com/video/clip/_/id/49804462/why-mike-clay-loves-david-montgomery-early-fantasy-schedule",
+        "publishedAt": "2026-09-02T16:00:20Z",
+        "summary": "Why Mike Clay loves David Montgomery's early fantasy schedule",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Stephen A. makes passionate defense of Patrick Mahomes",
+        "url": "https://www.espn.com/video/clip/_/id/49804455/stephen-makes-passionate-defense-patrick-mahomes",
+        "publishedAt": "2026-09-02T15:57:40Z",
+        "summary": "Stephen A. makes passionate defense of Patrick Mahomes",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Lions safeties Branch, Joseph expected to return after PUP stints",
+        "url": "https://www.espn.com/nfl/story/_/id/49804319/lions-safeties-branch-joseph-pup-list-miss-first-4-games",
+        "publishedAt": "2026-09-02T16:01:30Z",
+        "summary": "Lions starting safeties Brian Branch (Achilles) and Kerby Joseph (knee), who will both miss the first four games of the season, are expected to return at some point, according to GM Brad Holmes",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Should Brock Purdy get more fantasy football respect?",
         "url": "https://www.espn.com/video/clip/_/id/49804225/should-brock-purdy-get-more-fantasy-football-respect",
         "publishedAt": "2026-09-02T15:22:51Z",
         "summary": "Should Brock Purdy get more fantasy football respect?",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Eagles' Hurts agrees that he, Brown grew apart last season",
         "url": "https://www.espn.com/nfl/story/_/id/49804039/eagles-hurts-agrees-brown-grew-apart-last-season",
-        "publishedAt": "2026-09-02T15:21:41Z",
+        "publishedAt": "2026-09-02T15:29:32Z",
         "summary": "Eagles quarterback Jalen Hurts confirmed former teammate A.J. Brown's comments that the two had grown apart last season in QB's interview with GQ magazine.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49803983/stroud-more-motivated-texans-get-deal-done",
         "publishedAt": "2026-09-02T15:04:27Z",
         "summary": "Stephen A.: Stroud should be more motivated than Texans to get deal done",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49803798/stephen-crashes-get-respond-schefter-cowboys-warning",
         "publishedAt": "2026-09-02T14:53:19Z",
         "summary": "Stephen A. crashes 'Get Up' to respond to Schefter's Cowboys warning",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49803168/the-dallas-cowboys-coming-schefter-issues-warning-stephen-a",
         "publishedAt": "2026-09-02T13:37:20Z",
         "summary": "'The Dallas Cowboys are coming!' Schefter issues warning to Stephen A.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49802956/sources-49ers-george-kittle-nick-bosa-make-trip-australia",
         "publishedAt": "2026-09-02T13:11:55Z",
         "summary": "49ers tight end George Kittle and defensive end Nick Bosa will both make Wednesday's trip to Australia to play the Rams, sources told NFL Network's Ian Rapoport.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49798112/2026-fantasy-football-facts-vs-feelings-ladd-mcconkey-bucky-irving-lamar-jackson-colston-loveland",
         "publishedAt": "2026-09-02T14:51:58Z",
         "summary": "In advance of the biggest draft weekend, Liz Loza reveals her strongest thoughts to help you have a successful draft.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-09-02T11:02:39Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49798496/2026-fantasy-football-d-st-road-map-early-season",
         "publishedAt": "2026-09-02T13:19:20Z",
         "summary": "There is no better position at which to stream in fantasy than defense. Tristan provides a blueprint so you can stay ahead of your competition.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL bold predictions: Potential surprises for 32 teams",
-        "url": "https://www.espn.com/nfl/story/_/id/49793475/2026-nfl-surprise-predictions-32-teams-stat-leaders-breakouts-fantasy-football",
-        "publishedAt": "2026-09-02T14:26:21Z",
-        "summary": "Jameson Williams leading the Lions' receivers? Xavier Worthy breaking out? Travis Hunter almost entirely at CB? We have 32 outside-the-box things to watch.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jahdae Barron waiting his turn in loaded Broncos secondary",
-        "url": "https://www.espn.com/nfl/story/_/id/49774386/jahdae-barron-broncos-cornerback-first-round-pick-playing-team-deep-secondary",
-        "publishedAt": "2026-09-02T14:29:47Z",
-        "summary": "Denver's secondary is stacked again, so Barron will once again face a battle to get on the field. But the 2025 first-round pick is set up for 2027 and beyond.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How Ravens' Henry is driven to rank among NFL's best backs",
-        "url": "https://www.espn.com/nfl/story/_/id/49783209/how-baltimore-ravens-derrick-henry-driven-rank-nfl-best-running-back",
-        "publishedAt": "2026-09-02T12:46:48Z",
-        "summary": "Henry has made it clear this summer that this season will not be his last. But this season will likely be a momentous one nonetheless.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -225,7 +225,7 @@
       {
         "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-09-01T16:19:52-04:00",
+        "publishedAt": "2026-09-01T17:26:19-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
         "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
