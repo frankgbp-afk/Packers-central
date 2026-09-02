@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T09:26:47.908Z",
+  "updatedAt": "2026-09-02T10:27:11.755Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
+        "title": "Jahdae Barron waiting his turn in loaded Broncos secondary",
+        "url": "https://www.espn.com/nfl/story/_/id/49774386/jahdae-barron-broncos-cornerback-first-round-pick-playing-team-deep-secondary",
+        "publishedAt": "2026-09-02T10:00:02Z",
+        "summary": "Denver's secondary is stacked again, so Barron will once again face a battle to get on the field. But he's set up for 2027 and beyond.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How Ravens' Henry is driven to rank among NFL's best backs",
+        "url": "https://www.espn.com/nfl/story/_/id/49783209/how-baltimore-ravens-derrick-henry-driven-rank-nfl-best-running-back",
+        "publishedAt": "2026-09-02T10:04:36Z",
+        "summary": "Henry has made it clear this summer that this season will not be his last. But this season will likely be a momentous one nonetheless.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why the Titans are betting on Cam Ward heading into Year 2",
+        "url": "https://www.espn.com/nfl/story/_/id/49785594/tennessee-titans-cam-ward-putting-job-line-robert-saleh",
+        "publishedAt": "2026-09-02T10:02:44Z",
+        "summary": "Tennessee's newest coach and new offensive coordinator Brian Daboll are helping to elevate the second-year QB.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What will Packers get from Kaleb Johnson, Jonnu Smith?",
+        "url": "https://www.espn.com/nfl/story/_/id/49797135/nfl-green-bay-packers-kaleb-johnson-jonnu-smith-mark-redman",
+        "publishedAt": "2026-09-02T10:00:11Z",
+        "summary": "The three newest Packers won't have much time to get their bearings before Week 1 kicks off against the Vikings.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Life without Myles Garrett: What to expect from Browns defense",
+        "url": "https://www.espn.com/nfl/story/_/id/49795276/cleveland-browns-life-myles-garrett-expect-2026-defense-jared-verse",
+        "publishedAt": "2026-09-02T10:00:04Z",
+        "summary": "Cleveland still expects to field one of the NFL's stingiest defenses -- with a new coordinator, Jared Verse and plenty of returning talent.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Linebacker Kyle Van Noy, 35, signs with Vikings, reports say",
         "url": "https://www.espn.com/nfl/story/_/id/49800271/linebacker-kyle-van-noy-35-signs-vikings-reports-say",
         "publishedAt": "2026-09-02T06:18:32Z",
         "summary": "The Vikings agreed Tuesday night to sign 13-year outside linebacker Kyle Van Noy, according to multiple reports, a 35-year-old veteran with 57 career sacks, who will provide Minnesota with some needed depth and experience at the edge rusher position.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49723044/2026-fantasy-football-draft-best-picks-draft-slot-10-team",
         "publishedAt": "2026-09-02T04:26:14Z",
         "summary": "Once you know your draft slot, it's great to plan for which players might be available when your picks come around as you lay the foundation for your team.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49726036/fantasy-football-best-pick-draft-slot-12-team-leagues-espn",
         "publishedAt": "2026-09-02T04:27:02Z",
         "summary": "Plan for which players might be available when your picks come around in a 12-team fantasy football draft.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
         "publishedAt": "2026-09-02T00:15:58Z",
         "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49797418/odell-beckham-jr-new-york-giants-number-13-jersey",
         "publishedAt": "2026-09-01T23:34:56Z",
         "summary": "The star wide receiver is returning to the number he wore during his first stint in New York from 2014 to 2018.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49797714/raiders-gm-says-ashton-jeanty-good-spot-recovery",
         "publishedAt": "2026-09-01T23:49:43Z",
         "summary": "Vegas RB Ashton Jeanty's status for Week 1 is still uncertain but GM John Spytek said the second-year player is in a \"good spot\" in his recovery.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-09-02T00:24:21Z",
         "summary": "Jahmyr Gibbs could be even busier following news that Isiah Pacheco will miss at least the first four games of the season.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Cockcroft likes the Jags' and Bucs' D/ST in Weeks 1 and 2",
-        "url": "https://www.espn.com/video/clip/_/id/49797504/why-cockcroft-likes-jags-bucs-d-st-weeks-1-2",
-        "publishedAt": "2026-09-01T23:11:52Z",
-        "summary": "Why Cockcroft likes the Jags' and Bucs' D/ST in Weeks 1 and 2",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Colin Kaepernick says he now shuns NFL for 'blackballing me'",
-        "url": "https://www.espn.com/nfl/story/_/id/49796833/colin-kaepernick-says-now-shuns-nfl-blackballing-me",
-        "publishedAt": "2026-09-01T22:13:14Z",
-        "summary": "Colin Kaepernick told NBC News he prefers to watch college football over the NFL because the NFL is \"actively blackballing me.\"",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Detroit Lions place RB Isiah Pacheco on injured reserve",
-        "url": "https://www.espn.com/nfl/story/_/id/49796729/detroit-lions-place-rb-isiah-pacheco-injured-reserve",
-        "publishedAt": "2026-09-01T21:40:15Z",
-        "summary": "The Detroit Lions have placed running back Isiah Pacheco, 27, on the injured reserve list, the team announced Tuesday. The veteran is dealing with an MCL sprain in addition to a recent back injury that he suffered during training camp.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Steelers' Joey Porter Jr. on playing without deal: 'I don't know'",
-        "url": "https://www.espn.com/nfl/story/_/id/49796601/steelers-joey-porter-jr-playing-deal-know",
-        "publishedAt": "2026-09-01T21:59:44Z",
-        "summary": "Steelers cornerback Joey Porter Jr. was noncommittal Tuesday when asked if he would play without a contract extension.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Taylor: Chase, Higgins should be ready for Bengals' opener",
-        "url": "https://www.espn.com/nfl/story/_/id/49796201/chase-higgins-ready-bengals-opener",
-        "publishedAt": "2026-09-01T20:10:12Z",
-        "summary": "Coach Zac Taylor indicated Cincinnati wide receivers Ja'Marr Chase and Tee Higgins, who are nursing injuries in the final days before the official start of the season, should be ready for the Bengals' Week 1 game against the Tampa Bay Buccaneers Sept. 13.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
