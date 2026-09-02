@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T10:27:11.755Z",
+  "updatedAt": "2026-09-02T11:25:59.518Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,47 @@
     ],
     "espn": [
       {
+        "title": "Facts vs. Feelings: In on Ladd McConkey? Out on Bucky Irving? What about Lamar Jackson?",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49798112/2026-fantasy-football-facts-vs-feelings-ladd-mcconkey-bucky-irving-lamar-jackson-colston-loveland",
+        "publishedAt": "2026-09-02T11:00:49Z",
+        "summary": "In advance of the biggest draft weekend, Liz Loza reveals her strongest thoughts to help you have a successful draft.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
+        "publishedAt": "2026-09-02T11:02:39Z",
+        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football D/ST road map for early season: Chargers, Chiefs among teams to stream in Weeks 1-4",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49798496/2026-fantasy-football-d-st-road-map-early-season",
+        "publishedAt": "2026-09-02T10:57:15Z",
+        "summary": "There is no better position at which to stream in fantasy than defense. Tristan provides a blueprint so you can stay ahead of your competition.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL bold predictions: Potential surprises for 32 teams",
+        "url": "https://www.espn.com/nfl/story/_/id/49793475/2026-nfl-surprise-predictions-32-teams-stat-leaders-breakouts-fantasy-football",
+        "publishedAt": "2026-09-02T10:32:30Z",
+        "summary": "Jameson Williams leading the Lions' receivers? Xavier Worthy breaking out? Travis Hunter almost entirely at CB? We have 32 outside-the-box things to watch.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Jahdae Barron waiting his turn in loaded Broncos secondary",
         "url": "https://www.espn.com/nfl/story/_/id/49774386/jahdae-barron-broncos-cornerback-first-round-pick-playing-team-deep-secondary",
         "publishedAt": "2026-09-02T10:00:02Z",
         "summary": "Denver's secondary is stacked again, so Barron will once again face a battle to get on the field. But he's set up for 2027 and beyond.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49783209/how-baltimore-ravens-derrick-henry-driven-rank-nfl-best-running-back",
         "publishedAt": "2026-09-02T10:04:36Z",
         "summary": "Henry has made it clear this summer that this season will not be his last. But this season will likely be a momentous one nonetheless.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49785594/tennessee-titans-cam-ward-putting-job-line-robert-saleh",
         "publishedAt": "2026-09-02T10:02:44Z",
         "summary": "Tennessee's newest coach and new offensive coordinator Brian Daboll are helping to elevate the second-year QB.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +180,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49797135/nfl-green-bay-packers-kaleb-johnson-jonnu-smith-mark-redman",
         "publishedAt": "2026-09-02T10:00:11Z",
         "summary": "The three newest Packers won't have much time to get their bearings before Week 1 kicks off against the Vikings.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "11 NFL players to watch next offseason -- if they don't sign extensions",
+        "url": "https://www.espn.com/nfl/story/_/id/49797170/nfl-player-extension-trade-free-agency",
+        "publishedAt": "2026-09-02T10:52:06Z",
+        "summary": "From C.J. Stroud to top cornerbacks, we go through players up for extensions who could also be on the move in 2027.",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49795276/cleveland-browns-life-myles-garrett-expect-2026-defense-jared-verse",
         "publishedAt": "2026-09-02T10:00:04Z",
         "summary": "Cleveland still expects to field one of the NFL's stingiest defenses -- with a new coordinator, Jared Verse and plenty of returning talent.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49800271/linebacker-kyle-van-noy-35-signs-vikings-reports-say",
         "publishedAt": "2026-09-02T06:18:32Z",
         "summary": "The Vikings agreed Tuesday night to sign 13-year outside linebacker Kyle Van Noy, according to multiple reports, a 35-year-old veteran with 57 career sacks, who will provide Minnesota with some needed depth and experience at the edge rusher position.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49723044/2026-fantasy-football-draft-best-picks-draft-slot-10-team",
         "publishedAt": "2026-09-02T04:26:14Z",
         "summary": "Once you know your draft slot, it's great to plan for which players might be available when your picks come around as you lay the foundation for your team.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football: Best picks from each draft slot in 12-team leagues in Rounds 1 and 2",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49726036/fantasy-football-best-pick-draft-slot-12-team-leagues-espn",
-        "publishedAt": "2026-09-02T04:27:02Z",
-        "summary": "Plan for which players might be available when your picks come around in a 12-team fantasy football draft.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football Knockout league rankings: The 252 players to draft",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-        "publishedAt": "2026-09-02T00:15:58Z",
-        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Odell Beckham Jr. reclaims iconic No. 13 jersey with Giants",
-        "url": "https://www.espn.com/nfl/story/_/id/49797418/odell-beckham-jr-new-york-giants-number-13-jersey",
-        "publishedAt": "2026-09-01T23:34:56Z",
-        "summary": "The star wide receiver is returning to the number he wore during his first stint in New York from 2014 to 2018.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Raiders GM says Ashton Jeanty in 'good spot' with recovery",
-        "url": "https://www.espn.com/nfl/story/_/id/49797714/raiders-gm-says-ashton-jeanty-good-spot-recovery",
-        "publishedAt": "2026-09-01T23:49:43Z",
-        "summary": "Vegas RB Ashton Jeanty's status for Week 1 is still uncertain but GM John Spytek said the second-year player is in a \"good spot\" in his recovery.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: With Pacheco on IR, expect Gibbs to be even busier",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-09-02T00:24:21Z",
-        "summary": "Jahmyr Gibbs could be even busier following news that Isiah Pacheco will miss at least the first four games of the season.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
