@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T02:38:42.432Z",
+  "updatedAt": "2026-09-02T03:25:45.386Z",
   "sources": {
     "packers": [
       {
@@ -223,65 +223,11 @@
     ],
     "acme": [
       {
-        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-09-01T17:26:19-04:00",
-        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: What does a gameday roster look like for Green Bay?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85905/packers-discussion-what-does-a-gameday-roster-look-like-for-green-bay",
-        "publishedAt": "2026-09-01T15:39:27-04:00",
-        "summary": "A lot of focus has been put on the Green Bay Packers’ 53-man roster recently, and I don’t blame people for looking at it — since we just had roster cutdowns. To me, though, there are really three different versions of the roster: Today, I want to talk about the 48-man game-day roster. A lot [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injuries: Updates on IR’d players and Micah Parsons",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85895/packers-injuries-updates-on-ird-players-and-micah-parsons",
-        "publishedAt": "2026-09-01T13:41:27-04:00",
-        "summary": "The Green Bay Packers’ brass spoke to the media on Tuesday for the first time since roster cuts. The deadline also came with some injury news, as both receiver Savion Williams and edge rusher Collin Oliver were placed on the injured reserve, with a return designation, to make room for other players to be retained [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Review: TE Mark Redman",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85837/packers-film-review-te-mark-redman",
-        "publishedAt": "2026-09-01T13:26:19-04:00",
-        "summary": "On August 30th, the Green Bay Packers traded a 2028 7th-round pick to the Los Angeles Rams for tight end Mark Redman. Given that the Rams had eight tight ends at the start of the month, it’s no surprise they’d be open to getting rid of one of them. (As currently stands, the Rams have [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: It’s time for Jordan Love to ascend",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85858/green-bay-packers-news-its-time-for-jordan-love-to-ascend",
-        "publishedAt": "2026-09-01T11:02:04-04:00",
-        "summary": "Jordan Love is heading into his fourth season as the Packers’ starting quarterback, but in some ways, this feels like the first season where he’ll be asked to be the face of the franchise. 2023 was very much a trial period. He had to prove he could do the job, and ultimately he did. The [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers will sign Kedon Slovis to practice squad as 3rd quarterback",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85849/packers-will-sign-kedon-slovis-to-practice-squad-as-3rd-quarterback",
-        "publishedAt": "2026-09-01T10:35:06-04:00",
-        "summary": "After trading Kyle McCord away ahead of Sunday’s roster cut deadline, the Green Bay Packers have decided on which player will be their third quarterback to start the 2026 season. That player is the one who got out-dueled by McCord in last Friday’s preseason finale: former Cardinals quarterback Kedon Slovis. General manager Brian Gutekunst said [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "Get the best of Acme Packing Company on the new SB Nation app",
         "url": "https://www.acmepackingcompany.com/general/85169/get-the-best-of-acme-packing-company-on-the-new-sb-nation-app",
         "publishedAt": "2026-09-01T08:00:00-04:00",
         "summary": "It’s a big day for Acme Packing Company. Today, the SB Nation app is live, and it’s the best way to follow the Packers.&#160; You can download it by searching SB Nation for iOS or Android. A year ago, we made some big changes to our community, including offering fewer ads and the addition of [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
         "publishedAt": "2026-08-31T21:32:01-04:00",
         "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +245,16 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
         "publishedAt": "2026-08-31T20:56:17-04:00",
         "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
+        "publishedAt": "2026-08-31T16:51:24-04:00",
+        "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +263,51 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85770/packers-nazir-stackhouse-claimed-by-titans",
         "publishedAt": "2026-08-31T14:00:48-04:00",
         "summary": "Only one of the Green Bay Packers’ players was claimed on waivers on Monday, as Nazir Stackhouse will now be a Tennessee Titan moving forward. The defensive lineman was signed to a significant UDFA contract in 2025, but was passed on the depth chart in 2026 by both Jonathan Ford and Anthony Campbell, two out-of-nowhere [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers trade for RB Kaleb Johnson at cutdown deadline",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
+        "publishedAt": "2026-08-31T13:24:55-04:00",
+        "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
+        "image": "data/news-images/acme-5.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room, Preseason Week 3: Sturdivant goes for 6",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85574/packers-film-room-preseason-week-3-sturdivant-goes-for-6",
+        "publishedAt": "2026-08-31T12:00:00-04:00",
+        "summary": "The final preseason game is in the books, so I’m working to get into regular season shape by doing what I love doing the most: breaking down plays. It’s never quite as interesting in the preseason because the focus of the offense isn’t on sequencing in the same way we see in the regular season. [&#8230;]",
+        "image": "data/news-images/acme-6.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers fans’ reaction to new Rivalries uniforms is decidedly ‘meh’",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85527/packers-fans-reaction-to-new-rivalries-uniforms-is-decidedly-meh",
+        "publishedAt": "2026-08-31T11:30:00-04:00",
+        "summary": "It has been an eventful seven days for the Green Bay Packers. Looking back at the chaos of the last few days — between the final preseason game and the roster cut deadline on Sunday — it feels a bit bizarre to remember that the Packers released a new slate of alternate uniforms just six [&#8230;]",
+        "image": "data/news-images/acme-7.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Where is the weirdest or most remote place you’ve watched a Packers game?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85461/where-is-the-weirdest-or-most-remote-place-youve-watched-a-packers-game",
+        "publishedAt": "2026-08-31T11:00:00-04:00",
+        "summary": "If you’re a Green Bay Packers fan, you’re a die-hard. That pretty much comes with the territory. As a result, you probably will go to just about any length to watch your team play. I know I certainly have. Over the years, I’ve watched Packers games in some far-flung places. From following the 2021 Divisional [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Jonathan Gannon’s Packers preseason pressure packages",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85719/jonathan-gannons-packers-preseason-pressure-packages",
+        "publishedAt": "2026-08-31T10:00:00-04:00",
+        "summary": "The 2026 preseason has concluded, but the Green Bay Packers’ three games gave us a glimpse into the mind of Jonathan Gannon as the new defensive coordinator gears up for his first season calling the defense. While Gannon called a mostly vanilla preseason, he did throw a couple of interesting blitz calls out in the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
