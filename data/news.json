@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-09-03T13:27:16.628Z",
+  "updatedAt": "2026-09-03T14:27:53.775Z",
   "sources": {
     "packers": [
+      {
+        "title": "A look at Pro Football Reference all-time player ratings",
+        "url": "https://www.packers.com/news/a-look-at-pro-football-reference-all-time-player-ratings-sept-3-2026",
+        "publishedAt": "Thu, 03 Sep 2026 14:00:00 GMT",
+        "summary": "Answering through the careers of Paul Hornung, Ray Nitschke, Dan Currie, Willie Wood and others",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: It's worth it in the end",
+        "url": "https://www.packers.com/news/inbox-it-s-worth-it-in-the-end-sept-3-2026",
+        "publishedAt": "Thu, 03 Sep 2026 13:30:00 GMT",
+        "summary": "Never forgo an opportunity to get better in this league",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers Foundation awards $1.6 million in annual grants",
         "url": "https://www.packers.com/news/packers-foundation-awards-1-6-million-in-annual-grants-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:54:51 GMT",
         "summary": "More than $3.5 million awarded through Packers Foundation grants in 2026 to impact every county in Wisconsin",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/rb-marshawn-lloyd-as-ready-as-he-s-ever-been-to-help-packers-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:05:00 GMT",
         "summary": "Third-year back’s health and production crucial as season gets underway",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:00:00 GMT",
         "summary": "Green Bay signs LS Scott Daly and K Lenny Krieg to the practice squad",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/lambeau-field-to-host-travel-wisconsin-frozen-tundra-faceoff-welcoming-ncaa-hockey-doubleheader-in-february-2027",
         "publishedAt": "Wed, 02 Sep 2026 15:10:01 GMT",
         "summary": "Historic B1G men’s & WCHA women’s doubleheader will feature three powerhouse programs in Wisconsin, Michigan and Ohio State",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/new-packers-tight-ends-give-position-different-look-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 14:00:00 GMT",
         "summary": "Jonnu Smith, Mark Redman getting acclimated quickly",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-now-another-major-opportunity-awaits-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 13:30:00 GMT",
         "summary": "There’s plenty to keep their attention",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/it-s-all-go-pack-go-for-new-rb-kaleb-johnson-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 20:51:28 GMT",
         "summary": "Former third-round pick sees opportunity in Packers’ backfield",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-sign-qb-kedon-slovis-to-practice-squad-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 20:00:00 GMT",
         "summary": "General Manager Brian Gutekunst announced the transaction Tuesday",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-everywhere-set-to-host-free-pep-rally-in-tampa-2026",
         "publishedAt": "Tue, 01 Sep 2026 16:40:00 GMT",
         "summary": "Fans can pre-register for the event by signing up for Packers Pass",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/5-things-learned-from-gm-brian-gutekunst-about-packers-roster-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 16:35:39 GMT",
         "summary": "Notes on key decisions and injury updates",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: It's a great opportunity for a fresh start",
-        "url": "https://www.packers.com/news/inbox-it-s-a-great-opportunity-for-a-fresh-start-sep-1-2026",
-        "publishedAt": "Tue, 01 Sep 2026 13:30:00 GMT",
-        "summary": "You can’t have the rainbow without a few showers",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Former Packers RB coach Kippy Brown dies at 71",
-        "url": "https://www.packers.com/news/former-packers-rb-coach-kippy-brown-dies-at-71",
-        "publishedAt": "Tue, 01 Sep 2026 12:00:00 GMT",
-        "summary": "Worked in Green Bay for one year under Mike Sherman",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Mike Clay's fantasy football dynasty and rookie rankings",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-dynasty-rookie-fantasy-football-rankings",
+        "publishedAt": "2026-09-03T14:01:27Z",
+        "summary": "Mike Clay offers his updated fantasy rankings for dynasty leagues and for the 2026 rookie class.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Athletic finds Russini-Vrabel ties violated newsroom standards",
+        "url": "https://www.espn.com/nfl/story/_/id/49812214/athletic-investigation-dianna-russini-mike-vrabel-violate-standards",
+        "publishedAt": "2026-09-03T14:25:51Z",
+        "summary": "Former Athletic reporter Dianna Russini's relationship with Mike Vrabel violated newsroom standards but showed no clear bias toward the Patriots head coach, the Athletic said Thursday.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Mike Clay's early 2026 fantasy football PPR rankings",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/47513496/2026-fantasy-football-rankings-ppr-mike-clay",
+        "publishedAt": "2026-09-03T13:57:23Z",
+        "summary": "Position-by-position rankings for the 2026 fantasy season, updated throughout the summer.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "NFL depth charts for all 32 teams for 2026 season",
         "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
         "publishedAt": "2026-09-03T13:05:36Z",
         "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
         "publishedAt": "2026-09-03T10:38:49Z",
         "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49806392/2026-fantasy-football-sleepers-nfl-rookie-dynasty-leagues",
         "publishedAt": "2026-09-03T10:36:56Z",
         "summary": "Forgot to do your fantasy football homework and need some facts on big names at the most important positions?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49741684/fantasy-football-how-manage-team-pickups-trades",
         "publishedAt": "2026-09-03T10:34:29Z",
         "summary": "No matter which type of league you play in, Mike Clay gives you keys to being a savvy, title-winning manager.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,16 +180,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49784757/2026-nfl-season-players-coaches-gms-pressure-most-gain-lose",
         "publishedAt": "2026-09-03T10:59:07Z",
         "summary": "Can Baker Mayfield and C.J. Stroud play their way to big contracts? Is Aaron Glenn on thin ice with the Jets? Which 2024 first-rounders have fifth-year options at stake?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Who calls plays for every NFL team in 2026? What to know",
         "url": "https://www.espn.com/nfl/story/_/id/49711157/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-mike-mccarthy",
-        "publishedAt": "2026-09-03T10:00:17Z",
+        "publishedAt": "2026-09-03T13:30:02Z",
         "summary": "From veterans to newbies, here's everything you need to know about the NFL's playcallers in 2026.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49793914/bryce-young-brad-idzik-how-carolina-panthers-quarterback-new-playcaller-mesh-2026",
         "publishedAt": "2026-09-03T10:00:11Z",
         "summary": "Carolina believes a more aggressive approach under first-time playcaller Brad Idzik can help franchise QB Bryce Young reach another level.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49797721/new-york-jets-geno-smith-comeback-narrative",
         "publishedAt": "2026-09-03T12:35:37Z",
         "summary": "New York drafted the quarterback in 2013, and now he returns after a nine-year hiatus.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49807884/bengals-stewart-grateful-practice-again-knee-injury",
         "publishedAt": "2026-09-02T23:56:20Z",
         "summary": "Bengals defensive end Shemar Stewart said Wednesday that he was grateful to practice for the first time since being carted off with a left knee injury that he said made him think \"it was over.\"",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eric DeCosta 'optimistic' Ravens, Lamar Jackson can reach deal",
-        "url": "https://www.espn.com/nfl/story/_/id/49807799/eric-decosta-optimistic-ravens-lamar-jackson-reach-deal-march",
-        "publishedAt": "2026-09-03T10:40:29Z",
-        "summary": "Ravens general manager Eric DeCosta expressed confidence Wednesday that the team can reach a contract extension with quarterback Lamar Jackson before March.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Reports: Man charged in attempted burglary of Barkley's home",
-        "url": "https://www.espn.com/nfl/story/_/id/49807101/man-charged-connection-attempted-burglary-barkley-home",
-        "publishedAt": "2026-09-02T23:40:47Z",
-        "summary": "A 24-year-old man has been arrested and charged with multiple felonies in collection with an attempted break-in at the home of Eagles running back Saquon Barkley and two other burglaries.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "As opener nears, Falcons still have not announced a QB1",
-        "url": "https://www.espn.com/nfl/story/_/id/49806953/falcons-not-announced-qb1-michael-penix-jr-tua-tagovailoa",
-        "publishedAt": "2026-09-02T22:23:09Z",
-        "summary": "GM Ian Cunningham spoke Wednesday, and the only update he gave is that selecting the starting QB will be a group effort.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
