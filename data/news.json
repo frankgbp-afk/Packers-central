@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T09:27:28.763Z",
+  "updatedAt": "2026-09-03T10:27:15.728Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Who calls plays for every NFL team in 2026? What to know",
+        "url": "https://www.espn.com/nfl/story/_/id/49711157/nfl-playcallers-32-teams-mike-mcdaniel-sean-mcvay-mike-mccarthy",
+        "publishedAt": "2026-09-03T10:00:17Z",
+        "summary": "From veterans to newbies, here's everything you need to know about the NFL's playcallers in 2026.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How Panthers QB Bryce Young, playcaller Brad Idzik will mesh in 2026",
+        "url": "https://www.espn.com/nfl/story/_/id/49793914/bryce-young-brad-idzik-how-carolina-panthers-quarterback-new-playcaller-mesh-2026",
+        "publishedAt": "2026-09-03T10:00:11Z",
+        "summary": "Carolina believes a more aggressive approach under first-time playcaller Brad Idzik can help franchise QB Bryce Young reach another level.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Can Geno Smith rewrite his narrative in return to Jets?",
+        "url": "https://www.espn.com/nfl/story/_/id/49797721/new-york-jets-geno-smith-comeback-narrative",
+        "publishedAt": "2026-09-03T10:00:12Z",
+        "summary": "New York drafted the quarterback in 2013, and now he returns after an eight-year hiatus.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Bengals' Stewart grateful to practice again after knee injury",
         "url": "https://www.espn.com/nfl/story/_/id/49807884/bengals-stewart-grateful-practice-again-knee-injury",
         "publishedAt": "2026-09-02T23:56:20Z",
         "summary": "Bengals defensive end Shemar Stewart said Wednesday that he was grateful to practice for the first time since being carted off with a left knee injury that he said made him think \"it was over.\"",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49807799/eric-decosta-optimistic-ravens-lamar-jackson-reach-deal-march",
         "publishedAt": "2026-09-03T00:12:05Z",
         "summary": "Ravens general manager Eric DeCosta expressed confidence Wednesday that the team can reach a contract extension with quarterback Lamar Jackson before March.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49807101/man-charged-connection-attempted-burglary-barkley-home",
         "publishedAt": "2026-09-02T23:40:47Z",
         "summary": "A 24-year-old man has been arrested and charged with multiple felonies in collection with an attempted break-in at the home of Eagles running back Saquon Barkley and two other burglaries.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49806953/falcons-not-announced-qb1-michael-penix-jr-tua-tagovailoa",
         "publishedAt": "2026-09-02T22:23:09Z",
         "summary": "GM Ian Cunningham spoke Wednesday, and the only update he gave is that selecting the starting QB will be a group effort.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49806322/aaron-rodgers-pittsburgh-steelers-four-quarterback-room-first-22-year-nfl-career",
         "publishedAt": "2026-09-03T02:13:01Z",
         "summary": "The 42-year-old quarterback is in new territory, but he says Pittsburgh's young passers are ahead of where he was as a rookie.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49806533/49ers-nick-bosa-practices-fully-first-acl-injury",
         "publishedAt": "2026-09-02T22:27:42Z",
         "summary": "49ers defensive end Nick Bosa took a big step toward returning to play Wednesday when he participated in a full practice for the first time since tearing his right anterior cruciate ligament in Week 3 of last season.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49805648/emmitt-smith-company-cited-fraud-claim",
         "publishedAt": "2026-09-02T22:21:27Z",
         "summary": "A Native American development group says Pro Football Hall of Famer Emmitt Smith and his company misappropriated a loan intended to fund a solar farm project in Texas.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49806053/colts-wr-allen-relinquishes-no-13-teammate-treadwell",
         "publishedAt": "2026-09-02T20:07:22Z",
         "summary": "Receiver Keenan Allen will wear No. 10 with the Colts this season, marking the first time in his 13-year NFL career that he will not be wearing No. 13, which will be worn by Laquon Treadwell.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49805608/baker-mayfield-season-ahead-life-mike-evans",
         "publishedAt": "2026-09-02T18:40:23Z",
         "summary": "Baker Mayfield on season ahead and life without Mike Evans",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Travis Kelce purchased $5.35 million Ohio home months before marrying Taylor Swift",
-        "url": "https://www.espn.com/nfl/story/_/id/49804647/travis-kelce-taylor-swift-new-home-ohio",
-        "publishedAt": "2026-09-02T18:28:05Z",
-        "summary": "Kelce closed on the home long before his July wedding to the pop superstar.",
-        "image": "data/news-images/espn-9.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Panthers RB Jonathon Brooks still out, coach optimistic",
-        "url": "https://www.espn.com/nfl/story/_/id/49805489/panthers-rb-jonathon-brooks-coach-optimistic",
-        "publishedAt": "2026-09-02T19:21:51Z",
-        "summary": "Panthers running back Jonathon Brooks has been missing practices with injury, but coach Dave Canales is not concerned.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vikings GM expects McCarthy to be on Week 1 roster, 'to develop'",
-        "url": "https://www.espn.com/nfl/story/_/id/49805381/vikings-gm-expects-mccarthy-week-1-roster-develop",
-        "publishedAt": "2026-09-02T18:20:00Z",
-        "summary": "Vikings general manager Nolan Teasley said Wednesday he expects quarterback J.J. McCarthy to be a part of the team when the regular season begins.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
