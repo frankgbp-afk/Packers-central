@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:36:05.896Z",
+  "updatedAt": "2026-09-03T01:29:12.298Z",
   "sources": {
     "packers": [
       {
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers Roster: Which units improved their standing in training camp?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85947/packers-roster-which-units-improved-their-standing-in-training-camp",
+        "publishedAt": "2026-09-02T21:02:20-04:00",
+        "summary": "Here’s a fun one: Which of the Green Bay Packers’ units improved (or declined) their standing on the team during training camp? Before training camp, we had you all vote on how you would grade the Packers’ positional groups with an A to F scale, then we calculated the results with a GPA ranking. Here’s [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers sign Scott Daly to practice squad as long snapper insurance",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85939/packers-sign-scott-daly-to-practice-squad-as-long-snapper-insurance",
         "publishedAt": "2026-09-02T14:03:57-04:00",
         "summary": "Wednesday has brought news of another turn in the Green Bay Packers’ long snapping situation. The Packers, who are heading into the regular season with Matt Orzech as the one long snapper on the 53-man roster, have added another player at the position to ensure that they have some cover if Orzech is not ready [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
         "publishedAt": "2026-09-02T13:33:22-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85931/lambeau-field-to-host-wisconsin-hockey-doubleheader-in-februrary",
         "publishedAt": "2026-09-02T11:53:13-04:00",
         "summary": "The Green Bay Packers have been clear that they intend to find uses for Lambeau Field besides the team’s regularly scheduled home games, and for the first time since the team’s 2026 Shareholders’ Meeting in July, the legendary stadium has added a new event to its calendar. On Wednesday, the Packers announced that Lambeau will [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85926/green-bay-packers-news-newcomers-making-an-impression",
         "publishedAt": "2026-09-02T10:12:01-04:00",
         "summary": "Cutdown weekend is always a time of change and transition. For a few new members of the Green Bay Packers, that was especially true. Not only did the Packers trim their roster from 90 to the required 53, but they traded for two new players in the process and added a third via free agency. [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85917/that-sums-it-up-one-sentence-about-each-projected-packers-starter",
         "publishedAt": "2026-09-02T09:00:00-04:00",
         "summary": "We are a week and some change away from the Green Bay Packers’ first game of the 2026 season, and now that roster cutdowns are complete, we finally know what we’re working with as we approach opening day. We’re going to be short and sweet this week, and give you one sentence about each of [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85905/packers-discussion-what-does-a-gameday-roster-look-like-for-green-bay",
         "publishedAt": "2026-09-01T15:39:27-04:00",
         "summary": "A lot of focus has been put on the Green Bay Packers’ 53-man roster recently, and I don’t blame people for looking at it — since we just had roster cutdowns. To me, though, there are really three different versions of the roster: Today, I want to talk about the 48-man game-day roster. A lot [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85895/packers-injuries-updates-on-ird-players-and-micah-parsons",
         "publishedAt": "2026-09-01T13:41:27-04:00",
         "summary": "The Green Bay Packers’ brass spoke to the media on Tuesday for the first time since roster cuts. The deadline also came with some injury news, as both receiver Savion Williams and edge rusher Collin Oliver were placed on the injured reserve, with a return designation, to make room for other players to be retained [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85837/packers-film-review-te-mark-redman",
         "publishedAt": "2026-09-01T13:26:19-04:00",
         "summary": "On August 30th, the Green Bay Packers traded a 2028 7th-round pick to the Los Angeles Rams for tight end Mark Redman. Given that the Rams had eight tight ends at the start of the month, it’s no surprise they’d be open to getting rid of one of them. (As currently stands, the Rams have [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85858/green-bay-packers-news-its-time-for-jordan-love-to-ascend",
         "publishedAt": "2026-09-01T11:02:04-04:00",
         "summary": "Jordan Love is heading into his fourth season as the Packers’ starting quarterback, but in some ways, this feels like the first season where he’ll be asked to be the face of the franchise. 2023 was very much a trial period. He had to prove he could do the job, and ultimately he did. The [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers will sign Kedon Slovis to practice squad as 3rd quarterback",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85849/packers-will-sign-kedon-slovis-to-practice-squad-as-3rd-quarterback",
-        "publishedAt": "2026-09-01T10:35:06-04:00",
-        "summary": "After trading Kyle McCord away ahead of Sunday’s roster cut deadline, the Green Bay Packers have decided on which player will be their third quarterback to start the 2026 season. That player is the one who got out-dueled by McCord in last Friday’s preseason finale: former Cardinals quarterback Kedon Slovis. General manager Brian Gutekunst said [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
