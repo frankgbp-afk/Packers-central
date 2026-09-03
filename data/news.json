@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T22:24:34.507Z",
+  "updatedAt": "2026-09-03T23:22:22.466Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football buzz: D'Andre Swift and Rome Odunze are injured ... now what?",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-09-03T23:19:07Z",
+        "summary": "With D'Andre Swift and Rome Odunze both leaving practice early, fantasy managers might need to reconsider their strategy if drafting Thursday night.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Former Wake Forest, NFL DB Alphonso Smith dies at age 40",
+        "url": "https://www.espn.com/nfl/story/_/id/49818526/former-wake-forest-nfl-db-alphonso-smith-dies-age-40",
+        "publishedAt": "2026-09-03T23:09:30Z",
+        "summary": "Alphonso Smith, a two-time All-America defensive back who played four seasons in the NFL, has died, according to Wake Forest. No cause of death was given.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "How the 49ers, NFL made 'seamless' travel plan to Australia",
         "url": "https://www.espn.com/nfl/story/_/id/49803389/san-francisco-49ers-travel-plan-melbourne-australia-los-angeles-rams",
         "publishedAt": "2026-09-03T22:12:30Z",
         "summary": "The 49ers touched down Thursday for their weeklong stay in Melbourne, Australia, to face the Rams. How did the team prepare for the trip?",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49818375/mark-sanchez-plans-plead-guilty-indianapolis-assault-case",
         "publishedAt": "2026-09-03T22:15:59Z",
         "summary": "Former NFL quarterback and Fox broadcaster Mark Sanchez has agreed to plead guilty in connection to the alleged attack of a truck driver in Indianapolis last year.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49817316/khosla-family-closes-record-purchase-seahawks",
         "publishedAt": "2026-09-03T20:18:47Z",
         "summary": "The Seahawks announced that the sale of the franchise from Paul Allen's estate to a group led by the Khosla family has closed.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
         "publishedAt": "2026-09-03T19:04:40Z",
         "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49816937/giants-cam-skattebo-says-mulled-retiring-2025-injury",
         "publishedAt": "2026-09-03T19:18:47Z",
         "summary": "Giants running back Cam Skattebo said Thursday on the \"Up & Adams Show\" that he briefly contemplated retirement after he suffered an open fracture of his right ankle during his rookie season.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
         "publishedAt": "2026-09-03T19:00:22Z",
         "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
         "publishedAt": "2026-09-03T18:58:34Z",
         "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
         "publishedAt": "2026-09-03T18:00:15Z",
         "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49816381/skattebo-tells-eisen-really-strong-connection-john-harbaugh",
         "publishedAt": "2026-09-03T19:10:32Z",
         "summary": "Skattebo tells Eisen of 'really strong connection' with John Harbaugh",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49816230/mcafee-congratulates-michael-wilson-contract-extension-cardinals",
         "publishedAt": "2026-09-03T17:40:54Z",
         "summary": "McAfee congratulates Michael Wilson on contract extension with Cardinals",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Cardinals, WR Michael Wilson reach $75M extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49815820/sources-cardinals-wr-michael-wilson-agree-3-year-extension",
-        "publishedAt": "2026-09-03T22:07:18Z",
-        "summary": "The Cardinals have signed wide receiver Michael Wilson to a three-year extension, with sources telling ESPN and NFL Network that the wide receiver's new deal is worth $75 million.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL players, coaches, GMs under the most pressure in 2026",
-        "url": "https://www.espn.com/nfl/story/_/id/49784757/2026-nfl-season-players-coaches-gms-pressure-most-gain-lose",
-        "publishedAt": "2026-09-03T16:52:28Z",
-        "summary": "Can Baker Mayfield and C.J. Stroud play their way to big contracts? Is Aaron Glenn on thin ice with the Jets? Which 2024 first-rounders have fifth-year options at stake?",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
