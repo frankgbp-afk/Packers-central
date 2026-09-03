@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-03T19:22:24.496Z",
+  "updatedAt": "2026-09-03T20:25:05.420Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers announce game themes for 2026 season",
+        "url": "https://www.packers.com/news/packers-announce-game-themes-for-2026-season",
+        "publishedAt": "Thu, 03 Sep 2026 19:51:20 GMT",
+        "summary": "Rivalries, 1923 Classic, Packers Vs. Cancer and Salute to Service all on the schedule for Lambeau Field",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "A look at Pro Football Reference all-time player ratings",
         "url": "https://www.packers.com/news/a-look-at-pro-football-reference-all-time-player-ratings-sept-3-2026",
         "publishedAt": "Thu, 03 Sep 2026 14:00:00 GMT",
         "summary": "Answering through the careers of Paul Hornung, Ray Nitschke, Dan Currie, Willie Wood and others",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-worth-it-in-the-end-sept-3-2026",
         "publishedAt": "Thu, 03 Sep 2026 13:30:00 GMT",
         "summary": "Never forgo an opportunity to get better in this league",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-foundation-awards-1-6-million-in-annual-grants-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:54:51 GMT",
         "summary": "More than $3.5 million awarded through Packers Foundation grants in 2026 to impact every county in Wisconsin",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/rb-marshawn-lloyd-as-ready-as-he-s-ever-been-to-help-packers-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:05:00 GMT",
         "summary": "Third-year back’s health and production crucial as season gets underway",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:00:00 GMT",
         "summary": "Green Bay signs LS Scott Daly and K Lenny Krieg to the practice squad",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/lambeau-field-to-host-travel-wisconsin-frozen-tundra-faceoff-welcoming-ncaa-hockey-doubleheader-in-february-2027",
         "publishedAt": "Wed, 02 Sep 2026 15:10:01 GMT",
         "summary": "Historic B1G men’s & WCHA women’s doubleheader will feature three powerhouse programs in Wisconsin, Michigan and Ohio State",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/new-packers-tight-ends-give-position-different-look-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 14:00:00 GMT",
         "summary": "Jonnu Smith, Mark Redman getting acclimated quickly",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/inbox-now-another-major-opportunity-awaits-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 13:30:00 GMT",
         "summary": "There’s plenty to keep their attention",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/it-s-all-go-pack-go-for-new-rb-kaleb-johnson-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 20:51:28 GMT",
         "summary": "Former third-round pick sees opportunity in Packers’ backfield",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-sign-qb-kedon-slovis-to-practice-squad-sep-1-2026",
         "publishedAt": "Tue, 01 Sep 2026 20:00:00 GMT",
         "summary": "General Manager Brian Gutekunst announced the transaction Tuesday",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/packers-everywhere-set-to-host-free-pep-rally-in-tampa-2026",
         "publishedAt": "Tue, 01 Sep 2026 16:40:00 GMT",
         "summary": "Fans can pre-register for the event by signing up for Packers Pass",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "5 things learned from GM Brian Gutekunst about Packers' roster",
-        "url": "https://www.packers.com/news/5-things-learned-from-gm-brian-gutekunst-about-packers-roster-sep-1-2026",
-        "publishedAt": "Tue, 01 Sep 2026 16:35:39 GMT",
-        "summary": "Notes on key decisions and injury updates",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,20 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Khosla family closes on record purchase of Seahawks",
+        "url": "https://www.espn.com/nfl/story/_/id/49817316/khosla-family-closes-record-purchase-seahawks",
+        "publishedAt": "2026-09-03T20:18:47Z",
+        "summary": "The Seahawks announced that the sale of the franchise from Paul Allen's estate to a group led by the Khosla family has closed.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football 2026 defensive depth charts",
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
         "publishedAt": "2026-09-03T19:04:40Z",
         "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Giants' Cam Skattebo says he mulled retiring after 2025 injury",
         "url": "https://www.espn.com/nfl/story/_/id/49816937/giants-cam-skattebo-says-mulled-retiring-2025-injury",
-        "publishedAt": "2026-09-03T19:10:05Z",
+        "publishedAt": "2026-09-03T19:18:47Z",
         "summary": "Giants running back Cam Skattebo said Thursday on the \"Up & Adams Show\" that he briefly contemplated retirement after he suffered an open fracture of his right ankle during his rookie season.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
         "publishedAt": "2026-09-03T19:00:22Z",
         "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
         "publishedAt": "2026-09-03T18:58:34Z",
         "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
         "publishedAt": "2026-09-03T18:00:15Z",
         "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49816381/skattebo-tells-eisen-really-strong-connection-john-harbaugh",
         "publishedAt": "2026-09-03T19:10:32Z",
         "summary": "Skattebo tells Eisen of 'really strong connection' with John Harbaugh",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49816230/mcafee-congratulates-michael-wilson-contract-extension-cardinals",
         "publishedAt": "2026-09-03T17:40:54Z",
         "summary": "McAfee congratulates Michael Wilson on contract extension with Cardinals",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49815820/sources-cardinals-wr-michael-wilson-agree-3-year-extension",
         "publishedAt": "2026-09-03T18:26:21Z",
         "summary": "The Cardinals have signed wide receiver Michael Wilson to a three-year extension, with sources telling ESPN and NFL Network that the wide receiver's new deal is worth $75 million.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49784757/2026-nfl-season-players-coaches-gms-pressure-most-gain-lose",
         "publishedAt": "2026-09-03T16:52:28Z",
         "summary": "Can Baker Mayfield and C.J. Stroud play their way to big contracts? Is Aaron Glenn on thin ice with the Jets? Which 2024 first-rounders have fifth-year options at stake?",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49815346/anthony-richardson-grateful-being-named-colts-qb2",
         "publishedAt": "2026-09-03T18:08:40Z",
         "summary": "Anthony Richardson will be the Colts' backup quarterback entering the 2026 season, coach Shane Steichen said Thursday.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49815113/why-yates-foresees-rodriguez-being-annoying-player-fantasy-managers",
         "publishedAt": "2026-09-03T16:38:11Z",
         "summary": "Why Yates foresees Rodriguez being an 'annoying player' for fantasy managers",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-        "publishedAt": "2026-09-03T15:27:10Z",
-        "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
