@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T16:27:06.793Z",
+  "updatedAt": "2026-09-03T17:25:36.098Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Sources: Cardinals, Michael Wilson reach 3-year, $75M extension",
+        "url": "https://www.espn.com/nfl/story/_/id/49815820/sources-cardinals-wr-michael-wilson-agree-3-year-extension",
+        "publishedAt": "2026-09-03T17:19:32Z",
+        "summary": "The Cardinals and wide receiver Michael Wilson have reached an agreement on a three-year, $75 million extension, sources told ESPN and NFL Network.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL players, coaches, GMs under the most pressure in 2026",
+        "url": "https://www.espn.com/nfl/story/_/id/49784757/2026-nfl-season-players-coaches-gms-pressure-most-gain-lose",
+        "publishedAt": "2026-09-03T16:52:28Z",
+        "summary": "Can Baker Mayfield and C.J. Stroud play their way to big contracts? Is Aaron Glenn on thin ice with the Jets? Which 2024 first-rounders have fifth-year options at stake?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Anthony Richardson 'grateful' after being named Colts' QB2",
+        "url": "https://www.espn.com/nfl/story/_/id/49815346/anthony-richardson-grateful-being-named-colts-qb2",
+        "publishedAt": "2026-09-03T17:08:37Z",
+        "summary": "Anthony Richardson will be the Colts' backup quarterback entering the 2026 season, coach Shane Steichen said Thursday.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Why Yates foresees Rodriguez being an 'annoying player' for fantasy managers",
         "url": "https://www.espn.com/video/clip/_/id/49815113/why-yates-foresees-rodriguez-being-annoying-player-fantasy-managers",
-        "publishedAt": "2026-09-03T16:04:53Z",
+        "publishedAt": "2026-09-03T16:38:11Z",
         "summary": "Why Yates foresees Rodriguez being an 'annoying player' for fantasy managers",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
         "publishedAt": "2026-09-03T15:27:10Z",
         "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49814773/why-daniel-dopp-tempted-move-jordan-love-rankings",
         "publishedAt": "2026-09-03T15:29:26Z",
         "summary": "Why Daniel Dopp is tempted to move Jordan Love up his rankings",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49814537/daniel-dopp-lays-important-numbers-know-tee-higgins",
         "publishedAt": "2026-09-03T15:13:26Z",
         "summary": "Daniel Dopp lays out important numbers to know for Tee Higgins",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49787025/kansas-city-chiefs-chris-jones-outlook-2026-season",
         "publishedAt": "2026-09-03T15:08:56Z",
         "summary": "Kansas City is betting that highly drafted rookies Peter Woods and R Mason Thomas will give its future hall of famer the support he's been missing.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49814484/how-aj-brown-elevate-drake-maye-fantasy-appeal",
         "publishedAt": "2026-09-03T15:18:02Z",
         "summary": "How A.J. Brown can elevate Drake Maye's fantasy appeal",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49814409/why-field-yates-thinks-aj-brown-go-fantasy-season",
         "publishedAt": "2026-09-03T15:12:16Z",
         "summary": "Why Field Yates thinks A.J. Brown can go off this fantasy season",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-dynasty-rookie-fantasy-football-rankings",
         "publishedAt": "2026-09-03T14:01:27Z",
         "summary": "Mike Clay offers his updated fantasy rankings for dynasty leagues and for the 2026 rookie class.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49812214/athletic-investigation-dianna-russini-mike-vrabel-violate-standards",
         "publishedAt": "2026-09-03T15:43:31Z",
         "summary": "Former Athletic reporter Dianna Russini's relationship with Mike Vrabel violated newsroom standards but showed no clear bias toward the Patriots head coach, the Athletic said Thursday.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mike Clay's early 2026 fantasy football PPR rankings",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47513496/2026-fantasy-football-rankings-ppr-mike-clay",
-        "publishedAt": "2026-09-03T13:57:23Z",
-        "summary": "Position-by-position rankings for the 2026 fantasy season, updated throughout the summer.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL depth charts for all 32 teams for 2026 season",
-        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-        "publishedAt": "2026-09-03T13:05:36Z",
-        "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-        "publishedAt": "2026-09-03T10:38:49Z",
-        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -227,7 +227,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85952/green-bay-packers-news-marshawn-lloyd-is-ready-for-a-big-role",
         "publishedAt": "2026-09-03T10:55:36-04:00",
         "summary": "I’m excited for MarShawn Lloyd. I’m worried for MarShawn Lloyd. In some ways his offseason reminded me of a low-level viral tweet from a while back: he accidentally became important at work, and it might be ruining his life. I don’t think anybody anticipated the Packers would go into Week 1 with Lloyd as the [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-0.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
