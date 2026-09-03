@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:29:37.346Z",
+  "updatedAt": "2026-09-03T19:22:24.496Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,56 @@
     ],
     "espn": [
       {
-        "title": "How to bet the 2026 NFL season: Odds, tips and our best picks",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
-        "publishedAt": "2026-09-03T18:00:15Z",
-        "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
+        "title": "Fantasy football 2026 defensive depth charts",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
+        "publishedAt": "2026-09-03T19:04:40Z",
+        "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Skattebo tells Eisen of ‘really strong connection’ with John Harbaugh",
-        "url": "https://www.espn.com/video/clip/_/id/49816381/skattebo-tells-eisen-really-strong-connection-john-harbaugh",
-        "publishedAt": "2026-09-03T18:11:50Z",
-        "summary": "Skattebo tells Eisen of ‘really strong connection’ with John Harbaugh",
+        "title": "Giants' Cam Skattebo says he mulled retiring after 2025 injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49816937/giants-cam-skattebo-says-mulled-retiring-2025-injury",
+        "publishedAt": "2026-09-03T19:10:05Z",
+        "summary": "Giants running back Cam Skattebo said Thursday on the \"Up & Adams Show\" that he briefly contemplated retirement after he suffered an open fracture of his right ankle during his rookie season.",
         "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football 2026 offensive depth charts",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
+        "publishedAt": "2026-09-03T19:00:22Z",
+        "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football cheat sheets: PPR, non-PPR, depth charts",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
+        "publishedAt": "2026-09-03T18:58:34Z",
+        "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How to bet the 2026 NFL season: Odds, tips and our best picks",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
+        "publishedAt": "2026-09-03T18:00:15Z",
+        "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Skattebo tells Eisen of 'really strong connection' with John Harbaugh",
+        "url": "https://www.espn.com/video/clip/_/id/49816381/skattebo-tells-eisen-really-strong-connection-john-harbaugh",
+        "publishedAt": "2026-09-03T19:10:32Z",
+        "summary": "Skattebo tells Eisen of 'really strong connection' with John Harbaugh",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +171,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49816230/mcafee-congratulates-michael-wilson-contract-extension-cardinals",
         "publishedAt": "2026-09-03T17:40:54Z",
         "summary": "McAfee congratulates Michael Wilson on contract extension with Cardinals",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Cardinals, Michael Wilson reach 3-year, $75M extension",
         "url": "https://www.espn.com/nfl/story/_/id/49815820/sources-cardinals-wr-michael-wilson-agree-3-year-extension",
-        "publishedAt": "2026-09-03T18:20:31Z",
+        "publishedAt": "2026-09-03T18:26:21Z",
         "summary": "The Cardinals have signed wide receiver Michael Wilson to a three-year extension, with sources telling ESPN and NFL Network that the wide receiver's new deal is worth $75 million.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49784757/2026-nfl-season-players-coaches-gms-pressure-most-gain-lose",
         "publishedAt": "2026-09-03T16:52:28Z",
         "summary": "Can Baker Mayfield and C.J. Stroud play their way to big contracts? Is Aaron Glenn on thin ice with the Jets? Which 2024 first-rounders have fifth-year options at stake?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49815346/anthony-richardson-grateful-being-named-colts-qb2",
         "publishedAt": "2026-09-03T18:08:40Z",
         "summary": "Anthony Richardson will be the Colts' backup quarterback entering the 2026 season, coach Shane Steichen said Thursday.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49815113/why-yates-foresees-rodriguez-being-annoying-player-fantasy-managers",
         "publishedAt": "2026-09-03T16:38:11Z",
         "summary": "Why Yates foresees Rodriguez being an 'annoying player' for fantasy managers",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,42 +216,6 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
         "publishedAt": "2026-09-03T15:27:10Z",
         "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Daniel Dopp is tempted to move Jordan Love up his rankings",
-        "url": "https://www.espn.com/video/clip/_/id/49814773/why-daniel-dopp-tempted-move-jordan-love-rankings",
-        "publishedAt": "2026-09-03T15:29:26Z",
-        "summary": "Why Daniel Dopp is tempted to move Jordan Love up his rankings",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Daniel Dopp lays out important numbers to know for Tee Higgins",
-        "url": "https://www.espn.com/video/clip/_/id/49814537/daniel-dopp-lays-important-numbers-know-tee-higgins",
-        "publishedAt": "2026-09-03T15:13:26Z",
-        "summary": "Daniel Dopp lays out important numbers to know for Tee Higgins",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chiefs rush to rebuild defense around veteran Chris Jones",
-        "url": "https://www.espn.com/nfl/story/_/id/49787025/kansas-city-chiefs-chris-jones-outlook-2026-season",
-        "publishedAt": "2026-09-03T15:08:56Z",
-        "summary": "Kansas City is betting that highly drafted rookies Peter Woods and R Mason Thomas will give its future hall of famer the support he's been missing.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How A.J. Brown can elevate Drake Maye's fantasy appeal",
-        "url": "https://www.espn.com/video/clip/_/id/49814484/how-aj-brown-elevate-drake-maye-fantasy-appeal",
-        "publishedAt": "2026-09-03T15:18:02Z",
-        "summary": "How A.J. Brown can elevate Drake Maye's fantasy appeal",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
