@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:33:08.565Z",
+  "updatedAt": "2026-09-04T01:22:30.883Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Sources: Cowboys restructure deals of Clark, Bland, Ferguson",
+        "url": "https://www.espn.com/nfl/story/_/id/49819676/sources-cowboys-restructure-deals-clark-bland-ferguson",
+        "publishedAt": "2026-09-04T01:07:58Z",
+        "summary": "Veteran defensive tackle Kenny Clark, cornerback DaRon Bland and tight end Jake Ferguson had their deals reworked to give Dallas flexibility, sources said.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cowboys' Luepke trades jersey number to Von Miller for chicken ownership stake",
+        "url": "https://www.espn.com/nfl/story/_/id/49818264/dallas-cowboys-hunter-luepke-von-miller-jersey-number-trade",
+        "publishedAt": "2026-09-04T00:38:42Z",
+        "summary": "Miller was able to take over No. 40 from the fullback after a brief and interesting negotiation following the future Hall of Fame pass rusher's arrival to the Cowboys.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football buzz: D'Andre Swift and Rome Odunze are injured ... now what?",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-09-04T00:09:35Z",
         "summary": "With D'Andre Swift and Rome Odunze both leaving practice early, fantasy managers might need to reconsider their strategy if drafting Thursday night.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49818526/former-wake-forest-nfl-db-alphonso-smith-dies-age-40",
         "publishedAt": "2026-09-03T23:58:23Z",
         "summary": "Alphonso Smith, a two-time All-America defensive back who played four seasons in the NFL, has died.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49803389/san-francisco-49ers-travel-plan-melbourne-australia-los-angeles-rams",
         "publishedAt": "2026-09-03T22:12:30Z",
         "summary": "The 49ers touched down Thursday for their weeklong stay in Melbourne, Australia, to face the Rams. How did the team prepare for the trip?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49818375/mark-sanchez-plans-plead-guilty-indianapolis-assault-case",
         "publishedAt": "2026-09-03T23:52:13Z",
         "summary": "Former NFL quarterback and Fox broadcaster Mark Sanchez has agreed to plead guilty in connection to the alleged attack of a truck driver in Indianapolis last year.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49817316/khosla-family-closes-record-purchase-seahawks",
         "publishedAt": "2026-09-03T20:18:47Z",
         "summary": "The Seahawks announced that the sale of the franchise from Paul Allen's estate to a group led by the Khosla family has closed.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
         "publishedAt": "2026-09-03T19:04:40Z",
         "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49816937/giants-cam-skattebo-says-mulled-retiring-2025-injury",
         "publishedAt": "2026-09-03T19:18:47Z",
         "summary": "Giants running back Cam Skattebo said Thursday on the \"Up & Adams Show\" that he briefly contemplated retirement after he suffered an open fracture of his right ankle during his rookie season.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
         "publishedAt": "2026-09-03T19:00:22Z",
         "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
         "publishedAt": "2026-09-03T18:58:34Z",
         "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
         "publishedAt": "2026-09-03T18:00:15Z",
         "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Skattebo tells Eisen of 'really strong connection' with John Harbaugh",
-        "url": "https://www.espn.com/video/clip/_/id/49816381/skattebo-tells-eisen-really-strong-connection-john-harbaugh",
-        "publishedAt": "2026-09-03T19:10:32Z",
-        "summary": "Skattebo tells Eisen of 'really strong connection' with John Harbaugh",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "McAfee congratulates Michael Wilson on contract extension with Cardinals",
-        "url": "https://www.espn.com/video/clip/_/id/49816230/mcafee-congratulates-michael-wilson-contract-extension-cardinals",
-        "publishedAt": "2026-09-03T17:40:54Z",
-        "summary": "McAfee congratulates Michael Wilson on contract extension with Cardinals",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,91 +223,91 @@
     ],
     "acme": [
       {
-        "title": "Who will be the Packers’ third quarterback?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85714/who-will-be-the-packers-third-quarterback",
-        "publishedAt": "2026-08-31T17:32:00-04:00",
-        "summary": "The Green Bay Packers don’t have a third quarterback, and that’s weird. Half of the NFL kept three players at the position (four of them kept four, if you can believe it) at the cutdown deadline, when rosters shrank from 91 to 53 on Sunday. So for the Packers to have only rostered two players [&#8230;]",
+        "title": "Green Bay Packers News: MarShawn Lloyd is ready for a big role",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85952/green-bay-packers-news-marshawn-lloyd-is-ready-for-a-big-role",
+        "publishedAt": "2026-09-03T10:55:36-04:00",
+        "summary": "I’m excited for MarShawn Lloyd. I’m worried for MarShawn Lloyd. In some ways his offseason reminded me of a low-level viral tweet from a while back: he accidentally became important at work, and it might be ruining his life. I don’t think anybody anticipated the Packers would go into Week 1 with Lloyd as the [&#8230;]",
         "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Roster: Which units improved their standing in training camp?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85947/packers-roster-which-units-improved-their-standing-in-training-camp",
+        "publishedAt": "2026-09-02T21:02:20-04:00",
+        "summary": "Here’s a fun one: Which of the Green Bay Packers’ units improved (or declined) their standing on the team during training camp? Before training camp, we had you all vote on how you would grade the Packers’ positional groups with an A to F scale, then we calculated the results with a GPA ranking. Here’s [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers sign Scott Daly to practice squad as long snapper insurance",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85939/packers-sign-scott-daly-to-practice-squad-as-long-snapper-insurance",
+        "publishedAt": "2026-09-02T14:03:57-04:00",
+        "summary": "Wednesday has brought news of another turn in the Green Bay Packers’ long snapping situation. The Packers, who are heading into the regular season with Matt Orzech as the one long snapper on the 53-man roster, have added another player at the position to ensure that they have some cover if Orzech is not ready [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
         "title": "Packers Practice Squad Tracker 2026: Follow all the reports &#038; signings",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
-        "publishedAt": "2026-08-31T16:51:24-04:00",
+        "publishedAt": "2026-09-02T13:33:22-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL Cutdowns: Former Packers pre-draft visitors released on Sunday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85697/former-packers-pre-draft-visitors-released-by-nfl-teams",
-        "publishedAt": "2026-08-31T16:05:14-04:00",
-        "summary": "I’ll keep this one short: The Green Bay Packers target their pre-draft visitors at a high clip, whether it’s the draft, as initial undrafted free agents or further down the line. For example, last cutdown cycle the team traded a pick for offensive linemen Darian Kinnard and picked up tight end Josh Whyle to the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ Nazir Stackhouse claimed by Titans",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85770/packers-nazir-stackhouse-claimed-by-titans",
-        "publishedAt": "2026-08-31T14:00:48-04:00",
-        "summary": "Only one of the Green Bay Packers’ players was claimed on waivers on Monday, as Nazir Stackhouse will now be a Tennessee Titan moving forward. The defensive lineman was signed to a significant UDFA contract in 2025, but was passed on the depth chart in 2026 by both Jonathan Ford and Anthony Campbell, two out-of-nowhere [&#8230;]",
         "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers trade for RB Kaleb Johnson at cutdown deadline",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85628/packers-trade-for-rb-kaleb-johnson-at-cutdown-deadline",
-        "publishedAt": "2026-08-31T13:24:55-04:00",
-        "summary": "The Green Bay Packers have added depth to their running back room on Sunday, as they’ve traded for former Pittsburgh Steelers running back Kaleb Johnson. Johnson, a 23-year-old, was a third-round pick for the Steelers coming out of Iowa last season. Johnson ended up buried on Pittsburgh’s dept chart, though, following the team’s signings of [&#8230;]",
+        "title": "Lambeau Field to host Wisconsin hockey doubleheader in February",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85931/lambeau-field-to-host-wisconsin-hockey-doubleheader-in-februrary",
+        "publishedAt": "2026-09-02T11:53:13-04:00",
+        "summary": "The Green Bay Packers have been clear that they intend to find uses for Lambeau Field besides the team’s regularly scheduled home games, and for the first time since the team’s 2026 Shareholders’ Meeting in July, the legendary stadium has added a new event to its calendar. On Wednesday, the Packers announced that Lambeau will [&#8230;]",
         "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Film Room, Preseason Week 3: Sturdivant goes for 6",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85574/packers-film-room-preseason-week-3-sturdivant-goes-for-6",
-        "publishedAt": "2026-08-31T12:00:00-04:00",
-        "summary": "The final preseason game is in the books, so I’m working to get into regular season shape by doing what I love doing the most: breaking down plays. It’s never quite as interesting in the preseason because the focus of the offense isn’t on sequencing in the same way we see in the regular season. [&#8230;]",
+        "title": "Green Bay Packers News: Newcomers making an impression",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85926/green-bay-packers-news-newcomers-making-an-impression",
+        "publishedAt": "2026-09-02T10:12:01-04:00",
+        "summary": "Cutdown weekend is always a time of change and transition. For a few new members of the Green Bay Packers, that was especially true. Not only did the Packers trim their roster from 90 to the required 53, but they traded for two new players in the process and added a third via free agency. [&#8230;]",
         "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers fans’ reaction to new Rivalries uniforms is decidedly ‘meh’",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85527/packers-fans-reaction-to-new-rivalries-uniforms-is-decidedly-meh",
-        "publishedAt": "2026-08-31T11:30:00-04:00",
-        "summary": "It has been an eventful seven days for the Green Bay Packers. Looking back at the chaos of the last few days — between the final preseason game and the roster cut deadline on Sunday — it feels a bit bizarre to remember that the Packers released a new slate of alternate uniforms just six [&#8230;]",
+        "title": "That Sums It Up: One sentence about each projected Packers starter",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85917/that-sums-it-up-one-sentence-about-each-projected-packers-starter",
+        "publishedAt": "2026-09-02T09:00:00-04:00",
+        "summary": "We are a week and some change away from the Green Bay Packers’ first game of the 2026 season, and now that roster cutdowns are complete, we finally know what we’re working with as we approach opening day. We’re going to be short and sweet this week, and give you one sentence about each of [&#8230;]",
         "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Where is the weirdest or most remote place you’ve watched a Packers game?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85461/where-is-the-weirdest-or-most-remote-place-youve-watched-a-packers-game",
-        "publishedAt": "2026-08-31T11:00:00-04:00",
-        "summary": "If you’re a Green Bay Packers fan, you’re a die-hard. That pretty much comes with the territory. As a result, you probably will go to just about any length to watch your team play. I know I certainly have. Over the years, I’ve watched Packers games in some far-flung places. From following the 2021 Divisional [&#8230;]",
+        "title": "Packers Discussion: What does a gameday roster look like for Green Bay?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85905/packers-discussion-what-does-a-gameday-roster-look-like-for-green-bay",
+        "publishedAt": "2026-09-01T15:39:27-04:00",
+        "summary": "A lot of focus has been put on the Green Bay Packers’ 53-man roster recently, and I don’t blame people for looking at it — since we just had roster cutdowns. To me, though, there are really three different versions of the roster: Today, I want to talk about the 48-man game-day roster. A lot [&#8230;]",
         "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Jonathan Gannon’s Packers preseason pressure packages",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85719/jonathan-gannons-packers-preseason-pressure-packages",
-        "publishedAt": "2026-08-31T10:00:00-04:00",
-        "summary": "The 2026 preseason has concluded, but the Green Bay Packers’ three games gave us a glimpse into the mind of Jonathan Gannon as the new defensive coordinator gears up for his first season calling the defense. While Gannon called a mostly vanilla preseason, he did throw a couple of interesting blitz calls out in the [&#8230;]",
+        "title": "Packers Injuries: Updates on IR’d players and Micah Parsons",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85895/packers-injuries-updates-on-ird-players-and-micah-parsons",
+        "publishedAt": "2026-09-01T13:41:27-04:00",
+        "summary": "The Green Bay Packers’ brass spoke to the media on Tuesday for the first time since roster cuts. The deadline also came with some injury news, as both receiver Savion Williams and edge rusher Collin Oliver were placed on the injured reserve, with a return designation, to make room for other players to be retained [&#8230;]",
         "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Here’s how the Packers’ initial roster compares to previous years",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85737/heres-how-the-packers-initial-roster-compares-to-previous-years",
-        "publishedAt": "2026-08-31T09:37:01-04:00",
-        "summary": "There are only so many ways you can stack a 53 man roster. Despite plenty of handwringing year in and year out from fans and media alike as to what the roster will look like, the Packers’ initial roster every year is configured in more or less the same way. The same way, that is, [&#8230;]",
+        "title": "Packers Film Review: TE Mark Redman",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85837/packers-film-review-te-mark-redman",
+        "publishedAt": "2026-09-01T13:26:19-04:00",
+        "summary": "On August 30th, the Green Bay Packers traded a 2028 7th-round pick to the Los Angeles Rams for tight end Mark Redman. Given that the Rams had eight tight ends at the start of the month, it’s no surprise they’d be open to getting rid of one of them. (As currently stands, the Rams have [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
