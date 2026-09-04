@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-09-04T13:26:31.820Z",
+  "updatedAt": "2026-09-04T14:25:46.122Z",
   "sources": {
     "packers": [
+      {
+        "title": "Perseverance paved J. Michael Sturdivant's path to Packers' 53",
+        "url": "https://www.packers.com/news/perseverance-paved-j-michael-sturdivant-s-path-to-packers-53-sept-4-2026",
+        "publishedAt": "Fri, 04 Sep 2026 14:00:00 GMT",
+        "summary": "Florida receiver extends Green Bay’s undrafted rookie streak to 22 years",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: He'll get his chance and he's got a chance",
+        "url": "https://www.packers.com/news/inbox-he-ll-get-his-chance-and-he-s-got-a-chance-sept-4-2026",
+        "publishedAt": "Fri, 04 Sep 2026 13:30:00 GMT",
+        "summary": "It’s a commitment to the position in general",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Lambeau Field preparing for Sunday's Shamrock Series matchup between Notre Dame and Wisconsin",
         "url": "https://www.packers.com/news/lambeau-field-preparing-for-sunday-s-shamrock-series-matchup-between-notre-dame-and-wisconsin",
         "publishedAt": "Thu, 03 Sep 2026 22:21:01 GMT",
         "summary": "Exclusive merchandise now available in Packers Pro Shop; fans of both teams can enjoy full weekend of festivities",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-announce-game-themes-for-2026-season",
         "publishedAt": "Thu, 03 Sep 2026 19:51:20 GMT",
         "summary": "Rivalries, 1923 Classic, Packers Vs. Cancer and Salute to Service all on the schedule for Lambeau Field",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/a-look-at-pro-football-reference-all-time-player-ratings-sept-3-2026",
         "publishedAt": "Thu, 03 Sep 2026 14:00:00 GMT",
         "summary": "Answering through the careers of Paul Hornung, Ray Nitschke, Dan Currie, Willie Wood and others",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-worth-it-in-the-end-sept-3-2026",
         "publishedAt": "Thu, 03 Sep 2026 13:30:00 GMT",
         "summary": "Never forgo an opportunity to get better in this league",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-foundation-awards-1-6-million-in-annual-grants-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:54:51 GMT",
         "summary": "More than $3.5 million awarded through Packers Foundation grants in 2026 to impact every county in Wisconsin",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/rb-marshawn-lloyd-as-ready-as-he-s-ever-been-to-help-packers-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:05:00 GMT",
         "summary": "Third-year back’s health and production crucial as season gets underway",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:00:00 GMT",
         "summary": "Green Bay signs LS Scott Daly and K Lenny Krieg to the practice squad",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/lambeau-field-to-host-travel-wisconsin-frozen-tundra-faceoff-welcoming-ncaa-hockey-doubleheader-in-february-2027",
         "publishedAt": "Wed, 02 Sep 2026 15:10:01 GMT",
         "summary": "Historic B1G men’s & WCHA women’s doubleheader will feature three powerhouse programs in Wisconsin, Michigan and Ohio State",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/new-packers-tight-ends-give-position-different-look-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 14:00:00 GMT",
         "summary": "Jonnu Smith, Mark Redman getting acclimated quickly",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/inbox-now-another-major-opportunity-awaits-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 13:30:00 GMT",
         "summary": "There’s plenty to keep their attention",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "It's all 'Go Pack Go' for new RB Kaleb Johnson",
-        "url": "https://www.packers.com/news/it-s-all-go-pack-go-for-new-rb-kaleb-johnson-sep-1-2026",
-        "publishedAt": "Tue, 01 Sep 2026 20:51:28 GMT",
-        "summary": "Former third-round pick sees opportunity in Packers’ backfield",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers sign QB Kedon Slovis to practice squad",
-        "url": "https://www.packers.com/news/packers-sign-qb-kedon-slovis-to-practice-squad-sep-1-2026",
-        "publishedAt": "Tue, 01 Sep 2026 20:00:00 GMT",
-        "summary": "General Manager Brian Gutekunst announced the transaction Tuesday",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -124,7 +124,7 @@
       {
         "title": "NFL betting expected to slow at U.S. sportsbooks in 2026",
         "url": "https://www.espn.com/nfl/story/_/id/49824392/nfl-betting-expected-slow-us-sportsbooks",
-        "publishedAt": "2026-09-04T12:56:42Z",
+        "publishedAt": "2026-09-04T14:16:39Z",
         "summary": "NFL betting has grown for years, climbing to approximately $30 billion, but the boom is showing signs of stalling at U.S. sportsbooks as prediction markets gain ground.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
@@ -151,7 +151,7 @@
       {
         "title": "2026 NFL season X factors: Key players for all 32 teams",
         "url": "https://www.espn.com/nfl/story/_/id/49797638/2026-nfl-season-x-factors-all-32-teams-key-players",
-        "publishedAt": "2026-09-04T10:30:28Z",
+        "publishedAt": "2026-09-04T13:53:52Z",
         "summary": "What do Marvin Harrison Jr., Jared Verse and Travis Hunter have in common? The success of their teams could depend on them.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
@@ -160,7 +160,7 @@
       {
         "title": "NFL expanding Inspire Change initiative internationally",
         "url": "https://www.espn.com/nfl/story/_/id/49823448/nfl-expanding-inspire-change-initiative-internationally",
-        "publishedAt": "2026-09-04T10:24:59Z",
+        "publishedAt": "2026-09-04T13:46:04Z",
         "summary": "The NFL is expanding its Inspire Change initiative internationally ahead of a season that features a record nine games outside the United States.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
@@ -169,7 +169,7 @@
       {
         "title": "Expectations for Jaguars' Liam Coen, Trevor Lawrence in 2026",
         "url": "https://www.espn.com/nfl/story/_/id/49797728/jacksonville-jaguars-liam-coen-qb-trevor-lawrence-expectations-2026",
-        "publishedAt": "2026-09-04T10:00:04Z",
+        "publishedAt": "2026-09-04T13:42:45Z",
         "summary": "The Jaguars haven't made back-to-back postseason appearances this century. But they think 2026 can be different with Coen and Lawrence.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
@@ -205,7 +205,7 @@
       {
         "title": "An Eagles Q&A: Is Hurts acclimating? Will Lemon contribute?",
         "url": "https://www.espn.com/nfl/story/_/id/49805006/philadelphia-eagles-qa-jalen-hurts-acclimating-makai-lemon-contribute",
-        "publishedAt": "2026-09-04T10:00:11Z",
+        "publishedAt": "2026-09-04T14:08:10Z",
         "summary": "There is no shortage of storylines surrounding the Eagles as they ready for an intrigue-filled 2026 season.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "The Packers’ 2026 schedule is mostly friendly for out-of-market fans across the US",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/85958/the-packers-2026-schedule-is-mostly-friendly-for-out-of-market-fans-across-the-us",
+        "publishedAt": "2026-09-04T10:00:00-04:00",
+        "summary": "Being a fan of one of the NFL’s biggest fan bases has its perks. For Green Bay Packers fans living in the United States but outside of the team’s home television markets, nationally televised games are a welcome sight. Fans can certainly debate the time slot that they prefer based on their own circumstances, but [&#8230;]",
+        "image": "data/news-images/acme-0.jpg",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Green Bay Packers News: 1923 throwback uniforms return in December",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85974/green-bay-packers-news-1923-throwback-uniforms-return-in-december",
         "publishedAt": "2026-09-04T08:45:00-04:00",
         "summary": "You didn’t think the Green Bay Packers would have just a single game in alternate uniforms this season, did you? Hopefully not, because Thursday afternoon brought the news that the team will once again be bringing out their “1923 Classic” threads later this season. This alternate uniform, which debuted last season in a home game [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85961/the-madden-curse-is-real-and-its-coming-for-the-bears",
         "publishedAt": "2026-09-04T08:00:00-04:00",
         "summary": "I live in suburban Chicago Illinois, which has several benefits. One of the big benefits is that I get to hear overconfident Bears fans on the radio, which I enjoy more than hearing overconfident Green Bay Packers fans on the radio. Don’t get me wrong, I’m not at all against proclaiming the superiority of your [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85952/green-bay-packers-news-marshawn-lloyd-is-ready-for-a-big-role",
         "publishedAt": "2026-09-03T10:55:36-04:00",
         "summary": "I’m excited for MarShawn Lloyd. I’m worried for MarShawn Lloyd. In some ways his offseason reminded me of a low-level viral tweet from a while back: he accidentally became important at work, and it might be ruining his life. I don’t think anybody anticipated the Packers would go into Week 1 with Lloyd as the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85947/packers-roster-which-units-improved-their-standing-in-training-camp",
         "publishedAt": "2026-09-02T21:02:20-04:00",
         "summary": "Here’s a fun one: Which of the Green Bay Packers’ units improved (or declined) their standing on the team during training camp? Before training camp, we had you all vote on how you would grade the Packers’ positional groups with an A to F scale, then we calculated the results with a GPA ranking. Here’s [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85939/packers-sign-scott-daly-to-practice-squad-as-long-snapper-insurance",
         "publishedAt": "2026-09-02T14:03:57-04:00",
         "summary": "Wednesday has brought news of another turn in the Green Bay Packers’ long snapping situation. The Packers, who are heading into the regular season with Matt Orzech as the one long snapper on the 53-man roster, have added another player at the position to ensure that they have some cover if Orzech is not ready [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
         "publishedAt": "2026-09-02T13:33:22-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85931/lambeau-field-to-host-wisconsin-hockey-doubleheader-in-februrary",
         "publishedAt": "2026-09-02T11:53:13-04:00",
         "summary": "The Green Bay Packers have been clear that they intend to find uses for Lambeau Field besides the team’s regularly scheduled home games, and for the first time since the team’s 2026 Shareholders’ Meeting in July, the legendary stadium has added a new event to its calendar. On Wednesday, the Packers announced that Lambeau will [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85926/green-bay-packers-news-newcomers-making-an-impression",
         "publishedAt": "2026-09-02T10:12:01-04:00",
         "summary": "Cutdown weekend is always a time of change and transition. For a few new members of the Green Bay Packers, that was especially true. Not only did the Packers trim their roster from 90 to the required 53, but they traded for two new players in the process and added a third via free agency. [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85917/that-sums-it-up-one-sentence-about-each-projected-packers-starter",
         "publishedAt": "2026-09-02T09:00:00-04:00",
         "summary": "We are a week and some change away from the Green Bay Packers’ first game of the 2026 season, and now that roster cutdowns are complete, we finally know what we’re working with as we approach opening day. We’re going to be short and sweet this week, and give you one sentence about each of [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: What does a gameday roster look like for Green Bay?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/85905/packers-discussion-what-does-a-gameday-roster-look-like-for-green-bay",
-        "publishedAt": "2026-09-01T15:39:27-04:00",
-        "summary": "A lot of focus has been put on the Green Bay Packers’ 53-man roster recently, and I don’t blame people for looking at it — since we just had roster cutdowns. To me, though, there are really three different versions of the roster: Today, I want to talk about the 48-man game-day roster. A lot [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
