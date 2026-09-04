@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T16:26:39.294Z",
+  "updatedAt": "2026-09-04T17:23:23.364Z",
   "sources": {
     "packers": [
       {
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Fantasy football Week 1 PPR, IDP and superflex rankings",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-09-04T16:15:11Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
+        "publishedAt": "2026-09-04T16:49:20Z",
+        "summary": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: Drafting in a deep/keeper league? Read up on the names to know",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-09-04T16:09:58Z",
-        "summary": "Michael F. Florio breaks down the players to keep on your later-round radar in deep or keeper league drafts.",
+        "title": "Fantasy Football 'Do Draft' list: Derrick Henry, Patrick Mahomes among undervalued players to pick",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49556816/2026-fantasy-football-sleepers-value-picks-undervalued-karabell",
+        "publishedAt": "2026-09-04T16:47:20Z",
+        "summary": "You've read the \"Do Not Draft\" list. Now, Eric Karabell lists players being drafted later than they should be.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What the new Seahawks owners can learn from the Allens' legacy",
-        "url": "https://www.espn.com/nfl/story/_/id/49797756/nfl-seattle-seahawks-sale-paul-allen-jody-allen-vinod-khosla-family",
-        "publishedAt": "2026-09-04T15:54:48Z",
-        "summary": "The Khoslas are now officially the new owners of the Seahawks. And the previous team owners -- Paul and Jody Allen -- can be a blueprint for success.",
+        "title": "Fantasy football sleepers, busts and breakouts for 2026",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts",
+        "publishedAt": "2026-09-04T16:46:49Z",
+        "summary": "Which players will surprise, disappoint or make a big jump this fantasy season? Our analysts give their picks.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Dopp: Justin Herbert is an 'easy' top-7 fantasy QB",
-        "url": "https://www.espn.com/video/clip/_/id/49825683/justin-herbert-easy-top-7-fantasy-qb",
-        "publishedAt": "2026-09-04T15:41:47Z",
-        "summary": "Dopp: Justin Herbert is an 'easy' top-7 fantasy QB",
+        "title": "Fantasy Football 'Do Not Draft' list: Giants' young trio among players being overvalued",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49529494/2026-fantasy-football-busts-overvalued-do-not-draft-karabell",
+        "publishedAt": "2026-09-04T16:45:39Z",
+        "summary": "The annual hit is back, with players Eric Karabell feels are going earlier than they should in drafts this summer.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Pro Football HOF makes sweeping changes to selection process",
-        "url": "https://www.espn.com/nfl/story/_/id/49823476/pro-football-hof-makes-sweeping-changes-selection-process",
-        "publishedAt": "2026-09-04T16:14:00Z",
-        "summary": "The Pro Football Hall of Fame has made sweeping changes to its selection process that include a significant reduction in the number of selectors and the elimination of the separate Seniors category.",
+        "title": "Adam Schefter's fantasy football cheat sheet: Value picks and sleepers to target",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49734267/2026-fantasy-football-sleepers-cheat-sheet-adam-schefter",
+        "publishedAt": "2026-09-04T16:44:38Z",
+        "summary": "The annual favorite is back, featuring Adam's favorite picks at each level of the draft, including sleepers.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Field Yates thinks Wan'Dale Robinson can be a top-10 WR this season",
-        "url": "https://www.espn.com/video/clip/_/id/49825607/why-field-yates-thinks-wandale-robinson-top-10-wr-season",
-        "publishedAt": "2026-09-04T15:42:21Z",
-        "summary": "Why Field Yates thinks Wan'Dale Robinson can be a top-10 WR this season",
+        "title": "Who will be this year's fantasy football 'league winners'?",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49734412/2026-fantasy-football-breakout-stars-league-winners-michael-florio",
+        "publishedAt": "2026-09-04T16:44:58Z",
+        "summary": "Michael F. Florio shares his players with breakout potential who could lead fantasy managers to titles in 2026.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "The parameters needed for Jadarian Price to be a fantasy success",
-        "url": "https://www.espn.com/video/clip/_/id/49825521/the-parameters-needed-jadarian-price-fantasy-success",
-        "publishedAt": "2026-09-04T15:43:01Z",
-        "summary": "The parameters needed for Jadarian Price to be a fantasy success",
+        "title": "Mike Clay's Ultimate Draft Board: Perfect picks for every round in a 12-team league",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn",
+        "publishedAt": "2026-09-04T16:43:55Z",
+        "summary": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings for Week 1: D/ST",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-        "publishedAt": "2026-09-04T14:37:12Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "title": "Eric Karabell's 2026 fantasy football flex and superflex rankings",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/47539664/2026-fantasy-football-rankings-flex-superflex-ppr-eric-karabell",
+        "publishedAt": "2026-09-04T16:32:41Z",
+        "summary": "A look at the top 200 QBs, RBs, WRs and TEs for 2026 drafts, updated throughout the fantasy football offseason.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings for Week 1: IDP",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-        "publishedAt": "2026-09-04T16:22:56Z",
-        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+        "title": "Fantasy football draft rankings 2026: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26K/nfl-fantasy-football-draft-rankings-2026-k-kicker",
+        "publishedAt": "2026-09-04T16:31:34Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings for Week 1: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-09-04T14:36:19Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "title": "Fantasy football draft rankings 2026: Individual defensive players",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26IDP/nfl-fantasy-football-draft-rankings-2026-idp",
+        "publishedAt": "2026-09-04T16:31:57Z",
+        "summary": "Fantasy football draft rankings from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Field Yates thinks Rico Dowdle could be a hidden gem for fantasy managers",
-        "url": "https://www.espn.com/video/clip/_/id/49825464/why-field-yates-thinks-rico-dowdle-hidden-gem-fantasy-managers",
-        "publishedAt": "2026-09-04T15:16:41Z",
-        "summary": "Why Field Yates thinks Rico Dowdle could be a hidden gem for fantasy managers",
+        "title": "Fantasy football draft rankings 2026: Defense/special teams",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26DST/nfl-fantasy-football-draft-rankings-2026-dst-defense",
+        "publishedAt": "2026-09-04T16:31:08Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings for Week 1: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-09-04T14:35:50Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "title": "Fantasy football draft rankings 2026: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFPreseasonRank26TE/nfl-fantasy-football-draft-rankings-2026-te-tight-end",
+        "publishedAt": "2026-09-04T16:30:41Z",
+        "summary": "Fantasy football draft rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers can be optimistic about forcing turnovers in 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85982/packers-can-be-optimistic-about-forcing-turnovers-in-2026",
+        "publishedAt": "2026-09-04T13:02:03-04:00",
+        "summary": "A little over a year ago, I wrote about the Packers’ defense and its plans for 2025. Heading into the second year of the Jeff Hafley era, the Packers wanted to force even more turnovers than they had in 2024, which I argued was an admirable but misguided plan. “Get more turnovers” isn’t really a [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "The Packers’ 2026 schedule is mostly friendly for out-of-market fans across the US",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/85958/the-packers-2026-schedule-is-mostly-friendly-for-out-of-market-fans-across-the-us",
         "publishedAt": "2026-09-04T10:00:00-04:00",
         "summary": "Being a fan of one of the NFL’s biggest fan bases has its perks. For Green Bay Packers fans living in the United States but outside of the team’s home television markets, nationally televised games are a welcome sight. Fans can certainly debate the time slot that they prefer based on their own circumstances, but [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85974/green-bay-packers-news-1923-throwback-uniforms-return-in-december",
         "publishedAt": "2026-09-04T08:45:00-04:00",
         "summary": "You didn’t think the Green Bay Packers would have just a single game in alternate uniforms this season, did you? Hopefully not, because Thursday afternoon brought the news that the team will once again be bringing out their “1923 Classic” threads later this season. This alternate uniform, which debuted last season in a home game [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85961/the-madden-curse-is-real-and-its-coming-for-the-bears",
         "publishedAt": "2026-09-04T08:00:00-04:00",
         "summary": "I live in suburban Chicago Illinois, which has several benefits. One of the big benefits is that I get to hear overconfident Bears fans on the radio, which I enjoy more than hearing overconfident Green Bay Packers fans on the radio. Don’t get me wrong, I’m not at all against proclaiming the superiority of your [&#8230;]",
-        "image": "data/news-images/acme-2.jpg",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85952/green-bay-packers-news-marshawn-lloyd-is-ready-for-a-big-role",
         "publishedAt": "2026-09-03T10:55:36-04:00",
         "summary": "I’m excited for MarShawn Lloyd. I’m worried for MarShawn Lloyd. In some ways his offseason reminded me of a low-level viral tweet from a while back: he accidentally became important at work, and it might be ruining his life. I don’t think anybody anticipated the Packers would go into Week 1 with Lloyd as the [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85947/packers-roster-which-units-improved-their-standing-in-training-camp",
         "publishedAt": "2026-09-02T21:02:20-04:00",
         "summary": "Here’s a fun one: Which of the Green Bay Packers’ units improved (or declined) their standing on the team during training camp? Before training camp, we had you all vote on how you would grade the Packers’ positional groups with an A to F scale, then we calculated the results with a GPA ranking. Here’s [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85939/packers-sign-scott-daly-to-practice-squad-as-long-snapper-insurance",
         "publishedAt": "2026-09-02T14:03:57-04:00",
         "summary": "Wednesday has brought news of another turn in the Green Bay Packers’ long snapping situation. The Packers, who are heading into the regular season with Matt Orzech as the one long snapper on the 53-man roster, have added another player at the position to ensure that they have some cover if Orzech is not ready [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/85280/packers-practice-squad-tracker-2026-follow-all-the-reports-signings",
         "publishedAt": "2026-09-02T13:33:22-04:00",
         "summary": "A 53-man roster isn’t the only thing that NFL teams need to decide on this week. The league’s cutdown deadline from 90 to 53 will come and go on Sunday afternoon, and on Monday it will be time for teams to begin assembling the other major piece of their rosters: the practice squad. Over the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85931/lambeau-field-to-host-wisconsin-hockey-doubleheader-in-februrary",
         "publishedAt": "2026-09-02T11:53:13-04:00",
         "summary": "The Green Bay Packers have been clear that they intend to find uses for Lambeau Field besides the team’s regularly scheduled home games, and for the first time since the team’s 2026 Shareholders’ Meeting in July, the legendary stadium has added a new event to its calendar. On Wednesday, the Packers announced that Lambeau will [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85926/green-bay-packers-news-newcomers-making-an-impression",
         "publishedAt": "2026-09-02T10:12:01-04:00",
         "summary": "Cutdown weekend is always a time of change and transition. For a few new members of the Green Bay Packers, that was especially true. Not only did the Packers trim their roster from 90 to the required 53, but they traded for two new players in the process and added a third via free agency. [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "That Sums It Up: One sentence about each projected Packers starter",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85917/that-sums-it-up-one-sentence-about-each-projected-packers-starter",
-        "publishedAt": "2026-09-02T09:00:00-04:00",
-        "summary": "We are a week and some change away from the Green Bay Packers’ first game of the 2026 season, and now that roster cutdowns are complete, we finally know what we’re working with as we approach opening day. We’re going to be short and sweet this week, and give you one sentence about each of [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
