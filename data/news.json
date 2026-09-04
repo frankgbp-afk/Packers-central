@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T09:26:27.524Z",
+  "updatedAt": "2026-09-04T10:26:43.660Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "NFL expanding Inspire Change initiative internationally",
+        "url": "https://www.espn.com/nfl/story/_/id/49823448/nfl-expanding-inspire-change-initiative-internationally",
+        "publishedAt": "2026-09-04T10:24:59Z",
+        "summary": "The NFL is expanding its Inspire Change initiative internationally ahead of a season that features a record nine games outside the United States.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Expectations for Jaguars' Liam Coen, Trevor Lawrence in 2026",
+        "url": "https://www.espn.com/nfl/story/_/id/49797728/jacksonville-jaguars-liam-coen-qb-trevor-lawrence-expectations-2026",
+        "publishedAt": "2026-09-04T10:00:04Z",
+        "summary": "The Jaguars haven't made back-to-back postseason appearances this century. But they think 2026 can be different with Coen and Lawrence.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cowboys first-rounder Caleb Downs living up to the hype",
+        "url": "https://www.espn.com/nfl/story/_/id/49802626/nfl-dallas-cowboys-caleb-downs-christian-parker",
+        "publishedAt": "2026-09-04T10:00:12Z",
+        "summary": "Downs has exceeded expectations throughout the offseason as the safety heads toward his NFL debut against the Giants in Week 1.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Bucs' Mayfield has 'extra motivation' heading into season",
+        "url": "https://www.espn.com/nfl/story/_/id/49815432/tampa-bay-buccaneers-qb-baker-mayfield-motivated-contract-dispute",
+        "publishedAt": "2026-09-04T10:00:12Z",
+        "summary": "The self-imposed deadline has passed for Tampa Bay's quarterback as he now turns his attention to the season.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL fantasy outlook for Saints in 2026? Etienne, Johnson, rookie WRs",
+        "url": "https://www.espn.com/nfl/story/_/id/49820565/nfl-fantasy-outlook-new-orleans-saints-2026-expect-heavy-running-back-usage",
+        "publishedAt": "2026-09-04T10:00:03Z",
+        "summary": "With Alvin Kamara sidelined, fantasy managers are left to wonder who will pick up the carries for New Orleans.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "An Eagles Q&A: Is Hurts acclimating? Will Lemon contribute?",
+        "url": "https://www.espn.com/nfl/story/_/id/49805006/philadelphia-eagles-qa-jalen-hurts-acclimating-makai-lemon-contribute",
+        "publishedAt": "2026-09-04T10:00:11Z",
+        "summary": "There is no shortage of storylines surrounding the Eagles as they ready for an intrigue-filled 2026 season.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Caleb Williams, Caleb Wilson and Matas Buzelis start 'PCA!' chant at Cubs game",
         "url": "https://www.espn.com/video/clip/_/id/49821854/caleb-williams-caleb-wilson-matas-buzelis-start-pca-chant-cubs-game",
         "publishedAt": "2026-09-04T05:10:31Z",
         "summary": "Caleb Williams, Caleb Wilson and Matas Buzelis start 'PCA!' chant at Cubs game",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49819676/sources-cowboys-restructure-deals-clark-bland-ferguson",
         "publishedAt": "2026-09-04T01:07:58Z",
         "summary": "Veteran defensive tackle Kenny Clark, cornerback DaRon Bland and tight end Jake Ferguson had their deals reworked to give Dallas flexibility, sources said.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49818264/dallas-cowboys-hunter-luepke-von-miller-jersey-number-trade",
         "publishedAt": "2026-09-04T00:38:42Z",
         "summary": "Miller was able to take over No. 40 from the fullback after a brief and interesting negotiation following the future Hall of Fame pass rusher's arrival to the Cowboys.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-09-04T00:09:35Z",
         "summary": "With D'Andre Swift and Rome Odunze both leaving practice early, fantasy managers might need to reconsider their strategy if drafting Thursday night.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49818526/former-wake-forest-nfl-db-alphonso-smith-dies-age-40",
         "publishedAt": "2026-09-03T23:58:23Z",
         "summary": "Alphonso Smith, a two-time All-America defensive back who played four seasons in the NFL, has died.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49803389/san-francisco-49ers-travel-plan-melbourne-australia-los-angeles-rams",
         "publishedAt": "2026-09-04T02:24:56Z",
         "summary": "The 49ers touched down Thursday for their weeklong stay in Melbourne, Australia, to face the Rams. How did the team prepare for the trip?",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mark Sanchez plans to plead guilty in Indianapolis assault case",
-        "url": "https://www.espn.com/nfl/story/_/id/49818375/mark-sanchez-plans-plead-guilty-indianapolis-assault-case",
-        "publishedAt": "2026-09-03T23:52:13Z",
-        "summary": "Former NFL quarterback and Fox broadcaster Mark Sanchez has agreed to plead guilty in connection to the alleged attack of a truck driver in Indianapolis last year.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Khosla family closes on record purchase of Seahawks",
-        "url": "https://www.espn.com/nfl/story/_/id/49817316/khosla-family-closes-record-purchase-seahawks",
-        "publishedAt": "2026-09-03T20:18:47Z",
-        "summary": "The Seahawks announced that the sale of the franchise from Paul Allen's estate to a group led by the Khosla family has closed.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football 2026 defensive depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
-        "publishedAt": "2026-09-03T19:04:40Z",
-        "summary": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants' Cam Skattebo says he mulled retiring after 2025 injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49816937/giants-cam-skattebo-says-mulled-retiring-2025-injury",
-        "publishedAt": "2026-09-03T19:18:47Z",
-        "summary": "Giants running back Cam Skattebo said Thursday on the \"Up & Adams Show\" that he briefly contemplated retirement after he suffered an open fracture of his right ankle during his rookie season.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football 2026 offensive depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
-        "publishedAt": "2026-09-03T19:00:22Z",
-        "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football cheat sheets: PPR, non-PPR, depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
-        "publishedAt": "2026-09-03T18:58:34Z",
-        "summary": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
