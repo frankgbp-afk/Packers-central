@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-05T12:28:41.842Z",
+  "updatedAt": "2026-09-05T13:23:19.189Z",
   "sources": {
     "packers": [
+      {
+        "title": "Inbox: It's gonna be a real chess match",
+        "url": "https://www.packers.com/news/inbox-it-s-gonna-be-a-real-chess-match-sept-5-2026",
+        "publishedAt": "Sat, 05 Sep 2026 13:00:00 GMT",
+        "summary": "Jonnu Smith and Mark Redman should help open up this offense",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Perseverance paved J. Michael Sturdivant's path to Packers' 53",
         "url": "https://www.packers.com/news/perseverance-paved-j-michael-sturdivant-s-path-to-packers-53-sept-4-2026",
         "publishedAt": "Fri, 04 Sep 2026 14:00:00 GMT",
         "summary": "Florida receiver extends Green Bay’s undrafted rookie streak to 22 years",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-he-ll-get-his-chance-and-he-s-got-a-chance-sept-4-2026",
         "publishedAt": "Fri, 04 Sep 2026 13:30:00 GMT",
         "summary": "It’s a commitment to the position in general",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/lambeau-field-preparing-for-sunday-s-shamrock-series-matchup-between-notre-dame-and-wisconsin",
         "publishedAt": "Thu, 03 Sep 2026 22:21:01 GMT",
         "summary": "Exclusive merchandise now available in Packers Pro Shop; fans of both teams can enjoy full weekend of festivities",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-announce-game-themes-for-2026-season",
         "publishedAt": "Thu, 03 Sep 2026 19:51:20 GMT",
         "summary": "Rivalries, 1923 Classic, Packers Vs. Cancer and Salute to Service all on the schedule for Lambeau Field",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/a-look-at-pro-football-reference-all-time-player-ratings-sept-3-2026",
         "publishedAt": "Thu, 03 Sep 2026 14:00:00 GMT",
         "summary": "Answering through the careers of Paul Hornung, Ray Nitschke, Dan Currie, Willie Wood and others",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-worth-it-in-the-end-sept-3-2026",
         "publishedAt": "Thu, 03 Sep 2026 13:30:00 GMT",
         "summary": "Never forgo an opportunity to get better in this league",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-foundation-awards-1-6-million-in-annual-grants-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:54:51 GMT",
         "summary": "More than $3.5 million awarded through Packers Foundation grants in 2026 to impact every county in Wisconsin",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/rb-marshawn-lloyd-as-ready-as-he-s-ever-been-to-help-packers-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:05:00 GMT",
         "summary": "Third-year back’s health and production crucial as season gets underway",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 20:00:00 GMT",
         "summary": "Green Bay signs LS Scott Daly and K Lenny Krieg to the practice squad",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/lambeau-field-to-host-travel-wisconsin-frozen-tundra-faceoff-welcoming-ncaa-hockey-doubleheader-in-february-2027",
         "publishedAt": "Wed, 02 Sep 2026 15:10:01 GMT",
         "summary": "Historic B1G men’s & WCHA women’s doubleheader will feature three powerhouse programs in Wisconsin, Michigan and Ohio State",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/new-packers-tight-ends-give-position-different-look-sep-2-2026",
         "publishedAt": "Wed, 02 Sep 2026 14:00:00 GMT",
         "summary": "Jonnu Smith, Mark Redman getting acclimated quickly",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Now another major opportunity awaits",
-        "url": "https://www.packers.com/news/inbox-now-another-major-opportunity-awaits-sep-2-2026",
-        "publishedAt": "Wed, 02 Sep 2026 13:30:00 GMT",
-        "summary": "There’s plenty to keep their attention",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
