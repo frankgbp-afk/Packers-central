@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T01:23:03.007Z",
+  "updatedAt": "2026-09-06T02:25:15.213Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "With title 'in the past,' Seahawks set to tackle new season",
+        "url": "https://www.espn.com/nfl/story/_/id/49842951/with-title-seahawks-set-tackle-new-season",
+        "publishedAt": "2026-09-06T02:13:25Z",
+        "summary": "Months after winning the Super Bowl over the New England Patriots, the Seattle Seahawks spoke Saturday about being ready to \"play some new football\" and to keep \"searching for ways to make what we do better,\" as Week 1 approaches.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Vikings safety Smith agrees to deal, back for 15th season",
         "url": "https://www.espn.com/nfl/story/_/id/49841519/vikings-safety-smith-agrees-deal-back-15th-season",
         "publishedAt": "2026-09-06T00:24:00Z",
         "summary": "Vikings safety Harrison Smith is returning for a 15th season, with sources telling NFL Network he reached a one-year deal worth $12.25 million.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
         "publishedAt": "2026-09-05T14:29:23Z",
         "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49672782/2026-nfl-rookie-betting-futures-props-picks-projections-outlooks",
         "publishedAt": "2026-09-05T13:40:15Z",
         "summary": "Which rookies will make an impact in 2026? Here's our favorite first-year players to bet and how we think they'll fare.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49827673/carolina-panthers-tetairoa-mcmillan-says-stronger-more-versatile-too-nfl-fantasy-wide-receiver",
         "publishedAt": "2026-09-05T10:15:39Z",
         "summary": "Now \"20 pounds heavier,\" Carolina's second-year WR will aim to take advantage of his size over the middle.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49815317/nfl-minnesota-vikings-kyler-murray-jj-mccarthy-kevin-oconnell",
         "publishedAt": "2026-09-05T19:56:01Z",
         "summary": "Despite names you know -- Moon, Culpepper, Favre, Cousins -- Minnesota hasn't had a franchise QB since Tarkenton.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49828234/washington-commanders-daronte-jones-2026-defense",
         "publishedAt": "2026-09-05T10:24:09Z",
         "summary": "From living in his car to various college offices, Washington defensive coordinator Daronte Jones has paid his dues.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49815548/odell-beckham-jr-got-fans-teammates-agree",
         "publishedAt": "2026-09-05T19:07:23Z",
         "summary": "The WR is back with New York after eight years. Fans and teammates are all in on OBJ's New York revival.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49818325/arizona-cardinals-trey-mcbride-andrew-wingard",
         "publishedAt": "2026-09-05T10:25:58Z",
         "summary": "With college feud behind them, the Cardinals' No. 1 tight end and veteran safety are becoming fast friends.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49818803/cincinnati-bengals-chase-brown-outlook-2026",
         "publishedAt": "2026-09-05T10:28:57Z",
         "summary": "The Bengals plan to reduce dramatically their shotgun snaps in hopes of using Brown more all over the field.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49785060/2026-nfl-rookies-guide-fantasy-picks-stat-projections-top-qbs-roy",
         "publishedAt": "2026-09-05T10:00:29Z",
         "summary": "Here's what to know about this group of rookies, including Rookie of the Year front-runners, fantasy favorites and QB updates.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49833275/mcg-nfl-transformation-begins-goalposts-go-up",
         "publishedAt": "2026-09-05T08:53:08Z",
         "summary": "Preparations are ramping up at Melbourne Cricket Ground as the goalposts rise into place inside one week until kickoff between the LA Rams and San Francisco 49ers.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Liz Loza thinks you should consider drafting Saquon Barkley",
-        "url": "https://www.espn.com/video/clip/_/id/49829130/why-liz-loza-thinks-consider-drafting-saquon-barkley",
-        "publishedAt": "2026-09-04T23:10:25Z",
-        "summary": "Why Liz Loza thinks you should consider drafting Saquon Barkley",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
