@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:29:15.806Z",
+  "updatedAt": "2026-09-07T10:27:12.948Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,47 @@
     ],
     "espn": [
       {
+        "title": "Four biggest questions facing Lamar Jackson and Ravens",
+        "url": "https://www.espn.com/nfl/story/_/id/49816728/biggest-questions-facing-lamar-jackson-baltimore-ravens-2026",
+        "publishedAt": "2026-09-07T10:00:01Z",
+        "summary": "Despite heightened expectations of success, the Ravens have a handful of questions to answer.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "C.J. Stroud confident ahead of the biggest season of his life",
+        "url": "https://www.espn.com/nfl/story/_/id/49826332/houston-texans-cj-stroud-confident-contract-year-4",
+        "publishedAt": "2026-09-07T10:00:01Z",
+        "summary": "After a rocky end in the playoffs last season, it appears Stroud will play Year 4 without a new contract.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bears' offseason party is over as toughest schedule looms",
+        "url": "https://www.espn.com/nfl/story/_/id/49850796/chicago-bears-offseason-party-toughest-2026-nfl-schedule-looms",
+        "publishedAt": "2026-09-07T10:00:11Z",
+        "summary": "Chicago has eight games against teams that made the '25 playoffs, so the time to celebrate last season is over.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Life after football: Joshua Kelley's path to filmmaking after the NFL",
+        "url": "https://www.espn.com/nfl/story/_/id/49816710/los-angeles-chargers-titans-giants-joshua-kelley-football-players-turned-movie-director",
+        "publishedAt": "2026-09-07T10:00:05Z",
+        "summary": "We caught up with former Chargers player Joshua Kelley about life and filmaking after his NFL career.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "NFL's success in Africa has changed scouting process, says Osi Umenyiora",
         "url": "https://www.espn.com/espn/story/_/id/49857261/nfl-success-africa-changed-scouting-process-says-osi-umenyiora",
         "publishedAt": "2026-09-07T09:05:25Z",
         "summary": "Former NFL star and current coach Osi Umenyiora told ESPN that while in the past, he and his networks had to scout relentlessly for talent in Africa, the success of its recent homegrown stars has led prospects to approach scouts directly.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49856252/49ers-happy-australia-call-cool-experience",
         "publishedAt": "2026-09-07T05:32:50Z",
         "summary": "Having been here since early Friday morning, Kyle Shanahan's concerns about taking part in the NFL's first regular-season game in Australia have dissipated.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49853118/rams-expect-puka-nacua-alaric-jackson-play-vs-49ers",
         "publishedAt": "2026-09-07T04:42:05Z",
         "summary": "The Rams do not expect wide receiver Puka Nacua and left tackle Alaric Jackson to be suspended for the season opener against the 49ers despite ongoing legal situations, head coach Sean McVay said.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49825684/nfl-team-previews-2026-predictions-fantasy-nuggets-rankings-depth-charts",
         "publishedAt": "2026-09-06T22:37:58Z",
         "summary": "Here's everything you need to know for the 2026 regular season, including how all 32 NFL teams rank and key stats ahead of Week 1.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49585132/2026-fantasy-football-rankings-quarterback-tiers-qb",
         "publishedAt": "2026-09-06T21:22:44Z",
         "summary": "Creating your own rankings tiers is an essential part of draft prep. Matt Bowen gives you a head start.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49585178/2026-fantasy-football-rankings-tight-end-tiers-te",
         "publishedAt": "2026-09-06T21:23:05Z",
         "summary": "Matt Bowen breaks his tight ends into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49649506/fantasy-football-rankings-wide-receivers-tiers-draft",
         "publishedAt": "2026-09-06T21:22:14Z",
         "summary": "Eric Karabell puts his wide receiver rankings into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,42 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49614875/2026-fantasy-football-rankings-running-back-tiers-rb",
         "publishedAt": "2026-09-06T21:21:39Z",
         "summary": "Eric Karabell breaks his running backs into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "McDaniels: Rematch with Seahawks will be different for Pats",
-        "url": "https://www.espn.com/nfl/story/_/id/49852513/mcdaniels-rematch-seahawks-different-pats",
-        "publishedAt": "2026-09-06T21:14:45Z",
-        "summary": "Josh McDaniels didn't mince words when asked what he learned from how the Seahawks terrorized quarterback Drake Maye in Super Bowl LX in February. \"I didn't do a good enough job. Point it at me,\" he said.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants reach 2-year extensions with Jameis Winston, Jon Runyan",
-        "url": "https://www.espn.com/nfl/story/_/id/49852419/source-giants-qb-jameis-winston-reach-2-year-13m-extension",
-        "publishedAt": "2026-09-06T23:11:39Z",
-        "summary": "The Giants and backup quarterback Jameis Winston have agreed to a two-year, $13 million contract extension, a source confirmed to ESPN amid multiple reports.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Could George Kittle return in Week 1 for the 49ers?",
-        "url": "https://www.espn.com/video/clip/_/id/49852368/could-george-kittle-return-week-1-49ers",
-        "publishedAt": "2026-09-06T20:55:25Z",
-        "summary": "Nick Wagoner breaks down the approach the 49ers are taking in preparation for George Kittle's return from injury.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL commissioner Roger Goodell agrees to four-year extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49850050/nfl-commissioner-roger-goodell-finalizes-four-year-extension",
-        "publishedAt": "2026-09-06T18:38:46Z",
-        "summary": "NFL commissioner Roger Goodell has finalized a new four-season extension that runs through the 2030 season.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers Depth Chart: We still don’t know who will start at cornerback",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/86017/packers-depth-chart-we-still-dont-know-who-will-start-at-cornerback",
+        "publishedAt": "2026-09-07T06:00:00-04:00",
+        "summary": "Last week, we went through an exercise where we tried to pin down which 48 players among the Green Bay Packers’ 53-man roster would actually make the cut for being game-day actives against the Minnesota Vikings in the team’s Week 1 regular-season opener. Today, I want to focus less on the back end of the [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Preview: Get ready for Edgerrin Cooper playing on the edge",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86011/packers-preview-get-ready-for-edgerrin-cooper-playing-on-the-edge",
         "publishedAt": "2026-09-06T15:11:58-04:00",
         "summary": "One of the biggest changes you’re going to notice about new defensive coordinator Jonathan Gannon’s scheme is his Penny package, which is essentially a 3-4 defense on the line of scrimmage with one true off-ball linebacker, split safeties and another deeper safety in the middle of the field. Green Bay Packers fans are familiar with [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86008/vikings-sign-s-harrison-smith-ahead-of-week-1-matchup-with-packers",
         "publishedAt": "2026-09-05T19:26:50-04:00",
         "summary": "According to NFL Network/ESPN’s Mike Garafolo, the Minnesota Vikings have signed safety Harrison Smith to a one-year, $12.25 million contract going into this week’s matchup against the Green Bay Packers. Smith had previously played for the Vikings, earning All-Pro honors in 2017 and 2018, before being released by Minnesota at the start of the new [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86000/packers-to-work-out-ufl-mvp-jack-plummer-next-week",
         "publishedAt": "2026-09-05T01:21:38-04:00",
         "summary": "According to NFL insider Aaron Wilson, the Green Bay Packers will work out Jack Plummer, the UFL’s 2026 MVP and passing leader, next week. This is an interesting move, as the Packers just signed quarterback Kedon Slovis to their practice squad earlier this week and the team still has one remaining practice squad spot open. [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85997/referee-announced-for-packers-week-1-matchup-vs-vikings",
         "publishedAt": "2026-09-04T20:30:10-04:00",
         "summary": "The NFL has announced its Week 1 referee assignments, and the Green Bay Packers, who will open the season against the Minnesota Vikings in Minneapolis, will start the year with Shawn Hochuli. Hochuli’s crews have been known to be flag-happy, as they are the only ones to have ranked among the top four in the [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85989/josh-jacobs-initial-hearing-has-been-moved-up-by-several-months",
         "publishedAt": "2026-09-04T16:02:12-04:00",
         "summary": "Green Bay Packers running back Josh Jacobs was placed on the NFL’s commissioner exempt list before the league’s final cutdowns to teams’ initial 53-man rosters for the 2026 season. The Packers’ brass has stated that they will stand by Jacobs, who is currently set to face charges of battery and criminal damage in Brown County, [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85970/packers-preview-what-to-expect-from-a-marshawn-lloyd-running-game",
         "publishedAt": "2026-09-04T15:43:42-04:00",
         "summary": "The Green Bay Packers’ running game is going to be a bit of a mystery box going into the 2026 regular season. Not only is starting running back Josh Jacobs on the commissioner exempt list, but the players who will backfill Jacobs’ carries have never been significant ball-carriers at the NFL level, and the Packers’ [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85982/packers-can-be-optimistic-about-forcing-turnovers-in-2026",
         "publishedAt": "2026-09-04T13:02:03-04:00",
         "summary": "A little over a year ago, I wrote about the Packers’ defense and its plans for 2025. Heading into the second year of the Jeff Hafley era, the Packers wanted to force even more turnovers than they had in 2024, which I argued was an admirable but misguided plan. “Get more turnovers” isn’t really a [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/85958/the-packers-2026-schedule-is-mostly-friendly-for-out-of-market-fans-across-the-us",
         "publishedAt": "2026-09-04T10:00:00-04:00",
         "summary": "Being a fan of one of the NFL’s biggest fan bases has its perks. For Green Bay Packers fans living in the United States but outside of the team’s home television markets, nationally televised games are a welcome sight. Fans can certainly debate the time slot that they prefer based on their own circumstances, but [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85974/green-bay-packers-news-1923-throwback-uniforms-return-in-december",
         "publishedAt": "2026-09-04T08:45:00-04:00",
         "summary": "You didn’t think the Green Bay Packers would have just a single game in alternate uniforms this season, did you? Hopefully not, because Thursday afternoon brought the news that the team will once again be bringing out their “1923 Classic” threads later this season. This alternate uniform, which debuted last season in a home game [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Madden Curse is real and it’s coming for the Bears",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85961/the-madden-curse-is-real-and-its-coming-for-the-bears",
-        "publishedAt": "2026-09-04T08:00:00-04:00",
-        "summary": "I live in suburban Chicago Illinois, which has several benefits. One of the big benefits is that I get to hear overconfident Bears fans on the radio, which I enjoy more than hearing overconfident Green Bay Packers fans on the radio. Don’t get me wrong, I’m not at all against proclaiming the superiority of your [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
