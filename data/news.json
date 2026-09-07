@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:28:36.689Z",
+  "updatedAt": "2026-09-07T08:29:35.253Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "NFL's success in Africa has changed scouting process, says Osi Umenyiora",
+        "url": "https://www.espn.com/espn/story/_/id/49857261/nfl-success-africa-changed-scouting-process-says-osi-umenyiora",
+        "publishedAt": "2026-09-07T07:55:08Z",
+        "summary": "Former NFL star and current coach Osi Umenyiora told ESPN that while in the past, he and his networks had to scout relentlessly for talent in Africa, the success of its recent homegrown stars has led prospects to approach scouts directly.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "49ers happy to be in Australia, call it 'a cool experience'",
         "url": "https://www.espn.com/nfl/story/_/id/49856252/49ers-happy-australia-call-cool-experience",
         "publishedAt": "2026-09-07T05:32:50Z",
         "summary": "Having been here since early Friday morning, Kyle Shanahan's concerns about taking part in the NFL's first regular-season game in Australia have dissipated.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49853118/rams-expect-puka-nacua-alaric-jackson-play-vs-49ers",
         "publishedAt": "2026-09-07T04:42:05Z",
         "summary": "The Rams do not expect wide receiver Puka Nacua and left tackle Alaric Jackson to be suspended for the season opener against the 49ers despite ongoing legal situations, head coach Sean McVay said.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49825684/nfl-team-previews-2026-predictions-fantasy-nuggets-rankings-depth-charts",
         "publishedAt": "2026-09-06T22:37:58Z",
         "summary": "Here's everything you need to know for the 2026 regular season, including how all 32 NFL teams rank and key stats ahead of Week 1.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49585132/2026-fantasy-football-rankings-quarterback-tiers-qb",
         "publishedAt": "2026-09-06T21:22:44Z",
         "summary": "Creating your own rankings tiers is an essential part of draft prep. Matt Bowen gives you a head start.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49585178/2026-fantasy-football-rankings-tight-end-tiers-te",
         "publishedAt": "2026-09-06T21:23:05Z",
         "summary": "Matt Bowen breaks his tight ends into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +171,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49649506/fantasy-football-rankings-wide-receivers-tiers-draft",
         "publishedAt": "2026-09-06T21:22:14Z",
         "summary": "Eric Karabell puts his wide receiver rankings into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49614875/2026-fantasy-football-rankings-running-back-tiers-rb",
         "publishedAt": "2026-09-06T21:21:39Z",
         "summary": "Eric Karabell breaks his running backs into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49852513/mcdaniels-rematch-seahawks-different-pats",
         "publishedAt": "2026-09-06T21:14:45Z",
         "summary": "Josh McDaniels didn't mince words when asked what he learned from how the Seahawks terrorized quarterback Drake Maye in Super Bowl LX in February. \"I didn't do a good enough job. Point it at me,\" he said.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49852419/source-giants-qb-jameis-winston-reach-2-year-13m-extension",
         "publishedAt": "2026-09-06T23:11:39Z",
         "summary": "The Giants and backup quarterback Jameis Winston have agreed to a two-year, $13 million contract extension, a source confirmed to ESPN amid multiple reports.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49852368/could-george-kittle-return-week-1-49ers",
         "publishedAt": "2026-09-06T20:55:25Z",
         "summary": "Nick Wagoner breaks down the approach the 49ers are taking in preparation for George Kittle's return from injury.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49850050/nfl-commissioner-roger-goodell-finalizes-four-year-extension",
         "publishedAt": "2026-09-06T18:38:46Z",
         "summary": "NFL commissioner Roger Goodell has finalized a new four-season extension that runs through the 2030 season.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "The story behind Steelers' viral field blessing: 'God doesn't pick sides'",
-        "url": "https://www.espn.com/nfl/story/_/id/49828101/story-pittsburgh-steelers-acrisure-stadium-field-blessing-god-doesnt-pick-sides-sacrament-superstition-ravens-playoff",
-        "publishedAt": "2026-09-06T10:24:37Z",
-        "summary": "A missed Ravens field goal turned a routine blessing into NFL folklore. The prior of Saint Vincent Archabbey is still trying to separate faith from superstition.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
