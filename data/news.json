@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T19:24:26.086Z",
+  "updatedAt": "2026-09-07T20:26:17.974Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Colts WR Alec Pierce (ankle) expected to play in Week 1",
+        "url": "https://www.espn.com/nfl/story/_/id/49862004/colts-wr-alec-pierce-ankle-expected-play-week-1",
+        "publishedAt": "2026-09-07T20:16:59Z",
+        "summary": "Colts wide receiver Alec Pierce \"should be good to go,\" for the team's season opener against the Ravens after having offseason ankle surgery, coach Shane Steichen said.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cowboys guard Tyler Smith to have thumb surgery, headed for IR",
+        "url": "https://www.espn.com/nfl/story/_/id/49861767/cowboys-guard-tyler-smith-thumb-surgery-headed-ir",
+        "publishedAt": "2026-09-07T20:17:05Z",
+        "summary": "Cowboys starting left guard Tyler Smith will undergo thumb surgery and is headed to injured reserve, coach Brian Schottenheimer said Monday.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How to bet the 2026 NFL season: Odds, tips and our best picks",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
+        "publishedAt": "2026-09-07T19:33:34Z",
+        "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Monken: Browns could 'possibly' have plays designed for Taylen Green",
         "url": "https://www.espn.com/video/clip/_/id/49861258/browns-possibly-plays-designed-taylen-green",
         "publishedAt": "2026-09-07T18:41:55Z",
         "summary": "Monken: Browns could 'possibly' have plays designed for Taylen Green",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49861093/titans-offensive-line-taking-more-aggressive-mindset-season",
         "publishedAt": "2026-09-07T19:23:07Z",
         "summary": "The Titans' offensive line is working to develop a more aggressive, enforcing mindset this season under offensive line coach Carmen Bricillo and assistant offensive line coach Isaac Williams.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49860952/browns-package-plays-rookie-qb-green-monken-says",
         "publishedAt": "2026-09-07T18:42:23Z",
         "summary": "Browns coach Todd Monken said Monday that rookie quarterback Taylen Green could have a package of plays on game day to utilize his athleticism.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49860685/penix-needs-more-get-ready-falcons",
         "publishedAt": "2026-09-07T17:22:36Z",
         "summary": "Schefter to McAfee: Penix needs more time to get ready for Falcons",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49860580/bears-super-bowl-champion-fullback-matt-suhey-dies-68",
         "publishedAt": "2026-09-07T17:32:41Z",
         "summary": "Matt Suhey, a fullback who helped Walter Payton and the Chicago Bears win the 1985 NFL championship, has died. He was 68.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49860049/niners-head-coach-kyle-shanahan-expects-playing-donald-week-1",
         "publishedAt": "2026-09-07T15:27:21Z",
         "summary": "Sarah Barshop provides the latest update on Aaron Donald ahead of Week 1 of the NFL season.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49466417/nfl-week-1-betting-odds-props-early-picks-predictions-first-bet",
         "publishedAt": "2026-09-07T15:51:41Z",
         "summary": "What lines offered immediate value once odds came out? Here are four early bets to track.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49428822/2026-nfl-week-1-schedule-odds-betting-point-spreads-totals",
         "publishedAt": "2026-09-07T14:45:13Z",
         "summary": "Odds, spreads, totals and FPI predictions for all 16 NFL games in Week 1.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49723002/nfl-betting-storylines-2026-odds-super-bowl-mvp-predictions",
         "publishedAt": "2026-09-07T13:07:58Z",
         "summary": "From favorites to underdogs, popular bets to surprising plays and everything in between, this is what the 2026 NFL season looks like from a betting lens.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Orlovsky: Tua felt like the only decision for Falcons for majority of offseason",
-        "url": "https://www.espn.com/video/clip/_/id/49859020/tua-felt-only-decision-falcons-majority-offseason",
-        "publishedAt": "2026-09-07T17:32:55Z",
-        "summary": "Orlovsky: Tua felt like the only decision for Falcons for majority of offseason",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Falcons name Tua Tagovailoa Week 1 starting QB vs. Steelers",
-        "url": "https://www.espn.com/nfl/story/_/id/49858957/falcons-name-tua-tagovailoa-week-1-starting-qb-vs-steelers",
-        "publishedAt": "2026-09-07T17:53:19Z",
-        "summary": "Tua Tagovailoa will be the starting quarterback for the Falcons against the Steelers in Week 1.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mike Vrabel emerged from his offseason scandal. Its effects linger",
-        "url": "https://www.espn.com/nfl/story/_/id/49833532/mike-vrabel-dianna-russini-new-england-patriots-offseason-nfl",
-        "publishedAt": "2026-09-07T15:40:39Z",
-        "summary": "Mike Vrabel and the New England Patriots moved past the Dianna Russini scandal. Others are still feeling its effects.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
