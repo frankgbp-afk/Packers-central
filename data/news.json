@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:27:12.948Z",
+  "updatedAt": "2026-09-07T11:27:39.878Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Mike Vrabel emerged from his offseason scandal. Its effects linger",
+        "url": "https://www.espn.com/nfl/story/_/id/49833532/mike-vrabel-dianna-russini-new-england-patriots-offseason-nfl",
+        "publishedAt": "2026-09-07T11:22:07Z",
+        "summary": "Mike Vrabel and the New England Patriots moved past the Dianna Russini scandal. Others are still feeling its effects.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL season sim: Predictions, surprises, playoff teams",
+        "url": "https://www.espn.com/nfl/story/_/id/49795320/2026-nfl-season-simulation-fpi-predictions-playoffs-super-bowl-champion",
+        "publishedAt": "2026-09-07T10:35:00Z",
+        "summary": "We played out one of the Football Power Index's 10,000 season simulations (No. 9,187), from Week 1 through Super Bowl LXI.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Four biggest questions facing Lamar Jackson and Ravens",
         "url": "https://www.espn.com/nfl/story/_/id/49816728/biggest-questions-facing-lamar-jackson-baltimore-ravens-2026",
         "publishedAt": "2026-09-07T10:00:01Z",
         "summary": "Despite heightened expectations of success, the Ravens have a handful of questions to answer.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49826332/houston-texans-cj-stroud-confident-contract-year-4",
         "publishedAt": "2026-09-07T10:00:01Z",
         "summary": "After a rocky end in the playoffs last season, it appears Stroud will play Year 4 without a new contract.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49850796/chicago-bears-offseason-party-toughest-2026-nfl-schedule-looms",
         "publishedAt": "2026-09-07T10:00:11Z",
         "summary": "Chicago has eight games against teams that made the '25 playoffs, so the time to celebrate last season is over.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49816710/los-angeles-chargers-titans-giants-joshua-kelley-football-players-turned-movie-director",
         "publishedAt": "2026-09-07T10:00:05Z",
         "summary": "We caught up with former Chargers player Joshua Kelley about life and filmaking after his NFL career.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/espn/story/_/id/49857261/nfl-success-africa-changed-scouting-process-says-osi-umenyiora",
         "publishedAt": "2026-09-07T09:05:25Z",
         "summary": "Former NFL star and current coach Osi Umenyiora told ESPN that while in the past, he and his networks had to scout relentlessly for talent in Africa, the success of its recent homegrown stars has led prospects to approach scouts directly.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49856252/49ers-happy-australia-call-cool-experience",
         "publishedAt": "2026-09-07T05:32:50Z",
         "summary": "Having been here since early Friday morning, Kyle Shanahan's concerns about taking part in the NFL's first regular-season game in Australia have dissipated.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49853118/rams-expect-puka-nacua-alaric-jackson-play-vs-49ers",
         "publishedAt": "2026-09-07T04:42:05Z",
         "summary": "The Rams do not expect wide receiver Puka Nacua and left tackle Alaric Jackson to be suspended for the season opener against the 49ers despite ongoing legal situations, head coach Sean McVay said.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49825684/nfl-team-previews-2026-predictions-fantasy-nuggets-rankings-depth-charts",
         "publishedAt": "2026-09-06T22:37:58Z",
         "summary": "Here's everything you need to know for the 2026 regular season, including how all 32 NFL teams rank and key stats ahead of Week 1.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49585132/2026-fantasy-football-rankings-quarterback-tiers-qb",
         "publishedAt": "2026-09-06T21:22:44Z",
         "summary": "Creating your own rankings tiers is an essential part of draft prep. Matt Bowen gives you a head start.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49585178/2026-fantasy-football-rankings-tight-end-tiers-te",
         "publishedAt": "2026-09-06T21:23:05Z",
         "summary": "Matt Bowen breaks his tight ends into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings: Eric Karabell's wide receiver tiers for 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49649506/fantasy-football-rankings-wide-receivers-tiers-draft",
-        "publishedAt": "2026-09-06T21:22:14Z",
-        "summary": "Eric Karabell puts his wide receiver rankings into tiers, helping you identify where value drops off throughout the draft.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings: Eric Karabell's running back tiers for 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49614875/2026-fantasy-football-rankings-running-back-tiers-rb",
-        "publishedAt": "2026-09-06T21:21:39Z",
-        "summary": "Eric Karabell breaks his running backs into tiers, helping you identify where value drops off throughout the draft.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
