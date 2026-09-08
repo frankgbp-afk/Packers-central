@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T01:12:13.914Z",
+  "updatedAt": "2026-09-08T05:58:02.953Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Sources: Christian Gonzalez, Patriots reach 4-year, $135M deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49865736/sources-christian-gonzalez-patriots-reach-4-year-135m-deal",
+        "publishedAt": "2026-09-08T05:54:28Z",
+        "summary": "The Patriots and Christian Gonzalez agreed to terms on a four-year, $135 million extension that makes him the highest-paid CB in NFL history.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers' Nick Bosa set to face Rams; George Kittle 'looks good'",
+        "url": "https://www.espn.com/nfl/story/_/id/49865098/49ers-nick-bosa-set-face-rams-george-kittle-looks-good",
+        "publishedAt": "2026-09-08T04:10:55Z",
+        "summary": "All signs point toward San Francisco's Nick Bosa and George Kittle playing in Thursday's season opener versus the Rams.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Aaron Donald pleased with progress as Rams' opener nears",
+        "url": "https://www.espn.com/nfl/story/_/id/49864788/aaron-donald-pleased-progress-rams-opener-nears",
+        "publishedAt": "2026-09-08T03:06:17Z",
+        "summary": "After two seasons out of football, defensive lineman Aaron Donald, 35, has been pleasantly surprised by how his body has reacted since rejoining the Los Angeles Rams last month, telling reporters on Monday that he is \"feeling good. Feeling really good.\"",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Titans' Cedric Gray in concussion protocol after UTV accident",
         "url": "https://www.espn.com/nfl/story/_/id/49862818/titans-cedric-gray-concussion-protocol-utv-accident",
         "publishedAt": "2026-09-07T22:25:09Z",
         "summary": "Titans placed LB Cedric Gray under the NFL's concussion protocol after he was involved in a UTV accident in Tennessee over the weekend.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-09-07T23:18:39Z",
         "summary": "Matt Bowen looks at what Tua Tagovailoa starting means for Bijan Robinson, Drake London and Kyle Pitts Sr.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +162,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49862561/cardinals-optimistic-rookie-rb-love-ready-opener",
         "publishedAt": "2026-09-07T21:57:05Z",
         "summary": "Cardinals coach Mike LaFleur is optimistic that rookie running back Jeremiyah Love will be able to play Sunday at the Chargers, about four weeks after suffering a high ankle sprain in a preseason game.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Giants release WR Darius Slayton, team's longest-tenured player",
         "url": "https://www.espn.com/nfl/story/_/id/49862543/giants-release-wr-darius-slayton-team-longest-tenured-player",
-        "publishedAt": "2026-09-07T22:15:44Z",
+        "publishedAt": "2026-09-08T02:08:11Z",
         "summary": "The Giants have released wide receiver Darius Slayton, moving on from their longest-tenured player.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49862331/ravens-name-gwyn-start-center-begin-post-linderbaum-era",
         "publishedAt": "2026-09-07T21:51:03Z",
         "summary": "Ravens coach Jesse Minter announced Jovaughn Gwyn will be Baltimore's starting center for the season opener at the Colts.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49862203/tua-tagovailoa-gets-week-1-start-atlanta",
         "publishedAt": "2026-09-07T20:44:24Z",
         "summary": "Marc Raimondi discusses the status of the Falcons QB room ahead of week 1 of the NFL season.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49862136/cj-stroud-hoping-big-year-ahead-future-contract-talks",
         "publishedAt": "2026-09-07T20:39:22Z",
         "summary": "DJ Bien-Aime breaks down his interview with C.J. Stroud and Stroud's hopes for the season ahead.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49862004/colts-wr-alec-pierce-ankle-expected-play-week-1",
         "publishedAt": "2026-09-07T20:38:11Z",
         "summary": "Colts wide receiver Alec Pierce \"should be good to go\" for the team's season opener against the Ravens after having offseason ankle surgery, coach Shane Steichen said.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49861767/cowboys-guard-tyler-smith-thumb-surgery-headed-ir",
         "publishedAt": "2026-09-07T20:17:05Z",
         "summary": "Cowboys starting left guard Tyler Smith will undergo thumb surgery and is headed to injured reserve, coach Brian Schottenheimer said Monday.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How to bet the 2026 NFL season: Odds, tips and our best picks",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
-        "publishedAt": "2026-09-07T19:33:34Z",
-        "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Monken: Browns could 'possibly' have plays designed for Taylen Green",
-        "url": "https://www.espn.com/video/clip/_/id/49861258/browns-possibly-plays-designed-taylen-green",
-        "publishedAt": "2026-09-07T18:41:55Z",
-        "summary": "Monken: Browns could 'possibly' have plays designed for Taylen Green",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Titans offensive line eyes more aggressive mindset this season",
-        "url": "https://www.espn.com/nfl/story/_/id/49861093/titans-offensive-line-taking-more-aggressive-mindset-season",
-        "publishedAt": "2026-09-07T19:23:07Z",
-        "summary": "The Titans' offensive line is working to develop a more aggressive, enforcing mindset this season under offensive line coach Carmen Bricillo and assistant offensive line coach Isaac Williams.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -227,7 +227,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86031/green-bay-packers-name-team-captains-for-2026",
         "publishedAt": "2026-09-07T19:21:08-04:00",
         "summary": "The Green Bay Packers have named captains in several different ways under head coach Matt LaFleur, but it appears that they’ll be rolling with a season-long set of five captains in 2026, based on the team’s announcement on Monday. In the past, the team has also rotated captains on a game-by-game basis, as we all [&#8230;]",
-        "image": "data/news-images/acme-0.jpg",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86028/tucker-kraft-named-nfls-3-player-on-an-expiring-contract",
         "publishedAt": "2026-09-07T10:35:44-04:00",
         "summary": "If you can believe it, there are already people looking toward the 2027 NFL free-agent cycle. Greg Rosenthal of NFL.com posted an article this week laying out the top 25 possible free agents for next year’s free-agent class heading into the 2026 regular season. Coming third on the list is the Green Bay Packers’ Tucker [&#8230;]",
-        "image": "data/news-images/acme-1.jpg",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
