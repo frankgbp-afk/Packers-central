@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:58:02.953Z",
+  "updatedAt": "2026-09-08T11:18:02.924Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Four keys for betting the 2026 NFL season, plus three early prop plays",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49674623/nfl-betting-guide-2026-strategy-tips-odds-props-parlays",
+        "publishedAt": "2026-09-08T10:47:22Z",
+        "summary": "Ben Solak offers his keys to betting the 2026 NFL season, strategies and early bets before Week 1.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Panthers banking on RBs Hubbard, Brooks despite injury histories",
+        "url": "https://www.espn.com/nfl/story/_/id/49860263/carolina-panthers-banking-running-backs-chuba-hubbard-jonathon-brooks-injury-histories",
+        "publishedAt": "2026-09-08T10:00:02Z",
+        "summary": "Carolina wants to run the ball more, but how will each back -- including AJ Dillon -- handle the workload?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFC East: Sizing up the Cowboys, Eagles, Giants and Commanders",
+        "url": "https://www.espn.com/nfl/story/_/id/49803391/nfl-nfc-east-cowboys-giants-eagles-commanders-dak-prescott-malik-nabers-jayden-daniels-jalen-hurts",
+        "publishedAt": "2026-09-08T10:00:03Z",
+        "summary": "Our reporters discuss what needs to go right for the Eagles, Cowboys, Commanders and Giants in 2026.",
+        "image": "data/news-images/espn-2.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Todd Monken, QBs, the Browns and a lifetime in pursuit",
+        "url": "https://www.espn.com/nfl/story/_/id/49860607/todd-monken-cleveland-browns-quarterbacks-life-pursuit-2026-head-coach",
+        "publishedAt": "2026-09-08T10:00:12Z",
+        "summary": "At age 60, the first-time head coach brings to Cleveland a gritty resolve, an ability to cut through to QBs and a dream that this will be \"my last job.\"",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Can Patriots QB Drake Maye repeat MVP-caliber season in 2026?",
+        "url": "https://www.espn.com/nfl/story/_/id/49860900/new-england-patriots-qb-drake-maye-2026-nfl-season-aj-brown",
+        "publishedAt": "2026-09-08T10:00:11Z",
+        "summary": "The New England quarterback is letting the Super Bowl loss motivate him in 2026, starting with the rematch at Seahawks on Wednesday.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL execs predict 2026 award winners: MVP, top rookies, more",
+        "url": "https://www.espn.com/nfl/story/_/id/49859670/2026-nfl-season-executives-award-winners-mvp-rookies-honors-breakouts",
+        "publishedAt": "2026-09-08T10:11:33Z",
+        "summary": "Who will win MVP? Who will take Offensive and Defensive Rookie of the Year? Who is primed for a breakout? We asked execs and scouts for their picks.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Sources: Christian Gonzalez, Patriots reach 4-year, $135M deal",
         "url": "https://www.espn.com/nfl/story/_/id/49865736/sources-christian-gonzalez-patriots-reach-4-year-135m-deal",
-        "publishedAt": "2026-09-08T05:54:28Z",
+        "publishedAt": "2026-09-08T07:18:04Z",
         "summary": "The Patriots and Christian Gonzalez agreed to terms on a four-year, $135 million extension that makes him the highest-paid CB in NFL history.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49865098/49ers-nick-bosa-set-face-rams-george-kittle-looks-good",
         "publishedAt": "2026-09-08T04:10:55Z",
         "summary": "All signs point toward San Francisco's Nick Bosa and George Kittle playing in Thursday's season opener versus the Rams.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49864788/aaron-donald-pleased-progress-rams-opener-nears",
         "publishedAt": "2026-09-08T03:06:17Z",
         "summary": "After two seasons out of football, defensive lineman Aaron Donald, 35, has been pleasantly surprised by how his body has reacted since rejoining the Los Angeles Rams last month, telling reporters on Monday that he is \"feeling good. Feeling really good.\"",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49862818/titans-cedric-gray-concussion-protocol-utv-accident",
         "publishedAt": "2026-09-07T22:25:09Z",
         "summary": "Titans placed LB Cedric Gray under the NFL's concussion protocol after he was involved in a UTV accident in Tennessee over the weekend.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-09-07T23:18:39Z",
         "summary": "Matt Bowen looks at what Tua Tagovailoa starting means for Bijan Robinson, Drake London and Kyle Pitts Sr.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49862561/cardinals-optimistic-rookie-rb-love-ready-opener",
         "publishedAt": "2026-09-07T21:57:05Z",
         "summary": "Cardinals coach Mike LaFleur is optimistic that rookie running back Jeremiyah Love will be able to play Sunday at the Chargers, about four weeks after suffering a high ankle sprain in a preseason game.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants release WR Darius Slayton, team's longest-tenured player",
-        "url": "https://www.espn.com/nfl/story/_/id/49862543/giants-release-wr-darius-slayton-team-longest-tenured-player",
-        "publishedAt": "2026-09-08T02:08:11Z",
-        "summary": "The Giants have released wide receiver Darius Slayton, moving on from their longest-tenured player.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ravens name Gwyn to start at center to begin post-Linderbaum era",
-        "url": "https://www.espn.com/nfl/story/_/id/49862331/ravens-name-gwyn-start-center-begin-post-linderbaum-era",
-        "publishedAt": "2026-09-07T21:51:03Z",
-        "summary": "Ravens coach Jesse Minter announced Jovaughn Gwyn will be Baltimore's starting center for the season opener at the Colts.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tua Tagovailoa gets the Week 1 start for Atlanta",
-        "url": "https://www.espn.com/video/clip/_/id/49862203/tua-tagovailoa-gets-week-1-start-atlanta",
-        "publishedAt": "2026-09-07T20:44:24Z",
-        "summary": "Marc Raimondi discusses the status of the Falcons QB room ahead of week 1 of the NFL season.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "C.J. Stroud hoping to have a big year ahead of future contract talks",
-        "url": "https://www.espn.com/video/clip/_/id/49862136/cj-stroud-hoping-big-year-ahead-future-contract-talks",
-        "publishedAt": "2026-09-07T20:39:22Z",
-        "summary": "DJ Bien-Aime breaks down his interview with C.J. Stroud and Stroud's hopes for the season ahead.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Colts WR Alec Pierce (ankle) expected to play in Week 1",
-        "url": "https://www.espn.com/nfl/story/_/id/49862004/colts-wr-alec-pierce-ankle-expected-play-week-1",
-        "publishedAt": "2026-09-07T20:38:11Z",
-        "summary": "Colts wide receiver Alec Pierce \"should be good to go\" for the team's season opener against the Ravens after having offseason ankle surgery, coach Shane Steichen said.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cowboys guard Tyler Smith to have thumb surgery, headed for IR",
-        "url": "https://www.espn.com/nfl/story/_/id/49861767/cowboys-guard-tyler-smith-thumb-surgery-headed-ir",
-        "publishedAt": "2026-09-07T20:17:05Z",
-        "summary": "Cowboys starting left guard Tyler Smith will undergo thumb surgery and is headed to injured reserve, coach Brian Schottenheimer said Monday.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Green Bay Roster: Breaking down the new Packers for 2026 and their roles",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86033/green-bay-roster-breaking-down-the-new-packers-for-2026-and-their-roles",
+        "publishedAt": "2026-09-08T06:00:00-04:00",
+        "summary": "As of now, the Green Bay Packers have 15 new players on their 53-man roster who weren’t a part of the team in 2025. Today, we’re going to break down every single one of these new players and what their expected roles on the team are, in case you missed any of the new from [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Green Bay Packers name team captains for 2026",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86031/green-bay-packers-name-team-captains-for-2026",
         "publishedAt": "2026-09-07T19:21:08-04:00",
         "summary": "The Green Bay Packers have named captains in several different ways under head coach Matt LaFleur, but it appears that they’ll be rolling with a season-long set of five captains in 2026, based on the team’s announcement on Monday. In the past, the team has also rotated captains on a game-by-game basis, as we all [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86028/tucker-kraft-named-nfls-3-player-on-an-expiring-contract",
         "publishedAt": "2026-09-07T10:35:44-04:00",
         "summary": "If you can believe it, there are already people looking toward the 2027 NFL free-agent cycle. Greg Rosenthal of NFL.com posted an article this week laying out the top 25 possible free agents for next year’s free-agent class heading into the 2026 regular season. Coming third on the list is the Green Bay Packers’ Tucker [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/86017/packers-depth-chart-we-still-dont-know-who-will-start-at-cornerback",
         "publishedAt": "2026-09-07T06:00:00-04:00",
         "summary": "Last week, we went through an exercise where we tried to pin down which 48 players among the Green Bay Packers’ 53-man roster would actually make the cut for being game-day actives against the Minnesota Vikings in the team’s Week 1 regular-season opener. Today, I want to focus less on the back end of the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86011/packers-preview-get-ready-for-edgerrin-cooper-playing-on-the-edge",
         "publishedAt": "2026-09-06T15:11:58-04:00",
         "summary": "One of the biggest changes you’re going to notice about new defensive coordinator Jonathan Gannon’s scheme is his Penny package, which is essentially a 3-4 defense on the line of scrimmage with one true off-ball linebacker, split safeties and another deeper safety in the middle of the field. Green Bay Packers fans are familiar with [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86008/vikings-sign-s-harrison-smith-ahead-of-week-1-matchup-with-packers",
         "publishedAt": "2026-09-05T19:26:50-04:00",
         "summary": "According to NFL Network/ESPN’s Mike Garafolo, the Minnesota Vikings have signed safety Harrison Smith to a one-year, $12.25 million contract going into this week’s matchup against the Green Bay Packers. Smith had previously played for the Vikings, earning All-Pro honors in 2017 and 2018, before being released by Minnesota at the start of the new [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86000/packers-to-work-out-ufl-mvp-jack-plummer-next-week",
         "publishedAt": "2026-09-05T01:21:38-04:00",
         "summary": "According to NFL insider Aaron Wilson, the Green Bay Packers will work out Jack Plummer, the UFL’s 2026 MVP and passing leader, next week. This is an interesting move, as the Packers just signed quarterback Kedon Slovis to their practice squad earlier this week and the team still has one remaining practice squad spot open. [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85997/referee-announced-for-packers-week-1-matchup-vs-vikings",
         "publishedAt": "2026-09-04T20:30:10-04:00",
         "summary": "The NFL has announced its Week 1 referee assignments, and the Green Bay Packers, who will open the season against the Minnesota Vikings in Minneapolis, will start the year with Shawn Hochuli. Hochuli’s crews have been known to be flag-happy, as they are the only ones to have ranked among the top four in the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85989/josh-jacobs-initial-hearing-has-been-moved-up-by-several-months",
         "publishedAt": "2026-09-04T16:02:12-04:00",
         "summary": "Green Bay Packers running back Josh Jacobs was placed on the NFL’s commissioner exempt list before the league’s final cutdowns to teams’ initial 53-man rosters for the 2026 season. The Packers’ brass has stated that they will stand by Jacobs, who is currently set to face charges of battery and criminal damage in Brown County, [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85970/packers-preview-what-to-expect-from-a-marshawn-lloyd-running-game",
         "publishedAt": "2026-09-04T15:43:42-04:00",
         "summary": "The Green Bay Packers’ running game is going to be a bit of a mystery box going into the 2026 regular season. Not only is starting running back Josh Jacobs on the commissioner exempt list, but the players who will backfill Jacobs’ carries have never been significant ball-carriers at the NFL level, and the Packers’ [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers can be optimistic about forcing turnovers in 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/85982/packers-can-be-optimistic-about-forcing-turnovers-in-2026",
-        "publishedAt": "2026-09-04T13:02:03-04:00",
-        "summary": "A little over a year ago, I wrote about the Packers’ defense and its plans for 2025. Heading into the second year of the Jeff Hafley era, the Packers wanted to force even more turnovers than they had in 2024, which I argued was an admirable but misguided plan. “Get more turnovers” isn’t really a [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
