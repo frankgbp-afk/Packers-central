@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:00:17.604Z",
+  "updatedAt": "2026-09-09T11:22:17.582Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,83 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football matchup rankings for Week 1: Baker Mayfield, Omarion Hampton among those in great spot",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49871639/espn-nfl-fantasy-football-matchup-rankings-qb-rb-wt-te-week-1",
+        "publishedAt": "2026-09-09T10:35:43Z",
+        "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions: QB, RB, WR and TE.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Predicting the 2026 NFL playoff field, plus Super Bowl pick",
+        "url": "https://www.espn.com/nfl/story/_/id/49865081/2026-nfl-season-14-playoff-teams-field-super-bowl-pick-barnwell",
+        "publishedAt": "2026-09-09T10:29:16Z",
+        "summary": "Which teams from last season's playoffs will return -- and which ones will miss out? Who will be the surprises in the bracket? And who will win the Super Bowl?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "One thing Deshaun Watson has to improve to remain Browns' starter",
+        "url": "https://www.espn.com/nfl/story/_/id/49874096/one-thing-cleveland-browns-deshaun-watson-improve-remain-starting-quarterback-2026",
+        "publishedAt": "2026-09-09T10:00:02Z",
+        "summary": "Whether the veteran passer can regain dominance over this particular skill will help determine his role in 2026.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Are the Super Bowl Champion Seahawks built to repeat in 2026?",
+        "url": "https://www.espn.com/nfl/story/_/id/49871642/can-seattle-seahawks-repeat-super-bowl-champions-nfl-2026-season",
+        "publishedAt": "2026-09-09T10:00:11Z",
+        "summary": "The Seahawks are not the favorites to win the Super Bowl or their division. What hurdles will they have in 2026?",
+        "image": "data/news-images/espn-3.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What are NFL rules changes in 2026? Red flags, kickoffs",
+        "url": "https://www.espn.com/nfl/story/_/id/49868175/nfl-rules-changes-2026-red-challenge-flags-kickoffs-penalties-hip-drop",
+        "publishedAt": "2026-09-09T10:00:11Z",
+        "summary": "Here is everything fans need to know about NFL rules and points of emphasis for the 2025 season.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Expectations for Packers' MarShawn Lloyd with Josh Jacobs out",
+        "url": "https://www.espn.com/nfl/story/_/id/49869653/nfl-green-bay-packers-marshawn-lloyd-josh-jacobs-commissioner-exempt",
+        "publishedAt": "2026-09-09T10:00:02Z",
+        "summary": "Lloyd is finally healthy and Josh Jacobs is on the commissioner exempt list, but how much of a workload can Lloyd handle in Week 1?",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Goodell: 'We're already in a hurry [to come back to Australia]",
+        "url": "https://www.espn.com/video/clip/_/id/49876761/already-hurry-to-come-back-australia",
+        "publishedAt": "2026-09-09T06:24:55Z",
+        "summary": "NFL Commissioner Roger Goodell discusses the 'historic' NFL Melbourne Game, saying the league is already looking to play more games in Australia.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Watch the NFL on Disney+ Singapore",
         "url": "https://www.espn.com/video/clip/_/id/49876479/watch-nfl-disney-singapore",
         "publishedAt": "2026-09-09T05:28:30Z",
         "summary": "There is no place we would rather be, as ESPN delivers comprehensive coverage of the NFL to fans in Singapore for the next four years.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "49ers' Alfred Collins (knee) injured in practice, out for season",
         "url": "https://www.espn.com/nfl/story/_/id/49875661/49ers-alfred-collins-knee-injured-practice-season",
-        "publishedAt": "2026-09-09T03:52:08Z",
+        "publishedAt": "2026-09-09T10:08:37Z",
         "summary": "49ers starting defensive tackle Alfred Collins suffered a torn patellar tendon in the team's Tuesday practice in Australia, an injury that will keep him out for the 2026 season.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +198,16 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
         "publishedAt": "2026-09-09T02:21:54Z",
         "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Respectful Lions eager to tangle with Saints in opener",
         "url": "https://www.espn.com/nfl/story/_/id/49871801/detroit-lions-dan-campbell-respect-new-orleans-saints",
-        "publishedAt": "2026-09-08T23:29:43Z",
+        "publishedAt": "2026-09-09T10:00:01Z",
         "summary": "Campbell spent five seasons as an assistant to Payton and credits the Saints coach as the reason he was hired  in Detroit.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,69 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49873146/ann-michael-drake-maye-new-england-patriots-new-found-fame-nfl",
         "publishedAt": "2026-09-09T00:19:08Z",
         "summary": "One of the organic trickle-down effects of Maye's rapid ascent to stardom is how his wife, Ann Michael, has seen her own profile skyrocket.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Buccaneers extend Baker Mayfield: Key intel and a grade",
-        "url": "https://www.espn.com/nfl/story/_/id/49872406/key-intel-grade",
-        "publishedAt": "2026-09-09T00:00:39Z",
-        "summary": "Why did Mayfield change his mind about a negotiating deadline, and what does it mean for other QBs?",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Travis Hunter, wife give gifts to nurses who helped with birth of their child",
-        "url": "https://www.espn.com/nfl/story/_/id/49872219/travis-hunter-gifts-lunch-scrubs-nurse",
-        "publishedAt": "2026-09-08T22:56:37Z",
-        "summary": "The nurses who helped care for the couple's son's while he was in the Wolfson Children's Hospital neonatal ICU left a lasting impression.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Steelers' Iheanachor had home burglarized last month",
-        "url": "https://www.espn.com/nfl/story/_/id/49873187/source-steelers-iheanachor-had-home-burglarized-last-month",
-        "publishedAt": "2026-09-08T23:00:24Z",
-        "summary": "Steelers rookie OT Max Iheanachor had his home burglarized late last month, a team source confirmed to ESPN's Brooke Pryor.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Joe Burrow in it for 'long haul' with Cincinnati Bengals",
-        "url": "https://www.espn.com/nfl/story/_/id/49872935/joe-burrow-long-haul-cincinnati-bengals",
-        "publishedAt": "2026-09-09T01:41:39Z",
-        "summary": "As the season opener nears, Cincinnati veteran quarterback Joe Burrow, 29, affirmed his desire to remain with the Bengals, telling the team's website that he's \"here for the long haul\" and ready to \"attack the day with a championship mindset.\"",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Bucs' Mayfield has 'extra motivation' heading into season",
-        "url": "https://www.espn.com/nfl/story/_/id/49815432/tampa-bay-buccaneers-qb-baker-mayfield-motivated-contract-dispute",
-        "publishedAt": "2026-09-08T22:02:17Z",
-        "summary": "The self-imposed deadline has passed for Tampa Bay's quarterback as he now turns his attention to the season.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Wilson calls ending Jets' playoff drought 'very realistic'",
-        "url": "https://www.espn.com/nfl/story/_/id/49872695/wilson-calls-ending-jets-playoff-drought-very-realistic",
-        "publishedAt": "2026-09-08T21:52:51Z",
-        "summary": "Garrett Wilson said breaking the Jets' 15-year playoff drought feels \"very realistic\" and went as far as stating that was the goal this season.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Highest-paid NFL players: Most guaranteed money at every position",
-        "url": "https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position",
-        "publishedAt": "2026-09-08T21:21:05Z",
-        "summary": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,20 +223,11 @@
     ],
     "acme": [
       {
-        "title": "Packers sign RB Damon Bankston",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86080/packers-sign-rb-damon-bankston",
-        "publishedAt": "2026-09-08T19:55:16-04:00",
-        "summary": "Sports Illustrated’s Bill Huber is reporting that the Green Bay Packers have signed rookie running back Damon Bankston, filling their final vacancy on the team’s practice squad. Bankston was brought into Green Bay initially as a pre-draft visitor, but he ended up signing with the New York Giants as an undrafted free agent for $115,000 [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "Let’s Remember Some Guys, Packers UDFA edition",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86056/lets-remember-some-guys-packers-udfa-edition",
         "publishedAt": "2026-09-08T12:10:00-04:00",
         "summary": "It’s never a bad time to Remember Some Guys. This morning, I was listening to a podcast that referenced the original “Let’s Remember Some Guys” post from Deadspin, published by Tom Ley in May 2015. That post, which was exclusively a list of 16 running back guys from around the NFL in the 2000s, had [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86054/green-bay-packers-news-time-for-packers-stars-to-shine",
         "publishedAt": "2026-09-08T11:30:53-04:00",
         "summary": "We’re a day away from football. Tomorrow night, in Australia for some reason, the 2026 NFL season officially begins. Packers fans have to wait until Sunday for our first taste of the action, but it’s coming, and soon. And after weeks of training camp, it’s time to recalibrate expectations for what really matters on the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86033/green-bay-roster-breaking-down-the-new-packers-for-2026-and-their-roles",
         "publishedAt": "2026-09-08T06:00:00-04:00",
         "summary": "As of now, the Green Bay Packers have 15 new players on their 53-man roster who weren’t a part of the team in 2025. Today, we’re going to break down every single one of these new players and what their expected roles on the team are, in case you missed any of the new from [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86031/green-bay-packers-name-team-captains-for-2026",
         "publishedAt": "2026-09-07T19:21:08-04:00",
         "summary": "The Green Bay Packers have named captains in several different ways under head coach Matt LaFleur, but it appears that they’ll be rolling with a season-long set of five captains in 2026, based on the team’s announcement on Monday. In the past, the team has also rotated captains on a game-by-game basis, as we all [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86028/tucker-kraft-named-nfls-3-player-on-an-expiring-contract",
         "publishedAt": "2026-09-07T10:35:44-04:00",
         "summary": "If you can believe it, there are already people looking toward the 2027 NFL free-agent cycle. Greg Rosenthal of NFL.com posted an article this week laying out the top 25 possible free agents for next year’s free-agent class heading into the 2026 regular season. Coming third on the list is the Green Bay Packers’ Tucker [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/86017/packers-depth-chart-we-still-dont-know-who-will-start-at-cornerback",
         "publishedAt": "2026-09-07T06:00:00-04:00",
         "summary": "Last week, we went through an exercise where we tried to pin down which 48 players among the Green Bay Packers’ 53-man roster would actually make the cut for being game-day actives against the Minnesota Vikings in the team’s Week 1 regular-season opener. Today, I want to focus less on the back end of the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86011/packers-preview-get-ready-for-edgerrin-cooper-playing-on-the-edge",
         "publishedAt": "2026-09-06T15:11:58-04:00",
         "summary": "One of the biggest changes you’re going to notice about new defensive coordinator Jonathan Gannon’s scheme is his Penny package, which is essentially a 3-4 defense on the line of scrimmage with one true off-ball linebacker, split safeties and another deeper safety in the middle of the field. Green Bay Packers fans are familiar with [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86008/vikings-sign-s-harrison-smith-ahead-of-week-1-matchup-with-packers",
         "publishedAt": "2026-09-05T19:26:50-04:00",
         "summary": "According to NFL Network/ESPN’s Mike Garafolo, the Minnesota Vikings have signed safety Harrison Smith to a one-year, $12.25 million contract going into this week’s matchup against the Green Bay Packers. Smith had previously played for the Vikings, earning All-Pro honors in 2017 and 2018, before being released by Minnesota at the start of the new [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +299,15 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86000/packers-to-work-out-ufl-mvp-jack-plummer-next-week",
         "publishedAt": "2026-09-05T01:21:38-04:00",
         "summary": "According to NFL insider Aaron Wilson, the Green Bay Packers will work out Jack Plummer, the UFL’s 2026 MVP and passing leader, next week. This is an interesting move, as the Packers just signed quarterback Kedon Slovis to their practice squad earlier this week and the team still has one remaining practice squad spot open. [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Referee announced for Packers’ Week 1 matchup vs. Vikings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85997/referee-announced-for-packers-week-1-matchup-vs-vikings",
+        "publishedAt": "2026-09-04T20:30:10-04:00",
+        "summary": "The NFL has announced its Week 1 referee assignments, and the Green Bay Packers, who will open the season against the Minnesota Vikings in Minneapolis, will start the year with Shawn Hochuli. Hochuli’s crews have been known to be flag-happy, as they are the only ones to have ranked among the top four in the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
