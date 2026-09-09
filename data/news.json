@@ -1,13 +1,49 @@
 {
-  "updatedAt": "2026-09-09T19:45:33.312Z",
+  "updatedAt": "2026-09-09T22:33:10.816Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers QB Jordan Love on Vikings exotic blitz: 'You can get it whenever'",
+        "url": "https://www.packers.com/news/packers-qb-jordan-love-on-vikings-exotic-blitz-you-can-get-it-whenever-sept-9-2026",
+        "publishedAt": "Wed, 09 Sep 2026 22:14:59 GMT",
+        "summary": "Minnesota’s scheme always a challenge, but Green Bay has experience to counter",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers-Vikings Injury Report | Sept. 9, 2026",
+        "url": "https://www.packers.com/news/packers-vikings-injury-report-sept-9-2026",
+        "publishedAt": "Wed, 09 Sep 2026 21:38:02 GMT",
+        "summary": "",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers announce roster moves | Sept. 9, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-9-2026",
+        "publishedAt": "Wed, 09 Sep 2026 20:44:56 GMT",
+        "summary": "Green Bay signs RB Damon Bankston, S Kahlef Hailassie to practice squad; releases S Murvin Kenion III",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Tickets for Lambeau Field stadium tours on home game weekends now available for purchase",
+        "url": "https://www.packers.com/news/tickets-for-lambeau-field-stadium-tours-on-home-game-weekends-now-available-for-purchase-2026",
+        "publishedAt": "Wed, 09 Sep 2026 20:18:01 GMT",
+        "summary": "Tickets and times available for Classic, Champions and Legendary tours, as well as Heritage Trail Trolley tours and Alumni tours",
+        "image": "data/news-images/packers-3.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Vikings | How to watch, stream & listen | Week 1",
         "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-1-2026",
         "publishedAt": "Wed, 09 Sep 2026 19:37:40 GMT",
         "summary": "Green Bay Packers vs. Minnesota Vikings channel listing, radio & streaming options",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-seeking-nominations-for-high-school-coach-of-the-week-program-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 19:28:57 GMT",
         "summary": "Program awards $1,000 to high school football programs each week",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +61,7 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-how-important-is-this-game-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 18:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +70,7 @@
         "url": "https://www.packers.com/news/growing-family-has-fastened-jordan-loves-focus-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 14:00:00 GMT",
         "summary": "Packers quarterback keeping perspective entering Year 4 as QB",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +79,7 @@
         "url": "https://www.packers.com/news/inbox-it-speaks-to-first-impressions-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 13:30:00 GMT",
         "summary": "Go play the games and see what happens",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-s-xavier-mckinney-is-as-reliable-as-you-can-get-sept-8-2026",
         "publishedAt": "Tue, 08 Sep 2026 19:48:24 GMT",
         "summary": "Key comments from Green Bay’s coordinators",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-open-season-at-the-vikings-week-1-2026",
         "publishedAt": "Tue, 08 Sep 2026 19:25:28 GMT",
         "summary": "Third time in team history that the Packers open the season at Minnesota",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,42 +106,6 @@
         "url": "https://www.packers.com/news/this-is-my-burden-sept-8-2026",
         "publishedAt": "Tue, 08 Sep 2026 15:00:00 GMT",
         "summary": "Micah Parsons striving to fashion a comeback for the ages",
-        "image": "data/news-images/packers-7.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers, Sargento teaming up to tackle hunger in Wisconsin",
-        "url": "https://www.packers.com/news/packers-sargento-teaming-up-to-tackle-hunger-in-wisconsin-sept-8-2026",
-        "publishedAt": "Tue, 08 Sep 2026 14:19:30 GMT",
-        "summary": "Now in its 24th season, Touchdowns for Hunger™ will donate $2,000 for every touchdown; program has raised nearly $2 million",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: The proof is in the pudding",
-        "url": "https://www.packers.com/news/inbox-the-proof-is-in-the-pudding-sept-8-2026",
-        "publishedAt": "Tue, 08 Sep 2026 13:30:00 GMT",
-        "summary": "The Packers are strawberry in a jelly of the month club world",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers elect 5 captains for 2026 season",
-        "url": "https://www.packers.com/news/packers-elect-5-captains-for-2026-season",
-        "publishedAt": "Mon, 07 Sep 2026 18:56:07 GMT",
-        "summary": "Leadership duties nothing new to this group",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: It's viewed as a bonus",
-        "url": "https://www.packers.com/news/inbox-it-s-viewed-as-a-bonus-sept-7-2026",
-        "publishedAt": "Mon, 07 Sep 2026 13:30:00 GMT",
-        "summary": "There’s a lot that needs to be in sync",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Steelers' Cam Heyward not a fan of NFL's 'stupid' franchise tag",
-        "url": "https://www.espn.com/nfl/story/_/id/49883284/steelers-veteran-cam-heyward-calls-nfl-franchise-tag-stupid",
-        "publishedAt": "2026-09-09T19:37:16Z",
-        "summary": "Steelers veteran defensive lineman and NFLPA executive committee member Cameron Heyward blasted the franchise tag on Wednesday, call the contractual measure \"stupid.\"",
+        "title": "Alleged victim 'forgives' Antonio Brown, won't take part in case",
+        "url": "https://www.espn.com/nfl/story/_/id/49885286/alleged-victim-forgives-antonio-brown-take-part-case",
+        "publishedAt": "2026-09-09T22:25:45Z",
+        "summary": "The alleged victim in Antonio Brown's second-degree attempted murder case said he has decided to \"forgive\" the former NFL star and \"does not wish to participate\" in his prosecution.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "'It would mean everything': Henry shares what a Ravens Super Bowl would mean",
-        "url": "https://www.espn.com/video/clip/_/id/49882661/henry-shares-ravens-super-bowl-mean",
-        "publishedAt": "2026-09-09T18:54:04Z",
-        "summary": "'It would mean everything': Henry shares what a Ravens Super Bowl would mean",
+        "title": "Live results, best moments and analysis from Seahawks-Patriots",
+        "url": "https://www.espn.com/nfl/story/_/id/49799249/seattle-seahawks-vs-new-england-patriots-live-results-analysis-nfl-season-kickoff-super-bowl-lx-rematch",
+        "publishedAt": "2026-09-09T22:19:27Z",
+        "summary": "The 2026 NFL season opens with a rematch between last year's Super Bowl teams, the Seattle Seahawks and the New England Patriots. Here are all the highlights from the first game of the new season.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Patrick Mahomes' Week 1 outlook",
-        "url": "https://www.espn.com/video/clip/_/id/49882355/patrick-mahomes-week-1-outlook",
-        "publishedAt": "2026-09-09T18:36:23Z",
-        "summary": "Patrick Mahomes' Week 1 outlook",
+        "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
+        "url": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
+        "publishedAt": "2026-09-09T21:59:39Z",
+        "summary": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jalen Brunson becomes the latest notable athlete to host 'Saturday Night Live'",
-        "url": "https://www.espn.com/nfl/story/_/id/35761216/best-saturday-night-live-athlete-moments",
-        "publishedAt": "2026-09-09T18:20:42Z",
-        "summary": "There have been 35 athletes to host the sketch comedy staple, including greats such as Peyton Manning, Derek Jeter and LeBron James.",
+        "title": "Schefter provides update on Brock Bowers' injury",
+        "url": "https://www.espn.com/video/clip/_/id/49885107/schefter-provides-update-brock-bowers-injury",
+        "publishedAt": "2026-09-09T22:11:05Z",
+        "summary": "Schefter provides update on Brock Bowers' injury",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns' Deshaun Watson set for first start since 2024 season",
-        "url": "https://www.espn.com/nfl/story/_/id/49881629/browns-deshaun-watson-set-first-start-2024-season",
-        "publishedAt": "2026-09-09T17:05:32Z",
-        "summary": "Browns QB Deshaun Watson, who is making his first regular-season start since October 2024, said he has an opportunity to \"showcase that I can still play in this league.\"",
+        "title": "Saints DE Jordan (hamstring) to miss opener vs. Lions",
+        "url": "https://www.espn.com/nfl/story/_/id/49885064/saints-de-cameron-jordan-hamstring-miss-opener-vs-lions",
+        "publishedAt": "2026-09-09T21:58:11Z",
+        "summary": "Saints defensive end Cameron Jordan will not play against the Lions on Sunday due to a hamstring injury.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "How to bet the 2026 NFL season: Odds, tips and our best picks",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49659411/2026-nfl-betting-preview-guide-odds-best-bets-tips",
-        "publishedAt": "2026-09-09T16:46:09Z",
-        "summary": "Your one-stop shop for betting preparations for the 2026 season, with odds, analysis and our favorite bets.",
+        "title": "Fantasy buzz: Brock Bowers injury puts Michael Mayer on the fantasy radar",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-09-09T22:13:45Z",
+        "summary": "The Raiders will now turn to Michael Mayer, a second-round pick in 2023, as Brock Bowers will miss the start of the 2026 season.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-        "publishedAt": "2026-09-09T16:23:37Z",
-        "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+        "title": "Giants' Nabers fully participates in practice but status still TBD, says Harbaugh",
+        "url": "https://www.espn.com/nfl/story/_/id/49884638/giants-nabers-fully-participates-practice-status-tbd-says-harbaugh",
+        "publishedAt": "2026-09-09T21:35:11Z",
+        "summary": "Star wide receiver Malik Nabers was a full participant in Wednesday's practice as the New York Giants continued preparations for their season opener on Sunday night against the Dallas Cowboys at MetLife Stadium.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Stephen A. makes his predictions for the NFL season",
-        "url": "https://www.espn.com/video/clip/_/id/49881224/stephen-makes-predictions-nfl-season",
-        "publishedAt": "2026-09-09T16:44:44Z",
-        "summary": "Stephen A. makes his predictions for the NFL season",
+        "title": "2026 NFL predictions: Experts pick Super Bowl winner, MVP",
+        "url": "https://www.espn.com/nfl/story/_/id/49872143/2026-nfl-season-predictions-expert-picks-super-bowl-mvp-conference-winners",
+        "publishedAt": "2026-09-09T22:30:35Z",
+        "summary": "We asked our NFL analysts and reporters to make predictions for the 2026 season. Who are their favorites to win the Super Bowl and the MVP award?",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
-        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
-        "publishedAt": "2026-09-09T16:54:34Z",
-        "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+        "title": "Vampire Diaries: What a niche fantasy football format can teach you about streaming",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49884469/vampire-leagues-strategy-lineups",
+        "publishedAt": "2026-09-09T21:24:01Z",
+        "summary": "Vampire Leagues force one player to stream all season. Here's how to do it and how you can apply it to your other leagues.",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Super Bowl favorite Rams also drawing the most betting action",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49880897/super-bowl-favorite-rams-drawing-most-betting-action",
-        "publishedAt": "2026-09-09T16:31:18Z",
-        "summary": "The Rams, who enter this season as the odds on favorites to win Super Bowl LXI, are also garnering the most overall action among the betting public.",
+        "title": "Raiders' Jeanty returns to practice after two-week absence",
+        "url": "https://www.espn.com/nfl/story/_/id/49884394/raiders-jeanty-returns-practice-two-week-absence",
+        "publishedAt": "2026-09-09T21:39:12Z",
+        "summary": "Raiders running back Ashton Jeanty returned to practice Wednesday, providing optimism about his availability for Sunday's opener against the Dolphins.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Clay feels ‘pretty good’ about Rashee Rice in fantasy this season",
-        "url": "https://www.espn.com/video/clip/_/id/49880771/why-clay-feels-pretty-good-rashee-rice-fantasy-season",
-        "publishedAt": "2026-09-09T15:34:04Z",
-        "summary": "Why Clay feels ‘pretty good’ about Rashee Rice in fantasy this season",
+        "title": "Jonathan Greenard back at practice as Eagles prepare for Week 1",
+        "url": "https://www.espn.com/nfl/story/_/id/49884214/jonathan-greenard-back-practice-eagles-prepare-week-1",
+        "publishedAt": "2026-09-09T20:46:09Z",
+        "summary": "Eagles edge rusher Jonathan Greenard suited up for practice Wednesday as his new team began preparations for their season opener against the Commanders.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Facts vs. Feelings: Seven players who will get off to fast (or slow) starts in Week 1",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49880596/facts-vs-feelings-fantasy-advice-week-1",
-        "publishedAt": "2026-09-09T17:18:38Z",
-        "summary": "What to expect from Jaxson Dart, D'Andre Swift, Quinshon Judkins, Kenneth Gainwell, Tetairoa McMIllan, Rashee Rice and Juwan Johnson in Week 1.",
+        "title": "Fantasy football Week 1 PPR, IDP and superflex rankings",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-09-09T20:40:04Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Packers Injury Report: Updates on the offensive line",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86121/packers-injury-report-updates-on-the-offensive-line",
+        "publishedAt": "2026-09-09T18:04:10-04:00",
+        "summary": "There were only two non-participants for the Green Bay Packers during their Wednesday practice: defensive lineman Warren Brinson (calf) and linebacker Ty’Ron Hopper (Achilles). Brinson’s injury stems from a pre-game issue he had going into Week 2 of the preseason, while Hopper’s injury appears to be a new issue. Even if Brinson and Hopper both [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Salary Cap: Jonnu Smith contract details released",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86119/packers-salary-cap-jonnu-smith-contract-details-released",
+        "publishedAt": "2026-09-09T16:56:34-04:00",
+        "summary": "The contract for new Green Bay Packers tight end Jonnu Smith has finally been released, more than a week after he signed with the team. We previously knew it was a one-year deal, but that’s all the information we had. According to ESPN’s Rob Demovsky, Smith received a signing bonus of $350,000 to sign with [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "New stats from Pro Football Reference highlight legendary Packers players",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86110/new-stats-from-pro-football-reference-highlight-legendary-packers-players",
         "publishedAt": "2026-09-09T12:18:34-04:00",
         "summary": "Pro Football Reference has just rolled out some stats from the earliest years of the National Football League. In a blog post, PFR announced that courtesy of a donation from legendary sports researcher David Neft, they’re now able to offer fairly reliable stats from the 1920-1931 seasons (and 1932, in some cases). That means we’re [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86106/green-bay-packers-news-running-backs-ready-for-committee-approach",
         "publishedAt": "2026-09-09T10:11:35-04:00",
         "summary": "The Packers’ season will probably not hinge on the strength of their running backs, which is a good thing, because I’m not sure anybody really knows what the Packers have at running back. And that includes the Packers, who are currently without the services of Josh Jacobs (and likely will remain so for the foreseeable [&#8230;]",
-        "image": "data/news-images/acme-1.jpg",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/86047/packers-vs-vikings-week-1-tv-broadcast-map-shows-wide-coverage",
         "publishedAt": "2026-09-09T09:40:00-04:00",
         "summary": "When the Green Bay Packers open up the 2026 season against the Minnesota Vikings on Sunday, they will do so with the eyes of most of the pro football world upon them. Sunday’s kickoff will take place at 3:25 PM Central time, and the vast majority of the United States will get to see the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86088/green-bay-packers-drop-week-1-depth-chart-6-takeaways",
         "publishedAt": "2026-09-09T09:30:00-04:00",
         "summary": "The Green Bay Packers updated their depth chart on Tuesday, the first time that they’ve done so going into the 2026 regular season. For the most part, it looks accurate, based on our charting of preseason and training camp rotations, but there were a few things that stood out to me — so I want [&#8230;]",
-        "image": "data/news-images/acme-3.jpg",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/86006/every-former-packer-the-team-will-see-in-the-2026-season",
         "publishedAt": "2026-09-09T09:00:00-04:00",
         "summary": "Last offseason, I ranked the former Green Bay Packers the team would face in the upcoming season based on how much it was gonna hurt to play against them. I specifically ranked them based on pure emotion mixed with how much the Packers could use them at that time. This season, there are a handful [&#8230;]",
-        "image": "data/news-images/acme-4.jpg",
+        "image": "data/news-images/acme-6.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86068/predict-the-green-bay-packers-final-win-total-in-2026",
         "publishedAt": "2026-09-09T08:30:00-04:00",
         "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. Week 1 of the NFL season brings optimism and excitement for fan bases all across the league. (Well, except for the Browns, perhaps.) But how shall [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/86065/the-packers-week-1-x-factor-is-the-health-of-zach-bako-bewele",
         "publishedAt": "2026-09-09T06:00:00-04:00",
         "summary": "The Green Bay Packers coaching staff has been non-committal about right tackle Zach Bako-Bewele’s availability for Sunday’s game for a couple of weeks now. Bako-Bewele himself was confident he’d be ready for Week 1, but you’ve definitely heard more convincing statements of confidence than this one: Offensive coordinator and former offensive line coach Adam Stenovich [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86080/packers-sign-rb-damon-bankston",
         "publishedAt": "2026-09-08T19:55:16-04:00",
         "summary": "Sports Illustrated’s Bill Huber is reporting that the Green Bay Packers have signed rookie running back Damon Bankston, filling their final vacancy on the team’s practice squad. Bankston was brought into Green Bay initially as a pre-draft visitor, but he ended up signing with the New York Giants as an undrafted free agent for $115,000 [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Let’s Remember Some Guys, Packers UDFA edition",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86056/lets-remember-some-guys-packers-udfa-edition",
-        "publishedAt": "2026-09-08T12:10:00-04:00",
-        "summary": "It’s never a bad time to Remember Some Guys. This morning, I was listening to a podcast that referenced the original “Let’s Remember Some Guys” post from Deadspin, published by Tom Ley in May 2015. That post, which was exclusively a list of 16 running back guys from around the NFL in the 2000s, had [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Time for Packers stars to shine",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86054/green-bay-packers-news-time-for-packers-stars-to-shine",
-        "publishedAt": "2026-09-08T11:30:53-04:00",
-        "summary": "We’re a day away from football. Tomorrow night, in Australia for some reason, the 2026 NFL season officially begins. Packers fans have to wait until Sunday for our first taste of the action, but it’s coming, and soon. And after weeks of training camp, it’s time to recalibrate expectations for what really matters on the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
