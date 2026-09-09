@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:14:55.369Z",
+  "updatedAt": "2026-09-09T06:00:17.604Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Watch the NFL on Disney+ Singapore",
+        "url": "https://www.espn.com/video/clip/_/id/49876479/watch-nfl-disney-singapore",
+        "publishedAt": "2026-09-09T05:28:30Z",
+        "summary": "There is no place we would rather be, as ESPN delivers comprehensive coverage of the NFL to fans in Singapore for the next four years.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers' Alfred Collins (knee) injured in practice, out for season",
+        "url": "https://www.espn.com/nfl/story/_/id/49875661/49ers-alfred-collins-knee-injured-practice-season",
+        "publishedAt": "2026-09-09T03:52:08Z",
+        "summary": "49ers starting defensive tackle Alfred Collins suffered a torn patellar tendon in the team's Tuesday practice in Australia, an injury that will keep him out for the 2026 season.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football Knockout league rankings: The 252 players to draft",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+        "publishedAt": "2026-09-09T02:21:54Z",
+        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Respectful Lions eager to tangle with Saints in opener",
         "url": "https://www.espn.com/nfl/story/_/id/49871801/detroit-lions-dan-campbell-respect-new-orleans-saints",
         "publishedAt": "2026-09-08T23:29:43Z",
         "summary": "Campbell spent five seasons as an assistant to Payton and credits the Saints coach as the reason he was hired  in Detroit.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49873146/ann-michael-drake-maye-new-england-patriots-new-found-fame-nfl",
         "publishedAt": "2026-09-09T00:19:08Z",
         "summary": "One of the organic trickle-down effects of Maye's rapid ascent to stardom is how his wife, Ann Michael, has seen her own profile skyrocket.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49872406/key-intel-grade",
         "publishedAt": "2026-09-09T00:00:39Z",
         "summary": "Why did Mayfield change his mind about a negotiating deadline, and what does it mean for other QBs?",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49872219/travis-hunter-gifts-lunch-scrubs-nurse",
         "publishedAt": "2026-09-08T22:56:37Z",
         "summary": "The nurses who helped care for the couple's son's while he was in the Wolfson Children's Hospital neonatal ICU left a lasting impression.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,16 +180,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49873187/source-steelers-iheanachor-had-home-burglarized-last-month",
         "publishedAt": "2026-09-08T23:00:24Z",
         "summary": "Steelers rookie OT Max Iheanachor had his home burglarized late last month, a team source confirmed to ESPN's Brooke Pryor.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Joe Burrow in it for 'long haul' with Cincinnati Bengals",
         "url": "https://www.espn.com/nfl/story/_/id/49872935/joe-burrow-long-haul-cincinnati-bengals",
-        "publishedAt": "2026-09-08T22:36:00Z",
+        "publishedAt": "2026-09-09T01:41:39Z",
         "summary": "As the season opener nears, Cincinnati veteran quarterback Joe Burrow, 29, affirmed his desire to remain with the Bengals, telling the team's website that he's \"here for the long haul\" and ready to \"attack the day with a championship mindset.\"",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49815432/tampa-bay-buccaneers-qb-baker-mayfield-motivated-contract-dispute",
         "publishedAt": "2026-09-08T22:02:17Z",
         "summary": "The self-imposed deadline has passed for Tampa Bay's quarterback as he now turns his attention to the season.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49872695/wilson-calls-ending-jets-playoff-drought-very-realistic",
         "publishedAt": "2026-09-08T21:52:51Z",
         "summary": "Garrett Wilson said breaking the Jets' 15-year playoff drought feels \"very realistic\" and went as far as stating that was the goal this season.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position",
         "publishedAt": "2026-09-08T21:21:05Z",
         "summary": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vince Young on what No. 4 Texas needs to beat No. 1 Ohio State",
-        "url": "https://www.espn.com/video/clip/_/id/49872395/vince-young-no-4-texas-needs-beat-no-1-ohio-state",
-        "publishedAt": "2026-09-08T21:32:02Z",
-        "summary": "Texas legend and national championship-winning QB Young discusses Arch Manning's growth, Steve Sarkisian's leadership and the keys to beating Ohio State.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bucs, Baker Mayfield agree to 3-year extension, sources say",
-        "url": "https://www.espn.com/nfl/story/_/id/49872379/bucs-baker-mayfield-agree-3-year-extension-sources-say",
-        "publishedAt": "2026-09-08T23:16:26Z",
-        "summary": "The Buccaneers and quarterback Baker Mayfield have agreed to a three-year, $165 million extension, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Patriots' Henderson, Seahawks' Okada ruled out for SB rematch",
-        "url": "https://www.espn.com/nfl/story/_/id/49872328/patriots-henderson-seahawks-okada-ruled-sb-rematch",
-        "publishedAt": "2026-09-08T21:47:05Z",
-        "summary": "Patriots running back TreVeyon Henderson won't play in the regular-season opener against the Seahawks, while the defending Super Bowl champions might have to begin their title defense without two of their top three safeties.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
