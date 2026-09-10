@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:03:50.810Z",
+  "updatedAt": "2026-09-10T05:58:39.983Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,74 @@
     ],
     "espn": [
       {
-        "title": "Live results, best moments and analysis from Seahawks-Patriots",
-        "url": "https://www.espn.com/nfl/story/_/id/49799249/seattle-seahawks-vs-new-england-patriots-live-results-analysis-nfl-season-kickoff-super-bowl-lx-rematch",
-        "publishedAt": "2026-09-10T00:26:05Z",
-        "summary": "The 2026 NFL season opens with a rematch between last year's Super Bowl teams, the Seattle Seahawks and the New England Patriots. Here are all the highlights from the first game of the new season.",
+        "title": "Drake Maye after Pats' loss: I lost patience and it cost us",
+        "url": "https://www.espn.com/nfl/story/_/id/49888969/drake-maye-pats-loss-lost-patience-cost-us",
+        "publishedAt": "2026-09-10T05:56:14Z",
+        "summary": "Drake Maye called his 3-interception performance \"unacceptable\" in a 13-10 season-opening loss to the Seahawks, noting he \"lost patience and it cost us.\"",
         "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Top moments, highlights as Seahawks defeat Patriots in Super Bowl rematch",
+        "url": "https://www.espn.com/nfl/story/_/id/49799249/seattle-seahawks-vs-new-england-patriots-live-results-analysis-nfl-season-kickoff-super-bowl-lx-rematch",
+        "publishedAt": "2026-09-10T03:43:53Z",
+        "summary": "The 2026 NFL season opened with a rematch between last year's Super Bowl teams, the Seattle Seahawks and the New England Patriots. Here are all the highlights from the first game of the new season.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks open season with win over Pats in Super Bowl rematch",
+        "url": "https://www.espn.com/video/clip/_/id/49887910/seahawks-open-season-win-pats-super-bowl-rematch",
+        "publishedAt": "2026-09-10T03:37:51Z",
+        "summary": "Seahawks open season with win over Pats in Super Bowl rematch",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks take Week 1 win over Patriots, lose QB Darnold early",
+        "url": "https://www.espn.com/nfl/story/_/id/49882128/2026-nfl-week-1-new-england-patriots-seattle-seahawks-drake-maye-sam-darnold",
+        "publishedAt": "2026-09-10T05:19:35Z",
+        "summary": "In a Super Bowl LX rematch, the Seahawks kicked off the NFL season with a win but lost QB Sam Darnold to a hip injury.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872656",
+        "publishedAt": "2026-09-10T04:31:29Z",
+        "summary": "— Sam Darnold left the game injured, the offense was stagnant and sloppy mistakes put Seattle in a hole through three quarters.",
+        "image": "data/news-images/espn-4.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Browns QB Watson cited for speeding in August, pleads not guilty",
+        "url": "https://www.espn.com/nfl/story/_/id/49887814/browns-qb-watson-cited-speeding-aug-pleads-not-guilty",
+        "publishedAt": "2026-09-10T04:06:26Z",
+        "summary": "Browns quarterback Deshaun Watson entered a not guilty plea after being cited for allegedly driving 86 mph in a 60 mph zone on Aug. 26.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "A.J. Brown's debut for Patriots ends with ankle injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49887260/aj-brown-hurts-ankle-leaves-patriots-seahawks-nfl-opener",
+        "publishedAt": "2026-09-10T05:20:23Z",
+        "summary": "Patriots wide receiver A.J. Brown left Wednesday night's 13-10 loss to the Seahawks early in the third quarter with a right ankle injury and did not return.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks QB Darnold (hip) exits after opening drive vs. Patriots",
+        "url": "https://www.espn.com/nfl/story/_/id/49886582/seahawks-qb-darnold-injures-hip-opening-drive-vs-patriots",
+        "publishedAt": "2026-09-10T05:04:33Z",
+        "summary": "Seahawks quarterback Sam Darnold was ruled out of the season opener against the Patriots after suffering a hip injury on the opening drive.",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49885155/tampa-bay-buccaneers-how-baker-mayfield-learned-new-contract-cars-movie",
         "publishedAt": "2026-09-10T00:23:47Z",
         "summary": "The 31-year-old quarterback was watching a classic Disney film when he agreed to his contract.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,16 +198,16 @@
         "url": "https://www.espn.com/video/clip/_/id/49886006/panthers-managing-injuries-ahead-week-1",
         "publishedAt": "2026-09-10T00:06:58Z",
         "summary": "Mike Kaye reports Patrick Jones is not expected to play Sunday, as Carolina sorts through its backfield rotation.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks down two safeties with Emmanwori (ankle) ruled out for opener",
+        "title": "Seahawks down two safeties with Emmanwori (ankle) sidelined for opener",
         "url": "https://www.espn.com/nfl/story/_/id/49885871/seahawks-two-safeties-emmanwori-ankle-ruled-opener",
-        "publishedAt": "2026-09-10T00:22:08Z",
+        "publishedAt": "2026-09-10T03:35:29Z",
         "summary": "The Seahawks, already without Ty Okada for Wednesday's opener against the Patriots, also ruled out safety Nick Emmanwori, who is working his way back from ankle surgery.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,69 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49885724/khosla-family-seeks-empower-seahawks-leaders-make-decisions",
         "publishedAt": "2026-09-10T00:01:50Z",
         "summary": "As the Khosla family takes over the Super Bowl champion Seahawks, the approach of the franchise's new controlling owners will be to not mess with a good thing.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos' Sutton says Nix like caged mountain lion ahead of opener",
-        "url": "https://www.espn.com/nfl/story/_/id/49885505/broncos-sutton-says-nix-caged-mountain-lion-ahead-opener",
-        "publishedAt": "2026-09-09T23:42:08Z",
-        "summary": "Broncos quarterback Bo Nix's teammates say they can see just how badly he wants to play in Monday night's regular-season opener against the Chiefs.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Alleged victim 'forgives' Antonio Brown, won't take part in prosecution",
-        "url": "https://www.espn.com/nfl/story/_/id/49885286/alleged-victim-forgives-antonio-brown-take-part-prosecution",
-        "publishedAt": "2026-09-10T00:12:45Z",
-        "summary": "The alleged victim in Antonio Brown's second-degree attempted murder case said he has decided to \"forgive\" the former NFL star and \"does not wish to participate\" in his prosecution.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
-        "url": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
-        "publishedAt": "2026-09-09T21:59:39Z",
-        "summary": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Schefter provides update on Brock Bowers' injury",
-        "url": "https://www.espn.com/video/clip/_/id/49885107/schefter-provides-update-brock-bowers-injury",
-        "publishedAt": "2026-09-09T22:11:05Z",
-        "summary": "Schefter provides update on Brock Bowers' injury",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Saints DE Jordan (hamstring) to miss opener vs. Lions",
-        "url": "https://www.espn.com/nfl/story/_/id/49885064/saints-de-cameron-jordan-hamstring-miss-opener-vs-lions",
-        "publishedAt": "2026-09-09T21:58:11Z",
-        "summary": "Saints defensive end Cameron Jordan will not play against the Lions on Sunday due to a hamstring injury.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy buzz: Brock Bowers injury puts Michael Mayer on the fantasy radar",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-09-09T22:13:45Z",
-        "summary": "The Raiders will now turn to Michael Mayer, a second-round pick in 2023, as Brock Bowers will miss the start of the 2026 season.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants' Nabers fully participates in practice but status still TBD, says Harbaugh",
-        "url": "https://www.espn.com/nfl/story/_/id/49884638/giants-nabers-fully-participates-practice-status-tbd-says-harbaugh",
-        "publishedAt": "2026-09-09T21:35:11Z",
-        "summary": "Star wide receiver Malik Nabers was a full participant in Wednesday's practice as the New York Giants continued preparations for their season opener on Sunday night against the Dallas Cowboys at MetLife Stadium.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,91 +223,91 @@
     ],
     "acme": [
       {
-        "title": "Green Bay Roster: Breaking down the new Packers for 2026 and their roles",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86033/green-bay-roster-breaking-down-the-new-packers-for-2026-and-their-roles",
-        "publishedAt": "2026-09-08T06:00:00-04:00",
-        "summary": "As of now, the Green Bay Packers have 15 new players on their 53-man roster who weren’t a part of the team in 2025. Today, we’re going to break down every single one of these new players and what their expected roles on the team are, in case you missed any of the new from [&#8230;]",
+        "title": "Packers Injury Report: Updates on the offensive line",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86121/packers-injury-report-updates-on-the-offensive-line",
+        "publishedAt": "2026-09-09T18:04:10-04:00",
+        "summary": "There were only two non-participants for the Green Bay Packers during their Wednesday practice: defensive lineman Warren Brinson (calf) and linebacker Ty’Ron Hopper (Achilles). Brinson’s injury stems from a pre-game issue he had going into Week 2 of the preseason, while Hopper’s injury appears to be a new issue. Even if Brinson and Hopper both [&#8230;]",
         "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Green Bay Packers name team captains for 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86031/green-bay-packers-name-team-captains-for-2026",
-        "publishedAt": "2026-09-07T19:21:08-04:00",
-        "summary": "The Green Bay Packers have named captains in several different ways under head coach Matt LaFleur, but it appears that they’ll be rolling with a season-long set of five captains in 2026, based on the team’s announcement on Monday. In the past, the team has also rotated captains on a game-by-game basis, as we all [&#8230;]",
+        "title": "Packers Salary Cap: Jonnu Smith contract details released",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86119/packers-salary-cap-jonnu-smith-contract-details-released",
+        "publishedAt": "2026-09-09T16:56:34-04:00",
+        "summary": "The contract for new Green Bay Packers tight end Jonnu Smith has finally been released, more than a week after he signed with the team. We previously knew it was a one-year deal, but that’s all the information we had. According to ESPN’s Rob Demovsky, Smith received a signing bonus of $350,000 to sign with [&#8230;]",
         "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Tucker Kraft named NFL’s #3 player on an expiring contract",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86028/tucker-kraft-named-nfls-3-player-on-an-expiring-contract",
-        "publishedAt": "2026-09-07T10:35:44-04:00",
-        "summary": "If you can believe it, there are already people looking toward the 2027 NFL free-agent cycle. Greg Rosenthal of NFL.com posted an article this week laying out the top 25 possible free agents for next year’s free-agent class heading into the 2026 regular season. Coming third on the list is the Green Bay Packers’ Tucker [&#8230;]",
+        "title": "New stats from Pro Football Reference highlight legendary Packers players",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86110/new-stats-from-pro-football-reference-highlight-legendary-packers-players",
+        "publishedAt": "2026-09-09T12:18:34-04:00",
+        "summary": "Pro Football Reference has just rolled out some stats from the earliest years of the National Football League. In a blog post, PFR announced that courtesy of a donation from legendary sports researcher David Neft, they’re now able to offer fairly reliable stats from the 1920-1931 seasons (and 1932, in some cases). That means we’re [&#8230;]",
         "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Depth Chart: We still don’t know who will start at cornerback",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/86017/packers-depth-chart-we-still-dont-know-who-will-start-at-cornerback",
-        "publishedAt": "2026-09-07T06:00:00-04:00",
-        "summary": "Last week, we went through an exercise where we tried to pin down which 48 players among the Green Bay Packers’ 53-man roster would actually make the cut for being game-day actives against the Minnesota Vikings in the team’s Week 1 regular-season opener. Today, I want to focus less on the back end of the [&#8230;]",
+        "title": "Green Bay Packers News: Running backs ready for committee approach",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86106/green-bay-packers-news-running-backs-ready-for-committee-approach",
+        "publishedAt": "2026-09-09T10:11:35-04:00",
+        "summary": "The Packers’ season will probably not hinge on the strength of their running backs, which is a good thing, because I’m not sure anybody really knows what the Packers have at running back. And that includes the Packers, who are currently without the services of Josh Jacobs (and likely will remain so for the foreseeable [&#8230;]",
         "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Preview: Get ready for Edgerrin Cooper playing on the edge",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86011/packers-preview-get-ready-for-edgerrin-cooper-playing-on-the-edge",
-        "publishedAt": "2026-09-06T15:11:58-04:00",
-        "summary": "One of the biggest changes you’re going to notice about new defensive coordinator Jonathan Gannon’s scheme is his Penny package, which is essentially a 3-4 defense on the line of scrimmage with one true off-ball linebacker, split safeties and another deeper safety in the middle of the field. Green Bay Packers fans are familiar with [&#8230;]",
+        "title": "Packers vs. Vikings Week 1 TV broadcast map shows wide coverage",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/86047/packers-vs-vikings-week-1-tv-broadcast-map-shows-wide-coverage",
+        "publishedAt": "2026-09-09T09:40:00-04:00",
+        "summary": "When the Green Bay Packers open up the 2026 season against the Minnesota Vikings on Sunday, they will do so with the eyes of most of the pro football world upon them. Sunday’s kickoff will take place at 3:25 PM Central time, and the vast majority of the United States will get to see the [&#8230;]",
         "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Vikings sign S Harrison Smith ahead of Week 1 matchup with Packers",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86008/vikings-sign-s-harrison-smith-ahead-of-week-1-matchup-with-packers",
-        "publishedAt": "2026-09-05T19:26:50-04:00",
-        "summary": "According to NFL Network/ESPN’s Mike Garafolo, the Minnesota Vikings have signed safety Harrison Smith to a one-year, $12.25 million contract going into this week’s matchup against the Green Bay Packers. Smith had previously played for the Vikings, earning All-Pro honors in 2017 and 2018, before being released by Minnesota at the start of the new [&#8230;]",
+        "title": "Green Bay Packers drop Week 1 depth chart: 6 takeaways",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86088/green-bay-packers-drop-week-1-depth-chart-6-takeaways",
+        "publishedAt": "2026-09-09T09:30:00-04:00",
+        "summary": "The Green Bay Packers updated their depth chart on Tuesday, the first time that they’ve done so going into the 2026 regular season. For the most part, it looks accurate, based on our charting of preseason and training camp rotations, but there were a few things that stood out to me — so I want [&#8230;]",
         "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers to work out UFL MVP Jack Plummer next week",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86000/packers-to-work-out-ufl-mvp-jack-plummer-next-week",
-        "publishedAt": "2026-09-05T01:21:38-04:00",
-        "summary": "According to NFL insider Aaron Wilson, the Green Bay Packers will work out Jack Plummer, the UFL’s 2026 MVP and passing leader, next week. This is an interesting move, as the Packers just signed quarterback Kedon Slovis to their practice squad earlier this week and the team still has one remaining practice squad spot open. [&#8230;]",
+        "title": "Every Former Packer the Team Will See in the 2026 Season",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/86006/every-former-packer-the-team-will-see-in-the-2026-season",
+        "publishedAt": "2026-09-09T09:00:00-04:00",
+        "summary": "Last offseason, I ranked the former Green Bay Packers the team would face in the upcoming season based on how much it was gonna hurt to play against them. I specifically ranked them based on pure emotion mixed with how much the Packers could use them at that time. This season, there are a handful [&#8230;]",
         "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Referee announced for Packers’ Week 1 matchup vs. Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85997/referee-announced-for-packers-week-1-matchup-vs-vikings",
-        "publishedAt": "2026-09-04T20:30:10-04:00",
-        "summary": "The NFL has announced its Week 1 referee assignments, and the Green Bay Packers, who will open the season against the Minnesota Vikings in Minneapolis, will start the year with Shawn Hochuli. Hochuli’s crews have been known to be flag-happy, as they are the only ones to have ranked among the top four in the [&#8230;]",
+        "title": "Predict the Green Bay Packers’ final win total in 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86068/predict-the-green-bay-packers-final-win-total-in-2026",
+        "publishedAt": "2026-09-09T08:30:00-04:00",
+        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. Week 1 of the NFL season brings optimism and excitement for fan bases all across the league. (Well, except for the Browns, perhaps.) But how shall [&#8230;]",
         "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Josh Jacobs’ initial hearing has been moved up by several months",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/85989/josh-jacobs-initial-hearing-has-been-moved-up-by-several-months",
-        "publishedAt": "2026-09-04T16:02:12-04:00",
-        "summary": "Green Bay Packers running back Josh Jacobs was placed on the NFL’s commissioner exempt list before the league’s final cutdowns to teams’ initial 53-man rosters for the 2026 season. The Packers’ brass has stated that they will stand by Jacobs, who is currently set to face charges of battery and criminal damage in Brown County, [&#8230;]",
+        "title": "The Packers’ Week 1 X-factor is the health of Zach Bako-Bewele",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/86065/the-packers-week-1-x-factor-is-the-health-of-zach-bako-bewele",
+        "publishedAt": "2026-09-09T06:00:00-04:00",
+        "summary": "The Green Bay Packers coaching staff has been non-committal about right tackle Zach Bako-Bewele’s availability for Sunday’s game for a couple of weeks now. Bako-Bewele himself was confident he’d be ready for Week 1, but you’ve definitely heard more convincing statements of confidence than this one: Offensive coordinator and former offensive line coach Adam Stenovich [&#8230;]",
         "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Preview: What to expect from a MarShawn Lloyd running game?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/85970/packers-preview-what-to-expect-from-a-marshawn-lloyd-running-game",
-        "publishedAt": "2026-09-04T15:43:42-04:00",
-        "summary": "The Green Bay Packers’ running game is going to be a bit of a mystery box going into the 2026 regular season. Not only is starting running back Josh Jacobs on the commissioner exempt list, but the players who will backfill Jacobs’ carries have never been significant ball-carriers at the NFL level, and the Packers’ [&#8230;]",
+        "title": "Packers sign RB Damon Bankston",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86080/packers-sign-rb-damon-bankston",
+        "publishedAt": "2026-09-08T19:55:16-04:00",
+        "summary": "Sports Illustrated’s Bill Huber is reporting that the Green Bay Packers have signed rookie running back Damon Bankston, filling their final vacancy on the team’s practice squad. Bankston was brought into Green Bay initially as a pre-draft visitor, but he ended up signing with the New York Giants as an undrafted free agent for $115,000 [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
