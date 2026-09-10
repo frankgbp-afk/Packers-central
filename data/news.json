@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-09-10T11:18:44.194Z",
+  "updatedAt": "2026-09-10T16:23:51.839Z",
   "sources": {
     "packers": [
+      {
+        "title": "Titletown to host free Pumpkin Palooza event on Saturday, Oct. 17",
+        "url": "https://www.packers.com/news/titletown-to-host-free-pumpkin-palooza-event-saturday-oct-17-2026",
+        "publishedAt": "Thu, 10 Sep 2026 15:50:57 GMT",
+        "summary": "Free pumpkin carving, interactive games and outdoor live music will be offered",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Kamal Hadden, Anthony Campbell learned to dream big at 'Dream U'",
+        "url": "https://www.packers.com/news/kamal-hadden-anthony-campbell-learned-to-dream-big-at-dream-u-sept-10-2026",
+        "publishedAt": "Thu, 10 Sep 2026 15:24:17 GMT",
+        "summary": "Packers teammates faced an odyssey after playing at Independence Community College",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: That scouting window never closes",
+        "url": "https://www.packers.com/news/inbox-that-scouting-window-never-closes-sept-10-2026",
+        "publishedAt": "Thu, 10 Sep 2026 13:30:00 GMT",
+        "summary": "It sure is nice to have a “Gravedigger” back in Green Bay",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers QB Jordan Love on Vikings exotic blitz: 'You can get it whenever'",
         "url": "https://www.packers.com/news/packers-qb-jordan-love-on-vikings-exotic-blitz-you-can-get-it-whenever-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 22:14:59 GMT",
         "summary": "Minnesota’s scheme always a challenge, but Green Bay has experience to counter",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-vikings-injury-report-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 21:38:02 GMT",
         "summary": "",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 20:44:56 GMT",
         "summary": "Green Bay signs RB Damon Bankston, S Kahlef Hailassie to practice squad; releases S Murvin Kenion III",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +61,7 @@
         "url": "https://www.packers.com/news/tickets-for-lambeau-field-stadium-tours-on-home-game-weekends-now-available-for-purchase-2026",
         "publishedAt": "Wed, 09 Sep 2026 20:18:01 GMT",
         "summary": "Tickets and times available for Classic, Champions and Legendary tours, as well as Heritage Trail Trolley tours and Alumni tours",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-1-2026",
         "publishedAt": "Wed, 09 Sep 2026 19:37:40 GMT",
         "summary": "Green Bay Packers vs. Minnesota Vikings channel listing, radio & streaming options",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-seeking-nominations-for-high-school-coach-of-the-week-program-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 19:28:57 GMT",
         "summary": "Program awards $1,000 to high school football programs each week",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +88,7 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-how-important-is-this-game-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 18:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +97,7 @@
         "url": "https://www.packers.com/news/growing-family-has-fastened-jordan-loves-focus-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 14:00:00 GMT",
         "summary": "Packers quarterback keeping perspective entering Year 4 as QB",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,33 +106,6 @@
         "url": "https://www.packers.com/news/inbox-it-speaks-to-first-impressions-sept-9-2026",
         "publishedAt": "Wed, 09 Sep 2026 13:30:00 GMT",
         "summary": "Go play the games and see what happens",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers S Xavier McKinney is 'as reliable as you can get'",
-        "url": "https://www.packers.com/news/packers-s-xavier-mckinney-is-as-reliable-as-you-can-get-sept-8-2026",
-        "publishedAt": "Tue, 08 Sep 2026 19:48:24 GMT",
-        "summary": "Key comments from Green Bay’s coordinators",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers open season at the Vikings",
-        "url": "https://www.packers.com/news/packers-open-season-at-the-vikings-week-1-2026",
-        "publishedAt": "Tue, 08 Sep 2026 19:25:28 GMT",
-        "summary": "Third time in team history that the Packers open the season at Minnesota",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "'This is my burden'",
-        "url": "https://www.packers.com/news/this-is-my-burden-sept-8-2026",
-        "publishedAt": "Tue, 08 Sep 2026 15:00:00 GMT",
-        "summary": "Micah Parsons striving to fashion a comeback for the ages",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,121 +113,166 @@
     ],
     "espn": [
       {
-        "title": "NFL Week 1 latest intel, buzz questions, news, fantasy tips",
-        "url": "https://www.espn.com/nfl/story/_/id/49873881/week-1-buzz-fantasy-predictions-graziano-fowler-2026",
-        "publishedAt": "2026-09-10T10:26:33Z",
-        "summary": "What should we expect from Patrick Mahomes? How will the Raiders handle their QB situation? Which receivers could break out? Our insiders have Week 1 intel.",
+        "title": "Packers RB Josh Jacobs pleads no contest to misdemeanor charges",
+        "url": "https://www.espn.com/nfl/story/_/id/49893018/packers-rb-josh-jacobs-pleads-no-contest-misdemeanor-charges",
+        "publishedAt": "2026-09-10T16:20:52Z",
+        "summary": "Packers running back Josh Jacobs pleaded no contest to misdemeanor charges of battery and criminal damage to property at a court hearing in Green Bay, Wisconsin on Thursday.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "How to bet 49ers-Rams on 'TNF': Analysis, tips and favorite plays",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49436739/nfl-week-1-odds-betting-tips-picks-san-francisco-49ers-los-angeles-rams",
-        "publishedAt": "2026-09-10T10:09:29Z",
-        "summary": "Odds, bets and analysis to help you bet 49ers-Rams on \"Thursday Night Football.\"",
+        "title": "Fantasy football rankings for Week 1: IDP",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+        "publishedAt": "2026-09-10T16:07:09Z",
+        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "How NFL brought 49ers-Rams to 'sports mad' Australia",
-        "url": "https://www.espn.com/nfl/story/_/id/49881494/nfl-season-australia-san-francisco-49ers-los-angeles-rams-week-1",
-        "publishedAt": "2026-09-10T10:00:04Z",
-        "summary": "The NFL's latest and farthest international venture is to Melbourne, Australia. How did the 49ers and Rams fit into those plans?",
+        "title": "Fantasy football rankings for Week 1: D/ST",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+        "publishedAt": "2026-09-10T16:06:27Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What's got Bills coach Joe Brady's energy up?",
-        "url": "https://www.espn.com/nfl/story/_/id/49882160/buffalo-bills-coach-joe-brady-energy-caffeine-confidence",
-        "publishedAt": "2026-09-10T10:00:02Z",
-        "summary": "The highly caffeinated 36-year-old is the youngest head coach in the NFL while he oversees a contending Buffalo team.",
+        "title": "Fantasy football rankings for Week 1: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-09-10T16:05:25Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams 'excited' despite late arrival into Melbourne",
-        "url": "https://www.espn.com/video/clip/_/id/49890060/rams-excited-late-arrival-melbourne",
-        "publishedAt": "2026-09-10T09:27:10Z",
-        "summary": "Los Angeles Rams head coach Sean McVay and QB Matthew Stafford both feel \"well rested\" after flying in less than 36 hours before the game, with Stafford saying it was \"really well thought out\".",
+        "title": "Fantasy football rankings for Week 1: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-09-10T16:05:43Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Davante Adams: \"Some things are out of our hands\"",
-        "url": "https://www.espn.com/video/clip/_/id/49890032/some-things-our-hands",
-        "publishedAt": "2026-09-10T09:22:31Z",
-        "summary": "LA Rams head coach Sean McVay and WR Davante Adams speak to the press ahead of their clash with the San Francisco 49ers, with Adams showing mixed feelings with the late arrival and connecting with fans.",
+        "title": "Fantasy football rankings for Week 1: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-09-10T16:05:05Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "49ers' Kittle, Bosa off injury report, set to play vs. Rams",
-        "url": "https://www.espn.com/nfl/story/_/id/49889214/49ers-kittle-bosa-injury-report-set-play-vs-rams",
-        "publishedAt": "2026-09-10T10:38:59Z",
-        "summary": "The 49ers will welcome back two of their biggest stars from significant injuries for their Week 1 matchup against the Rams in Melbourne.",
+        "title": "Fantasy football rankings for Week 1: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+        "publishedAt": "2026-09-10T16:04:45Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Drake Maye after 3-INT opener: I lost patience and it cost us",
-        "url": "https://www.espn.com/nfl/story/_/id/49888969/drake-maye-pats-loss-lost-patience-cost-us",
-        "publishedAt": "2026-09-10T06:23:45Z",
-        "summary": "Drake Maye called his 3-interception performance \"unacceptable\" in a 13-10 season-opening loss to the Seahawks, noting he \"lost patience and it cost us.\"",
+        "title": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+        "publishedAt": "2026-09-10T16:06:34Z",
+        "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Top moments, highlights as Seahawks defeat Patriots in Super Bowl rematch",
-        "url": "https://www.espn.com/nfl/story/_/id/49799249/seattle-seahawks-vs-new-england-patriots-live-results-analysis-nfl-season-kickoff-super-bowl-lx-rematch",
-        "publishedAt": "2026-09-10T03:43:53Z",
-        "summary": "The 2026 NFL season opened with a rematch between last year's Super Bowl teams, the Seattle Seahawks and the New England Patriots. Here are all the highlights from the first game of the new season.",
+        "title": "Jahmyr Gibbs' Week 1 fantasy outlook",
+        "url": "https://www.espn.com/video/clip/_/id/49892774/jahmyr-gibbs-week-1-fantasy-outlook",
+        "publishedAt": "2026-09-10T15:55:39Z",
+        "summary": "Jahmyr Gibbs' Week 1 fantasy outlook",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks open season with win over Pats in Super Bowl rematch",
-        "url": "https://www.espn.com/video/clip/_/id/49887910/seahawks-open-season-win-pats-super-bowl-rematch",
-        "publishedAt": "2026-09-10T03:37:51Z",
-        "summary": "Seahawks open season with win over Pats in Super Bowl rematch",
+        "title": "Fantasy football rankings for Week 1: Quarterback",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+        "publishedAt": "2026-09-10T16:03:44Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks take Week 1 win over Patriots, lose QB Darnold early",
-        "url": "https://www.espn.com/nfl/story/_/id/49882128/2026-nfl-week-1-new-england-patriots-seattle-seahawks-drake-maye-sam-darnold",
-        "publishedAt": "2026-09-10T05:19:35Z",
-        "summary": "In a Super Bowl LX rematch, the Seahawks kicked off the NFL season with a win but lost QB Sam Darnold to a hip injury.",
+        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+        "publishedAt": "2026-09-10T15:27:35Z",
+        "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872656",
-        "publishedAt": "2026-09-10T11:04:38Z",
-        "summary": "— Sam Darnold left the game injured, the offense was stagnant and sloppy mistakes put Seattle in a hole through three quarters.",
-        "image": "data/news-images/espn-11.png",
+        "title": "Fantasy football flex and superflex rankings for Week 1",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-09-10T15:15:05Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
+        "title": "Josh Jacobs pleads no contest to battery and criminal damage charges",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86150/josh-jacobs-pleads-no-contest-to-battery-and-criminal-damage-charges",
+        "publishedAt": "2026-09-10T12:20:18-04:00",
+        "summary": "Green Bay Packers running back Josh Jacobs recently had his initial hearing in his court case, after being charged with battery and criminal damage, pushed forward by two months. Today, Jacobs showed up in person to plead no contest to both misdemeanor charges. Currently, Jacobs is on the NFL’s commissioner exempt list, where he will [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Packers face real test in Week 1",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86144/green-bay-packers-news-packers-face-real-test-in-week-1",
+        "publishedAt": "2026-09-10T10:56:49-04:00",
+        "summary": "While I think the Packers should win, they come into Week 1 facing an interesting test. If nothing else, the Vikings should represent a sort of ruthless competency. They don’t have any outright stars on defense, but they’ve got a madman running the show in Brian Flores and he’ll do anything at any moment. They’ll [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "ESPN gives an update on a Tucker Kraft extension",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86134/espn-gives-an-update-on-a-tucker-kraft-extension",
+        "publishedAt": "2026-09-10T08:21:53-04:00",
+        "summary": "Jeremy Fowler dropped a long Week 1 buzz article for ESPN on Thursday morning, and it included some nuggets on where the Green Bay Packers and tight end Tucker Kraft stand on an extension. In the past, general manager Brian Gutekunst stated that he wanted a Kraft deal done going into the regular season, but [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Chris Brooks could decide the Packers&#8217; Week 1 matchup against Minnesota",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86129/chris-brooks-could-decide-the-packers-week-1-matchup-against-minnesota",
+        "publishedAt": "2026-09-10T08:10:52-04:00",
+        "summary": "One of the more underrated matchups going into the Green Bay Packers’ regular-season opener against the Minnesota Vikings, at least to me, is how running back Chris Brooks will do against defensive coordinator Brian Flores’ blitz-heavy front. The Packers have said that they will be trying out a running back-by-committee approach early on in the [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Packers’ defense was the opposite of the Seahawks last season",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86125/the-packers-defense-was-the-opposite-of-the-seahawks-last-season",
+        "publishedAt": "2026-09-10T07:51:58-04:00",
+        "summary": "Here’s an interesting stat that I saw last night during the NFL regular-season opener, when the Seattle Seahawks were able to take down the New England Patriots in the Super Bowl rematch. According to Sümer Sports, the 2025 Seahawks played five defensive backs 81 percent of the time when opposing offenses played two or fewer [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers Injury Report: Updates on the offensive line",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86121/packers-injury-report-updates-on-the-offensive-line",
         "publishedAt": "2026-09-09T18:04:10-04:00",
         "summary": "There were only two non-participants for the Green Bay Packers during their Wednesday practice: defensive lineman Warren Brinson (calf) and linebacker Ty’Ron Hopper (Achilles). Brinson’s injury stems from a pre-game issue he had going into Week 2 of the preseason, while Hopper’s injury appears to be a new issue. Even if Brinson and Hopper both [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86119/packers-salary-cap-jonnu-smith-contract-details-released",
         "publishedAt": "2026-09-09T16:56:34-04:00",
         "summary": "The contract for new Green Bay Packers tight end Jonnu Smith has finally been released, more than a week after he signed with the team. We previously knew it was a one-year deal, but that’s all the information we had. According to ESPN’s Rob Demovsky, Smith received a signing bonus of $350,000 to sign with [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86110/new-stats-from-pro-football-reference-highlight-legendary-packers-players",
         "publishedAt": "2026-09-09T12:18:34-04:00",
         "summary": "Pro Football Reference has just rolled out some stats from the earliest years of the National Football League. In a blog post, PFR announced that courtesy of a donation from legendary sports researcher David Neft, they’re now able to offer fairly reliable stats from the 1920-1931 seasons (and 1932, in some cases). That means we’re [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86106/green-bay-packers-news-running-backs-ready-for-committee-approach",
         "publishedAt": "2026-09-09T10:11:35-04:00",
         "summary": "The Packers’ season will probably not hinge on the strength of their running backs, which is a good thing, because I’m not sure anybody really knows what the Packers have at running back. And that includes the Packers, who are currently without the services of Josh Jacobs (and likely will remain so for the foreseeable [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,51 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/86047/packers-vs-vikings-week-1-tv-broadcast-map-shows-wide-coverage",
         "publishedAt": "2026-09-09T09:40:00-04:00",
         "summary": "When the Green Bay Packers open up the 2026 season against the Minnesota Vikings on Sunday, they will do so with the eyes of most of the pro football world upon them. Sunday’s kickoff will take place at 3:25 PM Central time, and the vast majority of the United States will get to see the [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers drop Week 1 depth chart: 6 takeaways",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86088/green-bay-packers-drop-week-1-depth-chart-6-takeaways",
-        "publishedAt": "2026-09-09T09:30:00-04:00",
-        "summary": "The Green Bay Packers updated their depth chart on Tuesday, the first time that they’ve done so going into the 2026 regular season. For the most part, it looks accurate, based on our charting of preseason and training camp rotations, but there were a few things that stood out to me — so I want [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Every Former Packer the Team Will See in the 2026 Season",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/86006/every-former-packer-the-team-will-see-in-the-2026-season",
-        "publishedAt": "2026-09-09T09:00:00-04:00",
-        "summary": "Last offseason, I ranked the former Green Bay Packers the team would face in the upcoming season based on how much it was gonna hurt to play against them. I specifically ranked them based on pure emotion mixed with how much the Packers could use them at that time. This season, there are a handful [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Predict the Green Bay Packers’ final win total in 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86068/predict-the-green-bay-packers-final-win-total-in-2026",
-        "publishedAt": "2026-09-09T08:30:00-04:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. Week 1 of the NFL season brings optimism and excitement for fan bases all across the league. (Well, except for the Browns, perhaps.) But how shall [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers’ Week 1 X-factor is the health of Zach Bako-Bewele",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/86065/the-packers-week-1-x-factor-is-the-health-of-zach-bako-bewele",
-        "publishedAt": "2026-09-09T06:00:00-04:00",
-        "summary": "The Green Bay Packers coaching staff has been non-committal about right tackle Zach Bako-Bewele’s availability for Sunday’s game for a couple of weeks now. Bako-Bewele himself was confident he’d be ready for Week 1, but you’ve definitely heard more convincing statements of confidence than this one: Offensive coordinator and former offensive line coach Adam Stenovich [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers sign RB Damon Bankston",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86080/packers-sign-rb-damon-bankston",
-        "publishedAt": "2026-09-08T19:55:16-04:00",
-        "summary": "Sports Illustrated’s Bill Huber is reporting that the Green Bay Packers have signed rookie running back Damon Bankston, filling their final vacancy on the team’s practice squad. Bankston was brought into Green Bay initially as a pre-draft visitor, but he ended up signing with the New York Giants as an undrafted free agent for $115,000 [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
