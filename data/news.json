@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T05:58:39.983Z",
+  "updatedAt": "2026-09-10T11:18:44.194Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,74 @@
     ],
     "espn": [
       {
-        "title": "Drake Maye after Pats' loss: I lost patience and it cost us",
-        "url": "https://www.espn.com/nfl/story/_/id/49888969/drake-maye-pats-loss-lost-patience-cost-us",
-        "publishedAt": "2026-09-10T05:56:14Z",
-        "summary": "Drake Maye called his 3-interception performance \"unacceptable\" in a 13-10 season-opening loss to the Seahawks, noting he \"lost patience and it cost us.\"",
+        "title": "NFL Week 1 latest intel, buzz questions, news, fantasy tips",
+        "url": "https://www.espn.com/nfl/story/_/id/49873881/week-1-buzz-fantasy-predictions-graziano-fowler-2026",
+        "publishedAt": "2026-09-10T10:26:33Z",
+        "summary": "What should we expect from Patrick Mahomes? How will the Raiders handle their QB situation? Which receivers could break out? Our insiders have Week 1 intel.",
         "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How to bet 49ers-Rams on 'TNF': Analysis, tips and favorite plays",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49436739/nfl-week-1-odds-betting-tips-picks-san-francisco-49ers-los-angeles-rams",
+        "publishedAt": "2026-09-10T10:09:29Z",
+        "summary": "Odds, bets and analysis to help you bet 49ers-Rams on \"Thursday Night Football.\"",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How NFL brought 49ers-Rams to 'sports mad' Australia",
+        "url": "https://www.espn.com/nfl/story/_/id/49881494/nfl-season-australia-san-francisco-49ers-los-angeles-rams-week-1",
+        "publishedAt": "2026-09-10T10:00:04Z",
+        "summary": "The NFL's latest and farthest international venture is to Melbourne, Australia. How did the 49ers and Rams fit into those plans?",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What's got Bills coach Joe Brady's energy up?",
+        "url": "https://www.espn.com/nfl/story/_/id/49882160/buffalo-bills-coach-joe-brady-energy-caffeine-confidence",
+        "publishedAt": "2026-09-10T10:00:02Z",
+        "summary": "The highly caffeinated 36-year-old is the youngest head coach in the NFL while he oversees a contending Buffalo team.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rams 'excited' despite late arrival into Melbourne",
+        "url": "https://www.espn.com/video/clip/_/id/49890060/rams-excited-late-arrival-melbourne",
+        "publishedAt": "2026-09-10T09:27:10Z",
+        "summary": "Los Angeles Rams head coach Sean McVay and QB Matthew Stafford both feel \"well rested\" after flying in less than 36 hours before the game, with Stafford saying it was \"really well thought out\".",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Davante Adams: \"Some things are out of our hands\"",
+        "url": "https://www.espn.com/video/clip/_/id/49890032/some-things-our-hands",
+        "publishedAt": "2026-09-10T09:22:31Z",
+        "summary": "LA Rams head coach Sean McVay and WR Davante Adams speak to the press ahead of their clash with the San Francisco 49ers, with Adams showing mixed feelings with the late arrival and connecting with fans.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers' Kittle, Bosa off injury report, set to play vs. Rams",
+        "url": "https://www.espn.com/nfl/story/_/id/49889214/49ers-kittle-bosa-injury-report-set-play-vs-rams",
+        "publishedAt": "2026-09-10T10:38:59Z",
+        "summary": "The 49ers will welcome back two of their biggest stars from significant injuries for their Week 1 matchup against the Rams in Melbourne.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Drake Maye after 3-INT opener: I lost patience and it cost us",
+        "url": "https://www.espn.com/nfl/story/_/id/49888969/drake-maye-pats-loss-lost-patience-cost-us",
+        "publishedAt": "2026-09-10T06:23:45Z",
+        "summary": "Drake Maye called his 3-interception performance \"unacceptable\" in a 13-10 season-opening loss to the Seahawks, noting he \"lost patience and it cost us.\"",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49799249/seattle-seahawks-vs-new-england-patriots-live-results-analysis-nfl-season-kickoff-super-bowl-lx-rematch",
         "publishedAt": "2026-09-10T03:43:53Z",
         "summary": "The 2026 NFL season opened with a rematch between last year's Super Bowl teams, the Seattle Seahawks and the New England Patriots. Here are all the highlights from the first game of the new season.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49887910/seahawks-open-season-win-pats-super-bowl-rematch",
         "publishedAt": "2026-09-10T03:37:51Z",
         "summary": "Seahawks open season with win over Pats in Super Bowl rematch",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,79 +207,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49882128/2026-nfl-week-1-new-england-patriots-seattle-seahawks-drake-maye-sam-darnold",
         "publishedAt": "2026-09-10T05:19:35Z",
         "summary": "In a Super Bowl LX rematch, the Seahawks kicked off the NFL season with a win but lost QB Sam Darnold to a hip injury.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch",
         "url": "http://www.espn.com/nfl/recap?gameId=401872656",
-        "publishedAt": "2026-09-10T04:31:29Z",
+        "publishedAt": "2026-09-10T11:04:38Z",
         "summary": "— Sam Darnold left the game injured, the offense was stagnant and sloppy mistakes put Seattle in a hole through three quarters.",
-        "image": "data/news-images/espn-4.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Browns QB Watson cited for speeding in August, pleads not guilty",
-        "url": "https://www.espn.com/nfl/story/_/id/49887814/browns-qb-watson-cited-speeding-aug-pleads-not-guilty",
-        "publishedAt": "2026-09-10T04:06:26Z",
-        "summary": "Browns quarterback Deshaun Watson entered a not guilty plea after being cited for allegedly driving 86 mph in a 60 mph zone on Aug. 26.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "A.J. Brown's debut for Patriots ends with ankle injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49887260/aj-brown-hurts-ankle-leaves-patriots-seahawks-nfl-opener",
-        "publishedAt": "2026-09-10T05:20:23Z",
-        "summary": "Patriots wide receiver A.J. Brown left Wednesday night's 13-10 loss to the Seahawks early in the third quarter with a right ankle injury and did not return.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks QB Darnold (hip) exits after opening drive vs. Patriots",
-        "url": "https://www.espn.com/nfl/story/_/id/49886582/seahawks-qb-darnold-injures-hip-opening-drive-vs-patriots",
-        "publishedAt": "2026-09-10T05:04:33Z",
-        "summary": "Seahawks quarterback Sam Darnold was ruled out of the season opener against the Patriots after suffering a hip injury on the opening drive.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Baker Mayfield learned about contract while watching 'Cars'",
-        "url": "https://www.espn.com/nfl/story/_/id/49885155/tampa-bay-buccaneers-how-baker-mayfield-learned-new-contract-cars-movie",
-        "publishedAt": "2026-09-10T00:23:47Z",
-        "summary": "The 31-year-old quarterback was watching a classic Disney film when he agreed to his contract.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Panthers managing injuries ahead of Week 1",
-        "url": "https://www.espn.com/video/clip/_/id/49886006/panthers-managing-injuries-ahead-week-1",
-        "publishedAt": "2026-09-10T00:06:58Z",
-        "summary": "Mike Kaye reports Patrick Jones is not expected to play Sunday, as Carolina sorts through its backfield rotation.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks down two safeties with Emmanwori (ankle) sidelined for opener",
-        "url": "https://www.espn.com/nfl/story/_/id/49885871/seahawks-two-safeties-emmanwori-ankle-ruled-opener",
-        "publishedAt": "2026-09-10T03:35:29Z",
-        "summary": "The Seahawks, already without Ty Okada for Wednesday's opener against the Patriots, also ruled out safety Nick Emmanwori, who is working his way back from ankle surgery.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Khosla family seeks to empower Seahawks leaders to make decisions",
-        "url": "https://www.espn.com/nfl/story/_/id/49885724/khosla-family-seeks-empower-seahawks-leaders-make-decisions",
-        "publishedAt": "2026-09-10T00:01:50Z",
-        "summary": "As the Khosla family takes over the Super Bowl champion Seahawks, the approach of the franchise's new controlling owners will be to not mess with a good thing.",
-        "image": "data/news-images/espn-11.jpg",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
