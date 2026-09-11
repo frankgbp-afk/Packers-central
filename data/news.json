@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:58:52.972Z",
+  "updatedAt": "2026-09-11T11:20:10.550Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,101 @@
     ],
     "espn": [
       {
+        "title": "Fantasy playbook: NFL Week 1 Shadow Reports, lineup locks and projected scores",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49872568/nfl-fantasy-football-2026-ultimate-playbook-projections-win-probabilities-week-1-shadow-reports-mike-clay",
+        "publishedAt": "2026-09-11T10:58:40Z",
+        "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Start your Bucs, sit Mahomes and a dozen more Week 1 fantasy football decisions",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49883353/fantasy-football-start-sit-week-1-need-know",
+        "publishedAt": "2026-09-11T10:28:17Z",
+        "summary": "Thoughts to consider on more than a dozen players about whom you might be on the fence about starting or sitting.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 1 picks, predictions, schedule, odds, fantasy tips",
+        "url": "https://www.espn.com/nfl/story/_/id/49805531/week-1-picks-predictions-schedule-fantasy-odds-2026",
+        "publishedAt": "2026-09-11T10:50:59Z",
+        "summary": "Josh Allen vs. C.J. Stroud? Jayden Daniels vs. Jalen Hurts? There are 14 games left in Week 1, and we have picks, predictions, key stats, watchability ratings and more.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Expectations for Saints' Tyler Shough in Year 2? 'Doesn't faze me'",
+        "url": "https://www.espn.com/nfl/story/_/id/49899557/big-expectations-new-orleans-saints-qb-tyler-shough-year-2-doesnt-faze-me",
+        "publishedAt": "2026-09-11T10:00:11Z",
+        "summary": "Named a captain this season, the 26-year-old QB is out to prove he can lead New Orleans to the postseason.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Can Goff, new-look Lions offense set aside disappointing 2025?",
+        "url": "https://www.espn.com/nfl/story/_/id/49896263/detroit-lions-jared-goff-new-offense",
+        "publishedAt": "2026-09-11T10:00:16Z",
+        "summary": "After tumbling from playoff contention last season, Detroit promises a team focused on the prize in 2026.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Career reboots: Vikings' Murray faces Packers' Gannon",
+        "url": "https://www.espn.com/nfl/story/_/id/49892640/nfl-green-bay-packers-minnesota-vikings-kyler-murray-jonathan-gannon",
+        "publishedAt": "2026-09-11T10:00:03Z",
+        "summary": "Jonathan Gannon coached Kyler Murray with the Cardinals, and now they seek second chances with new teams.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Can Saquon Barkley recapture his 2024 dominance?",
+        "url": "https://www.espn.com/nfl/story/_/id/49893820/can-philadelphia-eagles-saquon-barkley-recapture-2024-dominance",
+        "publishedAt": "2026-09-11T10:00:02Z",
+        "summary": "Philadelphia's heavy under-center, wide zone scheme is largely new to the veteran running back.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL players, coaches, execs remember 9/11 on 25th anniversary",
+        "url": "https://www.espn.com/nfl/story/_/id/49873166/remembering-25th-anniversary-9-11-new-york-jets-giants-washington-buffalo-bills",
+        "publishedAt": "2026-09-11T10:00:12Z",
+        "summary": "Hall of Famers, franchise greats and more recount the moments they experienced in the aftermath of the attacks.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Cowboys see DC Christian Parker's youth as an X factor",
+        "url": "https://www.espn.com/nfl/story/_/id/49879243/nfl-dallas-cowboys-christian-parker-defensive-coordinator",
+        "publishedAt": "2026-09-11T10:00:02Z",
+        "summary": "Parker is the youngest DC in Cowboys history and is tasked with turning around the NFL's worst defense from last season.",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Shanahan, McVay brush off travel plans as factor in Niners' win over Rams",
+        "url": "https://www.espn.com/nfl/story/_/id/49900760/shanahan-mcvay-brush-travel-plans-factor-niners-win-rams",
+        "publishedAt": "2026-09-11T06:55:08Z",
+        "summary": "Though many Niners players applauded the team's decision to travel to Melbourne a week in advance, Kyle Shanahan and Sean McVay said they didn't think the Niners' and Rams' different arrival times factored into San Francisco's 27-7 win.",
+        "image": "data/news-images/espn-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Rams' Garrett, without a tackle in loss to 49ers, cites knee",
         "url": "https://www.espn.com/nfl/story/_/id/49900643/rams-garrett-tackle-loss-49ers-cites-knee",
-        "publishedAt": "2026-09-11T05:54:53Z",
+        "publishedAt": "2026-09-11T06:17:50Z",
         "summary": "Myles Garrett, who went without a tackle in his first game with the Rams, called his performance \"the worst version of myself that I've put out there.\"",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,96 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49899833/samuel-puts-49ers-commanding-position",
         "publishedAt": "2026-09-11T03:31:34Z",
         "summary": "San Francisco 49ers QB Brock Purdy had the ball on a string and WR Deebo Samuel was in the perfect position to pick up another TD for San Francisco.",
-        "image": "data/news-images/espn-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers dismantle Rams 27-7 in Australia",
-        "url": "https://www.espn.com/video/clip/_/id/49899829/49ers-dismantle-rams-27-7-australia",
-        "publishedAt": "2026-09-11T04:11:37Z",
-        "summary": "49ers dismantle Rams 27-7 in Australia",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers rout Rams 27-7 in NFL's first Australia game behind Brock Purdy's 3 TD passes",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872657",
-        "publishedAt": "2026-09-11T04:59:29Z",
-        "summary": "— The San Francisco 49ers enjoyed every moment of their weeklong Australian adventure. They gradually adjusted their body clocks, enjoyed Melbourne's sights and tastes — and then they dominated a division rival in the NFL's first regular-season game...",
-        "image": "data/news-images/espn-3.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Top moments, highlights as 49ers beat Rams in Australia",
-        "url": "https://www.espn.com/nfl/story/_/id/49804888/san-francisco-49ers-vs-los-angeles-rams-live-results-analysis-thursday-night-football-melbourne-australia",
-        "publishedAt": "2026-09-11T04:56:07Z",
-        "summary": "NFL divisional rivals squared off in the first Thursday night game of the new season. Here are the highlights from Rams vs. 49ers.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Evans opens a two-TD lead over Rams",
-        "url": "https://www.espn.com/video/clip/_/id/49899360/evans-opens-two-td-lead-rams",
-        "publishedAt": "2026-09-11T02:36:44Z",
-        "summary": "San Francisco 49ers WR Mike Evans fights off Jaylen Watson and snatches the Purdy pass to give the Niners a 17-7 lead early in the third quarter.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers trounce Rams Down Under with 27-7 win",
-        "url": "https://www.espn.com/nfl/story/_/id/49892445/2026-nfl-week-1-los-angeles-rams-san-francisco-49ers-matthew-stafford-brock-purdy-melbourne",
-        "publishedAt": "2026-09-11T04:56:13Z",
-        "summary": "Los Angeles flew in the day before the game, but it was the Niners who walked away with the win.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers' De'Zhaun Stribling hurts ankle, set for more tests",
-        "url": "https://www.espn.com/nfl/story/_/id/49899228/49ers-dezhaun-stribling-exits-vs-rams-due-ankle-injury",
-        "publishedAt": "2026-09-11T05:22:36Z",
-        "summary": "Kyle Shanahan said that initial testing didn't provide full results on the severity of De'Zhaun Stribling's injury, which will require more testing after the team flies the 16 hours back to the Bay Area.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams score the first TD on Australian soil",
-        "url": "https://www.espn.com/video/clip/_/id/49899058/rams-score-first-td-australian-soil",
-        "publishedAt": "2026-09-11T01:53:33Z",
-        "summary": "LA Rams running back Kyren Williams rushes in from five yards to give the Rams the lead with the first touchdown in Australia.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Piñeiro kicks the first points for the 49ers at the MCG",
-        "url": "https://www.espn.com/video/clip/_/id/49898972/pineiro-kicks-first-points-49ers-mcg",
-        "publishedAt": "2026-09-11T01:42:39Z",
-        "summary": "San Francisco 49ers kicker Eddy Piñeiro puts the first points up at the Melbourne Cricket Ground with a field goal.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams' Puka Nacua: Was 'kind of drowning myself' with alcohol",
-        "url": "https://www.espn.com/nfl/story/_/id/49898899/rams-puka-nacua-was-kind-drowning-alcohol",
-        "publishedAt": "2026-09-11T05:30:48Z",
-        "summary": "Rams WR Puka Nacua told Netflix that \"alcohol was definitely a thing\" for him as he dealt with off-the-field stresses that included a rapid rise to NFL stardom and the birth of his son.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
-        "url": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
-        "publishedAt": "2026-09-11T01:21:00Z",
-        "summary": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
