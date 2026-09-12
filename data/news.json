@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T05:46:59.625Z",
+  "updatedAt": "2026-09-12T10:45:22.451Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,92 @@
     ],
     "espn": [
       {
+        "title": "How Raiders' QB Kirk Cousins is approaching Year 15",
+        "url": "https://www.espn.com/nfl/story/_/id/49904333/las-vegas-raiders-quarterback-kirk-cousins-year-15-mentor-starter",
+        "publishedAt": "2026-09-12T10:00:12Z",
+        "summary": "We spoke to Raiders' Kirk Cousins about the 2026 season, working with Klint Kubiak and his role as a mentor.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Which Jaguars WRs will lead in catches, TDs, yards in 2026?",
+        "url": "https://www.espn.com/nfl/story/_/id/49896215/week-1-jaguars-receivers-stats-projection",
+        "publishedAt": "2026-09-12T10:00:12Z",
+        "summary": "Brian Thomas Jr., Parker Washington and Jakobi Meyers will compete for Trevor Lawrence's targets when the season starts Sunday vs. the Browns.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Dolphins rookie WRs ready for the spotlight",
+        "url": "https://www.espn.com/nfl/story/_/id/49906385/miami-dolphins-rookie-receivers-start-opener",
+        "publishedAt": "2026-09-12T10:00:21Z",
+        "summary": "New Dolphins coach Jeff Hafley said the rookies will start the opener because they deserve it.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Mike McDaniel and Jim Harbaugh 'need each other' this season in L.A.",
+        "url": "https://www.espn.com/nfl/story/_/id/49881755/los-angeles-chargers-mike-mcdaniel-jim-harbaugh-relationship-2026-season",
+        "publishedAt": "2026-09-12T10:00:41Z",
+        "summary": "We talked to Chargers OC Mike McDaniel and coach Jim Harbaugh about their football marriage.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Titans, Saleh downplay facing team that fired coach in Jets",
+        "url": "https://www.espn.com/nfl/story/_/id/49904338/tennessee-titans-robert-saleh-facing-former-team-new-york-jets",
+        "publishedAt": "2026-09-12T10:00:13Z",
+        "summary": "Robert Saleh, Titans focused on winning as the coach faces the Jets for the first time.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jayden Daniels arrives for Year 3 after injury, with new tutelage",
+        "url": "https://www.espn.com/nfl/story/_/id/49905762/washington-commanders-jayden-daniels-new-offense",
+        "publishedAt": "2026-09-12T10:00:33Z",
+        "summary": "David Blough's offense will have Daniels calling more plays himself; Blough said Daniels has had his best NFL camp so far.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Three things Bears QB Caleb Williams wants to improve on",
+        "url": "https://www.espn.com/nfl/story/_/id/49897273/chicago-bears-caleb-williams-2026-outlook",
+        "publishedAt": "2026-09-12T10:12:47Z",
+        "summary": "Ben Johnson laid out a careful plan for Williams' offseason tweaks, and the young QB has earned high marks.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Can Denver Broncos' pass rush lead the NFL in sacks in 2026?",
+        "url": "https://www.espn.com/nfl/story/_/id/49896439/denver-broncos-pass-rush-nfl-sack-leaders-two-seasons-whats-next",
+        "publishedAt": "2026-09-12T10:00:22Z",
+        "summary": "All eyes are on the Broncos' pass rush, which set single-season franchise sack records in back-to-back years -- including a league-leading 68 last season.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+        "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+        "publishedAt": "2026-09-12T10:00:33Z",
+        "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Three questions facing Panthers in Week 1",
         "url": "https://www.espn.com/video/clip/_/id/49908801/three-questions-facing-panthers-week-1",
         "publishedAt": "2026-09-12T01:06:59Z",
         "summary": "Mike Kaye breaks down questions facing Panthers in Week 1.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49907761/tua-ruled-week-1-vs-steelers",
         "publishedAt": "2026-09-11T23:07:04Z",
         "summary": "Tua ruled out for Week 1 vs. Steelers",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,87 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49907338/bears-odunze-feels-ready-panthers-questionable-tag",
         "publishedAt": "2026-09-11T22:17:22Z",
         "summary": "Chicago Bears wide receiver Rome Odunze (calf) says he expects to play Sunday in the season opener at Carolina despite being listed as questionable on the final injury report.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football Week 1 inactives: Status for Jeanty, Love, Odunze and others",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-49647166/fantasy-football-injuries-nfl-week-1-inactive-active",
-        "publishedAt": "2026-09-11T22:18:53Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chris Johnson's induction into Titans' Ring of Honor postponed",
-        "url": "https://www.espn.com/nfl/story/_/id/49906799/chris-johnson-induction-titans-ring-honor-postponed",
-        "publishedAt": "2026-09-11T20:35:22Z",
-        "summary": "Former Titans running back Chris Johnson's induction into the franchise's Ring of Honor has been postponed, the team said on Friday.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles LB Jonathan Greenard out Week 1 due to pec injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49906739/eagles-lb-jonathan-greenard-week-1-due-pec-injury",
-        "publishedAt": "2026-09-11T20:47:27Z",
-        "summary": "The Eagles have ruled out edge rusher Jonathan Greenard for Week 1 due to a pec injury. Greenard missed all of training camp but was a limited participant in practice this week.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cowboys RB Malik Davis set for hip surgery, headed to IR",
-        "url": "https://www.espn.com/nfl/story/_/id/49906649/cowboys-malik-davis-hip-injured-practice-opener",
-        "publishedAt": "2026-09-12T02:12:25Z",
-        "summary": "Dallas Cowboys running back Malik Davis is scheduled to have surgery Saturday and be placed on injured reserve after suffering a hip injury in Friday's practice, a source told ESPN Friday.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Texans rookie Kayden McDonald placed on IR with ankle injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49906512/texans-rookie-kayden-mcdonald-placed-ir-ankle-injury",
-        "publishedAt": "2026-09-11T20:18:13Z",
-        "summary": "Texans rookie defensive tackle Kayden McDonald (ankle) was placed on injured reserve, meaning he'll have to wait four weeks to make his debut.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Bears, RB Swift agree to 3-year, $33.75M extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49906474/bears-rb-swift-agree-3-year-3375m-extension",
-        "publishedAt": "2026-09-11T22:49:11Z",
-        "summary": "The Chicago Bears and RB D'Andre Swift have reached an agreement on a 3-year, $33.75 million extension that includes $27.5M guaranteed, sources told ESPN's Adam Schefter.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Who are the winningest NFL coaches of all time?",
-        "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-        "publishedAt": "2026-09-11T20:05:05Z",
-        "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Steelers' Joey Porter Jr. questionable for opener vs. Falcons",
-        "url": "https://www.espn.com/nfl/story/_/id/49906367/steelers-joey-porter-jr-questionable-opener-vs-falcons",
-        "publishedAt": "2026-09-11T20:04:12Z",
-        "summary": "Steelers CB Joey Porter Jr. is listed as questionable for Sunday's season opener, as both he and the team continue to try to reach a contract extension.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ravens' Minter: Madubuike out vs. Colts but return 'really close'",
-        "url": "https://www.espn.com/nfl/story/_/id/49906177/ravens-minter-madubuike-vs-colts-return-really-close",
-        "publishedAt": "2026-09-11T19:45:44Z",
-        "summary": "Ravens defensive tackle Nnamdi Madubuike was ruled out for Sunday's opener against the Colts but will be \"ready to roll here soon,\" coach Jesse Minter said.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
