@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-09-12T10:45:22.451Z",
+  "updatedAt": "2026-09-12T14:06:37.466Z",
   "sources": {
     "packers": [
+      {
+        "title": "Jonathan Gannon no stranger to Packers' first foe",
+        "url": "https://www.packers.com/news/jonathan-gannon-no-stranger-to-packers-first-foe",
+        "publishedAt": "Sat, 12 Sep 2026 13:30:00 GMT",
+        "summary": "New defensive coordinator faces unique but familiar challenge in Green Bay debut",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: It's time to play the game",
+        "url": "https://www.packers.com/news/inbox-it-s-time-to-play-the-game-sept-12-2026",
+        "publishedAt": "Sat, 12 Sep 2026 13:00:00 GMT",
+        "summary": "You can never have enough Isaiah McDuffies on your football team",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Green Bay makes roster move with WR Bo Melton",
         "url": "https://www.packers.com/news/green-bay-makes-roster-move-with-wr-bo-melton-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 21:24:50 GMT",
         "summary": "Packers receiver is released and signed to practice squad",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-list-three-questionable-vs-vikings-week-1-injury-report-2026",
         "publishedAt": "Fri, 11 Sep 2026 19:38:31 GMT",
         "summary": "G Aaron Banks, T Zach Bako-Bewele both questionable for Sunday",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/tickets-for-travel-wisconsin-frozen-tundra-faceoff-now-on-sale",
         "publishedAt": "Fri, 11 Sep 2026 15:00:02 GMT",
         "summary": "Tickets for Travel Wisconsin Frozen Tundra Faceoff, set for Feb. 20, now on sale through Ticketmaster; parking information for ticketholders announced in coming weeks",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/settled-at-center-sean-rhyan-feeling-new-level-of-anticipation-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 14:34:29 GMT",
         "summary": "Packers starting center excited for challenge Vikings present",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-that-changed-a-while-ago-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 13:30:00 GMT",
         "summary": "The Packers have to make those plays difficult",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-vikings-injury-report-sept-10-2026",
         "publishedAt": "Thu, 10 Sep 2026 21:22:01 GMT",
         "summary": "",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/green-bay-packers-iheartmedia-milwaukee-sign-multi-year-deal-extending-radio-broadcast-partnership-2026",
         "publishedAt": "Thu, 10 Sep 2026 20:42:25 GMT",
         "summary": "iHeartMedia Milwaukee’s 95.7 BIG FM Continues as the Milwaukee Flagship Station for the Packers Radio Network",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/titletown-to-host-free-pumpkin-palooza-event-saturday-oct-17-2026",
         "publishedAt": "Thu, 10 Sep 2026 15:50:57 GMT",
         "summary": "Free pumpkin carving, interactive games and outdoor live music will be offered",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/longform/kamal-hadden-anthony-campbell-learned-to-dream-big-at-dream-u-sept-10-2026",
         "publishedAt": "Thu, 10 Sep 2026 15:24:17 GMT",
         "summary": "JUCO teammates kept the faith on journey from Indy CC to the Packers' 53",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/inbox-that-scouting-window-never-closes-sept-10-2026",
         "publishedAt": "Thu, 10 Sep 2026 13:30:00 GMT",
         "summary": "It sure is nice to have a “Gravedigger” back in Green Bay",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers QB Jordan Love on Vikings exotic blitz: 'You can get it whenever'",
-        "url": "https://www.packers.com/news/packers-qb-jordan-love-on-vikings-exotic-blitz-you-can-get-it-whenever-sept-9-2026",
-        "publishedAt": "Wed, 09 Sep 2026 22:14:59 GMT",
-        "summary": "Minnesota’s scheme always a challenge, but Green Bay has experience to counter",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers-Vikings Injury Report | Sept. 9, 2026",
-        "url": "https://www.packers.com/news/packers-vikings-injury-report-sept-9-2026",
-        "publishedAt": "Wed, 09 Sep 2026 21:38:02 GMT",
-        "summary": "",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Pete Thamel describes what QBs stand out to scouts",
+        "url": "https://www.espn.com/video/clip/_/id/49913707/pete-thamel-describes-qbs-stand-scouts",
+        "publishedAt": "2026-09-12T13:55:49Z",
+        "summary": "As three of the top five quarterbacks that were voted to be taken first in the 2027 NFL Draft are from the SEC, ESPN's Thamel speaks on what they are seeing from this class.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 1 predictions: Upsets, fantasy sleepers, stat lines",
+        "url": "https://www.espn.com/nfl/story/_/id/49872076/week-1-predictions-upsets-fantasy-sleepers-stats-2026",
+        "publishedAt": "2026-09-12T10:46:59Z",
+        "summary": "Could DeVonta Smith find the end zone in Week 1? Will the Jets finally intercept a pass? What will Aidan Hutchinson's stat line look like Sunday?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "How Raiders' QB Kirk Cousins is approaching Year 15",
         "url": "https://www.espn.com/nfl/story/_/id/49904333/las-vegas-raiders-quarterback-kirk-cousins-year-15-mentor-starter",
         "publishedAt": "2026-09-12T10:00:12Z",
         "summary": "We spoke to Raiders' Kirk Cousins about the 2026 season, working with Klint Kubiak and his role as a mentor.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +144,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49896215/week-1-jaguars-receivers-stats-projection",
         "publishedAt": "2026-09-12T10:00:12Z",
         "summary": "Brian Thomas Jr., Parker Washington and Jakobi Meyers will compete for Trevor Lawrence's targets when the season starts Sunday vs. the Browns.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Dolphins rookie WRs ready for the spotlight",
         "url": "https://www.espn.com/nfl/story/_/id/49906385/miami-dolphins-rookie-receivers-start-opener",
-        "publishedAt": "2026-09-12T10:00:21Z",
+        "publishedAt": "2026-09-12T10:50:25Z",
         "summary": "New Dolphins coach Jeff Hafley said the rookies will start the opener because they deserve it.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49881755/los-angeles-chargers-mike-mcdaniel-jim-harbaugh-relationship-2026-season",
         "publishedAt": "2026-09-12T10:00:41Z",
         "summary": "We talked to Chargers OC Mike McDaniel and coach Jim Harbaugh about their football marriage.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,16 +171,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49904338/tennessee-titans-robert-saleh-facing-former-team-new-york-jets",
         "publishedAt": "2026-09-12T10:00:13Z",
         "summary": "Robert Saleh, Titans focused on winning as the coach faces the Jets for the first time.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jayden Daniels arrives for Year 3 after injury, with new tutelage",
+        "title": "Why Commanders are believing in a Jayden Daniels rebound",
         "url": "https://www.espn.com/nfl/story/_/id/49905762/washington-commanders-jayden-daniels-new-offense",
-        "publishedAt": "2026-09-12T10:00:33Z",
-        "summary": "David Blough's offense will have Daniels calling more plays himself; Blough said Daniels has had his best NFL camp so far.",
-        "image": "data/news-images/espn-5.jpg",
+        "publishedAt": "2026-09-12T12:59:51Z",
+        "summary": "Washington offensive coordinator David Blough said Daniels has had his best NFL camp so far.",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49897273/chicago-bears-caleb-williams-2026-outlook",
         "publishedAt": "2026-09-12T10:12:47Z",
         "summary": "Ben Johnson laid out a careful plan for Williams' offseason tweaks, and the young QB has earned high marks.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49896439/denver-broncos-pass-rush-nfl-sack-leaders-two-seasons-whats-next",
         "publishedAt": "2026-09-12T10:00:22Z",
         "summary": "All eyes are on the Broncos' pass rush, which set single-season franchise sack records in back-to-back years -- including a league-leading 68 last season.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
         "publishedAt": "2026-09-12T10:00:33Z",
         "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49908801/three-questions-facing-panthers-week-1",
         "publishedAt": "2026-09-12T01:06:59Z",
         "summary": "Mike Kaye breaks down questions facing Panthers in Week 1.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tua ruled out for Week 1 vs. Steelers",
-        "url": "https://www.espn.com/video/clip/_/id/49907761/tua-ruled-week-1-vs-steelers",
-        "publishedAt": "2026-09-11T23:07:04Z",
-        "summary": "Tua ruled out for Week 1 vs. Steelers",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears' Odunze feels 'ready' for Panthers despite questionable tag",
-        "url": "https://www.espn.com/nfl/story/_/id/49907338/bears-odunze-feels-ready-panthers-questionable-tag",
-        "publishedAt": "2026-09-11T22:17:22Z",
-        "summary": "Chicago Bears wide receiver Rome Odunze (calf) says he expects to play Sunday in the season opener at Carolina despite being listed as questionable on the final injury report.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
