@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:34:59.717Z",
+  "updatedAt": "2026-09-12T01:06:34.190Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "Tua ruled out for Week 1 vs. Steelers",
+        "url": "https://www.espn.com/video/clip/_/id/49907761/tua-ruled-week-1-vs-steelers",
+        "publishedAt": "2026-09-11T23:07:04Z",
+        "summary": "Tua ruled out for Week 1 vs. Steelers",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Bears' Odunze feels 'ready' for Panthers despite questionable tag",
         "url": "https://www.espn.com/nfl/story/_/id/49907338/bears-odunze-feels-ready-panthers-questionable-tag",
         "publishedAt": "2026-09-11T22:17:22Z",
         "summary": "Chicago Bears wide receiver Rome Odunze (calf) says he expects to play Sunday in the season opener at Carolina despite being listed as questionable on the final injury report.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-49647166/fantasy-football-injuries-nfl-week-1-inactive-active",
         "publishedAt": "2026-09-11T22:18:53Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49906799/chris-johnson-induction-titans-ring-honor-postponed",
         "publishedAt": "2026-09-11T20:35:22Z",
         "summary": "Former Titans running back Chris Johnson's induction into the franchise's Ring of Honor has been postponed, the team said on Friday.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49906739/eagles-lb-jonathan-greenard-week-1-due-pec-injury",
         "publishedAt": "2026-09-11T20:47:27Z",
         "summary": "The Eagles have ruled out edge rusher Jonathan Greenard for Week 1 due to a pec injury. Greenard missed all of training camp but was a limited participant in practice this week.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49906649/cowboys-malik-davis-hip-injured-practice-opener",
         "publishedAt": "2026-09-11T22:07:41Z",
         "summary": "Dallas Cowboys running back Malik Davis was ruled out of Sunday's season opener against the New York Giants and could miss more time because of a hip injury suffered in Friday's practice, according to the team.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,16 +171,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49906512/texans-rookie-kayden-mcdonald-placed-ir-ankle-injury",
         "publishedAt": "2026-09-11T20:18:13Z",
         "summary": "Texans rookie defensive tackle Kayden McDonald (ankle) was placed on injured reserve, meaning he'll have to wait four weeks to make his debut.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Bears, RB Swift agree to 3-year, $33.75M extension",
         "url": "https://www.espn.com/nfl/story/_/id/49906474/bears-rb-swift-agree-3-year-3375m-extension",
-        "publishedAt": "2026-09-11T20:38:41Z",
+        "publishedAt": "2026-09-11T22:49:11Z",
         "summary": "The Chicago Bears and RB D'Andre Swift have reached an agreement on a 3-year, $33.75 million extension that includes $27.5M guaranteed, sources told ESPN's Adam Schefter.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
         "publishedAt": "2026-09-11T20:05:05Z",
         "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49906367/steelers-joey-porter-jr-questionable-opener-vs-falcons",
         "publishedAt": "2026-09-11T20:04:12Z",
         "summary": "Steelers CB Joey Porter Jr. is listed as questionable for Sunday's season opener, as both he and the team continue to try to reach a contract extension.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49906177/ravens-minter-madubuike-vs-colts-return-really-close",
         "publishedAt": "2026-09-11T19:45:44Z",
         "summary": "Ravens defensive tackle Nnamdi Madubuike was ruled out for Sunday's opener against the Colts but will be \"ready to roll here soon,\" coach Jesse Minter said.",
-        "image": "data/news-images/espn-9.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -207,15 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49905618/seattle-seahawks-qb-drew-lock-sam-darnold-injury",
         "publishedAt": "2026-09-11T19:15:17Z",
         "summary": "Lock led Seattle to a Week 1 win after Darnold injured his hip and left the game. But can he keep it up against the Cardinals in Week 2 -- and potentially beyond?",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: 49ers reward Kyle Shanahan with multiyear extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49906025/sources-49ers-reward-kyle-shanahan-multiyear-extension",
-        "publishedAt": "2026-09-11T22:32:08Z",
-        "summary": "The 49ers have given a multiyear extension to coach Kyle Shanahan, sources confirmed to ESPN. He has an 83-67 record in his 10 seasons.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
