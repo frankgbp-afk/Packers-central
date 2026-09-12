@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-12T17:09:11.030Z",
+  "updatedAt": "2026-09-12T19:21:11.453Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers announce roster moves | Sept. 12, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-12-2026",
+        "publishedAt": "Sat, 12 Sep 2026 19:10:00 GMT",
+        "summary": "Green Bay elevates two players for gameday vs. Vikings",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers sign TE Tucker Kraft to contract extension",
         "url": "https://www.packers.com/news/packers-sign-te-tucker-kraft-to-contract-extension-sept-12-2026",
         "publishedAt": "Sat, 12 Sep 2026 16:09:28 GMT",
         "summary": "General Manager Brian Gutekunst announced the transaction Saturday",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/jonathan-gannon-no-stranger-to-packers-first-foe",
         "publishedAt": "Sat, 12 Sep 2026 13:30:00 GMT",
         "summary": "New defensive coordinator faces unique but familiar challenge in Green Bay debut",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-time-to-play-the-game-sept-12-2026",
         "publishedAt": "Sat, 12 Sep 2026 13:00:00 GMT",
         "summary": "You can never have enough Isaiah McDuffies on your football team",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/green-bay-makes-roster-move-with-wr-bo-melton-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 21:24:50 GMT",
         "summary": "Packers receiver is released and signed to practice squad",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-list-three-questionable-vs-vikings-week-1-injury-report-2026",
         "publishedAt": "Fri, 11 Sep 2026 19:38:31 GMT",
         "summary": "G Aaron Banks, T Zach Bako-Bewele both questionable for Sunday",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/tickets-for-travel-wisconsin-frozen-tundra-faceoff-now-on-sale",
         "publishedAt": "Fri, 11 Sep 2026 15:00:02 GMT",
         "summary": "Tickets for Travel Wisconsin Frozen Tundra Faceoff, set for Feb. 20, now on sale through Ticketmaster; parking information for ticketholders announced in coming weeks",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/settled-at-center-sean-rhyan-feeling-new-level-of-anticipation-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 14:34:29 GMT",
         "summary": "Packers starting center excited for challenge Vikings present",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/inbox-that-changed-a-while-ago-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 13:30:00 GMT",
         "summary": "The Packers have to make those plays difficult",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-vikings-injury-report-sept-10-2026",
         "publishedAt": "Thu, 10 Sep 2026 21:22:01 GMT",
         "summary": "",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/green-bay-packers-iheartmedia-milwaukee-sign-multi-year-deal-extending-radio-broadcast-partnership-2026",
         "publishedAt": "Thu, 10 Sep 2026 20:42:25 GMT",
         "summary": "iHeartMedia Milwaukee’s 95.7 BIG FM Continues as the Milwaukee Flagship Station for the Packers Radio Network",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/titletown-to-host-free-pumpkin-palooza-event-saturday-oct-17-2026",
         "publishedAt": "Thu, 10 Sep 2026 15:50:57 GMT",
         "summary": "Free pumpkin carving, interactive games and outdoor live music will be offered",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Kamal Hadden, Anthony Campbell learned to dream big at 'Dream U'",
-        "url": "https://www.packers.com/news/longform/kamal-hadden-anthony-campbell-learned-to-dream-big-at-dream-u-sept-10-2026",
-        "publishedAt": "Thu, 10 Sep 2026 15:24:17 GMT",
-        "summary": "JUCO teammates kept the faith on journey from Indy CC to the Packers' 53",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -115,7 +115,7 @@
       {
         "title": "Raiders TE Michael Mayer gets 3-year, $45M extension, sources say",
         "url": "https://www.espn.com/nfl/story/_/id/49914437/raiders-te-michael-mayer-gets-3-year-45m-extension-sources-say",
-        "publishedAt": "2026-09-12T15:49:16Z",
+        "publishedAt": "2026-09-12T17:42:12Z",
         "summary": "Tight end Michael Mayer, who is stepping in for an injured Brock Bowers to start the regular season, has received a multiyear extension from the Raiders.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
@@ -133,7 +133,7 @@
       {
         "title": "Poll: Oregon's Dante Moore runaway QB1 for 2027 NFL draft",
         "url": "https://www.espn.com/nfl/story/_/id/49912762/poll-oregon-dante-moore-runaway-qb1-upcoming-nfl-draft",
-        "publishedAt": "2026-09-12T15:41:49Z",
+        "publishedAt": "2026-09-12T17:35:47Z",
         "summary": "Oregon's Dante Moore is the runaway top vote-getter among 25 NFL scouts and executives polled by ESPN to see whom they project as the top quarterback for the 2027 draft.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
