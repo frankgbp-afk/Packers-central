@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T20:49:30.418Z",
+  "updatedAt": "2026-09-13T23:09:47.731Z",
   "sources": {
     "packers": [
       {
@@ -12,11 +12,20 @@
         "icon": "GB"
       },
       {
+        "title": "Packers lead Vikings 22-17 after three",
+        "url": "https://www.packers.com/news/in-game-updates-week-1-vikings-2026",
+        "publishedAt": "Sun, 13 Sep 2026 21:11:18 GMT",
+        "summary": "Jordan Love has thrown for 280 yards, two touchdowns",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
         "title": "Packers LG Aaron Banks won't play vs. Vikings",
         "url": "https://www.packers.com/news/packers-lg-aaron-banks-won-t-play-vs-vikings-week-1-2026",
         "publishedAt": "Sun, 13 Sep 2026 18:55:00 GMT",
         "summary": "RT Zach Bako-Bewele is active for opener at Minnesota",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-1-2026",
         "publishedAt": "Sun, 13 Sep 2026 13:23:00 GMT",
         "summary": "Green Bay Packers vs. Minnesota Vikings channel listing, radio & streaming options",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/jonathan-gannon-no-stranger-to-packers-first-foe",
         "publishedAt": "Sun, 13 Sep 2026 13:22:00 GMT",
         "summary": "New defensive coordinator faces unique but familiar challenge in Green Bay debut",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-sign-te-tucker-kraft-to-contract-extension-sept-12-2026",
         "publishedAt": "Sat, 12 Sep 2026 20:42:00 GMT",
         "summary": "General Manager Brian Gutekunst announced the transaction Saturday",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-12-2026",
         "publishedAt": "Sat, 12 Sep 2026 19:10:00 GMT",
         "summary": "Green Bay elevates two players for gameday vs. Vikings",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-it-s-time-to-play-the-game-sept-12-2026",
         "publishedAt": "Sat, 12 Sep 2026 13:00:00 GMT",
         "summary": "You can never have enough Isaiah McDuffies on your football team",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/green-bay-makes-roster-move-with-wr-bo-melton-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 21:24:50 GMT",
         "summary": "Packers receiver is released and signed to practice squad",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-list-three-questionable-vs-vikings-week-1-injury-report-2026",
         "publishedAt": "Fri, 11 Sep 2026 19:38:31 GMT",
         "summary": "G Aaron Banks, T Zach Bako-Bewele both questionable for Sunday",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/tickets-for-travel-wisconsin-frozen-tundra-faceoff-now-on-sale",
         "publishedAt": "Fri, 11 Sep 2026 15:00:02 GMT",
         "summary": "Tickets for Travel Wisconsin Frozen Tundra Faceoff, set for Feb. 20, now on sale through Ticketmaster; parking information for ticketholders announced in coming weeks",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/settled-at-center-sean-rhyan-feeling-new-level-of-anticipation-sept-11-2026",
         "publishedAt": "Fri, 11 Sep 2026 14:34:29 GMT",
         "summary": "Packers starting center excited for challenge Vikings present",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: That changed a while ago",
-        "url": "https://www.packers.com/news/inbox-that-changed-a-while-ago-sept-11-2026",
-        "publishedAt": "Fri, 11 Sep 2026 13:30:00 GMT",
-        "summary": "The Packers have to make those plays difficult",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Josh Allen connects with Joshua Palmer for a late TD and Bills beat Texans 36-31 in wild opener",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872660",
-        "publishedAt": "2026-09-13T20:41:32Z",
-        "summary": "— Josh Allen threw a 34-yard touchdown pass to Joshua Palmer with 1:36 remaining to lift the Buffalo Bills to a 36-31 win over the Houston Texans in a back-and-forth season opener on Sunday.",
-        "image": "data/news-images/espn-0.png",
+        "title": "McCarthy gets game ball from Rodgers after Steelers' win",
+        "url": "https://www.espn.com/nfl/story/_/id/49933990/mccarthy-gets-game-ball-rodgers-steelers-win",
+        "publishedAt": "2026-09-13T22:45:12Z",
+        "summary": "Steelers quarterback Aaron Rodgers gave coach Mike McCarthy a game ball after the Steelers' victory Sunday.",
+        "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bengals force 4 turnovers, Burrow throws for TD in 33-27 win over the Buccaneers",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872925",
-        "publishedAt": "2026-09-13T20:34:35Z",
-        "summary": "— The Bengals' new-look defense forced four turnovers — including its first fumble recovery for a TD since 2022 — Joe Burrow passed for 254 yards and a touchdown and Cincinnati defeated the Tampa Bay Buccaneers 33-27 Sunday.",
-        "image": "data/news-images/espn-1.png",
+        "title": "Josh Allen, Bills use big plays to score big win vs. Texans",
+        "url": "https://www.espn.com/nfl/story/_/id/49933980/josh-allen-bills-use-big-plays-score-big-win-vs-texans",
+        "publishedAt": "2026-09-13T22:42:48Z",
+        "summary": "In a house of Bills horrors -- they hadn't won in Houston since '06 -- vs. a team that battered him last season, Josh Allen uncorked a whopper of an offensive performance as Buffalo outlasted Houston 36-31, giving Joe Brady his first victory as coach.",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
-        "url": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-09-13T20:42:02Z",
-        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
+        "title": "Cleveland Browns vs. Jacksonville Jaguars - Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49933879/cleveland-browns-vs-jacksonville-jaguars-game-highlights",
+        "publishedAt": "2026-09-13T22:39:35Z",
+        "summary": "Cleveland Browns vs. Jacksonville Jaguars - Game Highlights",
         "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Breece Hall powers Jets past Titans 23-10 in a dominant season opener against their former coach",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872924",
-        "publishedAt": "2026-09-13T20:28:35Z",
-        "summary": "— Breece Hall ran for 102 yards and a touchdown, Geno Smith threw for 215 yards in his Jets return and the New York Jets defeated Tennessee 23-10 on Sunday in the season opener to spoil Titans coach Robert Saleh's debut against his former team.",
-        "image": "data/news-images/espn-3.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "T.J. Watt's late pick-6 pushes sluggish Steelers past injury-laden Falcons 20-13",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872658",
-        "publishedAt": "2026-09-13T20:28:30Z",
-        "summary": "— T.J. Watt jumped in front of a pass from Cooper Rush and returned it 35 yards for a touchdown to break open a tight game as the Pittsburgh Steelers ",
-        "image": "data/news-images/espn-4.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Derrick Henry's rushes for 3 TDs and Lamar Jackson lights up the Colts in the Ravens' 41-23 win",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872659",
-        "publishedAt": "2026-09-13T20:27:30Z",
-        "summary": "— Derrick Henry ran for three touchdowns to move into third on the NFL's career list, Lamar Jackson threw for 324 yards and a TD and rushed for a score, and the Baltimore Ravens beat the Indianapolis Colts 41-23 on Sunday.",
-        "image": "data/news-images/espn-5.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "New York Jets vs. Tennessee Titans: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49931850/game-highlights",
-        "publishedAt": "2026-09-13T20:28:11Z",
-        "summary": "New York Jets vs. Tennessee Titans: Game Highlights",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tampa Bay Buccaneers vs. Cincinnati Bengals: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49931827/game-highlights",
-        "publishedAt": "2026-09-13T20:21:46Z",
-        "summary": "\n",
-        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-09-13T20:12:48Z",
+        "publishedAt": "2026-09-13T22:21:05Z",
         "summary": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Todd Monken: Browns' big loss not just about Deshaun Watson",
+        "url": "https://www.espn.com/nfl/story/_/id/49933555/todd-monken-browns-big-loss-not-just-deshaun-watson",
+        "publishedAt": "2026-09-13T22:42:13Z",
+        "summary": "Todd Monken sidestepped a question about whether he will stick with Deshaun Watson as the Browns' starter, but he said it was unfair to blame Sunday's 34-10 loss on the veteran QB.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Bucky Irving's Week 1 performance showed he has 'RB1 upside'",
+        "url": "https://www.espn.com/video/clip/_/id/49933522/why-bucky-irving-week-1-performance-showed-rb1-upside",
+        "publishedAt": "2026-09-13T22:55:31Z",
+        "summary": "Why Bucky Irving's Week 1 performance showed he has 'RB1 upside'",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bills' Houston-themed jabs at Texans top NFL Week 1 trolls",
+        "url": "https://www.espn.com/nfl/story/_/id/49933320/nfl-week-1-2026-trolls",
+        "publishedAt": "2026-09-13T22:34:50Z",
+        "summary": "Early season rust didn't apply to teams around the NFL trolling their opponents after a victory.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Chuba Hubbard might be fantasy's biggest Week 1 RB winner",
+        "url": "https://www.espn.com/video/clip/_/id/49933488/why-chuba-hubbard-fantasy-biggest-week-1-rb-winner",
+        "publishedAt": "2026-09-13T22:56:41Z",
+        "summary": "Why Chuba Hubbard might be fantasy's biggest Week 1 RB winner",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Tuten had a 'really encouraging' Week 1 fantasy performance",
+        "url": "https://www.espn.com/video/clip/_/id/49933484/why-tuten-had-really-encouraging-week-1-fantasy-performance",
+        "publishedAt": "2026-09-13T22:41:25Z",
+        "summary": "Why Tuten had a 'really encouraging' Week 1 fantasy performance",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Trevor Lawrence throws 4 TD passes as the Jaguars rout the Browns 34-10 in season opener",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872922",
-        "publishedAt": "2026-09-13T19:54:30Z",
-        "summary": "— Trevor Lawrence threw for 245 yards and four touchdowns, opening the season much like he closed last year, and the Jacksonville Jaguars dominated rebuilding Cleveland 34-10 on Sunday to spoil the debut of new Browns coach Todd Monken.",
-        "image": "data/news-images/espn-9.png",
+        "title": "Why Bijan Robinson's fantasy stock is trending upward this season",
+        "url": "https://www.espn.com/video/clip/_/id/49933465/why-bijan-robinson-fantasy-stock-trending-upward-season",
+        "publishedAt": "2026-09-13T22:35:29Z",
+        "summary": "Why Bijan Robinson's fantasy stock is trending upward this season",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Zay Flowers, Ja'Kobi Lane leave Ravens' win with injuries",
-        "url": "https://www.espn.com/nfl/story/_/id/49931127/jakobi-lane-zay-flowers-questionable-ravens",
-        "publishedAt": "2026-09-13T20:32:04Z",
-        "summary": "The Ravens lost receivers Zay Flowers and Ja'Kobi Lane to injuries in Sunday's season-opening 41-23 win over the Colts.",
+        "title": "Fans boo Titans in coach Saleh's debut as QB Ward struggles",
+        "url": "https://www.espn.com/nfl/story/_/id/49933417/fans-boo-titans-coach-saleh-debut-qb-ward-struggles",
+        "publishedAt": "2026-09-13T22:36:34Z",
+        "summary": "The Titans suffered a 23-10 loss to Robert Saleh's former team, the Jets, while quarterback Cam Ward had a tough outing, completing 19 of 32 attempts for 140 yards and one touchdown.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 1's best arrivals, led by Jalen Hurts and Kyler Murray",
-        "url": "https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals",
-        "publishedAt": "2026-09-13T19:33:16Z",
-        "summary": "From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.",
+        "title": "Derrick Henry proved to be 'excellent' fantasy pick with Week 1 performance",
+        "url": "https://www.espn.com/video/clip/_/id/49933387/derrick-henry-proved-excellent-fantasy-pick-week-1-performance",
+        "publishedAt": "2026-09-13T22:21:27Z",
+        "summary": "Derrick Henry proved to be 'excellent' fantasy pick with Week 1 performance",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Packers vs. Vikings Week 1 Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86206/packers-vs-vikings-week-1-game-discussion",
+        "publishedAt": "2026-09-13T15:55:24-04:00",
+        "summary": "It’s about time for kickoff on the Green Bay Packers’ 2026 regular season! The Packers are just a few hours’ drive west of Green Bay today, facing the Minnesota Vikings to open both the season schedule and their slate of divisional games all in one. Will the Packers get a big divisional win on the [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Rapoport: NFL attempting to get their hands on the Josh Jacobs video",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86287/rapoport-nfl-attempting-to-get-their-hands-on-the-josh-jacobs-video",
+        "publishedAt": "2026-09-13T11:02:41-04:00",
+        "summary": "NFL Network/ESPN’s Ian Rapoport reported on Sunday morning that the NFL is attempting to obtain the alleged video from the incident that led to Green Bay Packers running back Josh Jacobs being charged with battery and criminal damage to property. Here is what Rapoport said, specifically: The NFL wants to interview Josh Jacobs. That will [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers vs. Vikings, Week 1: Game time, how to watch, odds, &#038; more",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/86200/packers-vs-vikings-week-1-game-time-how-to-watch-odds-more",
         "publishedAt": "2026-09-13T06:00:00-04:00",
         "summary": "The Green Bay Packers are finally about to kick off the 2026 regular season, bringing an end to eight months of waiting since their last game. Indeed, the team’s last game was on January 10th, eight months and three days before they will open up the 2026 season on the road against a divisional opponent. [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86277/trey-smack-is-a-big-deal",
         "publishedAt": "2026-09-12T23:34:35-04:00",
         "summary": "A lot of people made fun of the Green Bay Packers for drafting a kicker, but there are two immutable facts about kickers. You can acquire a kicker like any other player via free agency, or as a UDFA, or through the draft. Free agency will require paying the kicker a lot of money for [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86261/most-packers-fans-expect-team-to-hit-double-digit-wins-in-2026",
         "publishedAt": "2026-09-12T17:11:22-04:00",
         "summary": "9.5. That’s the magic number for the Green Bay Packers in 2026 — it’s the number of wins that sportsbooks have set for the team as their expected win total, with the over/under in that category being one of the most popular NFL bets before week one of the season. Indeed, FanDuel sportsbook has the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86268/packers-elevate-2-from-practice-squad-for-week-1-vs-vikings",
         "publishedAt": "2026-09-12T15:34:35-04:00",
         "summary": "The Green Bay Packers have announced that they’ve elevated two players, receiver Bo Melton and linebacker Kristian Welch, from the practice squad going into their Week 1 matchup against the Minnesota Vikings. The Melton move was expected, but the addition of Welch from the practice squad also means that it’s likely that linebacker Ty’Ron Hopper, [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86259/remembering-a-random-game-the-minnesota-vikings",
         "publishedAt": "2026-09-12T15:18:35-04:00",
         "summary": "The Green Bay Packers are set to open the season against the Minnesota Vikings on Sunday for the 132nd matchup in the history of the storied rivalry. I’m going to try something fun this season and look back on a random game every week by picking a number between 1 and however many times the [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86059/packers-sign-tucker-kraft-to-4-year-contract-extension-on-eve-of-season-opener",
         "publishedAt": "2026-09-12T10:59:10-04:00",
         "summary": "The Green Bay Packers wanted a deal done. Tucker Kraft wanted a deal done. And so, just ahead of the start of the 2026 NFL regular season, a deal is indeed done, and it appears to be a great deal for both sides. Tucker Kraft is now under contract with the Packers through the 2030 [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86239/packers-release-wr-bo-melton-intend-to-retain-him-on-practice-squad",
         "publishedAt": "2026-09-11T19:34:11-04:00",
         "summary": "Just over 48 hours ahead of their season opener, the Green Bay Packers have made a mildly shocking roster move. According to Adam Schefter of ESPN, the Packers are releasing wide receiver Bo Melton on Friday. Melton has been a mainstay of the Packers’ special teams units for the past two-plus years and has remained [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86236/packers-key-to-victory-chuck-it-deep",
         "publishedAt": "2026-09-11T19:31:44-04:00",
         "summary": "Week 1 is weird for a variety of reasons. Teams change so much throughout the offseason &#8211; additions, subtractions, hiring, firings, turn turn turn &#8211; so looking at numbers/film from the previous season won’t always shed light on the current season. That being said, I was combing through some stats over at NFL Pro and [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers list Bako-Bewele &#038; Banks as questionable against Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/86247/packers-injury-report-week-1-zach-bako-bewele-aaron-banks-questionable-vikings",
-        "publishedAt": "2026-09-11T16:06:35-04:00",
-        "summary": "The Green Bay Packers do appear to have game-time decisions on their hands with a pair of their starting offensive linemen. On Friday’s formal injury report for the team’s season opener against the Minnesota Vikings, the Packers have given both left guard Aaron Banks and right tackle Zach Bako-Bewele the questionable status. Bako-Bewele has been [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Week 1 NFL Picks: Packers head into Minnesota as slight underdogs",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86050/week-1-nfl-picks-packers-head-into-minnesota-as-slight-underdogs",
-        "publishedAt": "2026-09-11T15:00:00-04:00",
-        "summary": "The Green Bay Packers’ 2026 season finally gets underway on Sunday afternoon, and when it does, the Packers are likely to be underdogs in their first game. Week one finds them traveling to play the Minnesota Vikings, and as is likely to be the case in most games within the hotly-contested NFC North division this [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
