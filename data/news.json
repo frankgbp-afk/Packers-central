@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:16:45.381Z",
+  "updatedAt": "2026-09-13T00:02:13.950Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,20 @@
     ],
     "espn": [
       {
+        "title": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49919855/draftkings-nfl-dfs-values-week-1",
+        "publishedAt": "2026-09-12T22:57:12Z",
+        "summary": "Build a winning DFS lineup with our DraftKings NFL Week 1 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Falcons QB Rush still slated to start despite back spasms",
         "url": "https://www.espn.com/nfl/story/_/id/49918004/falcons-qb-rush-slated-start-back-spasms",
         "publishedAt": "2026-09-12T20:34:35Z",
         "summary": "Falcons quarterback Cooper Rush experienced back spasms Saturday, but he will still start Sunday against the Pittsburgh Steelers, the team announced.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +135,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49917836/sources-cj-stroud-texans-table-extension-talks",
         "publishedAt": "2026-09-12T20:47:40Z",
         "summary": "The Texans and C.J. Stroud made a run at completing a contract extension before the regular season begins, but both sides agreed they now prefer to wait until after this season to work out a long-term deal, sources told ESPN and NFL Network.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +144,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49917622/chiefs-set-use-undrafted-rookie-lt-josh-simmons-out",
         "publishedAt": "2026-09-12T20:17:49Z",
         "summary": "Chiefs left tackle Josh Simmons is out for Monday's season opener against the Broncos, with Kansas City expected to turn to undrafted rookie Kahlil Benson to help protect returning quarterback Patrick Mahomes.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Lamar Jackson won't have deal before start of season",
+        "url": "https://www.espn.com/nfl/story/_/id/49915181/sources-lamar-jackson-reluctant-talk-deal-ravens",
+        "publishedAt": "2026-09-12T23:38:55Z",
+        "summary": "Lamar Jackson has been reluctant to discuss a long-term extension with the Ravens and has been more focused on the upcoming 2026 season, league sources told ESPN.",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49914437/raiders-te-michael-mayer-gets-3-year-45m-extension-sources-say",
         "publishedAt": "2026-09-12T17:42:12Z",
         "summary": "Tight end Michael Mayer, who is stepping in for an injured Brock Bowers to start the regular season, has received a multiyear extension from the Raiders.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49914334/sources-packers-tucker-kraft-agree-4-year-extension",
         "publishedAt": "2026-09-12T15:35:15Z",
         "summary": "The Packers and tight end Tucker Kraft have reached agreement on a four-year extension worth up to $92 million, sources told ESPN.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49912762/poll-oregon-dante-moore-runaway-qb1-upcoming-nfl-draft",
         "publishedAt": "2026-09-12T17:35:47Z",
         "summary": "Oregon's Dante Moore is the runaway top vote-getter among 25 NFL scouts and executives polled by ESPN to see whom they project as the top quarterback for the 2027 draft.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/49913707/pete-thamel-describes-qbs-stand-scouts",
         "publishedAt": "2026-09-12T13:55:49Z",
         "summary": "As three of the top five quarterbacks that were voted to be taken first in the 2027 NFL Draft are from the SEC, ESPN's Thamel speaks on what they are seeing from this class.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49872076/week-1-predictions-upsets-fantasy-sleepers-stats-2026",
         "publishedAt": "2026-09-12T10:46:59Z",
         "summary": "Could DeVonta Smith find the end zone in Week 1? Will the Jets finally intercept a pass? What will Aidan Hutchinson's stat line look like Sunday?",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49904333/las-vegas-raiders-quarterback-kirk-cousins-year-15-mentor-starter",
         "publishedAt": "2026-09-12T10:00:12Z",
         "summary": "We spoke to Raiders' Kirk Cousins about the 2026 season, working with Klint Kubiak and his role as a mentor.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49896215/week-1-jaguars-receivers-stats-projection",
         "publishedAt": "2026-09-12T10:00:12Z",
         "summary": "Brian Thomas Jr., Parker Washington and Jakobi Meyers will compete for Trevor Lawrence's targets when the season starts Sunday vs. the Browns.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dolphins rookie WRs ready for the spotlight",
-        "url": "https://www.espn.com/nfl/story/_/id/49906385/miami-dolphins-rookie-receivers-start-opener",
-        "publishedAt": "2026-09-12T10:50:25Z",
-        "summary": "New Dolphins coach Jeff Hafley said the rookies will start the opener because they deserve it.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Mike McDaniel and Jim Harbaugh 'need each other' this season in L.A.",
-        "url": "https://www.espn.com/nfl/story/_/id/49881755/los-angeles-chargers-mike-mcdaniel-jim-harbaugh-relationship-2026-season",
-        "publishedAt": "2026-09-12T10:00:41Z",
-        "summary": "We talked to Chargers OC Mike McDaniel and coach Jim Harbaugh about their football marriage.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
