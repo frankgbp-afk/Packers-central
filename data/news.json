@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T00:02:13.950Z",
+  "updatedAt": "2026-09-13T04:46:31.219Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "NFL Week 1 betting analysis, best plays for Sunday afternoon's games",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49488943/week-1-nfl-odds-spreads-lines-props-best-bets-sunday-football-games",
+        "publishedAt": "2026-09-13T04:27:16Z",
+        "summary": "Our experts dive into the odds and player props for Week 1 and offer their betting tips and favorite plays.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
+        "url": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
+        "publishedAt": "2026-09-13T00:29:19Z",
+        "summary": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Jaguars, Parker Washington unlikely to agree to deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49920927/source-jaguars-parker-washington-unlikely-agree-deal",
+        "publishedAt": "2026-09-13T00:04:31Z",
+        "summary": "The Jaguars and Parker Washington are unlikely to agree to a contract extension before the start of the season, a source told NFL Network.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
         "url": "https://www.espn.com/fantasy/football/story/_/id/49919855/draftkings-nfl-dfs-values-week-1",
         "publishedAt": "2026-09-12T22:57:12Z",
         "summary": "Build a winning DFS lineup with our DraftKings NFL Week 1 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49918004/falcons-qb-rush-slated-start-back-spasms",
         "publishedAt": "2026-09-12T20:34:35Z",
         "summary": "Falcons quarterback Cooper Rush experienced back spasms Saturday, but he will still start Sunday against the Pittsburgh Steelers, the team announced.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49917836/sources-cj-stroud-texans-table-extension-talks",
         "publishedAt": "2026-09-12T20:47:40Z",
         "summary": "The Texans and C.J. Stroud made a run at completing a contract extension before the regular season begins, but both sides agreed they now prefer to wait until after this season to work out a long-term deal, sources told ESPN and NFL Network.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +171,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49917622/chiefs-set-use-undrafted-rookie-lt-josh-simmons-out",
         "publishedAt": "2026-09-12T20:17:49Z",
         "summary": "Chiefs left tackle Josh Simmons is out for Monday's season opener against the Broncos, with Kansas City expected to turn to undrafted rookie Kahlil Benson to help protect returning quarterback Patrick Mahomes.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Lamar Jackson won't have deal before start of season",
         "url": "https://www.espn.com/nfl/story/_/id/49915181/sources-lamar-jackson-reluctant-talk-deal-ravens",
-        "publishedAt": "2026-09-12T23:38:55Z",
+        "publishedAt": "2026-09-13T03:44:54Z",
         "summary": "Lamar Jackson has been reluctant to discuss a long-term extension with the Ravens and has been more focused on the upcoming 2026 season, league sources told ESPN.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49914437/raiders-te-michael-mayer-gets-3-year-45m-extension-sources-say",
         "publishedAt": "2026-09-12T17:42:12Z",
         "summary": "Tight end Michael Mayer, who is stepping in for an injured Brock Bowers to start the regular season, has received a multiyear extension from the Raiders.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49914334/sources-packers-tucker-kraft-agree-4-year-extension",
         "publishedAt": "2026-09-12T15:35:15Z",
         "summary": "The Packers and tight end Tucker Kraft have reached agreement on a four-year extension worth up to $92 million, sources told ESPN.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49912762/poll-oregon-dante-moore-runaway-qb1-upcoming-nfl-draft",
         "publishedAt": "2026-09-12T17:35:47Z",
         "summary": "Oregon's Dante Moore is the runaway top vote-getter among 25 NFL scouts and executives polled by ESPN to see whom they project as the top quarterback for the 2027 draft.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/49913707/pete-thamel-describes-qbs-stand-scouts",
         "publishedAt": "2026-09-12T13:55:49Z",
         "summary": "As three of the top five quarterbacks that were voted to be taken first in the 2027 NFL Draft are from the SEC, ESPN's Thamel speaks on what they are seeing from this class.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 1 predictions: Upsets, fantasy sleepers, stat lines",
-        "url": "https://www.espn.com/nfl/story/_/id/49872076/week-1-predictions-upsets-fantasy-sleepers-stats-2026",
-        "publishedAt": "2026-09-12T10:46:59Z",
-        "summary": "Could DeVonta Smith find the end zone in Week 1? Will the Jets finally intercept a pass? What will Aidan Hutchinson's stat line look like Sunday?",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How Raiders' QB Kirk Cousins is approaching Year 15",
-        "url": "https://www.espn.com/nfl/story/_/id/49904333/las-vegas-raiders-quarterback-kirk-cousins-year-15-mentor-starter",
-        "publishedAt": "2026-09-12T10:00:12Z",
-        "summary": "We spoke to Raiders' Kirk Cousins about the 2026 season, working with Klint Kubiak and his role as a mentor.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Which Jaguars WRs will lead in catches, TDs, yards in 2026?",
-        "url": "https://www.espn.com/nfl/story/_/id/49896215/week-1-jaguars-receivers-stats-projection",
-        "publishedAt": "2026-09-12T10:00:12Z",
-        "summary": "Brian Thomas Jr., Parker Washington and Jakobi Meyers will compete for Trevor Lawrence's targets when the season starts Sunday vs. the Browns.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Trey Smack is a Big Deal",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86277/trey-smack-is-a-big-deal",
+        "publishedAt": "2026-09-12T23:34:35-04:00",
+        "summary": "A lot of people made fun of the Green Bay Packers for drafting a kicker, but there are two immutable facts about kickers. You can acquire a kicker like any other player via free agency, or as a UDFA, or through the draft. Free agency will require paying the kicker a lot of money for [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Most Packers fans expect team to hit double digit wins in 2026",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86261/most-packers-fans-expect-team-to-hit-double-digit-wins-in-2026",
         "publishedAt": "2026-09-12T17:11:22-04:00",
         "summary": "9.5. That’s the magic number for the Green Bay Packers in 2026 — it’s the number of wins that sportsbooks have set for the team as their expected win total, with the over/under in that category being one of the most popular NFL bets before week one of the season. Indeed, FanDuel sportsbook has the [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86268/packers-elevate-2-from-practice-squad-for-week-1-vs-vikings",
         "publishedAt": "2026-09-12T15:34:35-04:00",
         "summary": "The Green Bay Packers have announced that they’ve elevated two players, receiver Bo Melton and linebacker Kristian Welch, from the practice squad going into their Week 1 matchup against the Minnesota Vikings. The Melton move was expected, but the addition of Welch from the practice squad also means that it’s likely that linebacker Ty’Ron Hopper, [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86259/remembering-a-random-game-the-minnesota-vikings",
         "publishedAt": "2026-09-12T15:18:35-04:00",
         "summary": "The Green Bay Packers are set to open the season against the Minnesota Vikings on Sunday for the 132nd matchup in the history of the storied rivalry. I’m going to try something fun this season and look back on a random game every week by picking a number between 1 and however many times the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86059/packers-sign-tucker-kraft-to-4-year-contract-extension-on-eve-of-season-opener",
         "publishedAt": "2026-09-12T10:59:10-04:00",
         "summary": "The Green Bay Packers wanted a deal done. Tucker Kraft wanted a deal done. And so, just ahead of the start of the 2026 NFL regular season, a deal is indeed done, and it appears to be a great deal for both sides. Tucker Kraft is now under contract with the Packers through the 2030 [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86239/packers-release-wr-bo-melton-intend-to-retain-him-on-practice-squad",
         "publishedAt": "2026-09-11T19:34:11-04:00",
         "summary": "Just over 48 hours ahead of their season opener, the Green Bay Packers have made a mildly shocking roster move. According to Adam Schefter of ESPN, the Packers are releasing wide receiver Bo Melton on Friday. Melton has been a mainstay of the Packers’ special teams units for the past two-plus years and has remained [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86236/packers-key-to-victory-chuck-it-deep",
         "publishedAt": "2026-09-11T19:31:44-04:00",
         "summary": "Week 1 is weird for a variety of reasons. Teams change so much throughout the offseason &#8211; additions, subtractions, hiring, firings, turn turn turn &#8211; so looking at numbers/film from the previous season won’t always shed light on the current season. That being said, I was combing through some stats over at NFL Pro and [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/86247/packers-injury-report-week-1-zach-bako-bewele-aaron-banks-questionable-vikings",
         "publishedAt": "2026-09-11T16:06:35-04:00",
         "summary": "The Green Bay Packers do appear to have game-time decisions on their hands with a pair of their starting offensive linemen. On Friday’s formal injury report for the team’s season opener against the Minnesota Vikings, the Packers have given both left guard Aaron Banks and right tackle Zach Bako-Bewele the questionable status. Bako-Bewele has been [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86050/week-1-nfl-picks-packers-head-into-minnesota-as-slight-underdogs",
         "publishedAt": "2026-09-11T15:00:00-04:00",
         "summary": "The Green Bay Packers’ 2026 season finally gets underway on Sunday afternoon, and when it does, the Packers are likely to be underdogs in their first game. Week one finds them traveling to play the Minnesota Vikings, and as is likely to be the case in most games within the hotly-contested NFC North division this [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86203/jordan-love-is-the-least-sacked-active-nfl-quarterback",
         "publishedAt": "2026-09-11T11:00:00-04:00",
         "summary": "While looking through the Green Bay Packers’ 2025 stats to get ready for the start of the 2026 season, something interesting caught my eye. I noticed that in his 15 games last season, Packers quarterback Jordan Love was sacked merely 21 times, a sack rate of just 4.57%. That seemed pretty darn low to me, [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers got help from long-time OL coach Harry Hiestand in camp",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86197/packers-got-help-from-long-time-ol-coach-harry-hiestand-in-camp",
-        "publishedAt": "2026-09-11T09:05:32-04:00",
-        "summary": "The Packers’ offensive line got some additional help from a long-time college and pro offensive line coach. According to reporting from the Milwaukee Journal Sentinel’s Tom Silverstein, Harry Hiestand spent training camp with the Packers in what appeared to be a consultant-style role. Hiestand is about as decorated as an offensive line coach can be, [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
