@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-09-14T18:38:03.523Z",
+  "updatedAt": "2026-09-14T22:30:34.228Z",
   "sources": {
     "packers": [
+      {
+        "title": "Mental mistakes, missed chances piled up in Packers' loss",
+        "url": "https://www.packers.com/news/mental-mistakes-missed-chances-piled-up-in-packers-loss-sept-14-2026",
+        "publishedAt": "Mon, 14 Sep 2026 21:31:02 GMT",
+        "summary": "Head Coach Matt LaFleur rehashed several regrets from Vikings game",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers sign WR Bo Melton to active roster",
+        "url": "https://www.packers.com/news/packers-sign-wr-bo-melton-to-active-roster-sept-14-2026",
+        "publishedAt": "Mon, 14 Sep 2026 20:00:00 GMT",
+        "summary": "Green Bay releases LS Scott Daly",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: No phase escapes blame",
         "url": "https://www.packers.com/news/inbox-no-phase-escapes-blame-sept-14-2026",
         "publishedAt": "Mon, 14 Sep 2026 13:30:00 GMT",
         "summary": "It all ties together",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-season-opening-loss-to-vikings-week-1-2026",
         "publishedAt": "Mon, 14 Sep 2026 02:15:00 GMT",
         "summary": "Week 1 gets away from Green Bay",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/game-notes-packers-defense-laments-penalties-in-fourth-quarter-swing-week-1-2026",
         "publishedAt": "Mon, 14 Sep 2026 02:10:00 GMT",
         "summary": "A trio of third-down flags buoyed Vikings’ go-ahead drive",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/rapid-reaction-it-s-up-to-the-packers-to-change-the-narrative-week-1-2026",
         "publishedAt": "Mon, 14 Sep 2026 02:05:00 GMT",
         "summary": "Green Bay dealing with big pile of adversity out of the gate",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/in-game-updates-week-1-vikings-2026",
         "publishedAt": "Sun, 13 Sep 2026 21:11:18 GMT",
         "summary": "Minnesota scores 29 straight points in second half",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-lg-aaron-banks-won-t-play-vs-vikings-week-1-2026",
         "publishedAt": "Sun, 13 Sep 2026 18:55:00 GMT",
         "summary": "RT Zach Bako-Bewele is active for opener at Minnesota",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vikings-week-1-2026",
         "publishedAt": "Sun, 13 Sep 2026 17:00:00 GMT",
         "summary": "Follow the Green Bay Packers vs. Minnesota Vikings game with live updates from U.S. Bank Stadium",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-1-2026",
         "publishedAt": "Sun, 13 Sep 2026 13:23:00 GMT",
         "summary": "Green Bay Packers vs. Minnesota Vikings channel listing, radio & streaming options",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/jonathan-gannon-no-stranger-to-packers-first-foe",
         "publishedAt": "Sun, 13 Sep 2026 13:22:00 GMT",
         "summary": "New defensive coordinator faces unique but familiar challenge in Green Bay debut",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/packers-sign-te-tucker-kraft-to-contract-extension-sept-12-2026",
         "publishedAt": "Sat, 12 Sep 2026 20:42:00 GMT",
         "summary": "General Manager Brian Gutekunst announced the transaction Saturday",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers announce roster moves | Sept. 12, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-12-2026",
-        "publishedAt": "Sat, 12 Sep 2026 19:10:00 GMT",
-        "summary": "Green Bay elevates two players for gameday vs. Vikings",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: It's time to play the game",
-        "url": "https://www.packers.com/news/inbox-it-s-time-to-play-the-game-sept-12-2026",
-        "publishedAt": "Sat, 12 Sep 2026 13:00:00 GMT",
-        "summary": "You can never have enough Isaiah McDuffies on your football team",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
-        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
-        "publishedAt": "2026-09-14T18:30:11Z",
-        "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+        "title": "Source: Lions' Pacheco to miss 'significant' time after back surgery",
+        "url": "https://www.espn.com/nfl/story/_/id/49943755/source-lions-pacheco-significant-back-surgery",
+        "publishedAt": "2026-09-14T22:24:23Z",
+        "summary": "Lions running back Isiah Pacheco will miss \"significant\" time after recently undergoing back surgery, a source told the NFL Network's Ian Rapoport.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football 2026 offensive depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
-        "publishedAt": "2026-09-14T18:21:02Z",
-        "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+        "title": "Patriots' Kraft says Macklemore performance would cross line",
+        "url": "https://www.espn.com/nfl/story/_/id/49943754/patriots-kraft-says-macklemore-performance-cross-line",
+        "publishedAt": "2026-09-14T22:22:36Z",
+        "summary": "Robert Kraft said he had Macklemore removed as an opening act for Ed Sheeran's shows at Gillette Stadium due in part to a \"history of antisemitic rhetoric and imagery that we believe has been deeply offensive and hurtful to the Jewish community.\"",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Coach Monken expects to stick with Watson as Browns' QB1 in Week 2",
-        "url": "https://www.espn.com/nfl/story/_/id/49941705/coach-monken-expects-stick-watson-browns-qb1-week-2",
-        "publishedAt": "2026-09-14T18:26:30Z",
-        "summary": "Browns coach Todd Monken said Monday that he expects Deshaun Watson to remain as the team's starting quarterback this Sunday at the Buccaneers.",
+        "title": "New York Jets, Giants both start 1-0 for first time since 2009",
+        "url": "https://www.espn.com/nfl/story/_/id/49942835/new-york-jets-giants-start-1-0-record-first-2009",
+        "publishedAt": "2026-09-14T21:56:02Z",
+        "summary": "The summer of New York is gaining strength as the Jets and Giants both started off their respective NFL seasons hot.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "ManningCast 2026 schedule: How to watch MNF games and guests",
-        "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
-        "publishedAt": "2026-09-14T18:21:53Z",
-        "summary": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
+        "title": "Chargers WR Ladd McConkey day-to-day with rib injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49943416/chargers-wr-ladd-mcconkey-day-day-rib-injury",
+        "publishedAt": "2026-09-14T22:19:10Z",
+        "summary": "Chargers coach Jim Harbaugh said Monday that wide receiver Ladd McConkey has a rib injury and is considered day-to-day.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL depth charts for all 32 teams for 2026 season",
-        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-        "publishedAt": "2026-09-14T17:17:15Z",
-        "summary": "Here are the latest NFL depth charts for all 32 teams.",
+        "title": "Giants' Harbaugh admits tackling Nabers to relax WR's injury fears",
+        "url": "https://www.espn.com/nfl/story/_/id/49943099/giants-harbaugh-tackled-nabers-relax-wideout-injury-fears",
+        "publishedAt": "2026-09-14T21:39:20Z",
+        "summary": "Giants coach John Harbaugh says tackling star receiver Malik Nabers was \"all in fun\" and was an effort to help the wideout move beyond his injury fears.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Super Bowl LXI odds: Rams' odds lengthen slightly, 49ers enter top 5",
-        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-        "publishedAt": "2026-09-14T16:50:50Z",
-        "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+        "title": "Raiders call Brock Bowers day-to-day ahead of Chargers game",
+        "url": "https://www.espn.com/nfl/story/_/id/49943075/brock-bowers-working-tail-rejoin-raiders-coach-says",
+        "publishedAt": "2026-09-14T21:31:56Z",
+        "summary": "Raiders coach Klint Kubiak said star tight end Brock Bowers is day-to-day after missing the team's Week 1 win over the Miami Dolphins because of a meniscus trim procedure he had last week.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football free agent pickups: Shough, Black, Coker highlight top options for Week 2",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49939032/fantasy-football-waiver-wire-free-agent-pickups-nfl-week-2",
-        "publishedAt": "2026-09-14T17:51:07Z",
-        "summary": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+        "title": "Ravens' Flowers day-to-day, Lane to be out longer, Minter says",
+        "url": "https://www.espn.com/nfl/story/_/id/49942967/ravens-flowers-day-day-lane-longer-minter-says",
+        "publishedAt": "2026-09-14T21:15:00Z",
+        "summary": "Ravens receiver Zay Flowers is considered day-to-day while receiver Ja'Kobi Lane could be out for a longer period with a wrist injury, coach Jesse Minter said.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-        "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-        "publishedAt": "2026-09-14T16:38:43Z",
-        "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
+        "title": "Steelers' McCarthy noncommittal on timeline for Porter's return",
+        "url": "https://www.espn.com/nfl/story/_/id/49942949/steelers-mccarthy-noncommittal-line-porter-return",
+        "publishedAt": "2026-09-14T21:26:59Z",
+        "summary": "Steelers coach Mike McCarthy was noncommittal on the cornerback's timeline to return to game action.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams' McVay: Won't have timeline on Garrett until after surgery",
-        "url": "https://www.espn.com/nfl/story/_/id/49941221/rams-mcvay-line-garrett-surgery",
-        "publishedAt": "2026-09-14T18:20:05Z",
-        "summary": "While the thought was Myles Garrett could play through his knee injury, it became clear after the Rams' Week 1 loss that he needed to have surgery, coach Sean McVay said.",
+        "title": "Falcons' Da'Shawn Hand needs quad surgery, likely out for '26",
+        "url": "https://www.espn.com/nfl/story/_/id/49942820/falcons-dashawn-hand-needs-quad-surgery-likely-26",
+        "publishedAt": "2026-09-14T20:37:47Z",
+        "summary": "Falcons defensive tackle Da'Shawn Hand has a quad injury that will require what is expected to be season-ending surgery.",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 2 betting: Odds, lines and totals for every game",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49940340/2026-nfl-week-2-schedule-odds-betting-point-spreads-totals",
-        "publishedAt": "2026-09-14T16:44:19Z",
-        "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 2.",
+        "title": "Dave Canales: Panthers need to 'play way better football'",
+        "url": "https://www.espn.com/nfl/story/_/id/49942333/dave-canales-carolina-panthers-defense-need-play-way-better-football-week-1-loss-bears",
+        "publishedAt": "2026-09-14T20:55:50Z",
+        "summary": "After watching film, the coach said Carolina needed to play smarter and Derrick Brown reminded everyone that it's just one game.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Baker Mayfield's struggles raises questions",
-        "url": "https://www.espn.com/video/clip/_/id/49941035/baker-mayfield-struggles-raises-questions",
-        "publishedAt": "2026-09-14T16:19:33Z",
-        "summary": "Jenna Laine breaks down Tampa Bay's season opener and Baker Mayfield's rough performance in the loss.",
+        "title": "Is there cause for fantasy concern with De'Von Achane?",
+        "url": "https://www.espn.com/video/clip/_/id/49942677/is-there-cause-fantasy-concern-devon-achane",
+        "publishedAt": "2026-09-14T20:12:02Z",
+        "summary": "Is there cause for fantasy concern with De'Von Achane?",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Lamar Jackson looks like old self in Ravens' new offense",
-        "url": "https://www.espn.com/nfl/story/_/id/49940318/lamar-jackson-looks-old-self-baltimore-ravens-new-offense-vs-colts",
-        "publishedAt": "2026-09-14T16:01:18Z",
-        "summary": "In his first season with new OC Declan Doyle, Jackson has embraced changes to how he played football for most of his life.",
+        "title": "Vikings' O'Connell doesn't fault Packers for hit on QB Murray",
+        "url": "https://www.espn.com/nfl/story/_/id/49942479/vikings-oconnell-fault-packers-hit-qb-murray",
+        "publishedAt": "2026-09-14T20:13:25Z",
+        "summary": "The hit that caused Vikings quarterback Kyler Murray's concussion was a \"violent, physical play\" but was not objectionable, coach Kevin O'Connell said Monday.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,74 +223,11 @@
     ],
     "acme": [
       {
-        "title": "The Packers’ defense got hung out to dry in Week 1",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86395/the-packers-defense-got-hung-out-to-dry-in-week-1",
-        "publishedAt": "2026-09-14T14:15:00-04:00",
-        "summary": "Giving up 39 points in an NFL is a lot. It’s not the number you want to see from your defense at any point in a season, and certainly not in week one, and certainly not against a backup quarterback. But despite that being the number of points that the Green Bay Packers allowed to [&#8230;]",
-        "image": "data/news-images/acme-0.jpg",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "No one can escape blame for the Packers’ offensive line failure",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86391/no-one-can-escape-blame-for-the-packers-offensive-line-failure",
-        "publishedAt": "2026-09-14T14:00:00-04:00",
-        "summary": "The Packers’ loss to the Vikings came down to an easily foreseeable problem: Brian Flores was going to blitz like a madman, and the Packers’ offensive line was going to struggle to stop him. Better lines than the Packers have failed to slow Flores’ logical insanity, and don’t get me wrong: when I call him [&#8230;]",
-        "image": "data/news-images/acme-1.jpg",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "You cannot overstate how bad the Packers’ offensive line was on Sunday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86358/you-cannot-overstate-how-bad-the-packers-offensive-line-was-on-sunday",
-        "publishedAt": "2026-09-14T12:28:54-04:00",
-        "summary": "I just had the misfortune of watching the Green Bay Packers’ offense on All-22, the third (and final) time I’ve watched the Minnesota Vikings game so far. To make this short: The Packers’ offensive line looked like a second-rate high school team, passing stunts off to no one, turning guys loose when they had to [&#8230;]",
-        "image": "data/news-images/acme-2.jpg",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Christian Watson doubles-up",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86354/packers-film-room-christian-watson-doubles-up",
-        "publishedAt": "2026-09-14T11:52:17-04:00",
-        "summary": "We’ll be dissecting the film on the overall Green Bay Packers offense &#38; passing game later (we already did a little of it with numbers), but, for now, I just wanted to take a few minutes and talk about the game Christian Watson had. With only the Monday Night game left to play, Watson currently [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: 1st impressions of Jonathan Gannon’s defense",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86355/packers-discussion-1st-impressions-of-jonathan-gannons-defense",
-        "publishedAt": "2026-09-14T10:46:41-04:00",
-        "summary": "I’m sure that we’re going to talk about the offensive line a lot this week, so I just want to give this space for people to fire off their thoughts on another major subject: the first game that Jonathan Gannon called on the defensive side of the ball. For the most part, I thought the [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers open Week 2 as favorites against Jets",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/86350/packers-open-week-2-as-favorites-against-jets",
-        "publishedAt": "2026-09-14T09:20:00-04:00",
-        "summary": "The Green Bay Packers may have made history with their collapse against the Minnesota Vikings in Week 1, but that does not mean that they are going to be underdogs in Week 2. Indeed, the opening lines at FanDuel sportsbook have the Packers installed as 4.5-point favorites for their road trip to play the New [&#8230;]",
-        "image": "data/news-images/acme-5.jpg",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: The Matt LaFleur discourse has only just begun",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86347/green-bay-packers-news-the-matt-lafleur-discourse-has-only-just-begun",
-        "publishedAt": "2026-09-14T08:50:00-04:00",
-        "summary": "When Matt LaFleur took three points off the board on Sunday afternoon in Minneapolis, the goal was clear: he wanted his Green Bay Packers to go score a touchdown and take a commanding two-possession lead over the Minnesota Vikings. Instead, wiping out a field goal meant his offense needed convert a 4th-and-1 to keep the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "Packers Snap Counts, Week 1: Kaleb Johnson absent on offense",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/86329/packers-snap-counts-week-1-kaleb-johnson-absent-on-offense",
         "publishedAt": "2026-09-13T22:49:10-04:00",
         "summary": "Below are the snap counts from the Green Bay Packers’ season-opening loss to the Minnesota Vikings, position-by-position. These numbers only count contributions to the offensive and defensive sides of the ball. Let’s dig into what the Packers showed in Week 1. Quarterback Jordan Love played every single snap of the game, but if the offensive [&#8230;]",
-        "image": "data/news-images/acme-7.jpg",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86310/packers-week-1-stats-from-green-bays-season-opening-loss",
         "publishedAt": "2026-09-13T22:23:36-04:00",
         "summary": "Recently, SumerSports rolled out SumerLive, which tracks a lot of tremendous data live for each game. It’s something I’ve enjoyed clicking around, and I did a test drive for the third preseason game. It seemed to go well, so we’re keeping it rolling into the regular season. Is this a game anyone on this site [&#8230;]",
-        "image": "data/news-images/acme-8.jpg",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +245,69 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86295/packers-winners-and-losers-week-1-vs-the-vikings",
         "publishedAt": "2026-09-13T22:04:30-04:00",
         "summary": "Week 1 is officially over for the Green Bay Packers, and I don’t ever want to speak of it again. The team traveled to Minnesota to face off against the Vikings on Sunday, and things were going well for the Packers until The Spiral™ began. After leading for most of the game, things fell apart, [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Vikings laid out the blueprint for the Packers’ offensive line",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86312/the-vikings-laid-out-the-blueprint-for-the-packers-offensive-line",
+        "publishedAt": "2026-09-13T21:23:55-04:00",
+        "summary": "The Green Bay Packers&#8217; offensive line performed extremely poorly on Sunday, as quarterback Jordan Love dropped back 46 times and completed only 21 passes (46 percent), getting hit on virtually every true dropback of the game. While the Packers posted 22 points through the first three quarters of the game, they averaged just 3.8 yards [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Vikings Final Score: Green Bay collapses again in 39-22 loss",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86293/packers-vikings-final-score-green-bay-collapses-again-in-39-22-loss",
+        "publishedAt": "2026-09-13T19:57:18-04:00",
+        "summary": "Matt LaFleur talked during the offseason about his team needing to be better in closing down games. Whatever he did to try to make that happen didn’t seem to work, at least not for the first week of the 2026 season. The Green Bay Packers led the Minnesota Vikings 22-10 early in the third quarter. [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Vikings Week 1 Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86206/packers-vs-vikings-week-1-game-discussion",
+        "publishedAt": "2026-09-13T15:55:24-04:00",
+        "summary": "It’s about time for kickoff on the Green Bay Packers’ 2026 regular season! The Packers are just a few hours’ drive west of Green Bay today, facing the Minnesota Vikings to open both the season schedule and their slate of divisional games all in one. Will the Packers get a big divisional win on the [&#8230;]",
+        "image": "data/news-images/acme-5.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Rapoport: NFL attempting to get their hands on the Josh Jacobs video",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86287/rapoport-nfl-attempting-to-get-their-hands-on-the-josh-jacobs-video",
+        "publishedAt": "2026-09-13T11:02:41-04:00",
+        "summary": "NFL Network/ESPN’s Ian Rapoport reported on Sunday morning that the NFL is attempting to obtain the alleged video from the incident that led to Green Bay Packers running back Josh Jacobs being charged with battery and criminal damage to property. Here is what Rapoport said, specifically: The NFL wants to interview Josh Jacobs. That will [&#8230;]",
+        "image": "data/news-images/acme-6.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Vikings, Week 1: Game time, how to watch, odds, &#038; more",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/86200/packers-vs-vikings-week-1-game-time-how-to-watch-odds-more",
+        "publishedAt": "2026-09-13T06:00:00-04:00",
+        "summary": "The Green Bay Packers are finally about to kick off the 2026 regular season, bringing an end to eight months of waiting since their last game. Indeed, the team’s last game was on January 10th, eight months and three days before they will open up the 2026 season on the road against a divisional opponent. [&#8230;]",
+        "image": "data/news-images/acme-7.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Trey Smack is a Big Deal",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86277/trey-smack-is-a-big-deal",
+        "publishedAt": "2026-09-12T23:34:35-04:00",
+        "summary": "A lot of people made fun of the Green Bay Packers for drafting a kicker, but there are two immutable facts about kickers. You can acquire a kicker like any other player via free agency, or as a UDFA, or through the draft. Free agency will require paying the kicker a lot of money for [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Most Packers fans expect team to hit double digit wins in 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86261/most-packers-fans-expect-team-to-hit-double-digit-wins-in-2026",
+        "publishedAt": "2026-09-12T17:11:22-04:00",
+        "summary": "9.5. That’s the magic number for the Green Bay Packers in 2026 — it’s the number of wins that sportsbooks have set for the team as their expected win total, with the over/under in that category being one of the most popular NFL bets before week one of the season. Indeed, FanDuel sportsbook has the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
