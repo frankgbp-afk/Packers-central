@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:43:56.859Z",
+  "updatedAt": "2026-09-15T13:32:45.086Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,92 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football buzz: Kenneth Walker III gives MVP effort in Chiefs debut",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-09-15T13:11:35Z",
+        "summary": "The Chiefs deployed new weapon Kenneth Walker III with dazzling results Monday night against the Broncos.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Will the Rams actually make it to playoffs?",
+        "url": "https://www.espn.com/video/clip/_/id/49948718/will-rams-actually-make-playoffs",
+        "publishedAt": "2026-09-15T12:56:42Z",
+        "summary": "Will the Rams actually make it to playoffs? ",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Greeny has already changed his mind on Broncos and Chiefs",
+        "url": "https://www.espn.com/video/clip/_/id/49948680/why-greeny-already-changed-mind-broncos-chiefs",
+        "publishedAt": "2026-09-15T13:09:46Z",
+        "summary": "Why Greeny has already changed his mind on Broncos and Chiefs",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft order projections for Round 1, top pick, more",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+        "publishedAt": "2026-09-15T10:39:09Z",
+        "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
+        "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+        "publishedAt": "2026-09-15T10:40:17Z",
+        "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seven things Solak thinks entering NFL Week 2",
+        "url": "https://www.espn.com/nfl/story/_/id/49940280/week-2-seven-things-solak-thinks-bears-vikings-bills-lions",
+        "publishedAt": "2026-09-15T12:30:55Z",
+        "summary": "Will the Titans score any points against the Eagles? Can Ben Johnson solve Brian Flores' Vikings defense? Get ready for Week 2 with seven takes.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 2",
+        "url": "https://www.espn.com/nfl/story/_/id/49881711/power-rankings-week-2-all-teams-top-newcomers-debuts",
+        "publishedAt": "2026-09-15T10:26:42Z",
+        "summary": "How do all 32 NFL teams stack up ahead of Week 2? Plus, we picked out the top newcomers from each roster.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cashing in: Bengals rookie Howell impacts pass rush",
+        "url": "https://www.espn.com/nfl/story/_/id/49944548/cincinnati-bengals-cashius-howell-impact",
+        "publishedAt": "2026-09-15T13:11:14Z",
+        "summary": "Howell believes the SEC made him ready for moments such as Sunday, when he had four QB pressures in the Bengals' win.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Best and worst NFL teams' travel: 49ers, Seahawks, Steelers divulge it all",
+        "url": "https://www.espn.com/nfl/story/_/id/49941730/best-worst-nfl-team-travel-nflpa-survey-49ers-seahawks-steelers-rams-patriots-saints",
+        "publishedAt": "2026-09-15T11:35:50Z",
+        "summary": "ESPN spoke with several players and team executives about team travel and the feedback that serves as the basis for the latest NFLPA survey grades.",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos",
         "url": "https://www.espn.com/nfl/story/_/id/49947028/kenneth-walker-iii-patrick-mahomes-power-chiefs-win-vs-broncos",
-        "publishedAt": "2026-09-15T06:50:08Z",
+        "publishedAt": "2026-09-15T12:09:04Z",
         "summary": "Quarterback Patrick Mahomes, making his return from a torn ACL, and running back Kenneth Walker III, making his Chiefs debut, powered Kansas City to a season-opening blowout win over Denver.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49947012/bo-nix-broncos-drop-opener-pretty-pitiful-effort",
         "publishedAt": "2026-09-15T06:29:25Z",
         "summary": "Denver quarterback Bo Nix, when asked to sum up the Broncos' 31-10 season-opening loss to the Kansas City Chiefs on Monday, labeled the effort 'pretty pitiful' after an offseason of optimism placed them among Super Bowl favorites.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,87 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49894461/patrick-mahomes-chiefs-return-knee-injury-nfl-week-1",
         "publishedAt": "2026-09-15T04:29:49Z",
         "summary": "On Dec. 14, Mahomes, after suffering the most significant injury of his career, vowed to be back for Week 1. Here's how he did it.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Who are the winningest NFL coaches of all time?",
-        "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-        "publishedAt": "2026-09-15T03:49:10Z",
-        "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mahomes on first TD in injury return: 'Wasn't planning on using my legs that early'",
-        "url": "https://www.espn.com/video/clip/_/id/49946471/planning-using-my-legs-early",
-        "publishedAt": "2026-09-15T03:42:34Z",
-        "summary": "Mahomes on first TD in injury return: 'Wasn't planning on using my legs that early'",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Kenneth Walker III's dazzling debut leads Chiefs over Broncos",
-        "url": "https://www.espn.com/nfl/story/_/id/49944600/2026-nfl-week-1-kansas-city-chiefs-denver-broncos-kenneth-walker-patrick-mahomes",
-        "publishedAt": "2026-09-15T04:37:24Z",
-        "summary": "Making his Chiefs debut, Kenneth Walker III powered Patrick Mahomes and the Chiefs past the Broncos on \"Monday Night Football.\"",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872931",
-        "publishedAt": "2026-09-15T04:25:29Z",
-        "summary": "— So many people seemed to be focused on Chiefs quarterback Patrick Mahomes, and how the two-time MVP's surgically repaired left...",
-        "image": "data/news-images/espn-6.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chiefs rout Broncos 31-10 on MNF",
-        "url": "https://www.espn.com/video/clip/_/id/49946262/chiefs-rout-broncos-31-10-mnf",
-        "publishedAt": "2026-09-15T03:37:12Z",
-        "summary": "Chiefs rout Broncos 31-10 on MNF",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chiefs' Travis Kelce now No. 2 among TEs in receiving yards",
-        "url": "https://www.espn.com/nfl/story/_/id/49946051/chiefs-travis-kelce-now-no-2-tes-receiving-yards",
-        "publishedAt": "2026-09-15T06:11:56Z",
-        "summary": "Travis Kelce reached another milestone Monday night against the Broncos, passing Jason Witten to move into second all time in receiving yards for a tight end.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eli tries his hand at replicating John Elway's Nerf football throw",
-        "url": "https://www.espn.com/video/clip/_/id/49945992/eli-tries-hand-replicating-john-elway-nerf-football-throw",
-        "publishedAt": "2026-09-15T03:55:14Z",
-        "summary": "Eli tries his hand at replicating John Elway's Nerf football throw",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Taylor Swift, Tom Cruise share suite at Broncos-Chiefs",
-        "url": "https://www.espn.com/nfl/story/_/id/49945403/taylor-swift-tom-cruise-travis-kelce-kansas-city-chiefs-denver-broncos",
-        "publishedAt": "2026-09-15T02:29:23Z",
-        "summary": "The pop star and actor sat side by side while supporting Swift's husband and Kansas City Chiefs tight end, Travis Kelce.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Peyton, Eli impressed with Mahomes' first touchdown",
-        "url": "https://www.espn.com/video/clip/_/id/49945017/peyton-eli-impressed-mahomes-first-touchdown",
-        "publishedAt": "2026-09-15T01:17:43Z",
-        "summary": "Peyton, Eli impressed with Mahomes' first touchdown",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Packers Film Room: Long snapping on kicks in Week 1",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86429/packers-film-room-long-snapping-on-kicks-in-week-1",
+        "publishedAt": "2026-09-15T06:25:00-04:00",
+        "summary": "There was a lot of long snapper discourse during the preseason, mainly centered around the Green Bay Packers’ incumbent Matt Orzech and the challenger Cal Adomitis. This all stemmed from the fact that rookie kicker Trey Smack did not miss a kick in the preseason with Adomitis as his holder. I &#8211; a denizen of [&#8230;]",
+        "image": "data/news-images/acme-0.jpg",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers move WR Bo Melton back up to 53-man roster",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86403/packers-move-wr-bo-melton-back-up-to-53-man-roster",
         "publishedAt": "2026-09-14T17:13:59-04:00",
         "summary": "The Green Bay Packers have added receiver Bo Melton back to the team’s 53-man active roster after moving him down to the practice squad late last week. Melton was released due to his status as a vested veteran for the purposes of termination pay, but he was called up for Sunday’s action against the Minnesota [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86405/matt-lafleur-packers-potentially-looking-at-options-at-guard",
         "publishedAt": "2026-09-14T17:05:40-04:00",
         "summary": "If you missed the Green Bay Packers’ Week 1 loss to the Minnesota Vikings…congrats, actually. The offensive line was very bad. Obviously, a lot of today’s press conference with head coach Matt LaFleur centered around questions about the offensive line, which he mostly chalked up to mental mistakes leading to pass protection busts. When he [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86398/vikings-have-mixed-reactions-to-the-hit-that-knocked-out-kyler-murray",
         "publishedAt": "2026-09-14T15:23:10-04:00",
         "summary": "In his press conference on Monday (the Green Bay Packers haven’t had one yet, if you’re wondering), Minnesota Vikings head coach Kevin O’Connell said that he doesn’t believe that Packers safety Javon Bullard’s hit on quarterback Kyler Murray was dirty. According to reporter Andrew Siciliano, O’Connell described the hit as “violent and physical,” but O’Connell [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86395/the-packers-defense-got-hung-out-to-dry-in-week-1",
         "publishedAt": "2026-09-14T14:15:00-04:00",
         "summary": "Giving up 39 points in an NFL is a lot. It’s not the number you want to see from your defense at any point in a season, and certainly not in week one, and certainly not against a backup quarterback. But despite that being the number of points that the Green Bay Packers allowed to [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86391/no-one-can-escape-blame-for-the-packers-offensive-line-failure",
         "publishedAt": "2026-09-14T14:00:00-04:00",
         "summary": "The Packers’ loss to the Vikings came down to an easily foreseeable problem: Brian Flores was going to blitz like a madman, and the Packers’ offensive line was going to struggle to stop him. Better lines than the Packers have failed to slow Flores’ logical insanity, and don’t get me wrong: when I call him [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86358/you-cannot-overstate-how-bad-the-packers-offensive-line-was-on-sunday",
         "publishedAt": "2026-09-14T12:28:54-04:00",
         "summary": "I just had the misfortune of watching the Green Bay Packers’ offense on All-22, the third (and final) time I’ve watched the Minnesota Vikings game so far. To make this short: The Packers’ offensive line looked like a second-rate high school team, passing stunts off to no one, turning guys loose when they had to [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86354/packers-film-room-christian-watson-doubles-up",
         "publishedAt": "2026-09-14T11:52:17-04:00",
         "summary": "We’ll be dissecting the film on the overall Green Bay Packers offense &#38; passing game later (we already did a little of it with numbers), but, for now, I just wanted to take a few minutes and talk about the game Christian Watson had. With only the Monday Night game left to play, Watson currently [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86355/packers-discussion-1st-impressions-of-jonathan-gannons-defense",
         "publishedAt": "2026-09-14T10:46:41-04:00",
         "summary": "I’m sure that we’re going to talk about the offensive line a lot this week, so I just want to give this space for people to fire off their thoughts on another major subject: the first game that Jonathan Gannon called on the defensive side of the ball. For the most part, I thought the [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,16 +308,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/86350/packers-open-week-2-as-favorites-against-jets",
         "publishedAt": "2026-09-14T09:20:00-04:00",
         "summary": "The Green Bay Packers may have made history with their collapse against the Minnesota Vikings in Week 1, but that does not mean that they are going to be underdogs in Week 2. Indeed, the opening lines at FanDuel sportsbook have the Packers installed as 4.5-point favorites for their road trip to play the New [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: The Matt LaFleur discourse has only just begun",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86347/green-bay-packers-news-the-matt-lafleur-discourse-has-only-just-begun",
-        "publishedAt": "2026-09-14T08:50:00-04:00",
-        "summary": "When Matt LaFleur took three points off the board on Sunday afternoon in Minneapolis, the goal was clear: he wanted his Green Bay Packers to go score a touchdown and take a commanding two-possession lead over the Minnesota Vikings. Instead, wiping out a field goal meant his offense needed convert a 4th-and-1 to keep the [&#8230;]",
-        "image": "data/news-images/acme-9.webp",
+        "image": "data/news-images/acme-9.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
