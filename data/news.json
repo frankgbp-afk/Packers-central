@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:55:46.907Z",
+  "updatedAt": "2026-09-17T01:24:43.454Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Source: Saints' Zach Wood to miss time with Grade 2 calf strain",
+        "url": "https://www.espn.com/nfl/story/_/id/49961331/saints-long-snapper-zach-wood-miss-extended-grade-2-calf-strain",
+        "publishedAt": "2026-09-17T00:40:07Z",
+        "summary": "Saints long-snapper Zach Wood has a Grade II calf strain that could sideline him about 4-6 weeks, a source told ESPN.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Washington Commanders unveil first renderings inside new stadium",
+        "url": "https://www.espn.com/nfl/story/_/id/49959964/washington-commanders-nfl-share-renderings-new-stadium-seating-bowl",
+        "publishedAt": "2026-09-17T00:22:47Z",
+        "summary": "In the latest renderings of the new stadium, the Commanders point to RFK with the intent of re-creating a \"loud, intense and intimate atmosphere.\"",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bucs' Baker Mayfield dons Michigan gear in bet made with Todd Bowles",
+        "url": "https://www.espn.com/nfl/story/_/id/49959207/baker-mayfield-michigan-wolverines-tank-tampa-bay-buccaneers-todd-bowles-troy-bowles-oklahoma-sooners",
+        "publishedAt": "2026-09-16T23:35:07Z",
+        "summary": "The Oklahoma Sooners, who Mayfield played for in college, were stunned by Michigan during Week 2.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Texans' C.J. Stroud dismisses Andre Johnson criticism",
+        "url": "https://www.espn.com/nfl/story/_/id/49960907/texans-cj-stroud-dismisses-andre-johnson-criticism",
+        "publishedAt": "2026-09-16T23:52:11Z",
+        "summary": "C.J. Stroud took the high road when asked Wednesday about comments Andre Johnson made questioning the quarterback's body language.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bears anticipate 'great challenge' vs. Brian Flores' Vikings defense",
+        "url": "https://www.espn.com/nfl/story/_/id/49960740/bears-caleb-williams-prepare-great-challenge-facing-brian-flores-led-vikings-defense",
+        "publishedAt": "2026-09-16T23:57:00Z",
+        "summary": "\"Coach [Ben Johnson] calls this 'mental war' when you go against versus him, and that's what it is,\" Bears QB Caleb Williams said of facing a Brian Flores-led defense, which Chicago will do Sunday against Minnesota.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Buccaneers' Zampese says Browns messed up by trading Mayfield",
+        "url": "https://www.espn.com/nfl/story/_/id/49960637/buccaneers-zampese-says-browns-messed-trading-mayfield",
+        "publishedAt": "2026-09-17T00:26:07Z",
+        "summary": "Buccaneers assistant coach Ken Zampease, who was Baker Mayfield's QB coach with the Browns in 2018, says Cleveland messed up by trading the QB.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Saints' Alvin Kamara practices in full, 'in a great place'",
         "url": "https://www.espn.com/nfl/story/_/id/49960481/saints-alvin-kamara-practices-full-great-place",
-        "publishedAt": "2026-09-16T22:31:50Z",
+        "publishedAt": "2026-09-17T00:29:10Z",
         "summary": "Saints coach Kellen Moore said he \"feels good\" about Alvin Kamara's chance of playing Sunday. The veteran RB was a full participant in Wednesday's practice.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49960213/penix-jr-close-return-mum-week-2-status",
         "publishedAt": "2026-09-16T22:13:10Z",
         "summary": "Falcons QB Michael Penix Jr. didn't rule out playing against the Panthers on Sunday but cautioned he needed to clear some benchmarks before deciding.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49960208/49ers-dezhaun-stribling-surgery-miss-10-weeks",
         "publishedAt": "2026-09-16T21:45:20Z",
         "summary": "49ers receiver De'Zhaun Stribling had surgery on his ankle and is expected to miss about 10 weeks, while tight end Jake Tonges has been ruled out for the season.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back",
         "publishedAt": "2026-09-16T21:35:42Z",
         "summary": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
         "publishedAt": "2026-09-16T20:58:12Z",
         "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
         "publishedAt": "2026-09-16T20:43:58Z",
         "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rest-of-season rankings: Williams, Dart on the rise while Achane, London fall",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
-        "publishedAt": "2026-09-16T20:41:06Z",
-        "summary": "Need a quick free agent pickup -- or roster overhaul -- after Week 1? These rankings are designed to help.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ravens place promising rookie WR Ja'Kobi Lane on IR",
-        "url": "https://www.espn.com/nfl/story/_/id/49959869/ravens-place-promising-rookie-wr-jakobi-lane-ir",
-        "publishedAt": "2026-09-16T21:14:14Z",
-        "summary": "The Ravens placed Ja'Kobi Lane on IR after the promising rookie had surgery on his fractured wrist.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Lions offensive linemen Mahogany, Miller ruled out vs. Bills",
-        "url": "https://www.espn.com/nfl/story/_/id/49959732/lions-offensive-linemen-mahogany-miller-ruled-vs-bills",
-        "publishedAt": "2026-09-16T20:45:20Z",
-        "summary": "A pair of starters won't be playing this week for the Detroit Lions as offensive linemen Christian Mahogany (hip) and Blake Miller (knee) have been ruled out ahead of Thursday night's showdown in Buffalo.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mike Macdonald talks about what Drew Lock brings to Seahawks",
-        "url": "https://www.espn.com/video/clip/_/id/49959395/mike-macdonald-talks-drew-lock-brings-seahawks",
-        "publishedAt": "2026-09-16T19:46:22Z",
-        "summary": "Mike Macdonald talks about what Drew Lock brings to Seahawks",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks rule QB Sam Darnold (glute) out vs. Cardinals",
-        "url": "https://www.espn.com/nfl/story/_/id/49959236/seahawks-rule-qb-sam-darnold-glute-vs-cardinals",
-        "publishedAt": "2026-09-16T21:35:59Z",
-        "summary": "The Seahawks ruled out QB Sam Darnold for Sunday's game against the Cardinals due to the glute injury he suffered in Wednesday's season-opening win.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vikings RB Jordan Mason put on IR after having surgery on thumb",
-        "url": "https://www.espn.com/nfl/story/_/id/49959077/vikings-rb-jordan-mason-put-ir-having-surgery-thumb",
-        "publishedAt": "2026-09-16T19:34:55Z",
-        "summary": "Vikings running back Jordan Mason was placed on injured reserve Wednesday after undergoing surgery to repair a fractured thumb.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
