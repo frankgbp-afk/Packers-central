@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-09-18T18:28:20.492Z",
+  "updatedAt": "2026-09-18T21:40:55.716Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers list four questionable, one doubtful vs. Jets | Week 2 Injury Report",
+        "url": "https://www.packers.com/news/packers-list-four-questionable-one-doubtful-vs-jets-week-2-injury-report",
+        "publishedAt": "Fri, 18 Sep 2026 19:37:09 GMT",
+        "summary": "EDGE Lukas Van Ness, DT Javon Hargrave working through the concussion protocol",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Registration open for 'Tundra Tales' reading program",
+        "url": "https://www.packers.com/news/registration-open-for-tundra-tales-reading-program-2026",
+        "publishedAt": "Fri, 18 Sep 2026 18:00:00 GMT",
+        "summary": "Grant program again being offered; deadline Friday, Oct. 2",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Darnell Wiltz of Waukesha South High School named Green Bay Packers High School Coach of the Week",
         "url": "https://www.packers.com/news/darnell-wiltz-of-waukesha-south-high-school-named-green-bay-packers-high-school-coach-of-the-week-sept-18-2026",
         "publishedAt": "Fri, 18 Sep 2026 15:08:27 GMT",
         "summary": "Wiltz has guided the Blackshirts to a perfect 4-0 start, marking the program's first undefeated opening month since 2013",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/contract-extension-is-dream-come-true-for-tucker-kraft-sept-18-2026",
         "publishedAt": "Fri, 18 Sep 2026 15:01:39 GMT",
         "summary": "Packers tight end eager to rise to the occasion, win games",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/inbox-it-already-happened-sept-18-2026",
         "publishedAt": "Fri, 18 Sep 2026 13:30:00 GMT",
         "summary": "Leaders have to be themselves",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-fans-invited-to-submit-photos-for-fan-choice-awards-program-presented-by-thrivent-sept-17-2026",
         "publishedAt": "Thu, 17 Sep 2026 21:30:19 GMT",
         "summary": "Winners will each receive a pair of tickets for the Jan. 4 Green Bay vs. Houston game",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-jets-injury-report-sept-17-2026",
         "publishedAt": "Thu, 17 Sep 2026 20:23:46 GMT",
         "summary": "",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-announce-roster-move-sept-17-2026",
         "publishedAt": "Thu, 17 Sep 2026 20:20:00 GMT",
         "summary": "Green Bay signs G Cordell Volson to the practice squad",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-award-250-000-impact-grant-to-support-menasha-tornado-recovery-sept-17-2026",
         "publishedAt": "Thu, 17 Sep 2026 16:50:00 GMT",
         "summary": "Funds will support playground rebuilds, home repairs and construction",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/green-bay-packers-invite-fans-to-register-for-huddle-fan-events-in-united-kingdom-2026",
         "publishedAt": "Thu, 17 Sep 2026 15:00:00 GMT",
         "summary": "Packers supporters and American football fans invited to register for events in Newcastle upon Tyne and London; Packers legend Antonio Freeman set to meet and take photos with attendees",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/self-belief-remains-key-ingredient-in-keisean-nixon-s-success-sept-17-2026",
         "publishedAt": "Thu, 17 Sep 2026 14:30:00 GMT",
         "summary": "Packers cornerback had one of his “most complete games” in Minnesota",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/inbox-the-packers-need-to-find-it-sept-17-2026",
         "publishedAt": "Thu, 17 Sep 2026 13:30:00 GMT",
         "summary": "We got taste of what Edgerrin Cooper can do in this defense",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers aim to 'make defenses pay' with bevy of playmakers",
-        "url": "https://www.packers.com/news/packers-aim-to-make-defenses-pay-with-bevy-of-playmakers-sept-16-2026",
-        "publishedAt": "Wed, 16 Sep 2026 22:01:02 GMT",
-        "summary": "Green Bay knows what it’ll take to hit highest gear",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers-Jets Injury Report | Sept. 16, 2026",
-        "url": "https://www.packers.com/news/packers-jets-injury-report-sept-16-2026",
-        "publishedAt": "Wed, 16 Sep 2026 20:36:20 GMT",
-        "summary": "",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
-        "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans",
-        "publishedAt": "2026-09-18T18:18:30Z",
-        "summary": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans.",
+        "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+        "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
+        "publishedAt": "2026-09-18T21:14:48Z",
+        "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Stefanski confirms Cooper Rush to start vs. Panthers",
-        "url": "https://www.espn.com/video/clip/_/id/49974205/stefanski-confirms-cooper-rush-start-vs-panthers",
-        "publishedAt": "2026-09-18T17:52:28Z",
-        "summary": "Stefanski confirms Cooper Rush to start vs. Panthers",
+        "title": "Texans rule WR Nico Collins out vs. Bengals with hamstring injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49975040/texans-rule-wr-nico-collins-vs-bengals-hamstring-injury",
+        "publishedAt": "2026-09-18T21:13:53Z",
+        "summary": "The Texans have ruled star wide receiver Nico Collins out for Sunday's matchup against the Bengals due to a hamstring injury.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Commanders rule out Frankie Luvu, Chig Okonkwo vs. Cowboys",
-        "url": "https://www.espn.com/nfl/story/_/id/49974048/commanders-rule-frankie-luvu-chig-okonkwo-vs-cowboys",
-        "publishedAt": "2026-09-18T17:30:56Z",
-        "summary": "The Commanders have ruled out linebacker Frankie Luvu, and tight end Chig Okonkwo for Sunday's road game against Dallas, coach Dan Quinn said.",
+        "title": "Bills to take time with Ed Oliver, DJ Moore injuries",
+        "url": "https://www.espn.com/nfl/story/_/id/49975029/bills-take-ed-oliver-dj-moore-injuries",
+        "publishedAt": "2026-09-18T21:20:17Z",
+        "summary": "A long week will give more time for Bills defensive lineman Ed Oliver (hip) and wide receiver DJ Moore (shoulder) to get healthy following Thursday's injuries.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "With Penix not ready, Rush getting second start for Falcons",
-        "url": "https://www.espn.com/nfl/story/_/id/49974012/qb-cooper-rush-getting-second-start-falcons-sources-say",
-        "publishedAt": "2026-09-18T17:57:49Z",
-        "summary": "The Falcons will start quarterback Cooper Rush for the second straight week, coach Kevin Stefanski said Friday.",
+        "title": "FBI case against fake 49ers player adds more alleged victims",
+        "url": "https://www.espn.com/nfl/story/_/id/49975015/fbi-case-fake-49ers-player-adds-more-alleged-victims",
+        "publishedAt": "2026-09-18T21:06:30Z",
+        "summary": "The FBI has identified 35 additional women who say they were defrauded by Daejon Love and Taylor Chan, bringing the total number of alleged victims in a case that included Love impersonating as a 49ers player to more than 60.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Stephon Gilmore, '19 NFL DPOY, retiring as member of the Patriots",
-        "url": "https://www.espn.com/nfl/story/_/id/49973986/stephon-gilmore-19-nfl-dpoy-retiring-member-patriots",
-        "publishedAt": "2026-09-18T17:49:44Z",
-        "summary": "Stephon Gilmore, a two-time All-Pro cornerback and the NFL's 2019 Defensive Player of the Year, is signing a one-day contract in New England to retire as a member of the Patriots,",
+        "title": "Fantasy football flex and superflex rankings for Week 2",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-09-18T20:42:06Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sean McVay hopes Rams don't get another Australia game",
-        "url": "https://www.espn.com/video/clip/_/id/49973894/sean-mcvay-hopes-rams-get-another-australia-game",
-        "publishedAt": "2026-09-18T16:49:39Z",
-        "summary": "Sean McVay hopes Rams don't get another Australia game",
+        "title": "Ravens' Zay Flowers doubtful vs. Saints; Nnamdi Madubuike out",
+        "url": "https://www.espn.com/nfl/story/_/id/49974738/ravens-zay-flowers-doubtful-vs-saints-nnamdi-madubuike-out",
+        "publishedAt": "2026-09-18T21:19:26Z",
+        "summary": "Ravens receiver Zay Flowers is doubtful for Sunday's game vs. the Saints after he aggravated a left hamstring injury and missed the majority of practices this week.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Antonio Williams should be on managers' radars in deeper leagues",
-        "url": "https://www.espn.com/video/clip/_/id/49973812/why-antonio-williams-managers-radars-deeper-leagues",
-        "publishedAt": "2026-09-18T16:03:48Z",
-        "summary": "Why Antonio Williams should be on managers' radars in deeper leagues",
+        "title": "Raiders listing TE Brock Bowers as doubtful vs. Chargers",
+        "url": "https://www.espn.com/nfl/story/_/id/49974690/raiders-listing-te-brock-bowers-doubtful-vs-chargers",
+        "publishedAt": "2026-09-18T20:51:42Z",
+        "summary": "Brock Bowers is doubtful to play against the Chargers, though the Raiders will see how the tight end feels pregame before making a final decision.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Mired in historic interception drought, Jets rule out Fitzpatrick",
-        "url": "https://www.espn.com/nfl/story/_/id/49973798/mired-historic-interception-drought-jets-rule-fitzpatrick",
-        "publishedAt": "2026-09-18T16:32:20Z",
-        "summary": "The Jets, mired in the longest interception drought in NFL history, will be without their most accomplished interceptor Sunday against the Packers as former All-Pro safety Minkah Fitzpatrick was ruled out with a groin injury.",
+        "title": "Joey Porter Jr. out again for Steelers; WR Pittman questionable",
+        "url": "https://www.espn.com/nfl/story/_/id/49974647/joey-porter-jr-again-steelers-wr-pittman-questionable",
+        "publishedAt": "2026-09-18T20:26:04Z",
+        "summary": "The Steelers will be without top cornerback Joey Porter Jr. again amid their contentious contract negotiation. Wide receiver Michael Pittman Jr. (foot) and offensive tackle Troy Fautanu (ankle) are questionable to play.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Daniel Dopp builds his Week 2 DraftKings tournament lineup",
-        "url": "https://www.espn.com/video/clip/_/id/49973793/daniel-dopp-builds-week-2-draftkings-tournament-lineup",
-        "publishedAt": "2026-09-18T15:46:22Z",
-        "summary": "Daniel Dopp builds his Week 2 DraftKings tournament lineup",
+        "title": "O'Connell confirms Wentz to start Week 2 with Murray out",
+        "url": "https://www.espn.com/video/clip/_/id/49974555/oconnell-confirms-wentz-start-week-2-murray-out",
+        "publishedAt": "2026-09-18T19:26:53Z",
+        "summary": "O'Connell confirms Wentz to start Week 2 with Murray out",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-        "publishedAt": "2026-09-18T17:17:57Z",
-        "summary": "Every NFL team's win total, as well as odds to win their division, the conference and Super Bowl LXI.",
+        "title": "Dolphins' Chop Robinson has concussion, out vs. 49ers",
+        "url": "https://www.espn.com/nfl/story/_/id/49974508/dolphins-chop-robinson-concussion-vs-49ers",
+        "publishedAt": "2026-09-18T19:47:27Z",
+        "summary": "Dolphins defensive end Chop Robinson will not play Sunday against the 49ers after suffering a concussion during Wednesday's practice, coach Jeff Hafley said.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49973453/draftkings-nfl-dfs-values-week-2",
-        "publishedAt": "2026-09-18T15:01:30Z",
-        "summary": "Build a winning DFS lineup with our DraftKings NFL Week 2 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
+        "title": "Vikings to start QB Wentz vs. Bears with Murray still on the mend",
+        "url": "https://www.espn.com/nfl/story/_/id/49974401/vikings-start-qb-wentz-vs-bears-murray-mend",
+        "publishedAt": "2026-09-18T20:06:43Z",
+        "summary": "Carson Wentz will be the Vikings' starting quarterback Sunday against the Bears while Kyler Murray continues to work his way back after suffering a concussion in the season opener.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Aaron Jones could have a big fantasy role in Week 2",
-        "url": "https://www.espn.com/video/clip/_/id/49973398/why-aaron-jones-big-fantasy-role-week-2",
-        "publishedAt": "2026-09-18T14:58:04Z",
-        "summary": "Why Aaron Jones could have a big fantasy role in Week 2",
+        "title": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
+        "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans",
+        "publishedAt": "2026-09-18T21:16:18Z",
+        "summary": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,65 @@
     ],
     "acme": [
       {
+        "title": "Top 5 Packers Comebacks of the 21st Century",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86534/top-5-packers-comebacks-of-the-21st-century",
+        "publishedAt": "2026-09-18T17:30:50-04:00",
+        "summary": "Discussions on the Green Bay Packers’ struggles to close out games have understandably resurfaced after the team’s gutting 39-22 loss to the Minnesota Vikings this week that resulted in a 22-10 blown lead in the second half. This has been a theme as of late after the Packers blew multiple leads last season, including one [&#8230;]",
+        "image": "data/news-images/acme-0.jpg",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "What the Packers’ game-day roster could look like: Week 2, New York Jets",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86672/what-the-packers-game-day-roster-could-look-like-week-2-new-york-jets",
+        "publishedAt": "2026-09-18T17:15:48-04:00",
+        "summary": "A couple of weeks ago, we did an exercise on what the Green Bay Packers’ game-day roster would look like, and I want to update that projection for Week 2 based on new information we have. To recap, here was my prediction on how the Packers would drop their 53-man active roster to their 48-man [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Sunday will be a big opportunity for the Packers’ inexperienced edge rushers",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86667/sunday-will-be-a-big-opportunity-for-the-packers-inexperienced-edge-rushers",
+        "publishedAt": "2026-09-18T16:32:44-04:00",
+        "summary": "Green Bay Packers edge rusher Lukas Van Ness was officially listed as questionable on Friday after being a limited participant in practice throughout the week. If Van Ness can’t play Sunday against the New York Jets, the Packers won’t have much experience to lean on in his absence. At the moment, there are only three [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Jets Injury Report: Green Bay gives 6 game statuses on Friday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86661/packers-vs-jets-injury-report-green-bay-gives-6-game-statuses-on-friday",
+        "publishedAt": "2026-09-18T16:13:14-04:00",
+        "summary": "The Green Bay Packers have officially ruled out defensive lineman Warren Brinson (calf), who has yet to practice for the team in the regular season, for their contest against the New York Jets on Sunday. The good news? Brinson was the only player who is absolutely a no-go this week. The only player that the [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Week 2 Picks: Green Bay should defeat Jets as road favorites",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86601/packers-week-2-picks-green-bay-should-defeat-jets-as-road-favorites",
+        "publishedAt": "2026-09-18T12:00:00-04:00",
+        "summary": "On Sunday, the Green Bay Packers head to the Meadowlands to try to shake off a rough performance in Week 1. The team heads into MetLife Stadium for a matchup with the New York Jets, who are 1-0 after a 23-10 win over the Tennessee Titans in Week 1. Despite the two teams’ different fortunes [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Aaron Rodgers and Jordy Nelson headline Packers’ best performances against Jets",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86647/aaron-rodgers-and-jordy-nelson-headline-packers-best-performances-against-jets",
+        "publishedAt": "2026-09-18T11:21:31-04:00",
+        "summary": "The Packers have a long but not especially rich history of meetings with the New York Jets. The two teams have played 14 times in their shared history, but the Packers have won just five of those matchups. Still, the Packers have put together some pretty impressive performances in that limited and uninspiring history. Here [&#8230;]",
+        "image": "data/news-images/acme-5.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Green Bay Packers News: Packers look for a repeat of 2014 (well, mostly)",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86636/green-bay-packers-news-packers-look-for-a-repeat-of-2014-well-mostly",
         "publishedAt": "2026-09-18T08:45:00-04:00",
         "summary": "In 2014, the Green Bay Packers started off the season with an embarrassing defeat on the road. They went into Seattle and got throttled by the Seahawks, losing 36-16 in a game that didn’t even really feel that close. Panic set in among the fan base, and the season felt over when it had barely [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86613/packers-jets-injury-report-javon-hargrave-dropped-to-a-non-participant",
         "publishedAt": "2026-09-17T16:44:59-04:00",
         "summary": "The Green Bay Packers’ Thursday practice came with some good news and some bad news. The good news is that rookie second-round cornerback Brandon Cisse, who got the start at left cornerback in Week 1, is now completely off the injury report after leaving Sunday’s loss early with cramps. For anyone who saw Carrington Valentine’s [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-7.jpg",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86615/packers-have-a-sneaky-interesting-tight-end-room",
         "publishedAt": "2026-09-17T16:29:44-04:00",
         "summary": "The Packers’ tight end room is quite a bit different than we expected this season, and quite a long way from the ultimate goal the team had when it spent two top-100 picks at the position in 2023. Drafting Luke Musgrave and Tucker Kraft that year was supposed to produce a two-headed tight end juggernaut, [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,60 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86608/green-bay-packers-sign-ol-cordell-volson",
         "publishedAt": "2026-09-17T15:03:38-04:00",
         "summary": "Bill Huber of Sports Illustrated is reporting that the Green Bay Packers signed offensive lineman Cordell Volson to their practice squad on Thursday, one day after Volson — and only Volson — worked out with the team. So far this season, Volson is the seventh outside signing brought in for the Packers’ practice squad, and [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Paperwork for permanent seal of evidence in Josh Jacobs case resubmitted",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86598/paperwork-for-permanent-seal-of-evidence-in-josh-jacobs-case-denied-by-judge",
-        "publishedAt": "2026-09-17T14:18:09-04:00",
-        "summary": "The victim in Green Bay Packers running back Josh Jacobs’ legal matter requested a permanent seal of discovery evidence after Jacobs pleaded no contest to charges of battery and criminal damage to property last week. According to FOX 11 News in Green Bay, Judge Marc Hammer, who is overseeing this case, denied the victim’s motion [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Can the Packers offensive line bounce back against the Jets?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86591/green-bay-packers-news-can-the-packers-offensive-line-bounce-back-against-the-jets",
-        "publishedAt": "2026-09-17T12:22:41-04:00",
-        "summary": "Green Bay Packers quarterback Jordan Love was hit 15 times and sacked four times in Sunday’s 39-22 loss to Minnesota (OC Adam Stenavich actually counted 18 hits). While blitzing at an unheard of rate, the Vikings pressured Love on nearly 55% of his dropbacks. For Packers fans, the second half of that game was one [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Week 1 pressure of the week",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86544/packers-film-room-week-1-pressure-of-the-week",
-        "publishedAt": "2026-09-17T09:00:00-04:00",
-        "summary": "In the last article, we covered the week 1 blitz of the week. In this article we’ll cover the pressure of the week. The difference between two is simple, a blitz sends five or more rushers at the quarterback. A pressure can be generated without a blitz and it can involve simulated pressures and creeper [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Jets preview: A crash course on New York’s personnel",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86510/packers-vs-jets-preview-a-crash-course-on-new-yorks-personnel",
-        "publishedAt": "2026-09-17T06:00:00-04:00",
-        "summary": "It’s time to stop licking our wounds, and time to focus on the Green Bay Packers’ next opponent. To set the table for some of the analysis that will come out later this week, let’s talk about the New York Jets’ roster and their starting players — as the Packers hope to best them to [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: How would you fix the offensive line?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86578/packers-discussion-how-would-you-fix-the-offensive-line",
-        "publishedAt": "2026-09-16T22:17:55-04:00",
-        "summary": "I’m going to leave this open thread up overnight with a simple question: How would you fix the offensive line? I don’t think there are any bad ideas after watching what we did on Sunday (I had the misfortune to watch it three times), but I want to open up an avenue where everyone can [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers sparked an NFL memo on ineligible players",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86561/the-packers-sparked-an-nfl-memo-on-ineligible-players",
-        "publishedAt": "2026-09-16T21:46:35-04:00",
-        "summary": "On Wednesday, the NFL sent a memo to club decision-makers stating that players who left the league to try to return to college football in 2026 were ineligible to be signed or to visit NFL teams. This is specifically relevant to the Green Bay Packers, who made the choice to bring in defensive lineman Zxavian [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
