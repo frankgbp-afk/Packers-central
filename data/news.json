@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T14:24:55.667Z",
+  "updatedAt": "2026-09-19T18:00:47.883Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Steelers rule out WR Pittman Jr. vs. Patriots with foot injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49980918/steelers-rule-wr-pittman-jr-vs-patriots-foot-injury",
+        "publishedAt": "2026-09-19T17:38:37Z",
+        "summary": "The Steelers will be without another starter for their Week 2 game against the Patriots after downgrading wide receiver Michael Pittman Jr. to out with a foot injury.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Jets rookie WR Cooper Jr. put on IR with sprained ankle",
+        "url": "https://www.espn.com/nfl/story/_/id/49980661/source-jets-rookie-wr-cooper-jr-put-ir-sprained-ankle",
+        "publishedAt": "2026-09-19T17:46:25Z",
+        "summary": "Jets rookie wide receiver Omar Cooper Jr., one of the team's three first-round picks, has been placed on injured reserve with a sprained ankle, a source told NFL Network's Ian Rapoport.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "NFL Week 2 predictions: Upsets, fantasy sleepers, stat lines",
         "url": "https://www.espn.com/nfl/story/_/id/49951327/week-2-predictions-upsets-fantasy-sleepers-stats-2026",
-        "publishedAt": "2026-09-19T10:38:55Z",
+        "publishedAt": "2026-09-19T16:16:31Z",
         "summary": "Will Ashton Jeanty pile up the scrimmage yards? Could the Bengals upset the Texans? And can George Pickens find the end zone?",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49972586/philadelphia-eagles-new-perspective-2026-let-anyone-steal-our-joy-saquon-barkley",
         "publishedAt": "2026-09-19T10:00:11Z",
         "summary": "It's no coincidence the mood inside Philly's locker room was at its most sullen in 2023 and '25, two seasons following Super Bowl runs.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49964673/san-francisco-49ers-melbourne-australia-trip-recovery",
         "publishedAt": "2026-09-19T10:00:31Z",
         "summary": "On their 16-hour flight home from Australia, the 49ers chose sleep over celebration. That kick-started a long week of getting back into routine.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49974423/commanders-tyler-owens-viral-special-teams-punt-return",
         "publishedAt": "2026-09-19T10:00:32Z",
         "summary": "J.J. Watt called Owens' play against the Eagles 'legitimately one of the greatest football plays I've ever seen.'",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49968528/las-vegas-raiders-defense-coordinator-rob-leonard-first-impressions",
         "publishedAt": "2026-09-19T10:00:22Z",
         "summary": "After a Week 1 win, players praised how the new DC called the defense against Miami.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49975714/miami-dophins-chris-johnson-rookie-outlook",
         "publishedAt": "2026-09-19T10:00:21Z",
         "summary": "Coach Jeff Hafley found positives for first-round cornerback Chris Johnson despite a hard day at the office.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49972793/nfl-dallas-cowboys-defense-christian-paker-schottenheimer-commanders",
         "publishedAt": "2026-09-19T10:00:28Z",
         "summary": "The Week 1 loss to the Giants was an inauspicious start for new coordinator Christian Parker's defense.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49972451/cam-skattebo-reclaims-role-new-york-giants-feature-running-back-injury-recovery",
         "publishedAt": "2026-09-19T10:00:11Z",
         "summary": "Just like that, it's business as usual for the bruising running back as he dominated the field in Week 1 against the Cowboys.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
         "publishedAt": "2026-09-19T04:14:53Z",
         "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -197,24 +215,6 @@
         "title": "Fantasy football rankings for Week 2: Wide receiver",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
         "publishedAt": "2026-09-19T04:14:18Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 2: D/ST",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-        "publishedAt": "2026-09-19T04:14:37Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 2: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-09-19T04:13:11Z",
         "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
