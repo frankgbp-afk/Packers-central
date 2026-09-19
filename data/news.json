@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:39:28.768Z",
+  "updatedAt": "2026-09-19T23:03:55.658Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,38 @@
     ],
     "espn": [
       {
-        "title": "NFL changes rules governing video board displays during kicks",
-        "url": "https://www.espn.com/nfl/story/_/id/49979831/nfl-changes-rules-governing-video-board-displays-kicks",
-        "publishedAt": "2026-09-19T20:32:34Z",
-        "summary": "The NFL has modified what can be shown on video boards during field goal and extra-point attempts, an alteration coming in the wake of a viral social-media post from a former analytics coach.",
+        "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+        "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
+        "publishedAt": "2026-09-19T22:59:37Z",
+        "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
         "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ravens' Zay Flowers downgraded to out because of hamstring injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49982377/ravens-zay-flowers-downgraded-hamstring-injury",
+        "publishedAt": "2026-09-19T21:53:31Z",
+        "summary": "The Baltimore Ravens downgraded Pro Bowl wide receiver Zay Flowers to out for Sunday's game against the New Orleans Saints.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL changes rules governing videoboard displays during kicks",
+        "url": "https://www.espn.com/nfl/story/_/id/49979831/nfl-changes-rules-governing-video-board-displays-kicks",
+        "publishedAt": "2026-09-19T21:35:07Z",
+        "summary": "The NFL has modified what can be shown on videoboards during field goal and extra point attempts, an alteration coming in the wake of a viral social media post from a former analytics coach.",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Fantasy football Week 2 inactives: Collins ruled out, Flowers doubtful, Burrow and Nacua questionable",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-49965274/fantasy-football-injuries-nfl-week-2-inactive-active",
-        "publishedAt": "2026-09-19T20:10:40Z",
+        "publishedAt": "2026-09-19T22:01:32Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49981547/rams-puka-nacua-again-misses-practice-questionable-mnf",
         "publishedAt": "2026-09-19T20:27:40Z",
         "summary": "Rams receiver Puka Nacua will not practice for the second day in a row and will be listed as questionable for Monday night's game against the Giants.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +162,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/49980918/steelers-rule-wr-pittman-jr-vs-patriots-foot-injury",
         "publishedAt": "2026-09-19T18:23:36Z",
         "summary": "The Steelers will be without another starter for their Week 2 game against the Patriots after downgrading wide receiver Michael Pittman Jr. to out with a foot injury.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Source: Jets rookie WR Cooper Jr. put on IR with sprained ankle",
+        "title": "Jets rookie WR Omar Cooper Jr. put on IR with sprained ankle",
         "url": "https://www.espn.com/nfl/story/_/id/49980661/source-jets-rookie-wr-cooper-jr-put-ir-sprained-ankle",
-        "publishedAt": "2026-09-19T17:46:25Z",
-        "summary": "Jets rookie wide receiver Omar Cooper Jr., one of the team's three first-round picks, has been placed on injured reserve with a sprained ankle, a source told NFL Network's Ian Rapoport.",
-        "image": "data/news-images/espn-4.jpg",
+        "publishedAt": "2026-09-19T21:27:54Z",
+        "summary": "Jets rookie wide receiver Omar Cooper Jr., one of the team's three first-round picks, has been placed on injured reserve with a sprained ankle.",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49951327/week-2-predictions-upsets-fantasy-sleepers-stats-2026",
         "publishedAt": "2026-09-19T16:16:31Z",
         "summary": "Will Ashton Jeanty pile up the scrimmage yards? Could the Bengals upset the Texans? And can George Pickens find the end zone?",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49972586/philadelphia-eagles-new-perspective-2026-let-anyone-steal-our-joy-saquon-barkley",
         "publishedAt": "2026-09-19T10:00:11Z",
         "summary": "It's no coincidence the mood inside Philly's locker room was at its most sullen in 2023 and '25, two seasons following Super Bowl runs.",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49964673/san-francisco-49ers-melbourne-australia-trip-recovery",
         "publishedAt": "2026-09-19T10:00:31Z",
         "summary": "On their 16-hour flight home from Australia, the 49ers chose sleep over celebration. That kick-started a long week of getting back into routine.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/49974423/commanders-tyler-owens-viral-special-teams-punt-return",
         "publishedAt": "2026-09-19T10:00:32Z",
         "summary": "J.J. Watt called Owens' play against the Eagles 'legitimately one of the greatest football plays I've ever seen.'",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/49968528/las-vegas-raiders-defense-coordinator-rob-leonard-first-impressions",
         "publishedAt": "2026-09-19T10:00:22Z",
         "summary": "After a Week 1 win, players praised how the new DC called the defense against Miami.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dolphins not discouraged by Chris Johnson's rough stat sheet",
-        "url": "https://www.espn.com/nfl/story/_/id/49975714/miami-dophins-chris-johnson-rookie-outlook",
-        "publishedAt": "2026-09-19T10:00:21Z",
-        "summary": "Coach Jeff Hafley found positives for first-round cornerback Chris Johnson despite a hard day at the office.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Week 2 fix for Cowboys' D vs. Commanders: Communication",
-        "url": "https://www.espn.com/nfl/story/_/id/49972793/nfl-dallas-cowboys-defense-christian-paker-schottenheimer-commanders",
-        "publishedAt": "2026-09-19T10:00:28Z",
-        "summary": "The Week 1 loss to the Giants was an inauspicious start for new coordinator Christian Parker's defense.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
