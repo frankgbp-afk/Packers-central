@@ -1,22 +1,13 @@
 {
-  "updatedAt": "2026-09-20T18:47:08.401Z",
+  "updatedAt": "2026-09-20T21:32:50.354Z",
   "sources": {
     "packers": [
       {
-        "title": "Live Chat: Packers-Jets | Week 2",
-        "url": "https://www.packers.com/news/live-chat-packers-jets-week-2-2026",
-        "publishedAt": "Sun, 20 Sep 2026 22:00:00 GMT",
-        "summary": "Follow the Green Bay Packers vs. New York Jets game with live updates from MetLife Stadium",
-        "image": "data/news-images/packers-0.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "At halftime, Packers and Jets tied at 7",
+        "title": "Packers rally to beat Jets in OT, 20-17",
         "url": "https://www.packers.com/news/in-game-updates-week-2-jets-2026",
         "publishedAt": "Sun, 20 Sep 2026 17:52:34 GMT",
-        "summary": "RB MarShawn Lloyd scores first NFL touchdown",
-        "image": "data/news-images/packers-1.jpg",
+        "summary": "Green Bay comes back from down 10 in fourth quarter",
+        "image": "data/news-images/packers-0.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,6 +16,15 @@
         "url": "https://www.packers.com/news/packers-jets-week-2-inactives-sept-20-2026",
         "publishedAt": "Sun, 20 Sep 2026 15:30:00 GMT",
         "summary": "CB Benjamin St-Juste won't play Sunday",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Live Chat: Packers-Jets | Week 2",
+        "url": "https://www.packers.com/news/live-chat-packers-jets-week-2-2026",
+        "publishedAt": "Sun, 20 Sep 2026 14:00:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. New York Jets game with live updates from MetLife Stadium",
         "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -115,107 +115,107 @@
       {
         "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-09-20T18:39:55Z",
-        "summary": "Check out top Week 2 plays, with Jalen Hurts, Drake Maye, Aaron Rodgers, Caleb Williams and more in action.",
+        "publishedAt": "2026-09-20T21:25:02Z",
+        "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 2's best arrivals, led by George Pickens and Jayden Daniels",
-        "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals",
-        "publishedAt": "2026-09-20T18:30:27Z",
-        "summary": "Rounding up all top pregame and tunnel arrivals from around the league.",
+        "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
+        "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
+        "publishedAt": "2026-09-20T21:29:28Z",
+        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Patriots starting RG Mike Onwenu carted off with ankle injury",
-        "url": "https://www.espn.com/nfl/story/_/id/49990760/patriots-starting-rg-mike-onwenu-carted-ankle-injury",
-        "publishedAt": "2026-09-20T18:20:24Z",
-        "summary": "Patriots starting right guard Mike Onwenu was carted off the field with an ankle injury late in the first quarter of Sunday's game against the Steelers.",
+        "title": "Green Bay Packers vs. New York Jets: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49992633/game-highlights",
+        "publishedAt": "2026-09-20T21:16:07Z",
+        "summary": "Green Bay Packers vs. New York Jets: Game Highlights",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Packers WR Reed, RT Bako-Bewele carted off with injuries",
-        "url": "https://www.espn.com/nfl/story/_/id/49990499/packers-wr-reed-rt-bako-bewele-carted-injuries",
-        "publishedAt": "2026-09-20T17:48:20Z",
-        "summary": "Packers wide receiver Jayden Reed and right tackle Zach Bako-Bewele were carted off the field on back-to-back plays Sunday.",
+        "title": "Chargers TE David Njoku leaves game with knee injury",
+        "url": "https://www.espn.com/nfl/story/_/id/49992624/chargers-te-david-njoku-leaves-game-knee-injury",
+        "publishedAt": "2026-09-20T21:24:15Z",
+        "summary": "Chargers tight end David Njoku exited Sunday's game against the Raiders in the second quarter on a medical cart with an injury to his right knee.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Who is Commanders' special teams ace Tyler Owens?",
-        "url": "https://www.espn.com/nfl/story/_/id/49974423/commanders-tyler-owens-viral-special-teams-punt-return",
-        "publishedAt": "2026-09-20T17:22:23Z",
-        "summary": "J.J. Watt called Owens' play against the Eagles 'legitimately one of the greatest football plays I've ever seen.'",
-        "image": "data/news-images/espn-4.jpg",
+        "title": "Trey Smack’s OT kick lifts the Packers past the Jets, ending a 6-game skid",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872936",
+        "publishedAt": "2026-09-20T21:00:31Z",
+        "summary": "— Trey Smack kicked a 26-yard field goal in overtime and the Green Bay Packers overcame a 10-point fourth-quarter deficit and a sloppy, penalty-filled performance to snap a six-game skid with a 20-17 victory over the New York Jets on Sunday.",
+        "image": "data/news-images/espn-4.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-        "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-        "publishedAt": "2026-09-20T17:15:40Z",
-        "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
+        "title": "Minnesota Vikings vs. Chicago Bears: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49992260/game-highlights",
+        "publishedAt": "2026-09-20T20:50:45Z",
+        "summary": "Minnesota Vikings vs. Chicago Bears: Game Highlights",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ernie Accorsi, longtime NFL executive and Giants GM, dies at 84",
-        "url": "https://www.espn.com/nfl/story/_/id/49990145/ernie-accorsi-long-nfl-executive-giants-gm-dies-84",
-        "publishedAt": "2026-09-20T17:39:33Z",
-        "summary": "Longtime NFL executive Ernie Accorsi, the architect of the Giants team that pulled off one of the biggest upsets in Super Bowl history, has died. He was 84.",
+        "title": "Cincinnati Bengals vs. Houston Texans: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49992225/game-highlights",
+        "publishedAt": "2026-09-20T20:45:48Z",
+        "summary": " Cincinnati Bengals vs. Houston Texans: Game Highlights",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2027 NFL draft questions, latest intel, risers, CFB standouts",
-        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
-        "publishedAt": "2026-09-20T17:32:37Z",
-        "summary": "Are the two Heisman-favorite quarterbacks rising the board? Is there a new WR2 in the class? Here's NFL draft spin off Week 2 of the CFB season.",
+        "title": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49992197/game-highlights",
+        "publishedAt": "2026-09-20T20:44:00Z",
+        "summary": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football Week 2 inactives: Collins and Flowers ruled out, Burrow active, Nacua questionable",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-49965274/fantasy-football-injuries-nfl-week-2-inactive-active",
-        "publishedAt": "2026-09-20T18:42:16Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-8.jpg",
+        "title": "Ja'Marr Chase scores 2 TDs on passes from Joe Burrow to lead the Bengals past the Texans 20-6",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872934",
+        "publishedAt": "2026-09-20T20:32:40Z",
+        "summary": "— Joe Burrow threw two touchdown passes to Ja’Marr Chase to lead the Cincinnati Bengals to a 20-6 win over the Houston Texans on Sunday.",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 2 betting: Odds, lines and totals for every game",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49940340/2026-nfl-week-2-schedule-odds-betting-point-spreads-totals",
-        "publishedAt": "2026-09-20T15:47:07Z",
-        "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 2.",
+        "title": "Pittsburgh Steelers vs. New England Patriots: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49992172/game-highlights",
+        "publishedAt": "2026-09-20T20:33:30Z",
+        "summary": "Pittsburgh Steelers vs. New England Patriots: Game Highlights",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: 49ers owner Jed York won't attend home opener",
-        "url": "https://www.espn.com/nfl/story/_/id/49989547/sources-49ers-owner-jed-york-attend-home-opener",
-        "publishedAt": "2026-09-20T15:43:56Z",
-        "summary": "49ers owner Jed York, who was in Australia but did not attend his team's regular-season opener, also will miss Sunday's home opener in San Francisco against the Dolphins, sources told ESPN.",
+        "title": "Fantasy football buzz: DeVonta Smith in the top 5?! Leading scorers through Sunday's early slate",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-09-20T20:49:22Z",
+        "summary": "An updated list of the top 10 fantasy scoring leaders in Week 2 through Sunday's early games.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bears QB Caleb Williams is the NFL's iceman",
-        "url": "https://www.espn.com/video/clip/_/id/49989161/bears-qb-caleb-williams-nfl-iceman",
-        "publishedAt": "2026-09-20T16:07:39Z",
-        "summary": "Chicago's biggest superstar remains calmest when the noise is the loudest. Kimberley Martin sat down with Williams to walk through some of his most amazing moments.",
+        "title": "Philadelphia Eagles vs. Tennessee Titans: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/49992051/game-highlights",
+        "publishedAt": "2026-09-20T20:29:53Z",
+        "summary": "Philadelphia Eagles vs. Tennessee Titans: Game Highlights",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,83 +223,20 @@
     ],
     "acme": [
       {
-        "title": "Packers Injury Update: Jayden Reed and Zach Bako-Bewele ruled out of Jets game",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/86740/packers-injury-update-jayden-reed-and-zach-bako-bewele-ruled-out-of-jets-game",
-        "publishedAt": "2026-09-20T14:00:03-04:00",
-        "summary": "The Green Bay Packers’ first drive of their Week 2 game against the New York Jets was an unmitigated disaster. The Packers received the opening kickoff and started with the football, but immediately went three-and-out, punting the ball away to the Jets after just three plays. However, it’s what else happened on those three plays [&#8230;]",
+        "title": "Top 5 Packers Comebacks of the 21st Century",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86534/top-5-packers-comebacks-of-the-21st-century",
+        "publishedAt": "2026-09-18T17:30:50-04:00",
+        "summary": "Discussions on the Green Bay Packers’ struggles to close out games have understandably resurfaced after the team’s gutting 39-22 loss to the Minnesota Vikings this week that resulted in a 22-10 blown lead in the second half. This has been a theme as of late after the Packers blew multiple leads last season, including one [&#8230;]",
         "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Jets, Week 2 Game Discussion",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86656/packers-vs-jets-week-2-game-discussion",
-        "publishedAt": "2026-09-20T12:30:00-04:00",
-        "summary": "It has been a long time since the Green Bay Packers last won a game. Six straight losses — four to close the 2025 regular season, one in the playoffs, and then the 2026 season opener — have Packers fans clamoring for an entry under the W column of the standings. Today, the Packers should [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Matt LaFleur Needs to Copy Ben Johnson",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86730/matt-lafleur-needs-to-copy-ben-johnson",
-        "publishedAt": "2026-09-20T11:40:24-04:00",
-        "summary": "At the beginning of the season, Chicago Bears’ coach Ben Johnson stated that he wanted to set the all-time scoring record. Many laughed; some just saw it as typical coaching bluster, but then the Bears went out and put 59 on Carolina. I don’t think Johnson deals much in empty bluster, and while this statement [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Jets, Week 2: Game time, how to watch, odds, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/86652/packers-vs-jets-week-2-game-time-how-to-watch-odds-more",
-        "publishedAt": "2026-09-20T06:00:00-04:00",
-        "summary": "Brace yourselves, Green Bay Packers fans. Jonathan Vilma’s voice will soon be in your earholes. The former NFL linebacker and much-maligned NFL color commentator is on the call for Sunday’s game between the Green Bay Packers and New York Jets, joined in the booth with his play-by-play announcer, Kenny Albert. The two make up one [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Jets’ interception-less streak is incredible",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86690/the-jets-interception-less-streak-is-incredible",
-        "publishedAt": "2026-09-19T16:00:00-04:00",
-        "summary": "One of my biggest fears this week, in what is likely to be a very wet MetLife Stadium, is that Jordan Love is the unfortunate quarterback to end the New York Jets’ interception-less streak. This streak dates back to January 5th of 2025 when current 49er Ashtyn Davis picked off former Pro Bowl quarterback Snoop [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
         "title": "What the Packers’ game-day roster could look like: Week 2, New York Jets",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86672/what-the-packers-game-day-roster-could-look-like-week-2-new-york-jets",
-        "publishedAt": "2026-09-19T15:50:53-04:00",
+        "publishedAt": "2026-09-18T17:15:48-04:00",
         "summary": "A couple of weeks ago, we did an exercise on what the Green Bay Packers’ game-day roster would look like, and I want to update that projection for Week 2 based on new information we have. To recap, here was my prediction on how the Packers would drop their 53-man active roster to their 48-man [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Remembering a Random Packers Game: The New York Jets",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86421/remembering-a-random-packers-game-the-new-york-jets",
-        "publishedAt": "2026-09-19T15:45:09-04:00",
-        "summary": "Last week, we looked back on a randomly selected game between the Green Bay Packers and Minnesota Vikings. That’s the only game against the Vikings we’ll be looking back on until further notice. Thank you. This week, we’ve got the New York Jets, whom the Packers have played 14 times. The random game? Their third-ever [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Week 2 Opponent Preview: The New York Jets",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86685/packers-week-2-opponent-preview-the-new-york-jets",
-        "publishedAt": "2026-09-19T15:45:00-04:00",
-        "summary": "With a late week one loss behind them, the Green Bay Packers have prepared this week to face the New York Jets in week two at MetLife Stadium in East Rutherford, Jersey on Sunday. The Jets went through a major overhaul during the offseason with Aaron Glenn going into his second year as head coach, [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Top 5 Packers Comebacks of the 21st Century",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/86534/top-5-packers-comebacks-of-the-21st-century",
-        "publishedAt": "2026-09-18T17:30:50-04:00",
-        "summary": "Discussions on the Green Bay Packers’ struggles to close out games have understandably resurfaced after the team’s gutting 39-22 loss to the Minnesota Vikings this week that resulted in a 22-10 blown lead in the second half. This has been a theme as of late after the Packers blew multiple leads last season, including one [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +245,69 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86667/sunday-will-be-a-big-opportunity-for-the-packers-inexperienced-edge-rushers",
         "publishedAt": "2026-09-18T16:32:44-04:00",
         "summary": "Green Bay Packers edge rusher Lukas Van Ness was officially listed as questionable on Friday after being a limited participant in practice throughout the week. If Van Ness can’t play Sunday against the New York Jets, the Packers won’t have much experience to lean on in his absence. At the moment, there are only three [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Jets Injury Report: Green Bay gives 6 game statuses on Friday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86661/packers-vs-jets-injury-report-green-bay-gives-6-game-statuses-on-friday",
+        "publishedAt": "2026-09-18T16:13:14-04:00",
+        "summary": "The Green Bay Packers have officially ruled out defensive lineman Warren Brinson (calf), who has yet to practice for the team in the regular season, for their contest against the New York Jets on Sunday. The good news? Brinson was the only player who is absolutely a no-go this week. The only player that the [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Week 2 Picks: Green Bay should defeat Jets as road favorites",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86601/packers-week-2-picks-green-bay-should-defeat-jets-as-road-favorites",
+        "publishedAt": "2026-09-18T12:00:00-04:00",
+        "summary": "On Sunday, the Green Bay Packers head to the Meadowlands to try to shake off a rough performance in Week 1. The team heads into MetLife Stadium for a matchup with the New York Jets, who are 1-0 after a 23-10 win over the Tennessee Titans in Week 1. Despite the two teams’ different fortunes [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Aaron Rodgers and Jordy Nelson headline Packers’ best performances against Jets",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86647/aaron-rodgers-and-jordy-nelson-headline-packers-best-performances-against-jets",
+        "publishedAt": "2026-09-18T11:21:31-04:00",
+        "summary": "The Packers have a long but not especially rich history of meetings with the New York Jets. The two teams have played 14 times in their shared history, but the Packers have won just five of those matchups. Still, the Packers have put together some pretty impressive performances in that limited and uninspiring history. Here [&#8230;]",
+        "image": "data/news-images/acme-5.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Packers look for a repeat of 2014 (well, mostly)",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86636/green-bay-packers-news-packers-look-for-a-repeat-of-2014-well-mostly",
+        "publishedAt": "2026-09-18T08:45:00-04:00",
+        "summary": "In 2014, the Green Bay Packers started off the season with an embarrassing defeat on the road. They went into Seattle and got throttled by the Seahawks, losing 36-16 in a game that didn’t even really feel that close. Panic set in among the fan base, and the season felt over when it had barely [&#8230;]",
+        "image": "data/news-images/acme-6.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Jets Injury Report: Javon Hargrave dropped to a non-participant",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86613/packers-jets-injury-report-javon-hargrave-dropped-to-a-non-participant",
+        "publishedAt": "2026-09-17T16:44:59-04:00",
+        "summary": "The Green Bay Packers’ Thursday practice came with some good news and some bad news. The good news is that rookie second-round cornerback Brandon Cisse, who got the start at left cornerback in Week 1, is now completely off the injury report after leaving Sunday’s loss early with cramps. For anyone who saw Carrington Valentine’s [&#8230;]",
+        "image": "data/news-images/acme-7.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers have a sneaky interesting tight end room",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86615/packers-have-a-sneaky-interesting-tight-end-room",
+        "publishedAt": "2026-09-17T16:29:44-04:00",
+        "summary": "The Packers’ tight end room is quite a bit different than we expected this season, and quite a long way from the ultimate goal the team had when it spent two top-100 picks at the position in 2023. Drafting Luke Musgrave and Tucker Kraft that year was supposed to produce a two-headed tight end juggernaut, [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers sign OL Cordell Volson",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86608/green-bay-packers-sign-ol-cordell-volson",
+        "publishedAt": "2026-09-17T15:03:38-04:00",
+        "summary": "Bill Huber of Sports Illustrated is reporting that the Green Bay Packers signed offensive lineman Cordell Volson to their practice squad on Thursday, one day after Volson — and only Volson — worked out with the team. So far this season, Volson is the seventh outside signing brought in for the Packers’ practice squad, and [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
