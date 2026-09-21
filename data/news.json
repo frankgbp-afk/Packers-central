@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T05:02:15.087Z",
+  "updatedAt": "2026-09-21T10:43:09.643Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,74 @@
     ],
     "espn": [
       {
+        "title": "Van Ness' breakout game saves Packers in OT win vs. Jets",
+        "url": "https://www.espn.com/nfl/story/_/id/49993378/nfl-green-bay-packers-lukas-van-ness-micah-parsons-jets",
+        "publishedAt": "2026-09-21T10:00:06Z",
+        "summary": "Packers hope it's a sign of things to come as Micah Parsons nears his return from a torn ACL.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Donald in, Garrett out: How will Rams defense look with huge addition (and subtraction)?",
+        "url": "https://www.espn.com/nfl/story/_/id/49991306/los-angeles-rams-aaron-donald-myles-garrett-defense-week-2",
+        "publishedAt": "2026-09-21T10:00:01Z",
+        "summary": "Despite the defensive tackle returning from retirement, L.A. has never doubted that he could still make an impact.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft order projections for Round 1, top pick, more",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+        "publishedAt": "2026-09-21T10:00:40Z",
+        "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
+        "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+        "publishedAt": "2026-09-21T10:00:15Z",
+        "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chiefs laud Kenneth Walker III's impact through 2-0 start",
+        "url": "https://www.espn.com/nfl/story/_/id/49996723/kenneth-walker-iii-helping-revitalize-chiefs-offense-2-0-start-ot-win-vs-colts",
+        "publishedAt": "2026-09-21T07:39:39Z",
+        "summary": "For a second straight week, offseason acquisition Kenneth Walker III demonstrated how he has helped revitalize the Kansas City offense, tallying 178 all-purpose yards in the Chiefs' 33-30 overtime win against the Colts.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Colts' Shane Steichen defends OT playcalling in loss to Chiefs",
+        "url": "https://www.espn.com/nfl/story/_/id/49996583/colts-coach-shane-steichen-defends-playcalling-loss-chiefs",
+        "publishedAt": "2026-09-21T07:00:51Z",
+        "summary": "Colts coach Shane Steichen defended his late-game strategy and playcalling in Sunday night's 33-30 overtime loss to the Chiefs, saying he would have gone for the win on fourth-and-8 had Kansas City showed a favorable defensive coverage.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Travis Kelce tells SVP how the Chiefs prevailed in OT",
+        "url": "https://www.espn.com/video/clip/_/id/49996431/travis-kelce-tells-svp-how-chiefs-prevailed-ot",
+        "publishedAt": "2026-09-21T05:39:15Z",
+        "summary": "Travis Kelce tells SVP how the Chiefs prevailed in OT",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
         "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
         "publishedAt": "2026-09-21T04:56:08Z",
         "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,96 +189,33 @@
         "url": "https://www.espn.com/video/clip/_/id/49996271/chiefs-colts-ot-thriller",
         "publishedAt": "2026-09-21T04:46:17Z",
         "summary": "Chiefs down Colts in OT thriller",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football buzz: Week 2's top 10 scorers through Sunday Night Football",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-09-21T07:48:11Z",
+        "summary": "An updated list of the top 10 fantasy scoring leaders in Week 2 through Sunday Night Football.",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT",
         "url": "http://www.espn.com/nfl/recap?gameId=401872945",
-        "publishedAt": "2026-09-21T04:38:29Z",
-        "summary": "— Harrison Butker kicked two field goals in overtime, the second a 40-yarder as time expired that Patrick Mahomes and Kenneth Walker III set up with a series of big plays, giving the Kansas City Chiefs a 33-30 victory over the Indianapolis Colts on...",
-        "image": "data/news-images/espn-2.png",
+        "publishedAt": "2026-09-21T05:03:29Z",
+        "summary": "— The Kansas City Chiefs thought they had beaten the Indianapolis Colts on a bizarre fumble in overtime Sunday night.",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Week 2 winners and losers: Jaxon Smith-Njigba, CeeDee Lamb shine; Bijan Robinson struggles",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-49991137/nfl-week-2-fantasy-football-winners-losers-injuries-rankings-more",
-        "publishedAt": "2026-09-21T04:24:25Z",
+        "publishedAt": "2026-09-21T05:09:55Z",
         "summary": "Jaxon Smith-Njigba and CeeDee Lamb came up big in Week 2, while Bijan Robinson and Justin Jefferson had very quiet days.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
-        "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-09-21T04:04:09Z",
-        "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Who are the winningest NFL coaches of all time?",
-        "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-        "publishedAt": "2026-09-21T03:57:51Z",
-        "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Lock, Smith-Njigba have Seahawks 2-0 with Darnold ahead of schedule",
-        "url": "https://www.espn.com/nfl/story/_/id/49995944/drew-lock-jaxon-smith-njigba-seahawks-2-0-sam-darnold-ahead-schedule",
-        "publishedAt": "2026-09-21T03:57:03Z",
-        "summary": "Seahawks coach Mike Macdonald said QB Sam Darnold could return to practice this week and did not rule out the possibility of him playing next Sunday. In the meantime, backup Drew Lock has Seattle 2-0, with plenty of help from receiver Jaxon Smith-Njigba.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sirianni proud of Eagles for battling through Nashville heat",
-        "url": "https://www.espn.com/video/clip/_/id/49995729/sirianni-proud-eagles-battling-nashville-heat",
-        "publishedAt": "2026-09-21T02:50:49Z",
-        "summary": "Sirianni proud of Eagles for battling through Nashville heat",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/49995719/game-highlights",
-        "publishedAt": "2026-09-21T02:45:37Z",
-        "summary": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Kirk Cousins' 'phenomenal' play has new-look Raiders at 2-0",
-        "url": "https://www.espn.com/nfl/story/_/id/49995676/kirk-cousins-phenomenal-play-new-look-raiders-2-0",
-        "publishedAt": "2026-09-21T03:12:03Z",
-        "summary": "Kirk Cousins has done more than just help the Raiders transition through a rebuilding process after two games, leading Las Vegas to its first 2-0 record since 2021.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "QB Baker Mayfield says Bucs need to 'fight our way out' of 0-2 start",
-        "url": "https://www.espn.com/nfl/story/_/id/49995560/qb-baker-mayfield-says-bucs-need-fight-our-way-0-2-start",
-        "publishedAt": "2026-09-21T03:05:25Z",
-        "summary": "Buccaneers quarterback Baker Mayfield admitted to being \"pretty shocked\" the Bucs are 0-2 for the first time since he has been their quarterback and the first time since 2014 after losing to his former team, the Browns, 23-19.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Nashville turf temp of 157 F melts cleats, sends Sirianni for IV",
-        "url": "https://www.espn.com/nfl/story/_/id/49995389/turf-temps-157-f-nashville-melts-cleats",
-        "publishedAt": "2026-09-21T03:39:32Z",
-        "summary": "Players' cleats were melting and Eagles coach Nick Sirianni needed an IV as a result of extreme heat conditions at Nissan Stadium during Sunday's game between Philadelphia and the Tennessee Titans, a 24-20 win for the Eagles.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
