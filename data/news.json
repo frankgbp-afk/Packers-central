@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-22T09:57:00.850Z",
+  "updatedAt": "2026-09-22T14:53:00.703Z",
   "sources": {
     "packers": [
+      {
+        "title": "Inbox: It's part of the job description",
+        "url": "https://www.packers.com/news/inbox-it-s-part-of-the-job-description-sept-22-2026",
+        "publishedAt": "Tue, 22 Sep 2026 13:30:00 GMT",
+        "summary": "Jordan Morgan and Anthony Belton are going to get a lot of time on task",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers host Falcons in home opener",
         "url": "https://www.packers.com/news/packers-host-falcons-in-home-opener-week-3-2026",
         "publishedAt": "Mon, 21 Sep 2026 22:00:00 GMT",
         "summary": "It is the first-ever Thursday meeting between the teams",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/packers-tork-team-up-for-sixth-annual-tackle-hygiene-with-every-catch-campaign-sept-21-2026",
         "publishedAt": "Mon, 21 Sep 2026 21:46:57 GMT",
         "summary": "Campaign that helps promote hand hygiene will give back to Ronald McDonald House Eastern Wisconsin in 2026",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-falcons-injury-report-sept-21-2026",
         "publishedAt": "Mon, 21 Sep 2026 21:07:43 GMT",
         "summary": "",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-overtime-drive-quickly-moved-the-chains-week-2-2026",
         "publishedAt": "Mon, 21 Sep 2026 21:02:32 GMT",
         "summary": "Running backs got it started to set up game-winning kick",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/inbox-this-defense-has-some-really-intriguing-pieces-sept-21-2026",
         "publishedAt": "Mon, 21 Sep 2026 13:30:00 GMT",
         "summary": "They don’t have a choice",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-overtime-victory-over-jets-week-2-2026",
         "publishedAt": "Sun, 20 Sep 2026 23:05:00 GMT",
         "summary": "Green Bay comes home 1-1 despite several injuries and rough moments",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/game-notes-skyy-moore-s-heroics-ignite-packers-comeback-win-week-2-2026",
         "publishedAt": "Sun, 20 Sep 2026 23:00:00 GMT",
         "summary": "Lukas Van Ness’ career day powers Green Bay’s defense",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/rapid-reaction-list-of-unsung-heroes-is-long-for-packers-week-2-2026",
         "publishedAt": "Sun, 20 Sep 2026 22:53:38 GMT",
         "summary": "But so is the catalogue of miscues",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/in-game-updates-week-2-jets-2026",
         "publishedAt": "Sun, 20 Sep 2026 17:52:34 GMT",
         "summary": "Green Bay comes back from down 10 in fourth quarter",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-jets-week-2-inactives-sept-20-2026",
         "publishedAt": "Sun, 20 Sep 2026 15:30:00 GMT",
         "summary": "CB Benjamin St-Juste won't play Sunday",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/live-chat-packers-jets-week-2-2026",
         "publishedAt": "Sun, 20 Sep 2026 14:00:00 GMT",
         "summary": "Follow the Green Bay Packers vs. New York Jets game with live updates from MetLife Stadium",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers vs. Jets | How to watch, stream & listen | Week 2",
-        "url": "https://www.packers.com/news/packers-vs-jets-how-to-watch-stream-listen-week-2-2026",
-        "publishedAt": "Sun, 20 Sep 2026 13:30:00 GMT",
-        "summary": "Green Bay Packers vs. New York Jets channel listing, radio & streaming options",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,121 +113,139 @@
     ],
     "espn": [
       {
-        "title": "Aaron Donald's return fires up Rams in rout of Giants",
-        "url": "https://www.espn.com/nfl/story/_/id/50002943/aaron-donald-return-fires-rams-rout-giants",
-        "publishedAt": "2026-09-22T06:04:21Z",
-        "summary": "Aaron Donald -- and the SoFi Stadium crowd's response to him -- sparked the Rams in his first game since the end of the 2023 season.",
+        "title": "Fantasy football buzz: Loss of Dart filters down to rest of Giants' skill-position players",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-09-22T14:49:21Z",
+        "summary": "Jaxson Dart's injury has a cascading effect on the Giants, whose skill players would also take a hit.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Harbaugh on Giants' injuries: 'This is football'",
-        "url": "https://www.espn.com/video/clip/_/id/50002693/football",
-        "publishedAt": "2026-09-22T05:18:28Z",
-        "summary": "Harbaugh on Giants' injuries: 'This is football'",
+        "title": "How active NFL players continue to redefine all-time sack list",
+        "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+        "publishedAt": "2026-09-22T14:46:53Z",
+        "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sean McVay pokes fun at himself for Rams' Australia travel plans",
-        "url": "https://www.espn.com/video/clip/_/id/50002673/sean-mcvay-pokes-fun-rams-australia-travel-plans",
-        "publishedAt": "2026-09-22T04:18:57Z",
-        "summary": "Sean McVay pokes fun at himself for Rams' Australia travel plans",
+        "title": "Can fantasy managers confidently start Terrance Ferguson?",
+        "url": "https://www.espn.com/video/clip/_/id/50005749/can-fantasy-managers-confidently-start-terrance-ferguson",
+        "publishedAt": "2026-09-22T14:47:30Z",
+        "summary": "Can fantasy managers confidently start Terrance Ferguson?",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams' jab at Jameis Winston, Giants leads NFL Week 2 trolls",
-        "url": "https://www.espn.com/nfl/story/_/id/49993163/nfl-week-2-2026-trolls",
-        "publishedAt": "2026-09-22T04:20:37Z",
-        "summary": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Los Angeles Rams.",
+        "title": "2026 NFL pass rush, run stop, blocking win rate rankings",
+        "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
+        "publishedAt": "2026-09-22T14:10:31Z",
+        "summary": "Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Davante Adams reflects on Aaron Donald's impact since return from retirement",
-        "url": "https://www.espn.com/video/clip/_/id/50002518/davante-adams-reflects-aaron-donald-impact-return-retirement",
-        "publishedAt": "2026-09-22T03:55:56Z",
-        "summary": "Davante Adams reflects on Aaron Donald's impact since return from retirement",
+        "title": "Smith Sr.: Starting Deshaun Watson is best move for Cleveland right now",
+        "url": "https://www.espn.com/video/clip/_/id/50005324/starting-deshaun-watson-best-move-cleveland-right-now",
+        "publishedAt": "2026-09-22T14:11:29Z",
+        "summary": "Smith Sr.: Starting Deshaun Watson is best move for Cleveland right now",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Peyton, Eli Manning heartbroken as Jaxson Dart exits with knee injury",
-        "url": "https://www.espn.com/video/clip/_/id/50002516/peyton-eli-manning-heartbroken-jaxson-dart-exits-knee-injury",
-        "publishedAt": "2026-09-22T05:19:52Z",
-        "summary": "Peyton, Eli Manning heartbroken as Jaxson Dart exits with knee injury",
+        "title": "Jaxon Smith-Njigba shows no signs of slowing down as Bobby Okereke silences critics",
+        "url": "https://www.espn.com/espn/story/_/id/50005131/jaxon-smith-njigba-shows-no-signs-slowing-bobby-okereke-silences-critics",
+        "publishedAt": "2026-09-22T13:38:38Z",
+        "summary": "Seattle Seahawks wide receiver Jaxon Smith-Njigba had arguably the best game of his career to date in the second week of the NFL season as he continued his bid for a second straight Offensive Player of the Year (OPOY) prize.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams defeat depleted Giants 28-6 on 'Monday Night Football'",
-        "url": "https://www.espn.com/nfl/story/_/id/49999155/2026-nfl-week-2-los-angeles-rams-new-york-giants-matthew-stafford-jaxson-dart",
-        "publishedAt": "2026-09-22T04:12:35Z",
-        "summary": "L.A. exceeded expectations after its Week 1 loss, while New York saw injuries to its stars and couldn't keep up with Matthew Stafford & Co.",
+        "title": "Jason Kelce finds out in real time that Zach Ertz is returning to Philly",
+        "url": "https://www.espn.com/video/clip/_/id/50004977/jason-kelce-finds-real-zach-ertz-returning-philly",
+        "publishedAt": "2026-09-22T13:20:38Z",
+        "summary": "Jason Kelce finds out in real time that Zach Ertz is returning to Philly",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Davante Adams, Matthew Stafford lead Rams past Giants 28-6 after Jaxson Dart's injury",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872947",
-        "publishedAt": "2026-09-22T04:31:35Z",
-        "summary": "— The Los Angeles Rams' dismal season opener in Australia and their proliferating injury woes were nothing Davante Adams and Matthew Stafford couldn't overcome back home with a vintage performance against the Giants.",
-        "image": "data/news-images/espn-7.png",
+        "title": "Why Domonique Foxworth feels scorned for believing the Cowboys hype",
+        "url": "https://www.espn.com/video/clip/_/id/50004894/why-domonique-foxworth-feels-scorned-believing-cowboys-hype",
+        "publishedAt": "2026-09-22T13:22:05Z",
+        "summary": "Why Domonique Foxworth feels scorned for believing the Cowboys hype",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams take down Giants 28-6 on MNF",
-        "url": "https://www.espn.com/video/clip/_/id/50002283/rams-take-giants-28-6-mnf",
-        "publishedAt": "2026-09-22T03:14:26Z",
-        "summary": "Rams take down Giants 28-6 on MNF",
+        "title": "Was Jameis Winston unprepared to replace Jaxson Dart vs. Rams?",
+        "url": "https://www.espn.com/video/clip/_/id/50004692/was-jameis-winston-unprepared-replace-jaxson-dart-vs-rams",
+        "publishedAt": "2026-09-22T12:52:34Z",
+        "summary": "Was Jameis Winston unprepared to replace Jaxson Dart vs. Rams?",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams' Stafford passes Rivers for 6th all time in passing TDs",
-        "url": "https://www.espn.com/nfl/story/_/id/50002173/rams-stafford-passes-rivers-6th-all-passing-tds",
-        "publishedAt": "2026-09-22T05:46:33Z",
-        "summary": "Rams QB Matthew Stafford moved to sixth all time in passing touchdowns after throwing his 426th to Davante Adams on Monday night.",
+        "title": "Fantasy football: Live Week 3 free agent pickups advice with ESPN expert",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49998196/fantasy-football-waiver-wire-pickups-week",
+        "publishedAt": "2026-09-22T11:09:25Z",
+        "summary": "ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Peyton fumes over INT while 'Breaking Bad' star Bryan Cranston celebrates",
-        "url": "https://www.espn.com/video/clip/_/id/50001887/peyton-fumes-int-breaking-bad-star-bryan-cranston-celebrates",
-        "publishedAt": "2026-09-22T05:20:20Z",
-        "summary": "Peyton fumes over INT while 'Breaking Bad' star Bryan Cranston celebrates",
+        "title": "Seven things Solak thinks entering NFL Week 3",
+        "url": "https://www.espn.com/nfl/story/_/id/49999213/week-3-seven-things-solak-thinks-baker-mayfield-patriots-chargers",
+        "publishedAt": "2026-09-22T14:14:06Z",
+        "summary": "Can Baker Mayfield rebound? Are the Chargers doomed? Is the Eagles' new offense actually encouraging for Jalen Hurts? Get ready for Week 3 with seven takes.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Giants QB Jaxson Dart believed to have sprained MCL",
-        "url": "https://www.espn.com/nfl/story/_/id/50001578/giants-qb-jaxson-dart-exits-mnf-game-vs-rams-knee-injury",
-        "publishedAt": "2026-09-22T06:15:27Z",
-        "summary": "Giants quarterback Jaxson Dart is believed to have sustained a sprained MCL on Monday night based on initial exams, sources told NFL Network's Ian Rapoport and Mike Garafolo. He will undergo an MRI on Tuesday.",
-        "image": "data/news-images/espn-11.jpg",
+        "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 3",
+        "url": "https://www.espn.com/nfl/story/_/id/49998616/nfl-power-rankings-week-3-teams-quarterbacks-stats",
+        "publishedAt": "2026-09-22T14:08:04Z",
+        "summary": "How do all 32 NFL teams stack up ahead of Week 3? Plus, what we know for sure about the starting QBs around the league.",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
+        "title": "Packers Film Room: Dashing for a dagger",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86914/packers-film-room-dashing-for-a-dagger",
+        "publishedAt": "2026-09-22T09:15:00-04:00",
+        "summary": "Last week, we talked about the Green Bay Packers’ use of Dash motion and how they used the Vikings defensive tendencies to hit a play behind it. Today, we’re looking at that same motion and a play the Packers hit off of it in Week 2 against the New York Jets. Before we get started, [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Lukas Van Ness has arrived",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86932/green-bay-packers-news-lukas-van-ness-has-arrived",
+        "publishedAt": "2026-09-22T09:06:31-04:00",
+        "summary": "Lukas Van Ness had an inauspicious start to his NFL career. Through two seasons, he’d produced just seven sacks and 16 quarterback hits. He was solid against the run, but you don’t pick an edge rusher 13th overall because he’s stout in the ground game. Year three was promising, but then the injuries came. Nagging [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Scouting Report: How the Green Bay Packers’ offense performed in Week 2",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86898/scouting-report-how-the-green-bay-packers-offense-performed-in-week-2",
         "publishedAt": "2026-09-21T18:05:42-04:00",
         "summary": "I’m going to put a quick post together explaining what I saw from the Green Bay Packers’ offense on Sunday, after watching the film of the game. In short, there was some good and some bad. Obviously, you want to put up more than 17 points in regulation, but I want to explain some of [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86893/green-bay-packers-release-first-injury-report-of-week-3",
         "publishedAt": "2026-09-21T17:28:44-04:00",
         "summary": "The Green Bay Packers did not practice on Monday as they go into a short turnaround to play the Atlanta Falcons, while the Falcons had a walkthrough, according to the NFL’s official injury reports. The coaching staff did not talk to the press today, but they will field questions on Tuesday. The non-participants on Monday’s [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86885/packers-work-out-3-players-on-monday",
         "publishedAt": "2026-09-21T17:16:20-04:00",
         "summary": "The Green Bay Packers have worked out three players following their win against the New York Jets, according to the NFL transaction wire. Generally, the Packers do workouts on their “off” day on Tuesday, but with them playing a Thursday Night Football game this week, Green Bay will be cramming all week. The players brought [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86881/the-packers-will-face-falcons-qb-michael-penix-on-thursday",
         "publishedAt": "2026-09-21T16:46:42-04:00",
         "summary": "After much debate on the will-he, won’t-he, the Atlanta Falcons have named Michael Penix Jr. their starting quarterback against the Green Bay Packers on Thursday Night Football. Both Penix and Tua Tagovailoa, the team’s number two quarterback, have missed the first two weeks of the season, forcing Cooper Rush and Jack Strand to play under [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86861/christian-watson-jordan-love-adjust-for-a-touchdown",
         "publishedAt": "2026-09-21T16:15:09-04:00",
         "summary": "Last week we looked at two Christian Watson TDs. If we have a space that is simply “Let’s break down however many TDs Christian Watson scored this week,” I would not be mad at it. This was a really fun TD, so I bookmarked it as something to break down before the game was over. [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86863/packers-discussion-which-rb-should-get-carries-for-green-bay",
         "publishedAt": "2026-09-21T13:04:50-04:00",
         "summary": "The Green Bay Packers’ running back situation is certainly unsettled right now, as the rotation opened up even more in Week 2 with the addition of Kaleb Johnson to the committee. Between Johnson, MarShawn Lloyd and Chris Brooks, the team is splitting touches three ways now, as the Packers attempt to find an answer at [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86816/packers-film-room-long-snapping-on-kicks-in-week-2",
         "publishedAt": "2026-09-21T12:39:16-04:00",
         "summary": "We’re back for Week 2 to look at special teams. There were not nearly as many snaps to look at here compared to in the Packers’ Week 1 game, but we get to look at them through the lens of a win, which is exciting. We kicked this series off in earnest last week. In [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86836/jager-burton-was-entirely-fine-in-relief-duty",
         "publishedAt": "2026-09-21T12:30:13-04:00",
         "summary": "The Green Bay Packers offense line management continues to completely befuddle me beyond belief. After Aaron Banks had to leave the game on Sunday due to a toe injury, which, as of the writing of this article, we still do not know the severity of, the Packers went back to Donovan Jennings at left guard [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ win over Jets was the 3rd double-digit comeback win in the Jordan Love era",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86830/packers-win-over-jets-was-the-3rd-double-digit-comeback-win-in-the-jordan-love-era",
-        "publishedAt": "2026-09-21T10:30:00-04:00",
-        "summary": "The Green Bay Packers managed to flip the script on Sunday afternoon. After giving up big lead after big lead down the stretch on the 2025 season and in Week 1 against the Minnesota Vikings, the Packers came back from a ten-point deficit in the fourth quarter to defeat the New York Jets 20-17 in [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Anatomy of a comeback win",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/86823/green-bay-packers-news-anatomy-of-a-comeback-win",
-        "publishedAt": "2026-09-21T08:59:25-04:00",
-        "summary": "Did Skyy Moore just save the Green Bay Packers’ season? The premise of the question is a bit absurd, yes. Short of catastrophic injuries, the result of one play is almost never the difference between a single win or loss, let alone the trajectory of an entire season. But Moore’s 63-yard punt return in the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
