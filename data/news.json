@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:58:17.639Z",
+  "updatedAt": "2026-09-23T11:35:17.832Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,65 @@
     ],
     "espn": [
       {
+        "title": "NFL Week 3 latest intel, buzz questions, news, fantasy tips",
+        "url": "https://www.espn.com/nfl/story/_/id/50005797/week-3-buzz-fantasy-predictions-graziano-fowler-2026",
+        "publishedAt": "2026-09-23T10:24:27Z",
+        "summary": "What now for the Giants with Jaxson Dart out? What's the buzz on Patrick Mahomes through two games? Are running back depth charts firming up in Tampa and Carolina?",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Aaron Glenn is encouraged by the Jets' progress",
+        "url": "https://www.espn.com/nfl/story/_/id/49999959/new-york-jets-progress-top-defense-aaron-glenn-encouraged",
+        "publishedAt": "2026-09-23T10:00:02Z",
+        "summary": "New York is an overtime loss away from being undefeated after allowing the fewest yards through two weeks.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cowboys' CeeDee Lamb, George Pickens playing with 'no egos'",
+        "url": "https://www.espn.com/nfl/story/_/id/50005134/nfl-dallas-cowboys-ceedee-lamb-george-pickens",
+        "publishedAt": "2026-09-23T10:00:01Z",
+        "summary": "Lamb and Pickens believe their off-field connection is helping their on-field production.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Evaluating surprise early-season trends for 32 NFL teams",
+        "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage",
+        "publishedAt": "2026-09-23T10:35:15Z",
+        "summary": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why 49ers' Brock Purdy looks poised for his best season yet",
+        "url": "https://www.espn.com/nfl/story/_/id/50005196/san-francisco-49ers-brock-purdy-2026-season-hot-start-expectations",
+        "publishedAt": "2026-09-23T10:00:04Z",
+        "summary": "Purdy is dominating through two weeks of the 2026 season despite many injuries at wide receiver. And it all started in training camp.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Woman says she reported alleged 49ers impersonator to team in December",
         "url": "https://www.espn.com/nfl/story/_/id/50009432/woman-says-reported-alleged-49ers-impersonator-team-december",
         "publishedAt": "2026-09-23T01:17:41Z",
         "summary": "A woman who says she is a victim in the FBI's fraud case against Daejon Love said she sent a \"complaint/concern\" to the Niners in December 2025, eight months before Love was arrested and charged with wire fraud and conspiracy to commit wire fraud.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Source: Niners signing veteran receiver Cooks to practice squad",
         "url": "https://www.espn.com/nfl/story/_/id/50008765/niners-signing-veteran-receiver-cooks-practice-squad",
-        "publishedAt": "2026-09-22T22:59:09Z",
+        "publishedAt": "2026-09-23T10:40:07Z",
         "summary": "The Niners are signing free agent wideout Brandin Cooks to their practice squad, a source told ESPN on Tuesday.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
         "publishedAt": "2026-09-23T00:56:24Z",
         "summary": "Need a quick free agent pickup -- or roster overhaul -- after Week 2? These rankings are designed to help.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/50008178/completely-changes-their-identity",
         "publishedAt": "2026-09-22T20:36:15Z",
         "summary": "Kimes on Packers' latest O-line injury: 'It completely changes their identity'",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +198,7 @@
         "url": "https://www.espn.com/video/clip/_/id/50008168/understand-how-giants-made-mistake-dart-injury",
         "publishedAt": "2026-09-22T20:34:42Z",
         "summary": "Orlovsky: I don't understand how Giants made mistake over Dart injury",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/video/clip/_/id/50008158/why-dopp-downgrading-devon-achane-week-3",
         "publishedAt": "2026-09-22T20:22:35Z",
         "summary": "Why Dopp is downgrading De'Von Achane in Week 3",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/video/clip/_/id/50008137/starting-patrick-mahomes-week-3-great-move",
         "publishedAt": "2026-09-22T20:31:29Z",
         "summary": "Dopp: Starting Patrick Mahomes in Week 3 is a great move",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dopp giddy over Dalton Kincaid's start to his fantasy season",
-        "url": "https://www.espn.com/video/clip/_/id/50008112/dopp-giddy-dalton-kincaid-start-fantasy-season",
-        "publishedAt": "2026-09-22T20:18:17Z",
-        "summary": "Dopp giddy over Dalton Kincaid's start to his fantasy season",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Loss of Dart filters down to rest of Giants' skill position players",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-09-22T23:11:10Z",
-        "summary": "Jaxson Dart's injury has a cascading effect on the Giants, whose skill players also take a hit.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dopp starting Jalen Coker 'with confidence' in Week 3",
-        "url": "https://www.espn.com/video/clip/_/id/50007991/dopp-starting-jalen-coker-confidence-week-3",
-        "publishedAt": "2026-09-22T20:03:15Z",
-        "summary": "Dopp starting Jalen Coker 'with confidence' in Week 3",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Macdonald says Broncos' Payton accused Seahawks of cheating",
-        "url": "https://www.espn.com/nfl/story/_/id/50007939/macdonald-says-broncos-payton-accused-seahawks-cheating-2024",
-        "publishedAt": "2026-09-22T22:10:49Z",
-        "summary": "Seahawks coach Mike Macdonald says the Broncos wrongfully accused Seattle of a Spygate-like cheating scandal in 2024. Denver coach Sean Payton ultimately \"backed off\" after the Seahawks threatened a lawsuit if the Broncos went public with the allegation.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ian Rapoport reveals Case Keenum could start for Bears on MNF",
-        "url": "https://www.espn.com/video/clip/_/id/50007840/ian-rapoport-reveals-case-keenum-start-bears-mnf",
-        "publishedAt": "2026-09-22T19:54:53Z",
-        "summary": "Ian Rapoport reveals Case Keenum could start for Bears on MNF",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
