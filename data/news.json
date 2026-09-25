@@ -1,13 +1,49 @@
 {
-  "updatedAt": "2026-09-24T22:23:34.396Z",
+  "updatedAt": "2026-09-25T01:29:41.652Z",
   "sources": {
     "packers": [
+      {
+        "title": "Live Chat: Packers vs. Falcons | Week 3",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-falcons-week-3-2026",
+        "publishedAt": "Fri, 25 Sep 2026 04:00:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. Atlanta Falcons game with live updates from Lambeau Field.",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers and Falcons tied at 7 after first quarter",
+        "url": "https://www.packers.com/news/in-game-updates-week-3-falcons-2026",
+        "publishedAt": "Fri, 25 Sep 2026 03:00:00 GMT",
+        "summary": "Christian Watson catches a touchdown in third straight game",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers salute U.S. Army veteran Michael Lomax for 'Operation Fan Mail'",
+        "url": "https://www.packers.com/news/packers-salute-u-s-army-veteran-michael-lomax-for-operation-fan-mail-sept-24-2026",
+        "publishedAt": "Fri, 25 Sep 2026 00:55:07 GMT",
+        "summary": "Packers, Network Health honored Lomax during Thursday’s game against the Falcons",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "DT Javon Hargrave active vs. Atlanta | Packers-Falcons inactives",
+        "url": "https://www.packers.com/news/packers-falcons-week-3-inactives-sept-24-2026",
+        "publishedAt": "Thu, 24 Sep 2026 22:45:00 GMT",
+        "summary": "But DT Anthony Campbell won't play Thursday night",
+        "image": "data/news-images/packers-3.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Falcons | How to watch, stream & listen | Week 3",
         "url": "https://www.packers.com/news/packers-vs-falcons-how-to-watch-stream-listen-week-3-2026",
         "publishedAt": "Thu, 24 Sep 2026 14:05:00 GMT",
         "summary": "Green Bay Packers vs. Atlanta Falcons channel listing, radio & streaming options",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-stout-run-defense-to-face-stern-test-week-3-2026",
         "publishedAt": "Thu, 24 Sep 2026 14:00:00 GMT",
         "summary": "Falcons RB Bijan Robinson will benefit from return of Atlanta’s starting QB",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-welcome-home-packers-fans-sept-24-2026",
         "publishedAt": "Thu, 24 Sep 2026 13:30:00 GMT",
         "summary": "Nothing compares to a home opener under the Lambeau lights",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-rule-out-four-list-two-questionable-vs-falcons-week-3-injury-report-2026",
         "publishedAt": "Wed, 23 Sep 2026 20:00:00 GMT",
         "summary": "DT Javon Hargrave questionable, G Aaron Banks won’t play Thursday night",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +79,7 @@
         "url": "https://www.packers.com/news/brock-pahlow-of-shiocton-high-school-named-green-bay-packers-high-school-coach-of-the-week-2026",
         "publishedAt": "Wed, 23 Sep 2026 19:39:45 GMT",
         "summary": "Pahlow has the Chiefs out to a perfect 5-0 record, their first 5-0 start since 2013",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-s-javon-bullard-can-find-another-gear-sept-23-2026",
         "publishedAt": "Wed, 23 Sep 2026 19:05:00 GMT",
         "summary": "Key comments from Green Bay’s coordinators",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +97,7 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-how-will-the-packers-deal-with-the-short-week-sept-23-2026",
         "publishedAt": "Wed, 23 Sep 2026 19:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,42 +106,6 @@
         "url": "https://www.packers.com/news/resilient-packers-know-they-must-keep-rallying-sept-23-2026",
         "publishedAt": "Wed, 23 Sep 2026 14:00:00 GMT",
         "summary": "All three phases pulled together after loss of Jayden Reed and Zach Bako-Bewele",
-        "image": "data/news-images/packers-7.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers, Chiefs to collaborate for pop-up retail store in Munich ahead of NFL game",
-        "url": "https://www.packers.com/news/packers-chiefs-to-collaborate-for-pop-up-retail-store-in-munich-ahead-of-nfl-game-2026",
-        "publishedAt": "Wed, 23 Sep 2026 13:45:00 GMT",
-        "summary": "Packers X Chiefs Official Team Shop to offer Green Bay Packers and Kansas City Chiefs merchandise for three days in November",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Combining those effectively is no easy feat",
-        "url": "https://www.packers.com/news/inbox-combining-those-effectively-is-no-easy-feat-sept-23-2026",
-        "publishedAt": "Wed, 23 Sep 2026 13:30:00 GMT",
-        "summary": "This will be a long journey",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Protecting QB Jordan Love took on different tone vs. Jets",
-        "url": "https://www.packers.com/news/protecting-qb-jordan-love-took-on-different-tone-vs-jets-sept-22-2026",
-        "publishedAt": "Tue, 22 Sep 2026 20:59:47 GMT",
-        "summary": "Packers linemen reacted swiftly to goal-line helmet hit",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers-Falcons Injury Report | Sept. 22, 2026",
-        "url": "https://www.packers.com/news/packers-falcons-injury-report-sept-22-2026",
-        "publishedAt": "Tue, 22 Sep 2026 20:26:29 GMT",
-        "summary": "",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,101 @@
     ],
     "espn": [
       {
+        "title": "Week 3 TNF Falcons at Packers: Highlights, key plays",
+        "url": "https://www.espn.com/nfl/story/_/id/50023086/nfl-thursday-night-football-packers-falcons-jordan-love-michael-penix",
+        "publishedAt": "2026-09-25T00:42:39Z",
+        "summary": "Check out the biggest touchdowns as the Packers host the Falcons at Lambeau Field.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Kyle Juszczyk defends himself over fine for imitating 'chugging a beer'",
+        "url": "https://www.espn.com/video/clip/_/id/50023929/kyle-juszczyk-defends-fine-imitating-chugging-beer",
+        "publishedAt": "2026-09-24T23:49:04Z",
+        "summary": "Kyle Juszczyk defends himself over fine for imitating 'chugging a beer'",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Intrigue surrounds possible reaction by Cleveland fans to Watson as Browns, Panthers look to go 2-1",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872949",
+        "publishedAt": "2026-09-24T23:25:30Z",
+        "summary": "— The biggest question going into Sunday's game between the Carolina Panthers and Cleveland Browns may not be about the on-field matchups....",
+        "image": "data/news-images/espn-2.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "The fallout from a blowout 2022 loss to the Rams ultimately ushered in a new era for the Broncos",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872962",
+        "publishedAt": "2026-09-24T23:17:30Z",
+        "summary": "— All Courtland Sutton has to do is glance around at practice to fully grasp the level of changes since the last time the Denver Broncos played the...",
+        "image": "data/news-images/espn-3.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bills coach Brady unsatisfied with 2-0 start as Buffalo prepares to host winless Chargers",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872953",
+        "publishedAt": "2026-09-24T22:59:30Z",
+        "summary": "— To hear Joe Brady express his concerns, it would be easy to think the Buffalo Bills opened the season winless instead of 2-0.",
+        "image": "data/news-images/espn-4.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Goose at Dodger Stadium during Padres-Dodgers recalls past wildlife interruptions",
+        "url": "https://www.espn.com/nfl/story/_/id/28074905/squirrels-cats-dogs-bees-animals-ran-loose-stadiums",
+        "publishedAt": "2026-09-24T23:00:17Z",
+        "summary": "A goose slid on Dodger Stadium's field during Padres-Dodgers. It's not the first time a creature stole the show at a sporting event.",
+        "image": "data/news-images/espn-5.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Vikes' Murray says he recovered 'pretty quickly' from Week 1 concussion",
+        "url": "https://www.espn.com/nfl/story/_/id/50023633/vikes-murray-says-recovered-pretty-quickly-week-1-concussion",
+        "publishedAt": "2026-09-24T23:14:13Z",
+        "summary": "Vikings quarterback Kyler Murray said he was over the symptoms from his Week 1 concussion \"pretty quickly\" and that being placed in protocol was \"just part of the process.\"",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 3's best arrivals, led by Jordan Love",
+        "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
+        "publishedAt": "2026-09-24T23:22:03Z",
+        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+        "image": "data/news-images/espn-7.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "A young Dolphins secondary braces for Patrick Mahomes as the Chiefs visit",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872952",
+        "publishedAt": "2026-09-24T22:44:33Z",
+        "summary": "— The Miami Dolphins were dismantled on defense by Kirk Cousins and Brock Purdy in the first two games of the season.",
+        "image": "data/news-images/espn-8.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seattle heads back to Washington after routing the Commanders in prime time a season ago",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872955",
+        "publishedAt": "2026-09-24T22:26:30Z",
+        "summary": "— If there was one night when it became clear that Washington's 2025 season was going badly awry, it was when Seattle visited on a Sunday night in early November.",
+        "image": "data/news-images/espn-9.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Seahawks QB Sam Darnold: 'Striving' to make return Sunday",
         "url": "https://www.espn.com/nfl/story/_/id/50023351/seahawks-qb-sam-darnold-striving-make-return-sunday",
-        "publishedAt": "2026-09-24T22:18:24Z",
+        "publishedAt": "2026-09-25T00:55:20Z",
         "summary": "Seahawks quarterback Sam Darnold was limited Wednesday as he returned to practice after missing most of the first two games because of a glute injury.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,108 +216,36 @@
         "url": "http://www.espn.com/nfl/preview?gameId=401872963",
         "publishedAt": "2026-09-24T21:36:40Z",
         "summary": "— The Chicago Bears made a memorable trip to Philadelphia in November, rushing for 281 yards in an impressive 24-15 victory over the Eagles.",
-        "image": "data/news-images/espn-1.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers coach Kyle Shanahan faces another disciple in game against Cardinals coach Mike LaFleur",
-        "url": "http://www.espn.com/nfl/preview?gameId=401872958",
-        "publishedAt": "2026-09-24T21:32:31Z",
-        "summary": "— San Francisco 49ers coach Kyle Shanahan said he might appreciate one day how many assistants that used to work under him have become head coaches in the NFL.",
-        "image": "data/news-images/espn-2.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Giants' Nabers trending toward playing Sunday",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-09-24T21:47:51Z",
-        "summary": "Giants wideout Malik Nabers is nursing a shoulder injury but says he should be fine for Sunday's game.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 3: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-09-24T21:05:22Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 3: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-09-24T21:05:57Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 3: Running back",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-        "publishedAt": "2026-09-24T21:05:39Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dolphins DE Chop Robinson clears concussion protocol",
-        "url": "https://www.espn.com/nfl/story/_/id/50022964/dolphins-de-chop-robinson-clears-concussion-protocol",
-        "publishedAt": "2026-09-24T21:37:08Z",
-        "summary": "Dolphins defensive end Chop Robinson has cleared the concussion protocol, he told reporters Thursday.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 3: D/ST",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-        "publishedAt": "2026-09-24T21:04:39Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 3: IDP",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-        "publishedAt": "2026-09-24T21:05:00Z",
-        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 3: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-09-24T21:04:04Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 3: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-09-24T21:03:46Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-11.jpg",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
+        "title": "Packers vs. Falcons Week 3 Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/86979/packers-vs-falcons-week-3-game-discussion",
+        "publishedAt": "2026-09-24T19:30:00-04:00",
+        "summary": "Finally, the Green Bay Packers will open the home portion of their 2026 regular season schedule tonight. On a short week, the Packers will host the 0-2 Atlanta Falcons on Thursday Night Football for the first game of the season at Lambeau Field. This will be the first time since 2023 that the Packers’ home [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers Inactives: Javon Hargrave will play Week 3 vs. Falcons",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/87090/green-bay-packers-inactives-javon-hargrave-will-play-week-3-vs-falcons",
+        "publishedAt": "2026-09-24T18:57:27-04:00",
+        "summary": "The Green Bay Packers had two players listed as questionable going into Thursday Night Football: defensive linemen Javon Hargrave (knee/concussion) and Anthony Campbell (ankle). The Packers needed one of them (or practice squadder Eric Johnson II) to go against the Atlanta Falcons tonight, so that the team could have more than one backup for their [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "The Packers Have Won 13 Straight Home Openers. How Did Those Seasons Go?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-history/87060/the-packers-have-won-13-straight-home-openers-how-did-those-seasons-go",
         "publishedAt": "2026-09-24T17:00:30-04:00",
         "summary": "The Green Bay Packers have a chance to make history during Thursday night’s home opener against the Atlanta Falcons. The team is currently tied with the Miami Dolphins (1976-1988) for the longest streak of consecutive home opener wins in NFL history. With a win tonight, they could be the only team that’s won 14 home [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/87028/what-a-packers-game-day-roster-could-look-like-week-3",
         "publishedAt": "2026-09-24T16:34:42-04:00",
         "summary": "This week’s edition of playing out the Green Bay Packers’ game-day roster decisions will be much simpler than past ones, since there are fewer moving parts. The Packers have already ruled out four players for Thursday Night Football against the Atlanta Falcons, and they’re at positions where they were already “oversigned,” so their roster can [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87073/judge-denies-permanent-seal-of-josh-jacobs-video",
         "publishedAt": "2026-09-24T15:18:45-04:00",
         "summary": "Judge Marc Hammer denied the motion to permanently seal evidence in the battery case of Green Bay Packers running back Josh Jacobs, which includes a video from inside Jacobs’ garage, on Thursday. The evidence was previously under a temporary seal at the request of Jacobs, but Hammer denied the victim’s request to permanently seal the [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/86943/packers-week-3-predictions-will-green-bay-cover-against-falcons-on-thursday",
         "publishedAt": "2026-09-24T13:00:00-04:00",
         "summary": "On Thursday night, the Green Bay Packers and Atlanta Falcons will get the NFL’s Week 3 schedule underway at Lambeau Field. Green Bay’s first of two Thursday night games — they will play another NFC South team when they host the Carolina Panthers in Week 8 — comes with the Packers as 4.5-point favorites heading [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/general/87033/remembering-a-random-packers-game-the-atlanta-falcons",
         "publishedAt": "2026-09-24T10:00:00-04:00",
         "summary": "Each week this season, I’ve been taking a trip back in time to look at a game between the Green Bay Packers and their opponent during that given week. A random number generator has been deciding which game I cover. So far, I’ve covered a 1999 win against the Vikings and a 1981 loss to [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87054/green-bay-packers-news-will-donovan-jennings-start-again-at-left-guard",
         "publishedAt": "2026-09-24T09:30:09-04:00",
         "summary": "If you thought that the Green Bay Packers’ week one offensive line questions were terrifying, just wait until tonight. In that game, all the Packers really had to worry about was settling the left guard position with Aaron Banks out. On the eve of their week 3 matchup with the Atlanta Falcons, the Packers ruled [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/86945/packers-vs-falcons-week-3-game-time-how-to-watch-more-for-thursday-night-football",
         "publishedAt": "2026-09-24T06:00:00-04:00",
         "summary": "For the first time in the 2026 season, the Green Bay Packers will play on Thursday Night Football. Also for the first time this season, the Packers will play at home, hosting a game at Lambeau Field after back-to-back road games to start the year. Coming in is a banged-up Atlanta Falcons squad that somehow [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87030/do-the-falcons-have-the-worst-qb-room",
         "publishedAt": "2026-09-23T20:51:57-04:00",
         "summary": "There is an old saying about quarterbacking: if you have two quarterbacks, you have no quarterbacks. The Atlanta Falcons have four quarterbacks, which means they have negative two quarterbacks? And before you tell me that my math is stupid, please note that so far Cooper Rush leads the NFL with four interceptions, which is a [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Green Bay rules out 4 vs. Falcons",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87025/packers-injury-report-green-bay-rules-out-4-vs-falcons",
-        "publishedAt": "2026-09-23T17:18:20-04:00",
-        "summary": "The Green Bay Packers have officially ruled out five players for action on Thursday: receiver Jayden Reed (neck), right tackle Zach Bako-Bewele (knee), left guard Aaron Banks (knee/toe) and defensive lineman Warren Brinson (calf). Reed and Bako-Bewele suffered major injuries, but have yet to be placed on the injured reserve, while Brinson has yet to [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Week 2 blitz of the week",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87014/packers-film-room-week-2-blitz-of-the-week",
-        "publishedAt": "2026-09-23T17:05:48-04:00",
-        "summary": "The Green Bay Packers defense is showcasing a variety of unconventional blitz packages, and in Week 2, Jonathan Gannon called a specific blitz package at least five times, one for an incompletion and a few that the Jets were able to gain minimal yards on. But in large part, these blitz packages helped keep the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
