@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T19:51:22.250Z",
+  "updatedAt": "2026-09-26T22:49:35.613Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,38 @@
     ],
     "espn": [
       {
+        "title": "Broncos place RB Jonah Coleman (ankle) on IR",
+        "url": "https://www.espn.com/nfl/story/_/id/50036843/broncos-place-rb-jonah-coleman-ankle-ir",
+        "publishedAt": "2026-09-26T22:35:04Z",
+        "summary": "Denver Broncos rookie running back Jonah Coleman was placed on injured reserve Saturday with an ankle injury he suffered in the team's Week 2 win over the Jacksonville Jaguars.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots need rookie LB Gabe Jacas to fill big shoes on defense",
+        "url": "https://www.espn.com/nfl/story/_/id/50028606/new-england-patriots-week-3-defense-gabe-jacas-rookie",
+        "publishedAt": "2026-09-26T22:00:06Z",
+        "summary": "The second-round pick has made impact plays over the first two weeks and will start vs. the Jaguars. Here's the latest on Jacas and other notes on the Patriots.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football Week 3 inactives: Caleb Williams out, Puka Nacua uncertain, Darnold a go",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50021286/fantasy-football-injuries-nfl-week-3-inactive-active",
+        "publishedAt": "2026-09-26T22:30:40Z",
+        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Bears QB Williams out for MNF; backup Bagent back at practice",
         "url": "https://www.espn.com/nfl/story/_/id/50034949/bears-qb-williams-mnf-backup-bagent-back-practice",
         "publishedAt": "2026-09-26T19:30:24Z",
         "summary": "Bears QB Caleb Williams is out for Monday's game against the Eagles, and backup Tyson Bagent returned to the practice field while still in the concussion protocol.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50034943/jets-elevate-sterling-shepard-adonai-mitchell-question",
         "publishedAt": "2026-09-26T19:44:13Z",
         "summary": "The Jets promoted veteran Sterling Shepard from the practice squad, as starting WR Adonai Mitchell is questionable with a finger injury, and three other Jets receivers are on injured reserve.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50034608/sources-packers-sign-og-tomlinson-cowboys-practice-squad",
         "publishedAt": "2026-09-26T18:52:22Z",
         "summary": "The Packers have added some much-needed offensive line help by signing veteran guard Laken Tomlinson off the Cowboys' practice squad, according to the NFL Network's Ian Rapoport and Mike Garafolo.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50034054/colts-officially-place-wr-alec-pierce-ir-heel-issue",
         "publishedAt": "2026-09-26T16:59:20Z",
         "summary": "The Colts officially placed receiver Alec Pierce on injured reserve Saturday, starting the clock on a potential return as he attempts to rehab and rejoin the lineup.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +180,7 @@
         "url": "https://www.espn.com/video/clip/_/id/50033883/sam-darnold-set-return-sunday",
         "publishedAt": "2026-09-26T16:25:21Z",
         "summary": "Brady Henderson reports on Seahawks QB Sam Darnold being ready to go and other injury updates surrounding the team.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50033509/rio-field-gets-final-touches-no-need-worry-nfl-says",
         "publishedAt": "2026-09-26T15:37:03Z",
         "summary": "NFL field director Nick Pappas said Saturday that the league has made additional improvements to the Rio field and that \"things check out\" ahead of Sunday's game between the Ravens and Cowboys.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50014402/week-3-predictions-upsets-fantasy-sleepers-stats-2026",
         "publishedAt": "2026-09-26T10:44:29Z",
         "summary": "Touchdowns for Kenneth Walker III and Xavier Worthy? The Broncos pulling an upset of the Rams? Fantasy value for C.J. Stroud? And a big day from Geno Smith?",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50028799/what-expect-new-york-giants-brian-daboll-tennessee-titans-reunion",
         "publishedAt": "2026-09-26T10:00:01Z",
         "summary": "All eyes will be on former Giants coach Brian Daboll, who returns to New York as the Titans' offensive coordinator.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,33 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/50021504/new-york-jets-detroit-lions-dan-campbell-aaron-glenn-coaches-bond",
         "publishedAt": "2026-09-26T10:00:12Z",
         "summary": "Aaron Glenn and Dan Campbell grew up playing and then coaching in the NFL. When Campbell made Glenn his DC, their bond was sealed.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants' offense about to 'shift' with Jameis Winston",
-        "url": "https://www.espn.com/nfl/story/_/id/50028858/new-york-giants-offense-shift-qb-jameis-winston-jaxson-dart",
-        "publishedAt": "2026-09-26T10:00:12Z",
-        "summary": "The Giants' offense was starting to take shape with Dart as QB, but now Winston has to take over for the rest of the season.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "'Growing pains': What's going on with the Chargers' offense?",
-        "url": "https://www.espn.com/nfl/story/_/id/50024098/los-angeles-chargers-offense-troubles-jim-harbaugh-mike-mcdaniel",
-        "publishedAt": "2026-09-26T10:00:12Z",
-        "summary": "Is the Chargers' offense too complicated for the team? What's going wrong with McDaniels' scheme in L.A.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How has Nakobe Dean reshaped the Raiders' defense?",
-        "url": "https://www.espn.com/nfl/story/_/id/50017164/las-vegas-raiders-defense-nakobe-dean-2026-season",
-        "publishedAt": "2026-09-26T18:40:37Z",
-        "summary": "Nakobe Dean has stepped up in a big way to lead the Raiders' defense through two weeks.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,29 +223,11 @@
     ],
     "acme": [
       {
-        "title": "Packers Film Room: Christian Watson gets into the end zone",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87183/packers-film-room-christian-watson-gets-into-the-end-zone",
-        "publishedAt": "2026-09-26T14:41:48-04:00",
-        "summary": "Last week I joked that we may have a weekly article that simply broke down the Christian Watson TD that week. Since Watson got into the end zone again for the Green Bay Packers &#8211; bringing his total to 4 on the season &#8211; I guess we need to keep the bit going. We’re actually [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers sign guard Laken Tomlinson from Cowboys’ practice squad",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87188/packers-sign-guard-laken-tomlinson-from-cowboys-practice-squad",
-        "publishedAt": "2026-09-26T14:40:26-04:00",
-        "summary": "After three weeks and three disastrous performances from the offensive line, the Packers are finally adding some help. According to a joint report from Ian Rapoport and Mike Clemens, the Packers are signing guard Laken Tomlinson from the Cowboys’ practice squad. A first round pick by the Detroit Lions in 2015, Tomlinson has a wealth [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
         "title": "The Packer Situation is Apocalyptic",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87165/the-packer-situation-is-apocalyptic",
         "publishedAt": "2026-09-25T19:20:25-04:00",
         "summary": "It’s easy to overreact to a small sample of three games, but I don’t think the title of this post is an overreaction. One of the reasons I don’t think it’s an overreaction is that I still believe the Green Bay Packers have a high number of extremely talented players on their team. I do [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-0.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/87155/packers-discussion-how-would-you-fix-the-offensive-line",
         "publishedAt": "2026-09-25T18:53:17-04:00",
         "summary": "Unfortunately, this might end up being a weekly post at this point. Real simple question: How would you fix the Green Bay Packers’ offensive line? Personally, I don’t think the team is going to make a coaching change in-season. I also don’t really think that a short-term free agent addition fixes what is going to [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87157/how-matt-lafleur-stacks-up-to-other-coaches-at-the-end-of-their-packers-tenure",
         "publishedAt": "2026-09-25T15:52:36-04:00",
         "summary": "Since Vince Lombardi left the Packers’ sidelines, 10 different men have been the head coach of the Green Bay Packers. Of those, only two have one titles, and all of their tenures have ended badly. This isn’t surprising. The Tom Cruise quote from Cocktail is accurate: everything ends badly, otherwise it would never end. Of [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87133/packers-film-room-building-off-dash",
         "publishedAt": "2026-09-25T15:37:51-04:00",
         "summary": "Over the first couple of weeks of the season, we’ve seen the Green Bay Packers working Dash motion into their offense. It’s been primarily used in one specific way in the run game. We talked about that last week, but let’s show it again here. “Dash” involves a TE arcing back in motion before the [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87128/packers-film-room-long-snapping-on-kicks-in-week-3",
         "publishedAt": "2026-09-25T15:36:40-04:00",
         "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. We only have 3 that we’re looking at this week, but we get an interesting look from the Falcons field goal block unit that we’ll take a slightly deeper look at. But, for starters, how was the snap location this [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87136/green-bay-packers-news-packers-fans-must-free-themselves",
         "publishedAt": "2026-09-25T13:02:17-04:00",
         "summary": "When I take the chair as Curds author once a week, I usually keep the fourth wall up. This is a news roundup series. Readers come here for links to the latest stories about the Green Bay Packers, with a light sprinkling of analysis and opinion. But it’s hard to keep up appearances after sleeping [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87115/packers-week-3-stats-from-green-bays-loss-to-the-falcons",
         "publishedAt": "2026-09-25T01:09:33-04:00",
         "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers game this week, courtesy of SumerSports. Offense It will not surprise those of you who watched the game, but the Packers leaned heavily into the passing game against the Falcons. On the day, they finished with an [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -308,6 +290,24 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/87117/packers-snap-counts-week-3-marshawn-lloyd-is-rb3",
         "publishedAt": "2026-09-25T00:10:54-04:00",
         "summary": "The Green Bay Packers made a couple of changes to their offensive and defensive lineups for Week 3, as the team is desperately trying to find their first win in regulation since Week 14 last year against the Chicago Bears. The loss to the Atlanta Falcons was gross, and I’m hoping to flush it from [&#8230;]",
+        "image": "data/news-images/acme-7.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Winners and Losers: Week 3 vs. the Falcons",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87097/packers-winners-and-losers-week-3-vs-the-falcons",
+        "publishedAt": "2026-09-24T23:36:25-04:00",
+        "summary": "After a big fat doozy of a season opening loss, and a big fat doozy of a win last week, the Green Bay Packers have finally played their home opener, and it was, you guessed it: a big fat doozy of a game. On Thursday Night Football, the team laid a goose egg against the [&#8230;]",
+        "image": "data/news-images/acme-8.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Falcons Final Score: Green Bay fails to run the ball again in home-opening loss",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/87098/packers-falcons-final-score-green-bay-fails-to-run-the-ball-again-in-home-opening-loss",
+        "publishedAt": "2026-09-24T23:31:06-04:00",
+        "summary": "Thursday was as bad a showing as the Green Bay Packers have had all season, as the Atlanta Falcons came to Lambeau Field and upset the Packers 35-14 for Green Bay’s first home-opening loss since 2012. The team is now 1-7 over their last eight games, and boos were heard throughout the game — when [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
