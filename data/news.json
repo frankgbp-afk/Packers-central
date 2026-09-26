@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-09-26T07:40:20.802Z",
+  "updatedAt": "2026-09-26T13:04:46.024Z",
   "sources": {
     "packers": [
+      {
+        "title": "Inbox: Everyone needs to step up everywhere",
+        "url": "https://www.packers.com/news/inbox-everyone-needs-to-step-up-everywhere-sept-26-2026",
+        "publishedAt": "Sat, 26 Sep 2026 13:00:32 GMT",
+        "summary": "Once Bijan Robinson got going, the Packers could not stop him",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers invite middle and high school students to take part in Character Playbook Community Impact Project",
         "url": "https://www.packers.com/news/packers-invite-middle-and-high-school-students-to-take-part-in-character-playbook-community-impact-project-sept-25-2026",
         "publishedAt": "Fri, 25 Sep 2026 17:36:47 GMT",
         "summary": "Packers encouraging students to develop a service project to impact their school, neighborhood or community",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-this-team-s-in-a-tough-spot-sept-25-2026",
         "publishedAt": "Fri, 25 Sep 2026 15:30:00 GMT",
         "summary": "It’s all out there now",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-falcons-week-3-2026",
         "publishedAt": "Fri, 25 Sep 2026 05:46:40 GMT",
         "summary": "Green Bay falls to 1-2",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/game-notes-packers-know-they-must-close-the-gap-on-the-ground-week-3-2026",
         "publishedAt": "Fri, 25 Sep 2026 05:40:00 GMT",
         "summary": "Matthew Golden records first 100-yard day, catches first regular-season touchdown",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/rapid-reaction-there-s-plenty-of-blame-to-go-around-week-3-2026",
         "publishedAt": "Fri, 25 Sep 2026 05:30:00 GMT",
         "summary": "Packers have to figure this out with what they have",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/in-game-updates-week-3-falcons-2026",
         "publishedAt": "Fri, 25 Sep 2026 03:00:00 GMT",
         "summary": "Green Bay loses first home opener since 2013",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-salute-u-s-army-veteran-michael-lomax-for-operation-fan-mail-sept-24-2026",
         "publishedAt": "Fri, 25 Sep 2026 00:55:07 GMT",
         "summary": "Packers, Network Health honored Lomax during Thursday’s game against the Falcons",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-falcons-week-3-inactives-sept-24-2026",
         "publishedAt": "Thu, 24 Sep 2026 22:45:00 GMT",
         "summary": "But DT Anthony Campbell won't play Thursday night",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/live-chat-packers-vs-falcons-week-3-2026",
         "publishedAt": "Thu, 24 Sep 2026 20:00:00 GMT",
         "summary": "Follow the Green Bay Packers vs. Atlanta Falcons game with live updates from Lambeau Field.",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-vs-falcons-how-to-watch-stream-listen-week-3-2026",
         "publishedAt": "Thu, 24 Sep 2026 14:05:00 GMT",
         "summary": "Green Bay Packers vs. Atlanta Falcons channel listing, radio & streaming options",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/packers-stout-run-defense-to-face-stern-test-week-3-2026",
         "publishedAt": "Thu, 24 Sep 2026 14:00:00 GMT",
         "summary": "Falcons RB Bijan Robinson will benefit from return of Atlanta’s starting QB",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Welcome home, Packers fans",
-        "url": "https://www.packers.com/news/inbox-welcome-home-packers-fans-sept-24-2026",
-        "publishedAt": "Thu, 24 Sep 2026 13:30:00 GMT",
-        "summary": "Nothing compares to a home opener under the Lambeau lights",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "NFL Week 3 predictions: Upsets, fantasy sleepers, stat lines",
+        "url": "https://www.espn.com/nfl/story/_/id/50014402/week-3-predictions-upsets-fantasy-sleepers-stats-2026",
+        "publishedAt": "2026-09-26T10:44:29Z",
+        "summary": "Touchdowns for Kenneth Walker III and Xavier Worthy? The Broncos pulling an upset of the Rams? Fantasy value for C.J. Stroud? And a big day from Geno Smith?",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What to expect from the much-anticipated Giants-Daboll reunion",
+        "url": "https://www.espn.com/nfl/story/_/id/50028799/what-expect-new-york-giants-brian-daboll-tennessee-titans-reunion",
+        "publishedAt": "2026-09-26T10:00:01Z",
+        "summary": "All eyes will be on former Giants coach Brian Daboll, who returns to New York as the Titans' offensive coordinator.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "The unshakable bond between Aaron Glenn and Dan Campbell",
+        "url": "https://www.espn.com/nfl/story/_/id/50021504/new-york-jets-detroit-lions-dan-campbell-aaron-glenn-coaches-bond",
+        "publishedAt": "2026-09-26T10:00:12Z",
+        "summary": "Aaron Glenn and Dan Campbell grew up playing and then coaching in the NFL. When Campbell made Glenn his DC, their bond was sealed.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Giants' offense about to 'shift' with Jameis Winston",
+        "url": "https://www.espn.com/nfl/story/_/id/50028858/new-york-giants-offense-shift-qb-jameis-winston-jaxson-dart",
+        "publishedAt": "2026-09-26T10:00:12Z",
+        "summary": "The Giants' offense was starting to take shape with Dart as QB, but now Winston has to take over for the rest of the season.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "'Growing pains': What's going on with the Chargers' offense?",
+        "url": "https://www.espn.com/nfl/story/_/id/50024098/los-angeles-chargers-offense-troubles-jim-harbaugh-mike-mcdaniel",
+        "publishedAt": "2026-09-26T10:00:12Z",
+        "summary": "Is the Chargers' offense too complicated for the team? What's going wrong with McDaniels' scheme in L.A.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How has Nakobe Dean reshaped the Raiders' defense?",
+        "url": "https://www.espn.com/nfl/story/_/id/50017164/las-vegas-raiders-defense-nakobe-dean-2026-season",
+        "publishedAt": "2026-09-26T10:00:02Z",
+        "summary": "Nakobe Dean has stepped up in a big way to lead the Raiders' defense through two weeks.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Eagles' Saquon Barkley to be 'fearless' vs. Bears despite stinger",
         "url": "https://www.espn.com/nfl/story/_/id/50029598/eagles-saquon-barkley-fearless-vs-bears-stinger",
         "publishedAt": "2026-09-25T23:01:03Z",
         "summary": "Eagles running back Saquon Barkley plans to play \"fearless\" Monday night against the Chicago Bears as he eyes a return from a stinger injury.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50029379/qb-sam-darnold-back-sunday-seahawks-two-safeties",
         "publishedAt": "2026-09-26T00:40:30Z",
         "summary": "Seahawks quarterback Sam Darnold will start Sunday, but the defending Super Bowl champions will be without both starting safeties as Julian Love and Ty Okada have been ruled out.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/50029190/jayden-daniels-avoids-ir-elbow-injury",
         "publishedAt": "2026-09-25T21:20:48Z",
         "summary": "Ian Rapoport shares encouraging news on Jayden Daniels' elbow injury, with the Commanders hopeful their quarterback will return sooner rather than later.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50029122/commanders-rule-rg-cosmi-te-okonkwo-lb-luvu-sunday",
         "publishedAt": "2026-09-25T21:53:22Z",
         "summary": "Right guard Sam Cosmi (concussion), tight end Chig Okonkwo (hamstring) and linebacker Frankie Luvu (groin) won't play Sunday vs. the Seahawks.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50028970/chiefs-cb-mansoor-delane-set-play-missing-colts-win",
         "publishedAt": "2026-09-25T20:37:52Z",
         "summary": "Chiefs coach Andy Reid says rookie cornerback Mansoor Delane, who does not have a designation on the injury report, has a \"good chance\" of playing against the Dolphins.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/50028897/texans-wr-nico-collins-hamstring-miss-second-straight-game",
         "publishedAt": "2026-09-25T20:32:19Z",
         "summary": "The Texans will be without Pro Bowl wideout Nico Collins for the second straight week when they travel to face the Colts.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jeff Hafley credits Chiefs' striking offense to Kenneth Walker",
-        "url": "https://www.espn.com/video/clip/_/id/50028890/jeff-hafley-credits-chiefs-striking-offense-kenneth-walker",
-        "publishedAt": "2026-09-25T20:01:29Z",
-        "summary": "Marcel Louis-Jacques shares Jeff Hafley's thoughts on Kansas City's offensive stars ahead of their matchup against Miami.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vikings' Aaron Jones Sr. (knee) cleared to play vs. Buccaneers",
-        "url": "https://www.espn.com/nfl/story/_/id/50028887/vikings-aaron-jones-sr-knee-cleared-play-vs-buccaneers",
-        "publishedAt": "2026-09-25T20:45:53Z",
-        "summary": "Vikings RB Aaron Jones Sr. has been cleared to start Sunday against the Tampa Bay Buccaneers after leaving Week 2's win over the Bears in a knee brace.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Todd Monken has 'huge belief' in Deshaun Watson",
-        "url": "https://www.espn.com/video/clip/_/id/50028668/todd-monken-huge-belief-deshaun-watson",
-        "publishedAt": "2026-09-25T19:01:15Z",
-        "summary": "Todd Monken has 'huge belief' in Deshaun Watson",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bills mark Keon Coleman, DJ Moore, Ed Oliver as questionable",
-        "url": "https://www.espn.com/nfl/story/_/id/50028662/bills-mark-keon-coleman-dj-moore-ed-oliver-questionable",
-        "publishedAt": "2026-09-25T19:14:30Z",
-        "summary": "Bills wide receivers Keon Coleman and DJ Moore and defensive lineman Ed Oliver are questionable to play against the Chargers.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "JSN: Jeremiah Smith has a chance to be the best",
-        "url": "https://www.espn.com/video/clip/_/id/50028579/jeremiah-smith-chance-best",
-        "publishedAt": "2026-09-25T18:48:40Z",
-        "summary": "JSN: Jeremiah Smith has a chance to be the best",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams targeting Week 4 return for WR Puka Nacua",
-        "url": "https://www.espn.com/nfl/story/_/id/50028567/rams-targeting-week-4-return-wr-puka-nacua",
-        "publishedAt": "2026-09-25T19:33:10Z",
-        "summary": "The Rams are targeting a Week 4 return for wide receiver Puka Nacua, who is doubtful to play against the Broncos.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
