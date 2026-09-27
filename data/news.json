@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T13:58:09.832Z",
+  "updatedAt": "2026-09-27T18:23:33.397Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,56 @@
     ],
     "espn": [
       {
+        "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
+        "publishedAt": "2026-09-27T17:58:37Z",
+        "summary": "Sunday of Week 3 will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 3's best arrivals, led by Stefon Diggs",
+        "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
+        "publishedAt": "2026-09-27T17:15:52Z",
+        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+        "image": "data/news-images/espn-1.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft questions, latest intel, risers, CFB standouts",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+        "publishedAt": "2026-09-27T16:36:59Z",
+        "summary": "Will Colin Simmons be the runaway top edge for 2027? How early could Jadan Baugh get picked in April? Here's NFL draft spin off Week 4 of the CFB season.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Where the Texans' offense needs to adjust",
+        "url": "https://www.espn.com/video/clip/_/id/50042990/where-texans-offense-needs-adjust",
+        "publishedAt": "2026-09-27T18:09:36Z",
+        "summary": "DJ Bien-Aime details the three things the Texans need to do to secure their first win of the season.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jets without WR Adonai Mitchell (finger) vs. Lions",
+        "url": "https://www.espn.com/nfl/story/_/id/50042923/jets-wr-adonai-mitchell-finger-vs-lions",
+        "publishedAt": "2026-09-27T16:01:44Z",
+        "summary": "Jets wide receiver Adonai Mitchell is inactive Sunday because of a finger injury.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
         "url": "https://www.espn.com/video/clip/_/id/50042342/bears-expect-caleb-williams-miss-multiple-weeks",
-        "publishedAt": "2026-09-27T13:50:14Z",
+        "publishedAt": "2026-09-27T13:55:52Z",
         "summary": "Schefter: Bears expect Caleb Williams to miss multiple weeks",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +171,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/50037942/giants-set-gameplan-jameis-winston-mull-options-add-qb",
         "publishedAt": "2026-09-27T13:25:19Z",
         "summary": "The Giants' pursuit of a veteran quarterback will depend on how well Jameis Winston performs against the Titans in Week 3.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Caleb Williams injury considered to have 3-4 week timeline",
         "url": "https://www.espn.com/nfl/story/_/id/50036929/sources-caleb-williams-injury-considered-3-4-week-line",
-        "publishedAt": "2026-09-27T13:29:23Z",
+        "publishedAt": "2026-09-27T13:53:56Z",
         "summary": "Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for three to four weeks, league sources told ESPN and NFL Network.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +189,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/50041546/sources-raiders-te-brock-bowers-expected-play-vs-saints",
         "publishedAt": "2026-09-27T12:43:19Z",
         "summary": "Raiders tight end Brock Bowers is expected to play Sunday against the Saints, barring a surprise, a source told ESPN",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Sources: Cowboys, Lions make trade inquiries on Joey Porter Jr.",
         "url": "https://www.espn.com/nfl/story/_/id/50038725/sources-steelers-field-joey-porter-jr-trade-calls-cowboys-lions",
-        "publishedAt": "2026-09-27T13:33:32Z",
+        "publishedAt": "2026-09-27T15:42:45Z",
         "summary": "A handful of teams, including the Cowboys and Lions, have begun making inquiries about the availability of Steelers cornerback Joey Porter Jr., sources told ESPN.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/espn/betting/story/_/id/49997098/nfl-week-3-odds-betting-tips-picks-los-angeles-rams-denver-broncos",
         "publishedAt": "2026-09-27T10:40:09Z",
         "summary": "Odds, bets and analysis to help you bet Rams-Broncos on \"Sunday Night Football.\"",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,51 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/50038925/sources-myles-garrett-faces-6-week-line-knee-surgery",
         "publishedAt": "2026-09-27T13:39:05Z",
         "summary": "Myles Garrett was given a six-week recovery timeline from his knee surgery, meaning the star pass rusher might not return until early November, sources told NFL Network.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos place RB Jonah Coleman (ankle) on IR",
-        "url": "https://www.espn.com/nfl/story/_/id/50036843/broncos-place-rb-jonah-coleman-ankle-ir",
-        "publishedAt": "2026-09-26T22:43:52Z",
-        "summary": "Denver Broncos rookie running back Jonah Coleman was placed on injured reserve Saturday with an ankle injury he suffered in the team's Week 2 win over the Jacksonville Jaguars.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Patriots need rookie LB Gabe Jacas to fill big shoes on defense",
-        "url": "https://www.espn.com/nfl/story/_/id/50028606/new-england-patriots-week-3-defense-gabe-jacas-rookie",
-        "publishedAt": "2026-09-26T22:00:06Z",
-        "summary": "The second-round pick has made impact plays over the first two weeks and will start vs. the Jaguars. Here's the latest on Jacas and other notes on the Patriots.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football Week 3 inactives: Caleb Williams out, Puka Nacua uncertain, Sam Darnold a go",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50021286/fantasy-football-injuries-nfl-week-3-inactive-active",
-        "publishedAt": "2026-09-27T13:47:02Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears QB Williams out for MNF; backup Bagent back at practice",
-        "url": "https://www.espn.com/nfl/story/_/id/50034949/bears-qb-williams-mnf-backup-bagent-back-practice",
-        "publishedAt": "2026-09-26T19:30:24Z",
-        "summary": "Bears QB Caleb Williams is out for Monday's game against the Eagles, and backup Tyson Bagent returned to the practice field while still in the concussion protocol.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets elevate Sterling Shepard with Adonai Mitchell in question",
-        "url": "https://www.espn.com/nfl/story/_/id/50034943/jets-elevate-sterling-shepard-adonai-mitchell-question",
-        "publishedAt": "2026-09-26T19:44:13Z",
-        "summary": "The Jets promoted veteran Sterling Shepard from the practice squad, as starting WR Adonai Mitchell is questionable with a finger injury, and three other Jets receivers are on injured reserve.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
