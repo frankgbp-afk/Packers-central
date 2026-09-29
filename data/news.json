@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T01:56:42.751Z",
+  "updatedAt": "2026-09-29T08:29:39.323Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Bears call on QB3 Case Keenum in rousing victory over Eagles",
+        "url": "https://www.espn.com/nfl/story/_/id/50056918/bears-call-qb3-case-keenum-rousing-victory-eagles",
+        "publishedAt": "2026-09-29T07:16:07Z",
+        "summary": "In his first NFL start in 1,009 days, Chicago third-string quarterback Case Keenum, 38, led the Bears to a dominant 27-7 victory over the perennial NFC heavyweight Philadelphia Eagles on Monday, a performance coach Ben Johnson labeled \"extraordinary.\"",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sirianni regrets reaction to hit on QB Hurts in Eagles' loss",
+        "url": "https://www.espn.com/nfl/story/_/id/50056700/sirianni-regrets-reaction-hit-qb-hurts-eagles-loss",
+        "publishedAt": "2026-09-29T06:59:56Z",
+        "summary": "After a 27-7 loss to Chicago on Monday, Eagles coach Nick Sirianni expressed \"remorse\" over his reaction to a sideline hit by Bears linebacker D'Marco Jackson on Philadelphia's Jalen Hurts that temporarily knocked his quarterback out of the first half.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Case Keenum drives Chicago to 3 touchdowns as the Bears beat the Eagles 27-7",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872963",
+        "publishedAt": "2026-09-29T05:20:29Z",
+        "summary": "— Case Keenum was on target and on time all night long.",
+        "image": "data/news-images/espn-2.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Case Keenum overwhelmed with joy after leading Bears to victory",
+        "url": "https://www.espn.com/video/clip/_/id/50056449/case-keenum-overwhelmed-joy-leading-bears-victory",
+        "publishedAt": "2026-09-29T03:47:52Z",
+        "summary": "Case Keenum overwhelmed with joy after leading Bears to victory",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Case Keenum scores 3 TDs to lead Bears over Eagles on MNF",
+        "url": "https://www.espn.com/video/clip/_/id/50056420/case-keenum-scores-3-tds-lead-bears-eagles-mnf",
+        "publishedAt": "2026-09-29T03:47:47Z",
+        "summary": "Case Keenum scores 3 TDs to lead Bears over Eagles on MNF",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Seahawks' Mike Macdonald says team still believes in RB Jadarian Price",
         "url": "https://www.espn.com/nfl/story/_/id/50055728/seahawks-mike-macdonald-says-team-believes-rb-jadarian-price",
-        "publishedAt": "2026-09-29T01:03:10Z",
-        "summary": "Seahawks coach Mike Macdonald says the team has not lost faith in starting running back Jadarian Price after the rookie first-round pick lost a fumble for the second week in a row on Sunday.",
-        "image": "data/news-images/espn-0.jpg",
+        "publishedAt": "2026-09-29T03:15:18Z",
+        "summary": "Seahawks coach Mike Macdonald said the team has not lost faith in starting running back Jadarian Price after the rookie first-round pick lost a fumble for the second week in a row Sunday.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "QB3 Case Keenum, Bears defense shock Eagles in MNF rout",
+        "url": "https://www.espn.com/nfl/story/_/id/50055561/nfl-chicago-bears-philadelphia-eagles-monday-night-football-case-keenum",
+        "publishedAt": "2026-09-29T05:28:40Z",
+        "summary": "Keenum stepped up big in a pressure situation and combined with a defensive gem to lead the Bears past the Eagles.",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50055525/mcvay-rams-make-excuses-pass-interference-call",
         "publishedAt": "2026-09-29T01:51:13Z",
         "summary": "A day after his team's 30-26 loss to the Denver Broncos, Los Angeles coach Sean McVay said the 1-2 Rams will not \"play the victim card\" because of a debatable defensive pass interference late on cornerback Josh Wallace.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/video/clip/_/id/50055490/jim-harbaugh-calls-justin-herbert-better",
         "publishedAt": "2026-09-29T00:03:04Z",
         "summary": "Jim Harbaugh calls on Justin Herbert to 'be better'",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,78 +198,24 @@
         "url": "https://www.espn.com/nfl/story/_/id/50055213/chargers-jim-harbaugh-struggling-justin-herbert-better",
         "publishedAt": "2026-09-29T00:03:25Z",
         "summary": "Chargers coach Jim Harbaugh offered a rare public critique of Justin Herbert on Monday, imploring the quarterback to \"be better.\"",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "NFL Week 3's best arrivals, led by Jalen Hurts",
         "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
-        "publishedAt": "2026-09-28T23:00:08Z",
+        "publishedAt": "2026-09-29T04:25:49Z",
         "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-        "image": "data/news-images/espn-4.png",
+        "image": "data/news-images/espn-10.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jonathan Greenard (pectoral) to make Eagles debut on Monday",
+        "title": "Jonathan Greenard (pectoral) makes Eagles debut on Monday",
         "url": "https://www.espn.com/nfl/story/_/id/50055103/jonathan-greenard-pectoral-make-eagles-debut-monday-source-says",
-        "publishedAt": "2026-09-28T23:11:56Z",
-        "summary": "Edge Jonathan Greenard is set to make his Eagles debut Monday night. He has been sidelines with a pectoral injury he sustained while lifting weights over the summer.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Evans, Williams, Greenlaw don't have long-term injuries, 49ers say",
-        "url": "https://www.espn.com/nfl/story/_/id/50054837/evans-williams-greenlaw-long-term-injuries-49ers-say",
-        "publishedAt": "2026-09-29T00:07:54Z",
-        "summary": "49ers coach Kyle Shanahan said Monday that injuries sustained by Mike Evans, Trent Williams and Dre Greenlaw on Sunday aren't considered long-term issues.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Injuries might force Ravens to start rookie OG Vega Ioane at C",
-        "url": "https://www.espn.com/nfl/story/_/id/50054651/injuries-force-ravens-start-rookie-og-vega-ioane-c",
-        "publishedAt": "2026-09-28T21:37:52Z",
-        "summary": "The Ravens may be force to start rookie offensive guard Vega Ioane at center after losing two centers to injury in Sunday's win over the Cowboys.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Lions post 31 points for record-setting third time to start 2026",
-        "url": "https://www.espn.com/nfl/story/_/id/50053967/detroit-lions-jared-goff-jahmyr-gibbs-barry-sanders-offense",
-        "publishedAt": "2026-09-28T21:16:48Z",
-        "summary": "There just aren't many positions in which you can the push the Lions' offense that it can't get out of.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Giants acquire JJ McCarthy from Vikings",
-        "url": "https://www.espn.com/video/clip/_/id/50054574/giants-acquire-jj-mccarthy-vikings",
-        "publishedAt": "2026-09-28T21:04:29Z",
-        "summary": "McCarthy is headed to New York in exchange for a 2027 fifth-round pick and will initially back up Jameis Winston.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Who steps up with Breece Hall, Travis Etienne Jr. out?",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-09-28T23:47:09Z",
-        "summary": "Which running backs will take on a bigger role for the New York Jets and New Orleans Saints?",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "J.J. McCarthy traded to Giants: Will he succeed in New York?",
-        "url": "https://www.espn.com/nfl/story/_/id/50053035/jj-mccarthy-trade-giants-vikings-quarterback-deadline-barnwell",
-        "publishedAt": "2026-09-28T21:05:41Z",
-        "summary": "With Jaxson Dart out for the season, the Giants dealt a fifth-round pick to Minnesota for McCarthy. But does this move the needle for New York? Can it work?",
+        "publishedAt": "2026-09-29T01:59:34Z",
+        "summary": "Edge Jonathan Greenard made his Eagles debut Monday night. He had been sidelined because of a pectoral injury.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
