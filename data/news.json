@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T21:59:46.415Z",
+  "updatedAt": "2026-09-29T01:56:42.751Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,65 @@
     ],
     "espn": [
       {
+        "title": "Seahawks' Mike Macdonald says team still believes in RB Jadarian Price",
+        "url": "https://www.espn.com/nfl/story/_/id/50055728/seahawks-mike-macdonald-says-team-believes-rb-jadarian-price",
+        "publishedAt": "2026-09-29T01:03:10Z",
+        "summary": "Seahawks coach Mike Macdonald says the team has not lost faith in starting running back Jadarian Price after the rookie first-round pick lost a fumble for the second week in a row on Sunday.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "McVay, Rams won't make excuses after pass interference call",
+        "url": "https://www.espn.com/nfl/story/_/id/50055525/mcvay-rams-make-excuses-pass-interference-call",
+        "publishedAt": "2026-09-29T01:51:13Z",
+        "summary": "A day after his team's 30-26 loss to the Denver Broncos, Los Angeles coach Sean McVay said the 1-2 Rams will not \"play the victim card\" because of a debatable defensive pass interference late on cornerback Josh Wallace.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jim Harbaugh calls on Justin Herbert to 'be better'",
+        "url": "https://www.espn.com/video/clip/_/id/50055490/jim-harbaugh-calls-justin-herbert-better",
+        "publishedAt": "2026-09-29T00:03:04Z",
+        "summary": "Jim Harbaugh calls on Justin Herbert to 'be better'",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chargers' Jim Harbaugh on struggling Justin Herbert: 'Be better'",
+        "url": "https://www.espn.com/nfl/story/_/id/50055213/chargers-jim-harbaugh-struggling-justin-herbert-better",
+        "publishedAt": "2026-09-29T00:03:25Z",
+        "summary": "Chargers coach Jim Harbaugh offered a rare public critique of Justin Herbert on Monday, imploring the quarterback to \"be better.\"",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 3's best arrivals, led by Jalen Hurts",
+        "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
+        "publishedAt": "2026-09-28T23:00:08Z",
+        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+        "image": "data/news-images/espn-4.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jonathan Greenard (pectoral) to make Eagles debut on Monday",
+        "url": "https://www.espn.com/nfl/story/_/id/50055103/jonathan-greenard-pectoral-make-eagles-debut-monday-source-says",
+        "publishedAt": "2026-09-28T23:11:56Z",
+        "summary": "Edge Jonathan Greenard is set to make his Eagles debut Monday night. He has been sidelines with a pectoral injury he sustained while lifting weights over the summer.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Evans, Williams, Greenlaw don't have long-term injuries, 49ers say",
         "url": "https://www.espn.com/nfl/story/_/id/50054837/evans-williams-greenlaw-long-term-injuries-49ers-say",
-        "publishedAt": "2026-09-28T21:51:06Z",
-        "summary": "49ers coach Kyle Shanahan said Monday that injuries suffered by Mike Evans, Trent Williams and Dre Greenlaw on Sunday aren't considered long-term issues.",
-        "image": "data/news-images/espn-0.jpg",
+        "publishedAt": "2026-09-29T00:07:54Z",
+        "summary": "49ers coach Kyle Shanahan said Monday that injuries sustained by Mike Evans, Trent Williams and Dre Greenlaw on Sunday aren't considered long-term issues.",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +180,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50054651/injuries-force-ravens-start-rookie-og-vega-ioane-c",
         "publishedAt": "2026-09-28T21:37:52Z",
         "summary": "The Ravens may be force to start rookie offensive guard Vega Ioane at center after losing two centers to injury in Sunday's win over the Cowboys.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50053967/detroit-lions-jared-goff-jahmyr-gibbs-barry-sanders-offense",
         "publishedAt": "2026-09-28T21:16:48Z",
         "summary": "There just aren't many positions in which you can the push the Lions' offense that it can't get out of.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,16 +198,16 @@
         "url": "https://www.espn.com/video/clip/_/id/50054574/giants-acquire-jj-mccarthy-vikings",
         "publishedAt": "2026-09-28T21:04:29Z",
         "summary": "McCarthy is headed to New York in exchange for a 2027 fifth-round pick and will initially back up Jameis Winston.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Fantasy football buzz: Who steps up with Breece Hall, Travis Etienne Jr. out?",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-09-28T21:20:13Z",
+        "publishedAt": "2026-09-28T23:47:09Z",
         "summary": "Which running backs will take on a bigger role for the New York Jets and New Orleans Saints?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,60 +216,6 @@
         "url": "https://www.espn.com/nfl/story/_/id/50053035/jj-mccarthy-trade-giants-vikings-quarterback-deadline-barnwell",
         "publishedAt": "2026-09-28T21:05:41Z",
         "summary": "With Jaxson Dart out for the season, the Giants dealt a fifth-round pick to Minnesota for McCarthy. But does this move the needle for New York? Can it work?",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vikings' Justin Jefferson has ankle sprain, could play this week",
-        "url": "https://www.espn.com/nfl/story/_/id/50054067/sources-vikings-jefferson-ankle-sprain-play-week",
-        "publishedAt": "2026-09-28T21:41:33Z",
-        "summary": "Vikings star wide receiver Justin Jefferson has an ankle sprain, according to the MRI performed Monday, and there's a chance he'll be able to play Sunday against the Dolphins.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Saints RB Travis Etienne Jr. to sit with hamstring injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50054057/saints-rb-travis-etienne-jr-sit-hamstring-injury",
-        "publishedAt": "2026-09-28T20:01:42Z",
-        "summary": "Saints running back Travis Etienne Jr. will miss time with a hamstring injury suffered in Sunday's loss to the Raiders. New Orleans coach Kellen Moore did not specify how long Etienne will be out.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Was trading for QB J.J. McCarthy the right move for the Giants?",
-        "url": "https://www.espn.com/video/clip/_/id/50053867/was-trading-qb-jj-mccarthy-right-move-giants",
-        "publishedAt": "2026-09-28T20:14:27Z",
-        "summary": "Domonique Foxworth and Steve Smith Sr. join Big Day with Peter Schrager to react to the Minnesota Vikings trading QB J.J. McCarthy to the New York Giants, along with NFL Week 3 action.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Jets RB Breece Hall week-to-week with quad injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50053866/sources-jets-rb-breece-hall-week-week-quad-injury",
-        "publishedAt": "2026-09-28T20:07:50Z",
-        "summary": "Jets running back Breece Hall, who suffered a quad injury in Sunday's 31-24 loss to the Lions, is considered week-to-week, sources told NFL Network's Ian Rapoport and ESPN's Adam Schefter.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jaguars collect Travis Hunter's first INT ball after spat",
-        "url": "https://www.espn.com/nfl/story/_/id/50053736/jags-snag-hunter-first-int-ball-spat-hines-allen-pats-staffer",
-        "publishedAt": "2026-09-28T20:44:30Z",
-        "summary": "Jaguars cornerback Travis Hunter ended up with the football from his first NFL interception.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bucs injury updates on Baker Mayfield and Jalen McMillan",
-        "url": "https://www.espn.com/video/clip/_/id/50053686/bucs-injury-updates-baker-mayfield-jalen-mcmillan",
-        "publishedAt": "2026-09-28T19:23:39Z",
-        "summary": "Jenna Laine reports on the injuries the Tampa Bay Buccaneers sustained during their 23-16 loss to the Minnesota Vikings.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -236,7 +236,7 @@
         "url": "https://www.acmepackingcompany.com/general/87260/packers-will-face-rookie-qb-jalen-daniels-for-buccaneers-in-week-4",
         "publishedAt": "2026-09-28T14:10:00-04:00",
         "summary": "On Monday, the Tampa Bay Buccaneers confirmed what football fans expected: Baker Mayfield will miss the team’s Week 4 matchup with the Green Bay Packers due to a dislocated thumb. Bucs head coach Todd Bowles confirmed the injury to the media in his Monday press conference, and said that they expect Mayfield to be out [&#8230;]",
-        "image": "data/news-images/acme-1.jpg",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
