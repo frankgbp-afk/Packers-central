@@ -1,13 +1,49 @@
 {
-  "updatedAt": "2026-10-01T13:13:04.663Z",
+  "updatedAt": "2026-10-01T18:53:26.191Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers vs. Cancer initiative to visit West De Pere – Bay Port high school football game Friday",
+        "url": "https://www.packers.com/news/packers-vs-cancer-initiative-to-visit-west-de-pere-bay-port-high-school-football-game-friday-oct-2-2026",
+        "publishedAt": "Thu, 01 Oct 2026 17:53:50 GMT",
+        "summary": "Brandon Cisse, Dani Dennis-Sutton, Warren Brinson and Dillon Wade to attend game and raise awareness for campaign benefiting the UW Health | Carbone Cancer Center",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Football comes full circle with Kevin Zeitler's homecoming",
+        "url": "https://www.packers.com/news/football-comes-full-circle-with-kevin-zeitler-s-homecoming-oct-1-2026",
+        "publishedAt": "Thu, 01 Oct 2026 14:00:00 GMT",
+        "summary": "New Packers guard ready to roll with his childhood team",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Earl Dotson 'did it the textbook way'",
+        "url": "https://www.packers.com/news/earl-dotson-did-it-the-textbook-way-oct-1-2026",
+        "publishedAt": "Thu, 01 Oct 2026 13:45:00 GMT",
+        "summary": "Stalwart at right tackle was Packers’ best O-lineman on 1996 championship team",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: The Packers got what they needed",
+        "url": "https://www.packers.com/news/inbox-the-packers-got-what-they-needed-oct-1-2026",
+        "publishedAt": "Thu, 01 Oct 2026 13:30:00 GMT",
+        "summary": "The Packers have a good thing going so far with Skyy Moore",
+        "image": "data/news-images/packers-3.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Veteran linemen expected to 'settle things down' for Packers up front",
         "url": "https://www.packers.com/news/veteran-linemen-expected-to-settle-things-down-for-packers-up-front-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 22:00:15 GMT",
         "summary": "Offense also dealing with tough news on WR Jayden Reed",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +52,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-g-kevin-zeitler-2026",
         "publishedAt": "Wed, 30 Sep 2026 21:20:00 GMT",
         "summary": "Former Pro Bowler is a Wisconsinite who grew up a Packers fan",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-sign-g-kevin-zeitler-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 21:13:06 GMT",
         "summary": "Green Bay places WR Jayden Reed on injured reserve, signs two players to the practice squad",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-buccaneers-injury-report-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 20:41:00 GMT",
         "summary": "",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +79,7 @@
         "url": "https://www.packers.com/news/jeramie-korth-of-menasha-high-school-named-green-bay-packers-high-school-coach-of-the-week-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 20:14:29 GMT",
         "summary": "Korth, in his 19th season as head coach at Menasha, has the Bluejays out to a 5-1 record",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +88,7 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-will-the-packers-new-linemen-play-right-away-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 19:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-uw-health-carbone-cancer-center-kickoff-packers-vs-cancer-campaign-2026",
         "publishedAt": "Wed, 30 Sep 2026 16:42:43 GMT",
         "summary": "New chapter welcomes UW Health | Carbone Cancer Center to raise awareness and funds to fight against cancer",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,42 +106,6 @@
         "url": "https://www.packers.com/news/packers-aim-to-keep-fighting-after-home-loss-to-falcons-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 14:00:00 GMT",
         "summary": "Response is needed in Tampa after Green Bay’s first 1-2 start since 2014",
-        "image": "data/news-images/packers-7.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers vs. Buccaneers | How to watch, stream & listen | Week 4",
-        "url": "https://www.packers.com/news/packers-vs-buccaneers-how-to-watch-stream-listen-week-4-2026",
-        "publishedAt": "Wed, 30 Sep 2026 13:55:35 GMT",
-        "summary": "Green Bay Packers vs. Tampa Bay Buccaneers channel listing, radio & streaming options",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Just make it work",
-        "url": "https://www.packers.com/news/inbox-just-make-it-work-sept-30-2026",
-        "publishedAt": "Wed, 30 Sep 2026 13:30:00 GMT",
-        "summary": "The unit must prove it",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers announce roster moves | Sept. 29, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-sept-29-2026",
-        "publishedAt": "Tue, 29 Sep 2026 20:16:06 GMT",
-        "summary": "Green Bay releases RB Damon Bankston and G Cordell Volson from practice squad",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers WR Christian Watson has 'a different hunger'",
-        "url": "https://www.packers.com/news/packers-wr-christian-watson-has-a-different-hunger-sept-29-2026",
-        "publishedAt": "Tue, 29 Sep 2026 19:47:41 GMT",
-        "summary": "Key comments from Green Bay’s coordinators",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Gerald McCoy: Trade for Joey Porter Jr. doesn't solve Cowboys' defensive woes",
-        "url": "https://www.espn.com/video/clip/_/id/50076456/trade-joey-porter-jr-solve-cowboys-defensive-woes",
-        "publishedAt": "2026-10-01T12:47:54Z",
-        "summary": "Gerald McCoy: Trade for Joey Porter Jr. doesn't solve Cowboys' defensive woes",
-        "image": "data/news-images/espn-0.jpg",
+        "title": "Johnson and Glenn match wits once again as the Bears host the Jets in Week 4",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872972",
+        "publishedAt": "2026-10-01T18:38:30Z",
+        "summary": "— Ben Johnson's time in Detroit — a formative experience that led to his current job as coach of the Chicago Bears — was shaped in part by going against Aaron Glenn's defense in practice with the Lions.",
+        "image": "data/news-images/espn-0.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy playbook: NFL Week 4 Shadow Reports, lineup locks and projected scores",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50058762/fantasy-playbook-projections-lineup-locks-2026-week-4-shadow-reports",
-        "publishedAt": "2026-10-01T12:49:02Z",
-        "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-        "image": "data/news-images/espn-1.jpg",
+        "title": "Texans host the Cowboys seeking their first win after an 0-3 start",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872967",
+        "publishedAt": "2026-10-01T18:37:37Z",
+        "summary": "— After a second straight 0-3 start to the season, any win would be huge for the Houston Texans.",
+        "image": "data/news-images/espn-1.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "How to bet Steelers Browns on TNF: Analysis, tips and top prop plays",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50052991/nfl-week-4-odds-betting-tips-picks-pittsburgh-steelers-cleveland-browns",
-        "publishedAt": "2026-10-01T12:15:26Z",
-        "summary": "Odds, bets and analysis to help you bet Steelers-Browns on \"Thursday Night Football.\"",
-        "image": "data/news-images/espn-2.jpg",
+        "title": "Brock Purdy and the 49ers prepare for a tough test against the Broncos defense",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872975",
+        "publishedAt": "2026-10-01T18:37:34Z",
+        "summary": "— Brock Purdy and the San Francisco 49ers have been in peak form early this season.",
+        "image": "data/news-images/espn-2.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football: Six players to trade for, two to pick up",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50067478/fantasy-football-rankings-trade-value",
-        "publishedAt": "2026-10-01T10:26:39Z",
-        "summary": "Matt Bowen discusses ascending players who are intriguing trade or pickup options.",
-        "image": "data/news-images/espn-3.jpg",
+        "title": "Allen seeks to put sloppy play behind him as Bills host turnover-prone Maye and the Patriots",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872971",
+        "publishedAt": "2026-10-01T18:37:30Z",
+        "summary": "— Win or lose, Josh Allen has displayed a consistent knack for putting a sloppy performance behind him.",
+        "image": "data/news-images/espn-3.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Are we seeing more NFL quarterback injuries than normal this season?",
-        "url": "https://www.espn.com/nfl/story/_/id/50059971/quarterback-injuries-barnwell-mayfield-dart-daniels",
-        "publishedAt": "2026-10-01T10:26:08Z",
-        "summary": "There have been eight QB injuries through three weeks of the NFL season, up a little bit from recent years. Is it a trend or just an outlier -- and is there a clear reason?",
+        "title": "Why Matthew Stafford made a cameo in Taylor Swift's 'Patient Zero' music video",
+        "url": "https://www.espn.com/nfl/story/_/id/50052555/matthew-stafford-taylor-swift-rams-aries-patient-zero-music-video-cameo",
+        "publishedAt": "2026-10-01T17:40:19Z",
+        "summary": "Why, yes, that was Matthew Stafford. Here's why all signs pointed to the reigning NFL MVP's music video cameo.",
         "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Commanders' Jayden Daniels says he's taking injury day by day",
+        "url": "https://www.espn.com/nfl/story/_/id/50077836/commanders-jayden-daniels-says-taking-injury-day-day",
+        "publishedAt": "2026-10-01T18:08:39Z",
+        "summary": "Commanders quarterback Jayden Daniels said Thursday he has no concerns about reinjuring his left elbow and is \"taking it day by day\" on the possibility of starting against the Colts on Sunday in London.",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "2027 NFL draft rankings: Jordan Reid's top 50 prospects, scouting reports",
         "url": "https://www.espn.com/nfl/draft2027/story/_/id/50068479/2027-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
-        "publishedAt": "2026-10-01T12:01:28Z",
+        "publishedAt": "2026-10-01T16:49:54Z",
         "summary": "Jordan Reid unveils his debut rankings for the 2027 NFL draft class with 50 players -- including six quarterbacks and an elite wide receiver prospect.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Packers' O-line leaves Jordan Love under constant pressure",
-        "url": "https://www.espn.com/nfl/story/_/id/50071255/nfl-green-bay-packers-jordan-love-offensive-line-pressure",
-        "publishedAt": "2026-10-01T10:00:02Z",
-        "summary": "The Packers have allowed more \"quick pressures\" against Love than any team in the NFL -- and it's not close.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns' QB situation takes a turn as Deshaun Watson finds his footing",
-        "url": "https://www.espn.com/nfl/story/_/id/50065872/cleveland-browns-quarterback-situation-deshaun-watson-shedeur-sanders-tnf",
-        "publishedAt": "2026-10-01T10:00:02Z",
-        "summary": "Cleveland's 2-1 start and the QB's late-game performances have helped to shift the conversation around the future of the position.",
+        "title": "Stephen A., former Buc Gerald McCoy agree that Todd Bowles is on hot seat",
+        "url": "https://www.espn.com/video/clip/_/id/50077549/stephen-former-buc-gerald-mccoy-agree-todd-bowles-hot-seat",
+        "publishedAt": "2026-10-01T16:39:12Z",
+        "summary": "Stephen A., former Buc Gerald McCoy agree that Todd Bowles is on hot seat",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Darnell Washington has become the Steelers' X factor",
-        "url": "https://www.espn.com/nfl/story/_/id/50071416/pittsburgh-steelers-darnell-washington-viral-x-factor",
-        "publishedAt": "2026-10-01T10:00:01Z",
-        "summary": "At 6-foot-7 and nearly 300 pounds, the Pittsburgh tight end is more than a viral hurdle highlight reel.",
+        "title": "Why Chris Bell should be on fantasy radar",
+        "url": "https://www.espn.com/video/clip/_/id/50077491/why-chris-bell-fantasy-radar",
+        "publishedAt": "2026-10-01T16:07:23Z",
+        "summary": "Why Chris Bell should be on fantasy radar",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Lamar Jackson, Ravens looking for first home win since before Thanksgiving",
-        "url": "https://www.espn.com/nfl/story/_/id/50071448/lamar-jackson-ravens-first-home-win-thanksgiving",
-        "publishedAt": "2026-10-01T13:10:38Z",
-        "summary": "Once among the most dominant teams at home, the Ravens have lost four straight games in Baltimore.",
+        "title": "Stephen A. looks back on Odell Beckham Jr.'s NFL career",
+        "url": "https://www.espn.com/video/clip/_/id/50077239/stephen-looks-back-odell-beckham-jr-nfl-career",
+        "publishedAt": "2026-10-01T15:19:55Z",
+        "summary": "Stephen A. looks back on Odell Beckham Jr.'s NFL career",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-        "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-        "publishedAt": "2026-10-01T09:40:31Z",
-        "summary": "The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+        "title": "Why Mike Clay is conflicted on Mark Andrews in Week 4",
+        "url": "https://www.espn.com/video/clip/_/id/50077237/why-mike-clay-conflicted-mark-andrews-week-4",
+        "publishedAt": "2026-10-01T15:27:37Z",
+        "summary": "Why Mike Clay is conflicted on Mark Andrews in Week 4",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL trade deadline grades: Joey Porter Jr. to Cowboys, J.J. McCarthy to Giants",
-        "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-        "publishedAt": "2026-10-01T05:22:52Z",
-        "summary": "Can Joey Porter Jr. clean up the Cowboys' defense? Will J.J. McCarthy improve the Giants' QB situation? We're grading NFL trades ahead of November's deadline.",
+        "title": "Why Deshaun Watson intrigues Stephen A. more than Aaron Rodgers",
+        "url": "https://www.espn.com/video/clip/_/id/50077116/why-deshaun-watson-intrigues-stephen-more-aaron-rodgers",
+        "publishedAt": "2026-10-01T15:18:01Z",
+        "summary": "Why Deshaun Watson intrigues Stephen A. more than Aaron Rodgers",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,56 @@
     ],
     "acme": [
       {
+        "title": "The Packers are giving themselves options at right guard",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87439/the-packers-are-giving-themselves-options-at-right-guard",
+        "publishedAt": "2026-10-01T14:26:38-04:00",
+        "summary": "The Green Bay Packers’ offensive line is in a period of transition, as it appears that both Laken Tomlinson and Kevin Zeitler — who were both brought in this week — have a chance at starting against the Tampa Bay Buccaneers in Week 4. According to reports from practice, Tomlinson has already been getting the [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Time to find out what Packers have in Kaleb Johnson",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87441/time-to-find-out-what-packers-have-in-kaleb-johnson",
+        "publishedAt": "2026-10-01T14:24:19-04:00",
+        "summary": "I’m fully with my colleague Rcon14 when he says the Packers need to go back to square one on offense, particularly on the ground. It seems abundantly clear what they’ve tried to this point — both from a tactical and personnel perspective — just isn’t working and probably can’t work. Mixing in a few new [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers’ offense must go back to square one",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87430/packers-offense-must-go-back-to-square-one",
+        "publishedAt": "2026-10-01T11:45:00-04:00",
+        "summary": "The Green Bay Packers have spent the last couple of years, the seasons with Josh Jacobs on the roster, utilizing a fundamentally different running game than they had in Matt LaFleur’s first few seasons in Green Bay. LaFleur had come from the long-storied Shanahan tree of coaches, and had coached with both father Mike and [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers film room: Lukas Van Ness is off to a strong start in 2026",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87368/packers-film-room-lukas-van-ness-is-off-to-a-strong-start-in-2026",
+        "publishedAt": "2026-10-01T10:15:00-04:00",
+        "summary": "For three seasons the case against Green Bay Packers pass rusher Lukas Van Ness was simple: the tools were there but the production wasn&#8217;t. This season has been different so far. Against the New York Jets in Week 2, the production arrived, and the film shows specific reasons for it rather than luck. Van Ness [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Our first month with an app broke our commenting records",
+        "url": "https://www.acmepackingcompany.com/general/87292/one-month-in-heres-how-youre-using-our-new-app",
+        "publishedAt": "2026-10-01T10:00:00-04:00",
+        "summary": "A month ago we announced the release of our new app, which you can find here or by searching SB Nation in your neighborhood app store. Quite a few of you have downloaded it over the past month and have been using it.&#160; The goal with this app was to make it easier to join [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Green Bay Packers News: Here comes Kevin Zeitler to save the day",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87391/green-bay-packers-news-here-comes-kevin-zeitler-to-save-the-day",
         "publishedAt": "2026-10-01T09:10:00-04:00",
         "summary": "It just made too much sense. The Green Bay Packers desperately needed help on the offensive line — particularly at guard. There, out on the open market, was veteran Kevin Zeitler, finally healthy after rehabbing a quad injury during the offseason. Packers fans had spent the last few weeks theorizing about the Wisconsin native and [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87366/packers-injury-report-jayden-reed-goes-on-injured-reserve",
         "publishedAt": "2026-09-30T16:48:27-04:00",
         "summary": "The Green Bay Packers’ big injury news on Wednesday was that the team placed receiver Jayden Reed on the injured reserve list to make room for the addition of guard Kevin Zeitler, bringing the Packers’ offensive line total in practice to a league-leading 15 players. According to head coach Matt LaFleur, Reed notified him yesterday [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/87363/packers-roster-update-no-nfl-team-has-more-offensive-linemen-than-green-bay",
         "publishedAt": "2026-09-30T16:08:26-04:00",
         "summary": "The Green Bay Packers are using an incredible number of their roster spots on offensive linemen, as they attempt to right the ship after three straight poor performances from the unit to start the season. Just this week alone, they signed Kevin Zeitler and Laken Tomlinson to the 53-man roster, along with adding Mekhi Becton [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/87348/packers-vs-buccaneers-week-4-tv-channel-broadcast-map",
         "publishedAt": "2026-09-30T12:10:00-04:00",
         "summary": "It’s not a good week to be a Green Bay Packers fan who lives outside of Wisconsin — at least if you want to avoid having to look into NFL Sunday Ticket to watch this Sunday’s game. Green Bay travels south to face the Tampa Bay Buccaneers in an early game in Week 4, and [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,51 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87341/green-bay-packers-news-packers-trying-to-dig-out-of-a-hole",
         "publishedAt": "2026-09-30T11:00:00-04:00",
         "summary": "You’ve got no shortage of bad things to choose from during the early days of the season, but one of the worst things about the Packers stumbling out of the gate is that everyone else in the NFC North has as well. The Vikings lost their starting quarterback early in Week 1, but the Packers [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers’ offensive line renovation is wild and unprecedented",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87345/the-packers-offensive-line-renovation-is-wild-and-unprecedented",
-        "publishedAt": "2026-09-30T10:30:00-04:00",
-        "summary": "I can’t talk about the Packers’ offensive line renovations without using hyperbolic language. You generally want to avoid descriptors&#160; like “desperate” and “panicked” and “last-ditch attempt to save their season and their jobs,” when trying to write anything resembling sober, reasoned analysis of a team. For one thing, it’s rarely that serious. For another, it [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers sign Wisconsin native Kevin Zeitler in latest OL move",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/87335/packers-sign-wisconsin-native-kevin-zeitler-in-latest-ol-move",
-        "publishedAt": "2026-09-30T09:35:49-04:00",
-        "summary": "A prodigal son is coming home. Kevin Zeitler, a 14-year veteran and Pro Bowl right guard, is returning back to the state of Wisconsin to sign with the Green Bay Packers. ESPN’s Adam Schefter reports that the Packers are signing Zeitler on Wednesday, one day after he worked out for the team. Zeitler, who comes [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers bring in former Pro Bowl OL Kevin Zeitler for a visit",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87332/packers-bring-in-former-pro-bow-ol-kevin-zeitler-for-a-visit",
-        "publishedAt": "2026-09-29T17:30:41-04:00",
-        "summary": "The Green Bay Packers brought in guard Kevin Zeitler for a visit on Tuesday. Zeitler has been a popular name floated around by the fanbase, as the former Wisconsin Badger was able to earn Pro Bowl honors back in 2023 with the Baltimore Ravens. Zeitler is currently a free agent after spending the last two [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Micah Parsons’ ACL recovery is taking longer than the Packers&#8217; previous injuries",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87329/micah-parsons-acl-recovery-is-taking-longer-than-the-packers-previous-injuries",
-        "publishedAt": "2026-09-29T17:06:24-04:00",
-        "summary": "Every injury is unique, so considering all ACL injuries to be the same already is a losing pursuit, but it’s worth pointing out that Green Bay Packers pass rusher Micah Parsons’ ACL recovery is taking longer than similar injuries the team has suffered in the past. Going into the year, I assumed that Parsons’ injury [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers Discussion: Predict the Packers’ record after Week 5",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/87316/green-bay-packers-discussion-predict-the-packers-record-after-week-5",
-        "publishedAt": "2026-09-29T16:30:00-04:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. The Green Bay Packers are a bad team right now. They’re 1-2, with their only win coming in overtime against another bad team in the New [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
