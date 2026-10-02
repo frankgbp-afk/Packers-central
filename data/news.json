@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-02T08:35:20.567Z",
+  "updatedAt": "2026-10-02T15:48:29.881Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers ready to pull together to fill Jayden Reed's void",
+        "url": "https://www.packers.com/news/packers-ready-to-pull-together-to-fill-jayden-reed-s-void-oct-2-2026",
+        "publishedAt": "Fri, 02 Oct 2026 14:30:00 GMT",
+        "summary": "Fourth-year veteran set to undergo season-ending neck surgery",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: Teams don't stay the same",
+        "url": "https://www.packers.com/news/inbox-teams-don-t-stay-the-same-oct-2-2026",
+        "publishedAt": "Fri, 02 Oct 2026 13:30:04 GMT",
+        "summary": "Get to 2-2 and go from there",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers-Buccaneers Injury Report | Oct. 1, 2026",
         "url": "https://www.packers.com/news/packers-buccaneers-injury-report-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 20:25:43 GMT",
         "summary": "",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-vs-cancer-initiative-to-visit-west-de-pere-bay-port-high-school-football-game-friday-oct-2-2026",
         "publishedAt": "Thu, 01 Oct 2026 17:53:50 GMT",
         "summary": "Brandon Cisse, Dani Dennis-Sutton, Warren Brinson and Dillon Wade to attend game and raise awareness for campaign benefiting the UW Health | Carbone Cancer Center",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/football-comes-full-circle-with-kevin-zeitler-s-homecoming-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 14:00:00 GMT",
         "summary": "New Packers guard ready to roll with his childhood team",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/earl-dotson-did-it-the-textbook-way-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 13:45:00 GMT",
         "summary": "Stalwart at right tackle was Packers’ best O-lineman on 1996 championship team",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-the-packers-got-what-they-needed-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 13:30:00 GMT",
         "summary": "The Packers have a good thing going so far with Skyy Moore",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/veteran-linemen-expected-to-settle-things-down-for-packers-up-front-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 22:00:15 GMT",
         "summary": "Offense also dealing with tough news on WR Jayden Reed",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-g-kevin-zeitler-2026",
         "publishedAt": "Wed, 30 Sep 2026 21:20:00 GMT",
         "summary": "Former Pro Bowler is a Wisconsinite who grew up a Packers fan",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-sign-g-kevin-zeitler-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 21:13:06 GMT",
         "summary": "Green Bay places WR Jayden Reed on injured reserve, signs two players to the practice squad",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-buccaneers-injury-report-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 20:41:00 GMT",
         "summary": "",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/jeramie-korth-of-menasha-high-school-named-green-bay-packers-high-school-coach-of-the-week-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 20:14:29 GMT",
         "summary": "Korth, in his 19th season as head coach at Menasha, has the Bluejays out to a 5-1 record",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Mike's Mid-Week Chat: Will the Packers' new linemen play right away?",
-        "url": "https://www.packers.com/news/mike-s-mid-week-chat-will-the-packers-new-linemen-play-right-away-sept-30-2026",
-        "publishedAt": "Wed, 30 Sep 2026 19:00:00 GMT",
-        "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers, UW Health | Carbone Cancer Center kickoff Packers vs. Cancer campaign",
-        "url": "https://www.packers.com/news/packers-uw-health-carbone-cancer-center-kickoff-packers-vs-cancer-campaign-2026",
-        "publishedAt": "Wed, 30 Sep 2026 16:42:43 GMT",
-        "summary": "New chapter welcomes UW Health | Carbone Cancer Center to raise awareness and funds to fight against cancer",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "Watson leads third straight winning drive, puts Browns atop North",
-        "url": "https://www.espn.com/nfl/story/_/id/50082906/watson-leads-third-straight-winning-drive-puts-browns-atop-north",
-        "publishedAt": "2026-10-02T07:57:32Z",
-        "summary": "Deshaun Watson has the Browns atop the division at 3-1 after directing a winning drive for the third straight game Thursday night in a 27-24 win over the Steelers.",
+        "title": "Jets rule out RB Hall, WR Mitchell, TE Taylor, LG Parham vs. Bears",
+        "url": "https://www.espn.com/nfl/story/_/id/50085069/jets-rule-rb-hall-wr-mitchell-te-taylor-lg-parham-vs-bears",
+        "publishedAt": "2026-10-02T15:24:32Z",
+        "summary": "Running back Breece Hall, wide receiver Adonai Mitchell, tight end Mason Taylor and left guard Dylan Parham were ruled out Friday for the Jets' road game against the Bears.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-        "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-        "publishedAt": "2026-10-02T06:23:51Z",
-        "summary": "The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+        "title": "Have Cowboys proven they are better off without Micah Parsons? Stephen A. weighs in",
+        "url": "https://www.espn.com/video/clip/_/id/50085057/have-cowboys-proven-better-micah-parsons-stephen-weighs-in",
+        "publishedAt": "2026-10-02T15:19:56Z",
+        "summary": "Have Cowboys proven they are better off without Micah Parsons? Stephen A. weighs in",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers' McCarthy regrets angry exchange with Rodgers in loss",
-        "url": "https://www.espn.com/nfl/story/_/id/50082783/steelers-mccarthy-regrets-angry-exchange-rodgers-loss",
-        "publishedAt": "2026-10-02T07:49:46Z",
-        "summary": "Steelers coach Mike McCarthy said he regretted directing a profanity toward quarterback Aaron Rodgers during a heated exchange that was caught on the broadcast of Thursday's 27-24 loss to the Browns.",
+        "title": "Fantasy football last-minute pickups for Week 4: Raymond, Allen, Waller among top options",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50069246/fantasy-football-streamers-last-minute-pickups-week-4",
+        "publishedAt": "2026-10-02T15:16:57Z",
+        "summary": "If injuries or tough matchups have you seeking help, Matt Bowen provides options at each key position.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 4 betting: Odds, lines and totals for every game",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50028072/2026-nfl-week-4-schedule-odds-betting-point-spreads-totals",
-        "publishedAt": "2026-10-02T04:50:48Z",
-        "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 4.",
+        "title": "Former Falcons C, 6-time Pro Bowler Jeff Van Note dies at 80",
+        "url": "https://www.espn.com/nfl/story/_/id/50085025/former-falcons-c-6-pro-bowler-jeff-van-note-dies-80",
+        "publishedAt": "2026-10-02T15:14:57Z",
+        "summary": "Jeff Van Note, a six-time Pro Bowl center who spent all 18 seasons of his NFL career with the Falcons and was inducted into the team's Ring of Honor in 2006, has died. He was 80.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns best Steelers on TNF to take lead in AFC North",
-        "url": "https://www.espn.com/nfl/story/_/id/50079473/cleveland-browns-pittsburgh-steelers-week-4-tnf",
-        "publishedAt": "2026-10-02T06:16:14Z",
-        "summary": "The Browns move to 3-1 while adding to Pittsburgh's historic five-year futility in Cleveland.",
+        "title": "NFL Week 4 betting guide: Analysis and top plays for Sunday's games",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50053878/week-4-nfl-odds-spreads-lines-props-best-bets-sunday-football-games",
+        "publishedAt": "2026-10-02T15:00:27Z",
+        "summary": "Our experts dive into the odds and player props for Week 4 and offer their betting tips and favorite plays.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns fend off Steelers' late surge to prevail on TNF",
-        "url": "https://www.espn.com/video/clip/_/id/50082179/browns-fend-steelers-late-surge-prevail-tnf",
-        "publishedAt": "2026-10-02T04:00:17Z",
-        "summary": "Browns fend off Steelers' late surge to prevail on TNF",
+        "title": "Mike Clay lays out the red flags with Omarion Hampton",
+        "url": "https://www.espn.com/video/clip/_/id/50084977/mike-clay-lays-red-flags-omarion-hampton",
+        "publishedAt": "2026-10-02T15:22:19Z",
+        "summary": "Mike Clay lays out the red flags with Omarion Hampton",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Watson leads another game-winning drive, Szmyt hits 56-yard FG and Browns beat Steelers 27-24",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872964",
-        "publishedAt": "2026-10-02T05:54:28Z",
-        "summary": "— Deshaun Watson and the Cleveland Browns are developing a knack for coming up big in the fourth quarter.",
-        "image": "data/news-images/espn-6.png",
+        "title": "Stephen A. adamant Eagles' offense a bigger problem than their defense",
+        "url": "https://www.espn.com/video/clip/_/id/50084937/stephen-adamant-eagles-offense-bigger-problem-their-defense",
+        "publishedAt": "2026-10-02T15:20:28Z",
+        "summary": "Stephen A. adamant Eagles' offense a bigger problem than their defense",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers-Browns on TNF Week 4: Highlights, key plays",
-        "url": "https://www.espn.com/nfl/story/_/id/50078973/nfl-week-4-steelers-browns-top-plays-tnf",
-        "publishedAt": "2026-10-02T04:01:01Z",
-        "summary": "Look back at the biggest TDs and highlights from Thursday night's Browns win over AFC North rival Steelers.",
+        "title": "Dopp: Saquon Barkley has turned into a mid to low-end running back",
+        "url": "https://www.espn.com/video/clip/_/id/50084923/saquon-barkley-turned-mid-low-end-running-back",
+        "publishedAt": "2026-10-02T15:31:00Z",
+        "summary": "Dopp: Saquon Barkley has turned into a mid to low-end running back",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Falcons and Saints renew their longstanding rivalry as each seek early season momentum",
-        "url": "http://www.espn.com/nfl/preview?gameId=401872979",
-        "publishedAt": "2026-10-02T02:30:33Z",
-        "summary": "— Long-time Saints defensive end Cameron Jordan can be counted on to echo the sentiments of many New Orleans fans whenever the rival Atlanta Falcons are next on the schedule.",
-        "image": "data/news-images/espn-8.png",
+        "title": "Mike Clay: David Montgomery is 'touchdown or bust'",
+        "url": "https://www.espn.com/video/clip/_/id/50084902/david-montgomery-touchdown-bust",
+        "publishedAt": "2026-10-02T15:39:21Z",
+        "summary": "Mike Clay: David Montgomery is 'touchdown or bust'",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns DT Mason Graham leaves game with knee injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50081421/browns-dt-mason-graham-leaves-game-knee-injury",
-        "publishedAt": "2026-10-02T03:51:38Z",
-        "summary": "Cleveland Browns defensive tackle Mason Graham has been ruled out for the remainder of Thursday night's home game against the Pittsburgh Steelers because of a knee injury.",
+        "title": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50084877/draftkings-nfl-dfs-values-week-4",
+        "publishedAt": "2026-10-02T14:40:40Z",
+        "summary": "Build a winning DFS lineup with our DraftKings NFL Week 4 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Colts and Commanders try to build on Week 3 wins when they face each other in London",
-        "url": "http://www.espn.com/nfl/preview?gameId=401872965",
-        "publishedAt": "2026-10-02T00:06:29Z",
-        "summary": "Last November, the Indianapolis Colts went to Europe and came home with an 8-2 record. They'd beaten Atlanta in Berlin and seemed on a glide...",
-        "image": "data/news-images/espn-10.png",
+        "title": "Why Mike Clay is concerned over Bhayshul Tuten's fantasy prospects",
+        "url": "https://www.espn.com/video/clip/_/id/50084873/why-mike-clay-concerned-bhayshul-tuten-fantasy-prospects",
+        "publishedAt": "2026-10-02T15:27:35Z",
+        "summary": "Why Mike Clay is concerned over Bhayshul Tuten's fantasy prospects",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-        "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
-        "publishedAt": "2026-10-01T23:54:43Z",
-        "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+        "title": "Why Jalen Hurts has 'high bust potential' for fantasy managers in Week 4",
+        "url": "https://www.espn.com/video/clip/_/id/50084849/why-jalen-hurts-high-bust-potential-fantasy-managers-week-4",
+        "publishedAt": "2026-10-02T15:27:23Z",
+        "summary": "Why Jalen Hurts has 'high bust potential' for fantasy managers in Week 4",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
