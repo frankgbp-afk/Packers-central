@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T06:32:08.487Z",
+  "updatedAt": "2026-10-03T12:33:20.171Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,74 @@
     ],
     "espn": [
       {
+        "title": "All-time rosters for 23 teams with multiple Super Bowls",
+        "url": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
+        "publishedAt": "2026-10-03T10:00:17Z",
+        "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks WR Jaxon Smith-Njigba off to a historic start, but is it sustainable?",
+        "url": "https://www.espn.com/nfl/story/_/id/50086094/seahawks-jaxon-smith-njigba-historic-start",
+        "publishedAt": "2026-10-03T10:00:05Z",
+        "summary": "Seattle's star receiver is leading the NFL in receiving yards and TDs after signing a big contract extension this summer. But will the Seahawks look to spread the ball more?",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Evaluating the 3-0 Raiders' strong offensive start",
+        "url": "https://www.espn.com/nfl/story/_/id/50080507/las-vegas-raiders-offense-kirk-cousins-klint-kubiak",
+        "publishedAt": "2026-10-03T10:00:02Z",
+        "summary": "Yes, it has been a small sample size. But the head coach has made the Raiders' offense almost unrecognizable.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Philadelphia Eagles' defense at an inflection point",
+        "url": "https://www.espn.com/nfl/story/_/id/50077998/philadelphia-eagles-defense-inflection-point",
+        "publishedAt": "2026-10-03T10:00:01Z",
+        "summary": "With the next four games against formidable offenses, this stretch will help define whether Philly's defense is for real -- or just real good on paper.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jameis Winston has time to prove he's the New York Giants' starter",
+        "url": "https://www.espn.com/nfl/story/_/id/50077929/jameis-winston-prove-giants-qb-starter-jj-mccarthy",
+        "publishedAt": "2026-10-03T10:00:11Z",
+        "summary": "The Giants might have more patience with Winston than expected as the locker room believes in him implicitly.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Bill Parcells considers Jacoby Brissett to be like a son",
+        "url": "https://www.espn.com/nfl/story/_/id/50086531/bill-parcells-cardinals-jacoby-brissett-friendship",
+        "publishedAt": "2026-10-03T10:32:22Z",
+        "summary": "Bill Parcells has been a mentor to Jacoby Brissett since high school, guiding him through football and life decisions.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "The history of Harbaugh, Herbert and a spiraling 0-3 Chargers team",
+        "url": "https://www.espn.com/nfl/story/_/id/50073934/la-chargers-jim-harbaugh-justin-herbert-struggles",
+        "publishedAt": "2026-10-03T10:00:21Z",
+        "summary": "After a troubling start to the 2026 season, here's a realistic look at the current Chargers' state of affairs.﻿",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football flex and superflex rankings for Week 4",
         "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
         "publishedAt": "2026-10-03T01:41:25Z",
         "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +189,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
         "publishedAt": "2026-10-03T01:41:50Z",
         "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50077553/fantasy-football-injuries-nfl-week-4-inactive-active",
         "publishedAt": "2026-10-03T00:59:53Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,78 +207,15 @@
         "url": "https://www.espn.com/nhl/story/_/id/50086884/rb-jadarian-price-ruled-seattle-seahawks-week-4",
         "publishedAt": "2026-10-02T22:43:56Z",
         "summary": "The Seattle Seahawks on Friday ruled out running back Jadarian Price for their game Sunday against the Los Angeles Chargers, as the rookie deals with a chest injury suffered in Week 2 and aggravated in practice Wednesday, according to Mike Macdonald.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "49ers WR Mike Evans a game-time decision with rib injury",
         "url": "https://www.espn.com/nfl/story/_/id/50086883/49ers-wr-mike-evans-game-decision-rib-injury",
-        "publishedAt": "2026-10-03T00:52:17Z",
+        "publishedAt": "2026-10-03T11:12:45Z",
         "summary": "Niners wide receiver Mike Evans is questionable for Sunday, but he said he will give \"my best\" to play against the Broncos as he deals with a rib injury.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cowboys need to start stacking wins",
-        "url": "https://www.espn.com/video/clip/_/id/50086449/cowboys-need-start-stacking-wins",
-        "publishedAt": "2026-10-02T21:11:23Z",
-        "summary": "Todd Archer breaks down the Cowboys next three opponents and the addition of Joey Porter Jr.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Texans get WR Nico Collins (hamstring) back vs. Cowboys",
-        "url": "https://www.espn.com/nfl/story/_/id/50086264/texans-get-wr-nico-collins-hamstring-back-vs-cowboys",
-        "publishedAt": "2026-10-02T20:51:25Z",
-        "summary": "The winless Texans got good news Friday as star wide receiver Nico Collins is set to return Sunday from a hamstring injury that forced him to miss Houston's last two games.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Joey Porter Jr. without designation, could debut for Cowboys",
-        "url": "https://www.espn.com/nfl/story/_/id/50086232/joey-porter-jr-designation-debut-cowboys",
-        "publishedAt": "2026-10-02T20:38:33Z",
-        "summary": "Newly acquired Cowboys cornerback Joey Porter Jr. does not carry an injury designation after practicing the past two days following his trade from the Steelers.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles' DeVonta Smith out vs. Rams with hamstring injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50086150/eagles-devonta-smith-vs-rams-hamstring-injury",
-        "publishedAt": "2026-10-02T20:19:49Z",
-        "summary": "Eagles WR DeVonta Smith will miss Sunday's game due to a lingering hamstring injury and will be joined on the sideline by linebacker Zack Baun (concussion).",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Falcons vs Saints: Where to watch 'Monday Night Football'",
-        "url": "https://www.espn.com/nfl/story/_/id/50086122/falcons-saints-where-watch-monday-night-football",
-        "publishedAt": "2026-10-02T20:29:21Z",
-        "summary": "Bijan Robinson and the Atlanta Falcons head to the Crescent City to face Tyler Shough and the New Orleans Saints on \"Monday Night Football.\"",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vikings' Justin Jefferson out vs. Dolphins with ankle injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50086081/vikings-justin-jefferson-vs-dolphins-ankle-injury",
-        "publishedAt": "2026-10-02T21:05:11Z",
-        "summary": "Vikings WR Justin Jefferson won't play against the Dolphins because of a sprained left ankle, but coach Kevin O'Connell is hopeful he can return in Week 5 vs. the Saints.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Colts vs. Commanders: Where to watch the NFL London game",
-        "url": "https://www.espn.com/nfl/story/_/id/50086083/watch-colts-vs-commanders-london",
-        "publishedAt": "2026-10-02T20:21:06Z",
-        "summary": "Kickoff between the Colts and Commanders is set for 9:30 a.m. ET at Tottenham Hotspur Stadium.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
