@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-10-03T12:33:20.171Z",
+  "updatedAt": "2026-10-03T17:16:15.433Z",
   "sources": {
     "packers": [
+      {
+        "title": "Of all places, if the Packers can change their fortunes in Tampa …",
+        "url": "https://www.packers.com/news/of-all-places-if-the-packers-can-change-their-fortunes-in-tampa-oct-3-2026",
+        "publishedAt": "Sat, 03 Oct 2026 14:30:00 GMT",
+        "summary": "… then who knows what the rest of the season has in store",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Stay in the fight",
+        "url": "https://www.packers.com/news/stay-in-the-fight-oct-3-2026",
+        "publishedAt": "Sat, 03 Oct 2026 14:00:00 GMT",
+        "summary": "Policy’s Perspective is a monthly column written by President and CEO Ed Policy",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: There are surprises around every corner in this game",
+        "url": "https://www.packers.com/news/inbox-there-are-surprises-around-every-corner-in-this-game-oct-3-2026",
+        "publishedAt": "Sat, 03 Oct 2026 13:00:00 GMT",
+        "summary": "The Packers have two opponents Sunday: The Buccaneers and the Tampa heat",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers rule out four, list two questionable vs. Buccaneers | Week 4 Injury Report",
         "url": "https://www.packers.com/news/packers-rule-out-four-list-two-questionable-vs-buccaneers-week-4-injury-report",
         "publishedAt": "Fri, 02 Oct 2026 19:34:54 GMT",
         "summary": "OL Aaron Banks, Jacob Monk ruled out; LB Edgerrin Cooper questionable for Sunday",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-ready-to-pull-together-to-fill-jayden-reed-s-void-oct-2-2026",
         "publishedAt": "Fri, 02 Oct 2026 14:30:00 GMT",
         "summary": "Fourth-year veteran set to undergo season-ending neck surgery",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +52,7 @@
         "url": "https://www.packers.com/news/inbox-teams-don-t-stay-the-same-oct-2-2026",
         "publishedAt": "Fri, 02 Oct 2026 13:30:04 GMT",
         "summary": "Get to 2-2 and go from there",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-buccaneers-injury-report-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 20:25:43 GMT",
         "summary": "",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-vs-cancer-initiative-to-visit-west-de-pere-bay-port-high-school-football-game-friday-oct-2-2026",
         "publishedAt": "Thu, 01 Oct 2026 17:53:50 GMT",
         "summary": "Brandon Cisse, Dani Dennis-Sutton, Warren Brinson and Dillon Wade to attend game and raise awareness for campaign benefiting the UW Health | Carbone Cancer Center",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +79,7 @@
         "url": "https://www.packers.com/news/football-comes-full-circle-with-kevin-zeitler-s-homecoming-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 14:00:00 GMT",
         "summary": "New Packers guard ready to roll with his childhood team",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +88,7 @@
         "url": "https://www.packers.com/news/earl-dotson-did-it-the-textbook-way-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 13:45:00 GMT",
         "summary": "Stalwart at right tackle was Packers’ best O-lineman on 1996 championship team",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +97,7 @@
         "url": "https://www.packers.com/news/inbox-the-packers-got-what-they-needed-oct-1-2026",
         "publishedAt": "Thu, 01 Oct 2026 13:30:00 GMT",
         "summary": "The Packers have a good thing going so far with Skyy Moore",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,33 +106,6 @@
         "url": "https://www.packers.com/news/veteran-linemen-expected-to-settle-things-down-for-packers-up-front-sept-30-2026",
         "publishedAt": "Wed, 30 Sep 2026 22:00:15 GMT",
         "summary": "Offense also dealing with tough news on WR Jayden Reed",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "5 things to know about new Packers G Kevin Zeitler",
-        "url": "https://www.packers.com/news/5-things-to-know-about-new-packers-g-kevin-zeitler-2026",
-        "publishedAt": "Wed, 30 Sep 2026 21:20:00 GMT",
-        "summary": "Former Pro Bowler is a Wisconsinite who grew up a Packers fan",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers sign G Kevin Zeitler",
-        "url": "https://www.packers.com/news/packers-sign-g-kevin-zeitler-sept-30-2026",
-        "publishedAt": "Wed, 30 Sep 2026 21:13:06 GMT",
-        "summary": "Green Bay places WR Jayden Reed on injured reserve, signs two players to the practice squad",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers-Buccaneers Injury Report | Sept. 30, 2026",
-        "url": "https://www.packers.com/news/packers-buccaneers-injury-report-sept-30-2026",
-        "publishedAt": "Wed, 30 Sep 2026 20:41:00 GMT",
-        "summary": "",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,11 +113,29 @@
     ],
     "espn": [
       {
+        "title": "Source: Bears expected to start QB Tyson Bagent vs. Jets",
+        "url": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
+        "publishedAt": "2026-10-03T16:51:12Z",
+        "summary": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Colts WR Keenan Allen (groin) out vs. Commanders in London",
+        "url": "https://www.espn.com/nfl/story/_/id/50090624/colts-wr-keenan-allen-groin-vs-commanders-london",
+        "publishedAt": "2026-10-03T16:55:57Z",
+        "summary": "Colts wide receiver Keenan Allen has a groin injury that will force him to sit out Sunday's game in London against the Commanders.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "All-time rosters for 23 teams with multiple Super Bowls",
         "url": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
         "publishedAt": "2026-10-03T10:00:17Z",
         "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +144,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50086094/seahawks-jaxon-smith-njigba-historic-start",
         "publishedAt": "2026-10-03T10:00:05Z",
         "summary": "Seattle's star receiver is leading the NFL in receiving yards and TDs after signing a big contract extension this summer. But will the Seahawks look to spread the ball more?",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +153,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50080507/las-vegas-raiders-offense-kirk-cousins-klint-kubiak",
         "publishedAt": "2026-10-03T10:00:02Z",
         "summary": "Yes, it has been a small sample size. But the head coach has made the Raiders' offense almost unrecognizable.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +162,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50077998/philadelphia-eagles-defense-inflection-point",
         "publishedAt": "2026-10-03T10:00:01Z",
         "summary": "With the next four games against formidable offenses, this stretch will help define whether Philly's defense is for real -- or just real good on paper.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,16 +171,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/50077929/jameis-winston-prove-giants-qb-starter-jj-mccarthy",
         "publishedAt": "2026-10-03T10:00:11Z",
         "summary": "The Giants might have more patience with Winston than expected as the locker room believes in him implicitly.",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Why Bill Parcells considers Jacoby Brissett to be like a son",
         "url": "https://www.espn.com/nfl/story/_/id/50086531/bill-parcells-cardinals-jacoby-brissett-friendship",
-        "publishedAt": "2026-10-03T10:32:22Z",
+        "publishedAt": "2026-10-03T14:35:29Z",
         "summary": "Bill Parcells has been a mentor to Jacoby Brissett since high school, guiding him through football and life decisions.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50073934/la-chargers-jim-harbaugh-justin-herbert-struggles",
         "publishedAt": "2026-10-03T10:00:21Z",
         "summary": "After a troubling start to the 2026 season, here's a realistic look at the current Chargers' state of affairs.﻿",
-        "image": "data/news-images/espn-6.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -180,7 +198,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
         "publishedAt": "2026-10-03T01:41:25Z",
         "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-        "image": "data/news-images/espn-7.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -189,7 +207,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
         "publishedAt": "2026-10-03T01:41:50Z",
         "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "data/news-images/espn-8.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -198,24 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50077553/fantasy-football-injuries-nfl-week-4-inactive-active",
         "publishedAt": "2026-10-03T00:59:53Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "RB Jadarian Price ruled out by Seattle Seahawks for Week 4",
-        "url": "https://www.espn.com/nhl/story/_/id/50086884/rb-jadarian-price-ruled-seattle-seahawks-week-4",
-        "publishedAt": "2026-10-02T22:43:56Z",
-        "summary": "The Seattle Seahawks on Friday ruled out running back Jadarian Price for their game Sunday against the Los Angeles Chargers, as the rookie deals with a chest injury suffered in Week 2 and aggravated in practice Wednesday, according to Mike Macdonald.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers WR Mike Evans a game-time decision with rib injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50086883/49ers-wr-mike-evans-game-decision-rib-injury",
-        "publishedAt": "2026-10-03T11:12:45Z",
-        "summary": "Niners wide receiver Mike Evans is questionable for Sunday, but he said he will give \"my best\" to play against the Broncos as he deals with a rib injury.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
