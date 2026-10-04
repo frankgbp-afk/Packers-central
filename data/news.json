@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T02:38:17.156Z",
+  "updatedAt": "2026-10-04T09:46:43.105Z",
   "sources": {
     "packers": [
       {
@@ -223,11 +223,56 @@
     ],
     "acme": [
       {
+        "title": "Packers-Buccaneers Preview: Green Bay travels to Tampa Bay",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87514/packers-buccaneers-preview-green-bay-travels-to-tampa-bay",
+        "publishedAt": "2026-10-04T00:38:32-04:00",
+        "summary": "The Green Bay Packers (1-2) visit a 0-3 Tampa Bay Buccaneers team on Sunday at 1 p.m. ET as a 4-point favorite, and the matchup is defined by one injury: Baker Mayfield is out with a dislocated right thumb, so undrafted rookie Jalon Daniels makes his first NFL start. Through three weeks, the Bucs have [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers place Warren Brinson on injured reserve",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87525/green-bay-packers-place-warren-brinson-on-injured-reserve",
+        "publishedAt": "2026-10-03T15:59:18-04:00",
+        "summary": "The Green Bay Packers placed defensive lineman Warren Brinson on the injured reserve on Saturday, just one day after they ruled him out of Week 4’s action against the Tampa Bay Buccaneers with calf and groin injuries. On Friday, head coach Matt LaFleur said that Brinson, who had been battling a calf injury since warmups [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Remembering a Random Packers Game: The Tampa Bay Buccaneers",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/87452/remembering-a-random-packers-game-the-tampa-bay-buccaneers",
+        "publishedAt": "2026-10-03T15:47:20-04:00",
+        "summary": "Each week during the 2026 season, I’m taking a look at a previous game between the Green Bay Packers and their opponent for that week. I’m letting a random number generator decide which game I cover, and so far, it’s been a mixed bag. Last week was a fun one as I covered the 28th [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers film room: Flush/loop stunt",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87381/packers-film-room-flush-loop-stunt",
+        "publishedAt": "2026-10-03T13:30:10-04:00",
+        "summary": "As Jonathan Gannon prepares the defense each week, layers and layers are added to build a versatile defense capable of handling any situation. The layering includes adding new ways to generate pressure without sending five or more. One way Gannon accomplishes this is through a defensive line stunt. A stunt is a pre-planned pass rush [&#8230;]",
+        "image": "data/news-images/acme-3.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers film room: What went wrong on the Falcons 55-yard run",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87480/packers-film-room-what-went-wrong-on-the-falcons-55-yard-run",
+        "publishedAt": "2026-10-03T10:00:00-04:00",
+        "summary": "Bijan Robinson&#8217;s 55-yarder against the Green Bay Packers in week three was the play that turned the game. It came on first down after a roughing the passer penalty on edge rusher Brenton Cox on third down that would have forced the Falcons to punt and given the Packers another chance to add to their [&#8230;]",
+        "image": "data/news-images/acme-4.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Remembering the Packers’ best performances against the Buccaneers",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87502/remembering-the-packers-best-performances-against-the-buccaneers",
         "publishedAt": "2026-10-03T09:00:00-04:00",
         "summary": "The Green Bay Packers head to Tampa, Florida this weekend for a date with their old NFC Central opponents, the Buccaneers.&#160; Setting aside our memories of the 2020 NFC Championship, there were plenty of great matchups between the Packers and Buccaneers over the years, and they produced quite a few high-end statistical performances. Here are [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87498/packers-injury-report-green-bay-rules-out-starting-guards",
         "publishedAt": "2026-10-02T15:53:53-04:00",
         "summary": "The Green Bay Packers have ruled out four players on their final injury report for Week 4, before taking on the Tampa Bay Buccaneers: starting left guard Aaron Banks (knee/toe), starting right guard Jacob Monk (quadricep), defensive lineman Warren Brinson (calf/groin) and defensive lineman Anthony Campbell (ankle). Surprisingly, the Packers can make up these losses, [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87466/packers-film-room-brief-notes-on-the-defenses-coverage-bust-in-week-3",
         "publishedAt": "2026-10-02T15:00:00-04:00",
         "summary": "The Packers week three defense against Atlanta, at least versus the Falcons pass game, was defined by two plays. Drake London caught passes of 68 and 40 yards in the fourth quarter, catches that helped him finished with nine catches for a career-high 194 yards, The 68-yarder and the 40-yarder given up by the defense [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87492/packers-dl-warren-brinson-to-miss-a-significant-amount-of-time",
         "publishedAt": "2026-10-02T14:50:31-04:00",
         "summary": "Green Bay Packers head coach Matt LaFleur said in his pre-practice press conference on Friday that defensive lineman Warren Brinson will miss a “significant amount of time” after he slipped and injured himself during Wednesday’s practice. Brinson was seen working out with the defensive line group in the media-open portion of practice on Wednesday, but [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,51 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87469/cheese-curds-fans-hoping-packers-look-a-little-different-on-sunday",
         "publishedAt": "2026-10-02T14:09:55-04:00",
         "summary": "The Green Bay Packers are going to look different on offense Sunday. At least that’s what I keep telling myself in the mirror every morning.&#160; After three weeks of struggles punctuated by a hundred-year weather event at the offensive line position, the Packers have made an unprecedented series of changes. Green Bay added veteran guards [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: New offensive lineman added to list",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87447/packers-injury-report-new-offensive-lineman-added-to-list",
-        "publishedAt": "2026-10-01T16:48:10-04:00",
-        "summary": "The Green Bay Packers were already dealing with Aaron Banks (knee/toe) and Jacob Monk (quadricep) injuries this week, but rookie offensive lineman Jager Burton (groin) was added to the Packers’ injury list on Thursday. In total, Green Bay has 15 offensive linemen between their 53-man roster and practice squad, so they’re not short on bodies, [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers are giving themselves options at right guard",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87439/the-packers-are-giving-themselves-options-at-right-guard",
-        "publishedAt": "2026-10-01T14:26:38-04:00",
-        "summary": "The Green Bay Packers’ offensive line is in a period of transition, as it appears that both Laken Tomlinson and Kevin Zeitler — who were both brought in this week — have a chance at starting against the Tampa Bay Buccaneers in Week 4. According to reports from practice, Tomlinson has already been getting the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Time to find out what Packers have in Kaleb Johnson",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87441/time-to-find-out-what-packers-have-in-kaleb-johnson",
-        "publishedAt": "2026-10-01T14:24:19-04:00",
-        "summary": "I’m fully with my colleague Rcon14 when he says the Packers need to go back to square one on offense, particularly on the ground. It seems abundantly clear what they’ve tried to this point — both from a tactical and personnel perspective — just isn’t working and probably can’t work. Mixing in a few new [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ offense must go back to square one",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87430/packers-offense-must-go-back-to-square-one",
-        "publishedAt": "2026-10-01T11:45:00-04:00",
-        "summary": "The Green Bay Packers have spent the last couple of years, the seasons with Josh Jacobs on the roster, utilizing a fundamentally different running game than they had in Matt LaFleur’s first few seasons in Green Bay. LaFleur had come from the long-storied Shanahan tree of coaches, and had coached with both father Mike and [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers film room: Lukas Van Ness is off to a strong start in 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87368/packers-film-room-lukas-van-ness-is-off-to-a-strong-start-in-2026",
-        "publishedAt": "2026-10-01T10:15:00-04:00",
-        "summary": "For three seasons the case against Green Bay Packers pass rusher Lukas Van Ness was simple: the tools were there but the production wasn&#8217;t. This season has been different so far. Against the New York Jets in Week 2, the production arrived, and the film shows specific reasons for it rather than luck. Van Ness [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
