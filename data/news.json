@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T02:00:26.559Z",
+  "updatedAt": "2026-10-05T09:03:10.673Z",
   "sources": {
     "packers": [
       {
@@ -113,110 +113,110 @@
     ],
     "espn": [
       {
-        "title": "Kyle Juszczyk (knee), two more 49ers injured in win over Broncos",
-        "url": "https://www.espn.com/nfl/story/_/id/50106575/kyle-juszczyk-knee-two-more-49ers-injured-win-broncos",
-        "publishedAt": "2026-10-05T01:54:24Z",
-        "summary": "For the fourth straight week, the 49ers clawed out a victory but were unable to come out of the game against the Broncos without injury concerns.",
+        "title": "Lions' Campbell won't discuss dismissing DC Sheppard after loss",
+        "url": "https://www.espn.com/nfl/story/_/id/50107855/lions-campbell-discuss-dismissing-dc-sheppard-loss",
+        "publishedAt": "2026-10-05T07:07:26Z",
+        "summary": "Despite the Lions' defense's continued slide, Dan Campbell and his players refused to blame second-year defensive coordinator Kelvin Sheppard after their loss Sunday night to the Panthers.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
-        "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-10-05T01:31:00Z",
-        "summary": "Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
+        "title": "Tetairoa McMillan, Bryce Young star as Panthers defeat Lions",
+        "url": "https://www.espn.com/nfl/story/_/id/50107710/tetairoa-mcmillan-bryce-young-star-panthers-defeat-lions",
+        "publishedAt": "2026-10-05T06:30:45Z",
+        "summary": "Carolina receiver Tetairoa McMillan was dominant in his team's 32-36 win over Detroit Lions Sunday night, catching 14 passes for 192 yards and two touchdowns from teammate Bryce Young, who threw for 329 yards to help the Panthers even their record at 2-2.",
         "image": "data/news-images/espn-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Judging overreactions to NFL Week 4: Patriots, Rams are back? Eagles in trouble?",
-        "url": "https://www.espn.com/nfl/story/_/id/50100701/week-4-overreactions-2026-graziano-patriots-rams-eagles",
-        "publishedAt": "2026-10-05T00:59:29Z",
-        "summary": "Are the Patriots on track for another AFC East title? Are the Chiefs back to being the class of the NFL? We're judging Week 4 overreactions.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What are the longest field goals in NFL history?",
-        "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
-        "publishedAt": "2026-10-05T00:51:42Z",
-        "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tracking Jaguars CB/WR Travis Hunter's 2026 season: How did he do vs. Bengals?",
-        "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
-        "publishedAt": "2026-10-05T01:03:45Z",
-        "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Week 4 winners and losers: CeeDee Lamb, Kyren Williams dominate; Jaxon Smith-Njigba struggles",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50102250/nfl-week-4-fantasy-football-winners-losers-injuries-rankings-more",
-        "publishedAt": "2026-10-05T00:58:29Z",
-        "summary": "CeeDee Lamb and Kyren Williams came up big in Week 4, while Jaxon Smith-Njigba and D'Andre Swift had a disappointing day.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cowboys' Texas-themed jabs at Houston tops Week 4 trolls",
-        "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls",
-        "publishedAt": "2026-10-05T01:14:40Z",
-        "summary": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Dallas Cowboys.",
-        "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
         "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-10-05T00:45:31Z",
+        "publishedAt": "2026-10-05T05:31:59Z",
         "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "'His job is not in jeopardy': Harbaugh defends McDaniel after 0-4 start",
+        "url": "https://www.espn.com/video/clip/_/id/50107442/harbaugh-defends-mcdaniel-0-4-start",
+        "publishedAt": "2026-10-05T04:37:25Z",
+        "summary": "'His job is not in jeopardy': Harbaugh defends McDaniel after 0-4 start",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Week 4 winners and losers: Tetairoa McMillan, CeeDee Lamb dominate; Jaxon Smith-Njigba struggles",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50102250/nfl-week-4-fantasy-football-winners-losers-injuries-rankings-more",
+        "publishedAt": "2026-10-05T05:04:18Z",
+        "summary": "CeeDee Lamb and Kyren Williams came up big in Week 4, while Jaxon Smith-Njigba and D'Andre Swift had disappointing days.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Young, McMillan connect for 2 TDs to lead Panthers past Lions 32-26",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872978",
+        "publishedAt": "2026-10-05T04:56:29Z",
+        "summary": "— Carolina Panthers coach Dave Canales was a little worried after Bryce Young and Tetairoa McMillan had some issues connecting on passes in practice.",
+        "image": "data/news-images/espn-5.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cowboys' Texas-themed jabs at Houston tops Week 4 trolls",
+        "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls",
+        "publishedAt": "2026-10-05T04:14:45Z",
+        "summary": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Dallas Cowboys.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football: McMillan, Lamb, Walker III among leading scorers through Sunday Night Football",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-05T03:51:55Z",
+        "summary": "Here are the leading fantasy scorers through Sunday Night Football.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Who are the winningest NFL coaches of all time?",
-        "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-        "publishedAt": "2026-10-05T00:19:39Z",
-        "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
+        "title": "Panthers hold off Lions in a SNF thriller",
+        "url": "https://www.espn.com/video/clip/_/id/50107279/panthers-hold-lions-snf-thriller",
+        "publishedAt": "2026-10-05T03:49:34Z",
+        "summary": "Panthers hold off Lions in a SNF thriller ",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Kansas City Chiefs vs Las Vegas Raiders: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50105678/game-highlights",
-        "publishedAt": "2026-10-05T00:21:51Z",
-        "summary": "Kansas City Chiefs vs Las Vegas Raiders: Game Highlights",
+        "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
+        "publishedAt": "2026-10-05T04:49:44Z",
+        "summary": "Check out the top plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Emanuel Wilson sparks Seahawks past Chargers 30-23, handing Los Angeles a fourth straight loss",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872977",
-        "publishedAt": "2026-10-05T01:15:29Z",
-        "summary": "— The Seattle Seahawks got their rebound win, but it was far from perfect.",
-        "image": "data/news-images/espn-10.png",
+        "title": "Big-time catches headline the top plays of Week 4",
+        "url": "https://www.espn.com/video/clip/_/id/50107156/big-catches-headline-top-plays-week-4",
+        "publishedAt": "2026-10-05T05:14:34Z",
+        "summary": "Big-time catches headline the top plays of Week 4",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Chiefs beat the Raiders 30-27 to move to 4-0 behind Patrick Mahomes and Kenneth Walker III",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872976",
-        "publishedAt": "2026-10-05T01:54:29Z",
-        "summary": "— Patrick Mahomes said he loves playing in Allegiant Stadium, and it's no wonder, given his perfect record in one of the NFL's newer venues.",
-        "image": "data/news-images/espn-11.png",
+        "title": "Klint Kubiak laments decisions gone wrong in Raiders' loss",
+        "url": "https://www.espn.com/nfl/story/_/id/50107098/klint-kubiak-laments-decisions-gone-wrong-raiders-loss",
+        "publishedAt": "2026-10-05T03:41:24Z",
+        "summary": "First-time coach Klint Kubiak might be up extra late Sunday night after a pair of his decisions backfired in the Las Vegas Raiders' 30-27 loss to the Chiefs.",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
