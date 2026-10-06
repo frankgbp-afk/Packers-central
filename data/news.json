@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:48:38.136Z",
+  "updatedAt": "2026-10-06T07:33:54.745Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,83 @@
     ],
     "espn": [
       {
+        "title": "Boos rain down from Superdome stands in Saints' blowout loss",
+        "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss",
+        "publishedAt": "2026-10-06T07:08:15Z",
+        "summary": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities that we didn't take advantage of.\"",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Resurgent Falcons score 80 points in two-game winning streak",
+        "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak",
+        "publishedAt": "2026-10-06T06:26:40Z",
+        "summary": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined points in a two-game winning surge.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bijan Robinson: Primetime games bring out a different energy",
+        "url": "https://www.espn.com/video/clip/_/id/50114836/prime-games-bring-different-energy",
+        "publishedAt": "2026-10-06T04:26:26Z",
+        "summary": "Bijan Robinson: Primetime games bring out a different energy ",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Atlanta's jabs at New Orleans after MNF top Week 4 trolls",
+        "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls",
+        "publishedAt": "2026-10-06T04:16:25Z",
+        "summary": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Atlanta Falcons.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bijan Robinson powers Falcons past Saints 45-24 on the 20th anniversary of the Superdome's reopening",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872979",
+        "publishedAt": "2026-10-06T05:18:30Z",
+        "summary": "— Bijan Robinson ensured there would be no punt to block this time — and the Atlanta Falcons were off and running.",
+        "image": "data/news-images/espn-4.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Falcons clobber Saints on the road",
+        "url": "https://www.espn.com/video/clip/_/id/50114637/falcons-clobber-saints-road",
+        "publishedAt": "2026-10-06T03:39:06Z",
+        "summary": "Falcons clobber Saints on the road",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bijan Robinson sparks Falcons' rout of division rival Saints",
+        "url": "https://www.espn.com/nfl/story/_/id/50114045/mnf-falcons-saints-bijan-robinson",
+        "publishedAt": "2026-10-06T04:49:57Z",
+        "summary": "The Falcons rolled over the Saints with Brian Robinson and Bijan Robinson combining for five rushing TDs.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Steve Gleason and former teammates lead 'Who Dat?' chant on 20-year 'Domecoming' anniversary",
+        "url": "https://www.espn.com/video/clip/_/id/50114232/steve-gleason-former-teammates-lead-dat-chant-20-year-domecoming-anniversary",
+        "publishedAt": "2026-10-06T02:37:25Z",
+        "summary": "Steve Gleason and former teammates lead 'Who Dat?' chant on 20-year 'Domecoming' anniversary",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "How the sportsbooks adjust after high volume of early-season NFL injuries",
         "url": "https://www.espn.com/espn/betting/story/_/id/50111576/nfl-injuries-betting-impact-sportsbooks-odds",
         "publishedAt": "2026-10-05T21:15:51Z",
         "summary": "With several players out for an extended time (some for the entire season), sportsbooks have reacted quickly.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,16 +198,16 @@
         "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel",
         "publishedAt": "2026-10-05T23:50:50Z",
         "summary": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
         "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field",
-        "publishedAt": "2026-10-06T00:23:11Z",
+        "publishedAt": "2026-10-06T05:14:35Z",
         "summary": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,78 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
         "publishedAt": "2026-10-05T23:56:36Z",
         "summary": "Veteran running back Joe Mixon is signing with the Seahawks, but is the 30-year-old worth adding in fantasy?",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "MCL sprain sidelines Mariota; Daniels preps for full practice",
-        "url": "https://www.espn.com/nfl/story/_/id/50112842/mcl-sprain-sidelines-mariota-daniels-preps-practice",
-        "publishedAt": "2026-10-06T00:43:40Z",
-        "summary": "In his team's loss to the Indianapolis Colts on Sunday, Washington Commanders quarterback Marcus Mariota suffered a sprained MCL of his right knee, and the timetable for his return remains uncertain coach Dan Quinn said on Monday.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 4's best arrivals, led by Saints DE Cam Jordan",
-        "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
-        "publishedAt": "2026-10-05T22:54:10Z",
-        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-        "image": "data/news-images/espn-5.png",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cowboys' Tyler Smith hoping to be ready to face Bucs",
-        "url": "https://www.espn.com/nfl/story/_/id/50112664/cowboys-tyler-smith-hoping-ready-face-bucs",
-        "publishedAt": "2026-10-05T22:57:26Z",
-        "summary": "Cowboys Pro Bowl guard Tyler Smith hopes to make his season debut Thursday against the Buccaneers after having surgery last month on his left thumb.",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cardinals LT Paris Johnson out for season after tearing biceps",
-        "url": "https://www.espn.com/nfl/story/_/id/50112533/cardinals-lt-paris-johnson-season-tearing-biceps",
-        "publishedAt": "2026-10-05T22:28:06Z",
-        "summary": "Cardinals starting left tackle Paris Johnson Jr. is out for the season after tearing his left biceps in a 36-24 loss to the New York Giants on Sunday.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks plan to sign RB Joe Mixon to practice squad, sources say",
-        "url": "https://www.espn.com/nfl/story/_/id/50112493/seahawks-signing-rb-joe-mixon-workout-source-says",
-        "publishedAt": "2026-10-05T23:38:39Z",
-        "summary": "The Seahawks plan to sign veteran running back Joe Mixon to their practice squad as long as he passes his physical, sources told ESPN.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chargers OT Rashawn Slater dealing with high ankle sprain",
-        "url": "https://www.espn.com/nfl/story/_/id/50112395/sources-chargers-ot-rashawn-slater-high-ankle-sprain",
-        "publishedAt": "2026-10-06T00:03:31Z",
-        "summary": "Chargers offensive tackle Rashawn Slater suffered a high right ankle sprain in Sunday's loss to the Seahawks in Seattle, coach Jim Harbaugh said Monday.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football free agent pickups: Kirk Cousins, Keon Coleman lead top options",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50108832/fantasy-football-waiver-wire-free-agent-pickups-nfl-week-5",
-        "publishedAt": "2026-10-05T22:00:33Z",
-        "summary": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "McVay: Rams coaches will 'learn' from incident with Eagles fans",
-        "url": "https://www.espn.com/nfl/story/_/id/50112291/mcvay-rams-coaches-learn-incident-eagles-fans",
-        "publishedAt": "2026-10-05T22:51:19Z",
-        "summary": "Rams coach Sean McVay says his assistant coaches will learn from their viral interaction with Eagles fans during Sunday's win over Philadelphia.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -290,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87594/packers-by-the-numbers-stats-from-the-week-4-win-over-the-bucs",
         "publishedAt": "2026-10-05T10:30:00-04:00",
         "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers game, courtesy of SumerSports. Offense Last week saw the Packers needing to lean heavy into 11 personnel and the passing game, due to getting behind early and also lacking any ability to run. This week saw them [&#8230;]",
-        "image": "data/news-images/acme-7.jpg",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
