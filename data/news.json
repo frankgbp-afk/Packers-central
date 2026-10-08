@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-10-07T20:37:04.852Z",
+  "updatedAt": "2026-10-08T00:59:51.493Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers' offense must 'stay on schedule' vs. Bears",
+        "url": "https://www.packers.com/news/packers-offense-must-stay-on-schedule-vs-bears-oct-7-2026",
+        "publishedAt": "Wed, 07 Oct 2026 22:51:18 GMT",
+        "summary": "Third-down mismatch on paper looms as challenge to overcome",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers-Bears Injury Report | Oct. 7, 2026",
         "url": "https://www.packers.com/news/packers-bears-injury-report-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 20:31:25 GMT",
         "summary": "",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-1.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-can-the-packers-stop-the-bears-running-game-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 19:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/inbox-he-s-worth-watching-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 13:30:00 GMT",
         "summary": "Both things can be true",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-vs-bears-how-to-watch-stream-listen-week-5-2026",
         "publishedAt": "Tue, 06 Oct 2026 22:01:38 GMT",
         "summary": "Green Bay Packers vs. Chicago Bears channel listing, radio & streaming options",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-und-chiefs-eroeffnen-gemeinsamen-pop-up-store-in-muenchen-im-vorfeld-des-nfl-spiels",
         "publishedAt": "Tue, 06 Oct 2026 20:56:38 GMT",
         "summary": "Der offizielle Packers X Chiefs Team Shop bietet im November drei Tage lang Merchandise der Green Bay Packers und Kansas City Chiefs an",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-place-lb-edgerrin-cooper-on-injured-reserve-oct-6-2026",
         "publishedAt": "Tue, 06 Oct 2026 20:22:00 GMT",
         "summary": "Green Bay signs LB Kristian Welch to the active roster, RB Damon Bankston to the practice squad",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-return-to-lambeau-to-host-bears-week-5-2026",
         "publishedAt": "Tue, 06 Oct 2026 20:12:33 GMT",
         "summary": "Green Bay has won 15 of the last 18 meetings against the Bears at Lambeau Field",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-lb-zaire-franklin-is-running-the-show-oct-6-2026",
         "publishedAt": "Tue, 06 Oct 2026 19:16:33 GMT",
         "summary": "Key comments from Green Bay’s coordinators",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/inbox-hopefully-the-packers-did-both-sunday-oct-6-2026",
         "publishedAt": "Tue, 06 Oct 2026 13:30:00 GMT",
         "summary": "Every bout of adversity is an opportunity for creativity",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/lb-edgerrin-cooper-is-tough-one-to-lose-for-packers-oct-5-2026",
         "publishedAt": "Mon, 05 Oct 2026 21:45:20 GMT",
         "summary": "Defense will miss a playmaker, must rely on other linebackers",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,15 +106,6 @@
         "url": "https://www.packers.com/news/start-of-second-half-finished-key-double-up-for-packers-week-4-2026",
         "publishedAt": "Mon, 05 Oct 2026 19:40:16 GMT",
         "summary": "Two explosive plays preceded TE Tucker Kraft’s TD catch",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: It's a huge loss, no getting around that",
-        "url": "https://www.packers.com/news/inbox-it-s-a-huge-loss-no-getting-around-that-oct-5-2026",
-        "publishedAt": "Mon, 05 Oct 2026 13:30:00 GMT",
-        "summary": "The defense has to take a deep breath and solider on",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,110 +113,110 @@
     ],
     "espn": [
       {
-        "title": "Cowboys close hectic stretch on short week with another winless opponent in the Buccaneers",
-        "url": "http://www.espn.com/nfl/preview?gameId=401872980",
-        "publishedAt": "2026-10-07T20:27:30Z",
-        "summary": "— The Dallas Cowboys are near the end of a hectic two-week itinerary that included 10-hour flights to and from Rio de Janeiro, another trip to Houston and now a quick turn to finish off three games in 11 days.",
-        "image": "data/news-images/espn-0.png",
+        "title": "Tyreek Hill's wife cross-examined during Day 2 of trial",
+        "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial",
+        "publishedAt": "2026-10-08T00:38:11Z",
+        "summary": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+        "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "DeMeco Ryans announces he's taking over defensive playcalling duties",
-        "url": "https://www.espn.com/video/clip/_/id/50127172/demeco-ryans-announces-taking-defensive-playcalling-duties",
-        "publishedAt": "2026-10-07T20:04:01Z",
-        "summary": "DeMeco Ryans announces he's taking over defensive playcalling duties",
+        "title": "Vikings' Justin Jefferson says plan is to play vs. Saints",
+        "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints",
+        "publishedAt": "2026-10-07T23:31:55Z",
+        "summary": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Is it time to panic about 49ers' injuries? Breaking down IR, trade deadline plan",
-        "url": "https://www.espn.com/nfl/story/_/id/50124795/san-francisco-49ers-2026-season-injuries-list",
-        "publishedAt": "2026-10-07T20:26:25Z",
-        "summary": "The 49ers are again among the most injured teams in the NFL. We answered questions about their injuries and how it will affect the 2026 season.",
+        "title": "Broncos' Payton: Concerned about details, not playcalling",
+        "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling",
+        "publishedAt": "2026-10-07T22:57:41Z",
+        "summary": "Sean Payton said righting the wrongs of Denver's offense is more about the \"specific and the detail of each play,\" not who is actually calling the plays.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Texans' DeMeco Ryans taking over defensive playcalling duties",
-        "url": "https://www.espn.com/nfl/story/_/id/50127159/texans-demeco-ryans-taking-defensive-playcalling-duties",
-        "publishedAt": "2026-10-07T20:05:45Z",
-        "summary": "Texans coach DeMeco Ryans said Wednesday that he will be taking over the defensive playcalling duties amid his team's 0-4 start.",
+        "title": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
+        "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate",
+        "publishedAt": "2026-10-07T22:50:55Z",
+        "summary": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jets' Aaron Glenn encouraged by support from owner Woody Johnson",
-        "url": "https://www.espn.com/nfl/story/_/id/50127154/jets-aaron-glenn-encouraged-support-owner-woody-johnson",
-        "publishedAt": "2026-10-07T20:08:26Z",
-        "summary": "Aaron Glenn has lost 17 of 21 games since becoming coach of the Jets, but he's encouraged by the support he's receiving from owner Woody Johnson.",
+        "title": "Giants' Malik Nabers has 'sore' knee, doesn't practice",
+        "url": "https://www.espn.com/nfl/story/_/id/50127773/giants-malik-nabers-sore-knee-practice",
+        "publishedAt": "2026-10-07T22:38:43Z",
+        "summary": "Giants star wide receiver Malik Nabers did not practice Wednesday because of a knee injury, saying only he was more \"sore\" than usual.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL trade deadline grades: Cam Jurgens to Ravens, Joey Porter Jr. to Cowboys",
-        "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-        "publishedAt": "2026-10-07T19:23:44Z",
-        "summary": "Will Cam Jurgens boost the Ravens' protection? Can Joey Porter Jr. clean up the Cowboys' defense? We're grading NFL trades ahead of November's deadline.",
+        "title": "Commanders' Jayden Daniels fully practices, trending toward return",
+        "url": "https://www.espn.com/nfl/story/_/id/50127736/commanders-jayden-daniels-fully-practices-trending-return",
+        "publishedAt": "2026-10-07T21:52:14Z",
+        "summary": "Commanders quarterback Jayden Daniels continued on a path that is expected to result in him playing Sunday against the New York Giants, only three weeks after he dislocated his elbow.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Colts' Sauce Gardner vows not to repeat 'embarrassing' effort",
-        "url": "https://www.espn.com/nfl/story/_/id/50127033/colts-sauce-gardner-vows-not-repeat-embarrassing-effort",
-        "publishedAt": "2026-10-07T19:51:49Z",
-        "summary": "Colts cornerback Sauce Gardner said he gave his team an \"embarrassing\" effort in London and vowed there would not be a repeat performance.",
+        "title": "NFL, union clarify celebration rules, OK drinking gestures",
+        "url": "https://www.espn.com/nfl/story/_/id/50127635/nfl-union-clarify-celebration-rules-ok-drinking-gestures",
+        "publishedAt": "2026-10-07T22:10:18Z",
+        "summary": "The NFL and NFLPA said recent player celebrations imitating drinking a beverage will no longer be violations or result in discipline. The sides also clarified what celebrations remain prohibited.",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Kevin O'Connell talks about bringing in OBJ to Vikings' practice squad",
-        "url": "https://www.espn.com/video/clip/_/id/50126793/kevin-oconnell-talks-bringing-obj-vikings-practice-squad",
-        "publishedAt": "2026-10-07T18:39:36Z",
-        "summary": "Kevin O'Connell talks about bringing in OBJ to Vikings' practice squad",
+        "title": "Why the Jets are a fantasy defense to consider in Week 5",
+        "url": "https://www.espn.com/video/clip/_/id/50127531/why-jets-fantasy-defense-consider-week-5",
+        "publishedAt": "2026-10-07T20:54:53Z",
+        "summary": "Why the Jets are a fantasy defense to consider in Week 5",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-        "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-        "publishedAt": "2026-10-07T19:17:02Z",
-        "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+        "title": "Why Jacoby Brissett is a great Week 5 fill-in for fantasy managers",
+        "url": "https://www.espn.com/video/clip/_/id/50127527/why-jacoby-brissett-great-week-5-fill-fantasy-managers",
+        "publishedAt": "2026-10-07T20:59:33Z",
+        "summary": "Why Jacoby Brissett is a great Week 5 fill-in for fantasy managers",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jason Kelce excited for Cam Jurgens to return to center position in Baltimore",
-        "url": "https://www.espn.com/video/clip/_/id/50126768/jason-kelce-excited-cam-jurgens-return-center-position-baltimore",
-        "publishedAt": "2026-10-07T18:32:49Z",
-        "summary": "Jason Kelce excited for Cam Jurgens to return to center position in Baltimore",
+        "title": "Why fantasy managers should look to add Jacob Rodriguez",
+        "url": "https://www.espn.com/video/clip/_/id/50127526/why-fantasy-managers-look-add-jacob-rodriguez",
+        "publishedAt": "2026-10-07T20:49:44Z",
+        "summary": "Why fantasy managers should look to add Jacob Rodriguez",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Tetairoa McMillan to Rich Eisen: Bryce Young is easy to connect with",
-        "url": "https://www.espn.com/video/clip/_/id/50126355/bryce-young-easy-connect-with",
-        "publishedAt": "2026-10-07T17:44:41Z",
-        "summary": "Tetairoa McMillan to Rich Eisen: Bryce Young is easy to connect with",
+        "title": "Steelers QB Rodgers downplays heated exchange with McCarthy",
+        "url": "https://www.espn.com/nfl/story/_/id/50127513/steelers-qb-rodgers-downplays-heated-exchange-mccarthy",
+        "publishedAt": "2026-10-07T22:54:01Z",
+        "summary": "The Steelers downplayed the several confrontations between players and coaches during Thursday night's loss, with Aaron Rodgers calling the display of emotion and passion a \"positive.\"",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ravens acquire center Cam Jurgens in trade with Eagles",
-        "url": "https://www.espn.com/nfl/story/_/id/50126306/ravens-acquire-center-cam-jurgens-trade-eagles",
-        "publishedAt": "2026-10-07T19:40:21Z",
-        "summary": "The Ravens have acquired two-time Pro Bowl center Cam Jurgens in a trade with the Eagles.",
-        "image": "data/news-images/espn-11.jpg",
+        "title": "Cowboys close hectic stretch on short week with another winless opponent in the Buccaneers",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872980",
+        "publishedAt": "2026-10-07T20:36:29Z",
+        "summary": "— The Dallas Cowboys are near the end of a hectic two-week itinerary that included 10-hour flights to and from Rio de Janeiro, another trip to Houston and now a quick turn to finish off three games in 11 days.",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
