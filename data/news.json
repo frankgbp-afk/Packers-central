@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-10-08T07:23:58.009Z",
+  "updatedAt": "2026-10-08T15:36:12.469Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers' defense looks to pick up where Edgerrin Cooper left off",
+        "url": "https://www.packers.com/news/packers-defense-looks-to-pick-up-where-edgerrin-cooper-left-off-oct-8-2026",
+        "publishedAt": "Thu, 08 Oct 2026 14:00:00 GMT",
+        "summary": "Green Bay not expecting one person to replace star linebacker",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: In this game, positions come second to playmakers",
+        "url": "https://www.packers.com/news/inbox-in-this-game-positions-come-second-to-playmakers-oct-8-2026",
+        "publishedAt": "Thu, 08 Oct 2026 13:30:00 GMT",
+        "summary": "If Packers-Bears isn’t circled on your calendar, you can’t find a pen",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Scott Haskins of Webster High School named Green Bay Packers High School Coach of the Week",
+        "url": "https://www.packers.com/news/scott-haskins-of-webster-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-8-2026",
+        "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT",
+        "summary": "Haskins has the Tigers out to a 6-1 record, marking the program’s best start since 2013",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers' offense must 'stay on schedule' vs. Bears",
         "url": "https://www.packers.com/news/packers-offense-must-stay-on-schedule-vs-bears-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 22:51:18 GMT",
         "summary": "Third-down mismatch on paper looms as challenge to overcome",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-bears-injury-report-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 20:31:25 GMT",
         "summary": "",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +52,7 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-can-the-packers-stop-the-bears-running-game-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 19:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-he-s-worth-watching-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 13:30:00 GMT",
         "summary": "Both things can be true",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-vs-bears-how-to-watch-stream-listen-week-5-2026",
         "publishedAt": "Tue, 06 Oct 2026 22:01:38 GMT",
         "summary": "Green Bay Packers vs. Chicago Bears channel listing, radio & streaming options",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-und-chiefs-eroeffnen-gemeinsamen-pop-up-store-in-muenchen-im-vorfeld-des-nfl-spiels",
         "publishedAt": "Tue, 06 Oct 2026 20:56:38 GMT",
         "summary": "Der offizielle Packers X Chiefs Team Shop bietet im November drei Tage lang Merchandise der Green Bay Packers und Kansas City Chiefs an",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-place-lb-edgerrin-cooper-on-injured-reserve-oct-6-2026",
         "publishedAt": "Tue, 06 Oct 2026 20:22:00 GMT",
         "summary": "Green Bay signs LB Kristian Welch to the active roster, RB Damon Bankston to the practice squad",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-return-to-lambeau-to-host-bears-week-5-2026",
         "publishedAt": "Tue, 06 Oct 2026 20:12:33 GMT",
         "summary": "Green Bay has won 15 of the last 18 meetings against the Bears at Lambeau Field",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,33 +106,6 @@
         "url": "https://www.packers.com/news/packers-lb-zaire-franklin-is-running-the-show-oct-6-2026",
         "publishedAt": "Tue, 06 Oct 2026 19:16:33 GMT",
         "summary": "Key comments from Green Bay’s coordinators",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Hopefully, the Packers did both Sunday",
-        "url": "https://www.packers.com/news/inbox-hopefully-the-packers-did-both-sunday-oct-6-2026",
-        "publishedAt": "Tue, 06 Oct 2026 13:30:00 GMT",
-        "summary": "Every bout of adversity is an opportunity for creativity",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "LB Edgerrin Cooper is 'tough one to lose' for Packers",
-        "url": "https://www.packers.com/news/lb-edgerrin-cooper-is-tough-one-to-lose-for-packers-oct-5-2026",
-        "publishedAt": "Mon, 05 Oct 2026 21:45:20 GMT",
-        "summary": "Defense will miss a playmaker, must rely on other linebackers",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Start of second half finished key 'double up' for Packers",
-        "url": "https://www.packers.com/news/start-of-second-half-finished-key-double-up-for-packers-week-4-2026",
-        "publishedAt": "Mon, 05 Oct 2026 19:40:16 GMT",
-        "summary": "Two explosive plays preceded TE Tucker Kraft’s TD catch",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,110 +113,110 @@
     ],
     "espn": [
       {
-        "title": "Tyreek Hill's wife cross-examined during Day 2 of trial",
-        "url": "https://www.espn.com/nfl/story/_/id/50128547/tyreek-hill-wife-cross-examined-day-2-trial",
-        "publishedAt": "2026-10-08T00:38:11Z",
-        "summary": "Tyreek Hill's attorneys tried to show discrepancies in the testimony of his wife and police photos of her after a '24 incident to try to discredit abuse claims.",
+        "title": "Fantasy football rankings Week 5: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-10-08T15:17:22Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Vikings' Justin Jefferson says plan is to play vs. Saints",
-        "url": "https://www.espn.com/nfl/story/_/id/50128245/vikings-justin-jefferson-says-plan-play-week-5-vs-saints",
-        "publishedAt": "2026-10-07T23:31:55Z",
-        "summary": "Vikings receiver Justin Jefferson returned to practice Wednesday on a limited basis for the first time since spraining his left ankle 10 days ago and appeared optimistic that he will play Sunday at New Orleans.",
+        "title": "Why Field Yates is nervous about Tyler Shough in Week 5",
+        "url": "https://www.espn.com/video/clip/_/id/50133263/why-field-yates-nervous-tyler-shough-week-5",
+        "publishedAt": "2026-10-08T15:16:38Z",
+        "summary": "Why Field Yates is nervous about Tyler Shough in Week 5 ",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Broncos' Payton: Concerned about details, not playcalling",
-        "url": "https://www.espn.com/nfl/story/_/id/50128136/broncos-payton-concerned-details-not-play-calling",
-        "publishedAt": "2026-10-07T22:57:41Z",
-        "summary": "Sean Payton said righting the wrongs of Denver's offense is more about the \"specific and the detail of each play,\" not who is actually calling the plays.",
+        "title": "Why Daniel Dopp isn't sold on Kirk Cousins' fantasy output",
+        "url": "https://www.espn.com/video/clip/_/id/50133156/why-daniel-dopp-sold-kirk-cousins-fantasy-output",
+        "publishedAt": "2026-10-08T15:16:40Z",
+        "summary": "Why Daniel Dopp isn't sold on Kirk Cousins' fantasy output",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
-        "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate",
-        "publishedAt": "2026-10-07T22:50:55Z",
-        "summary": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
+        "title": "Why Daniel Dopp sees no reason to start Kyler Murray in Week 5",
+        "url": "https://www.espn.com/video/clip/_/id/50133092/why-daniel-dopp-sees-no-reason-start-kyler-murray-week-5",
+        "publishedAt": "2026-10-08T15:29:11Z",
+        "summary": "Why Daniel Dopp sees no reason to start Kyler Murray in Week 5",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Giants' Malik Nabers has 'sore' knee, doesn't practice",
-        "url": "https://www.espn.com/nfl/story/_/id/50127773/giants-malik-nabers-sore-knee-practice",
-        "publishedAt": "2026-10-07T22:38:43Z",
-        "summary": "Giants star wide receiver Malik Nabers did not practice Wednesday because of a knee injury, saying only he was more \"sore\" than usual.",
+        "title": "Why fantasy managers should steer clear of C.J. Stroud in Week 5",
+        "url": "https://www.espn.com/video/clip/_/id/50133072/why-fantasy-managers-steer-clear-cj-stroud-week-5",
+        "publishedAt": "2026-10-08T14:58:39Z",
+        "summary": "Why fantasy managers should steer clear of C.J. Stroud in Week 5",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Commanders' Jayden Daniels fully practices, trending toward return",
-        "url": "https://www.espn.com/nfl/story/_/id/50127736/commanders-jayden-daniels-fully-practices-trending-return",
-        "publishedAt": "2026-10-07T21:52:14Z",
-        "summary": "Commanders quarterback Jayden Daniels continued on a path that is expected to result in him playing Sunday against the New York Giants, only three weeks after he dislocated his elbow.",
+        "title": "Stephen A.: The Cowboys have to find someone to get to the quarterback",
+        "url": "https://www.espn.com/video/clip/_/id/50133068/cowboys-find-get-quarterback",
+        "publishedAt": "2026-10-08T14:47:50Z",
+        "summary": "Stephen A.: The Cowboys have to find someone to get to the quarterback",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL, union clarify celebration rules, OK drinking gestures",
-        "url": "https://www.espn.com/nfl/story/_/id/50127635/nfl-union-clarify-celebration-rules-ok-drinking-gestures",
-        "publishedAt": "2026-10-07T22:10:18Z",
-        "summary": "The NFL and NFLPA said recent player celebrations imitating drinking a beverage will no longer be violations or result in discipline. The sides also clarified what celebrations remain prohibited.",
+        "title": "Fantasy football buzz: Start Bucky Irving, sit Emeka Egbuka on Thursday night",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-08T15:02:41Z",
+        "summary": "Which Buccaneers should you start, sit or monitor coming into a Thursday night matchup with the Cowboys?",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why the Jets are a fantasy defense to consider in Week 5",
-        "url": "https://www.espn.com/video/clip/_/id/50127531/why-jets-fantasy-defense-consider-week-5",
-        "publishedAt": "2026-10-07T20:54:53Z",
-        "summary": "Why the Jets are a fantasy defense to consider in Week 5",
+        "title": "Source: Cowboys activating Pro Bowl LG Tyler Smith (thumb) from IR",
+        "url": "https://www.espn.com/nfl/story/_/id/50132896/source-cowboys-activating-pro-bowl-lg-tyler-smith-thumb-ir",
+        "publishedAt": "2026-10-08T14:27:15Z",
+        "summary": "The Cowboys are activating Pro Bowl left guard from injured reserve to play Thursday night against the Buccaneers, a source told NFL Network's Ian Rapoport.",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Jacoby Brissett is a great Week 5 fill-in for fantasy managers",
-        "url": "https://www.espn.com/video/clip/_/id/50127527/why-jacoby-brissett-great-week-5-fill-fantasy-managers",
-        "publishedAt": "2026-10-07T20:59:33Z",
-        "summary": "Why Jacoby Brissett is a great Week 5 fill-in for fantasy managers",
+        "title": "What will spark the Texans' defense?",
+        "url": "https://www.espn.com/video/clip/_/id/50132745/what-spark-texans-defense",
+        "publishedAt": "2026-10-08T13:59:54Z",
+        "summary": "DJ BienAime recaps the Texans' defensive struggles and why Head Coach DeMeco Ryans is taking over the play-calling.",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why fantasy managers should look to add Jacob Rodriguez",
-        "url": "https://www.espn.com/video/clip/_/id/50127526/why-fantasy-managers-look-add-jacob-rodriguez",
-        "publishedAt": "2026-10-07T20:49:44Z",
-        "summary": "Why fantasy managers should look to add Jacob Rodriguez",
+        "title": "NFL asks U.S. Supreme Court to take up prediction market case",
+        "url": "https://www.espn.com/nfl/story/_/id/50132618/nfl-supreme-court-kalshi-prediction-markets-regulation",
+        "publishedAt": "2026-10-08T14:36:37Z",
+        "summary": "The NFL urged the U.S. Supreme Court Thursday to take up a hotly contested legal battle over prediction markets.",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers QB Rodgers downplays heated exchange with McCarthy",
-        "url": "https://www.espn.com/nfl/story/_/id/50127513/steelers-qb-rodgers-downplays-heated-exchange-mccarthy",
-        "publishedAt": "2026-10-07T22:54:01Z",
-        "summary": "The Steelers downplayed the several confrontations between players and coaches during Thursday night's loss, with Aaron Rodgers calling the display of emotion and passion a \"positive.\"",
+        "title": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
+        "url": "https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms",
+        "publishedAt": "2026-10-08T13:07:04Z",
+        "summary": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cowboys close hectic stretch on short week with another winless opponent in the Buccaneers",
-        "url": "http://www.espn.com/nfl/preview?gameId=401872980",
-        "publishedAt": "2026-10-07T20:36:29Z",
-        "summary": "— The Dallas Cowboys are near the end of a hectic two-week itinerary that included 10-hour flights to and from Rio de Janeiro, another trip to Houston and now a quick turn to finish off three games in 11 days.",
-        "image": "data/news-images/espn-11.png",
+        "title": "Does Jalen Hurts have a long-term future with the Eagles?",
+        "url": "https://www.espn.com/video/clip/_/id/50132334/does-jalen-hurts-long-term-future-eagles",
+        "publishedAt": "2026-10-08T13:25:38Z",
+        "summary": "Does Jalen Hurts have a long-term future with the Eagles?",
+        "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
