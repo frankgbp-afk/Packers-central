@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-10-08T15:36:12.469Z",
+  "updatedAt": "2026-10-08T21:19:21.594Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers sign RB Pierre Strong Jr. to active roster",
+        "url": "https://www.packers.com/news/packers-sign-rb-pierre-strong-jr-to-the-active-roster-oct-8-2026",
+        "publishedAt": "Thu, 08 Oct 2026 21:18:02 GMT",
+        "summary": "Green Bay also signs LB Jack Dingle to practice squad",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers welcoming Bubba Franks, Ryan Longwell as featured alumni this week",
+        "url": "https://www.packers.com/news/packers-welcoming-bubba-franks-ryan-longwell-as-featured-alumni-this-week-oct-8-2026",
+        "publishedAt": "Thu, 08 Oct 2026 20:58:05 GMT",
+        "summary": "Former players to greet fans near Lambeau Field on Saturday and Sunday",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers-Bears Injury Report | Oct. 8, 2026",
+        "url": "https://www.packers.com/news/packers-bears-injury-report-oct-8-2026",
+        "publishedAt": "Thu, 08 Oct 2026 20:29:37 GMT",
+        "summary": "",
+        "image": "data/news-images/packers-2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers' defense looks to pick up where Edgerrin Cooper left off",
         "url": "https://www.packers.com/news/packers-defense-looks-to-pick-up-where-edgerrin-cooper-left-off-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 14:00:00 GMT",
         "summary": "Green Bay not expecting one person to replace star linebacker",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +43,7 @@
         "url": "https://www.packers.com/news/inbox-in-this-game-positions-come-second-to-playmakers-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 13:30:00 GMT",
         "summary": "If Packers-Bears isn’t circled on your calendar, you can’t find a pen",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +52,7 @@
         "url": "https://www.packers.com/news/scott-haskins-of-webster-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT",
         "summary": "Haskins has the Tigers out to a 6-1 record, marking the program’s best start since 2013",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-offense-must-stay-on-schedule-vs-bears-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 22:51:18 GMT",
         "summary": "Third-down mismatch on paper looms as challenge to overcome",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +70,7 @@
         "url": "https://www.packers.com/news/packers-bears-injury-report-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 20:31:25 GMT",
         "summary": "",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +79,7 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-can-the-packers-stop-the-bears-running-game-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 19:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +88,7 @@
         "url": "https://www.packers.com/news/inbox-he-s-worth-watching-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 13:30:00 GMT",
         "summary": "Both things can be true",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-vs-bears-how-to-watch-stream-listen-week-5-2026",
         "publishedAt": "Tue, 06 Oct 2026 22:01:38 GMT",
         "summary": "Green Bay Packers vs. Chicago Bears channel listing, radio & streaming options",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,33 +106,6 @@
         "url": "https://www.packers.com/news/packers-und-chiefs-eroeffnen-gemeinsamen-pop-up-store-in-muenchen-im-vorfeld-des-nfl-spiels",
         "publishedAt": "Tue, 06 Oct 2026 20:56:38 GMT",
         "summary": "Der offizielle Packers X Chiefs Team Shop bietet im November drei Tage lang Merchandise der Green Bay Packers und Kansas City Chiefs an",
-        "image": "data/news-images/packers-8.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers place LB Edgerrin Cooper on injured reserve",
-        "url": "https://www.packers.com/news/packers-place-lb-edgerrin-cooper-on-injured-reserve-oct-6-2026",
-        "publishedAt": "Tue, 06 Oct 2026 20:22:00 GMT",
-        "summary": "Green Bay signs LB Kristian Welch to the active roster, RB Damon Bankston to the practice squad",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers return to Lambeau to host Bears",
-        "url": "https://www.packers.com/news/packers-return-to-lambeau-to-host-bears-week-5-2026",
-        "publishedAt": "Tue, 06 Oct 2026 20:12:33 GMT",
-        "summary": "Green Bay has won 15 of the last 18 meetings against the Bears at Lambeau Field",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers LB Zaire Franklin is 'running the show'",
-        "url": "https://www.packers.com/news/packers-lb-zaire-franklin-is-running-the-show-oct-6-2026",
-        "publishedAt": "Tue, 06 Oct 2026 19:16:33 GMT",
-        "summary": "Key comments from Green Bay’s coordinators",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,91 +113,91 @@
     ],
     "espn": [
       {
-        "title": "Fantasy football rankings Week 5: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-10-08T15:17:22Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "data/news-images/espn-0.jpg",
+        "title": "Week 5 TNF highlights: Best plays, moments, touchdowns, from Cowboys vs. Bucs",
+        "url": "https://www.espn.com/nfl/story/_/id/50134891/week-5-tnf-highlights-cowboys-buccaneers",
+        "publishedAt": "2026-10-08T21:13:46Z",
+        "summary": "A look at the highlights from Dallas hosting Tampa Bay for \"Thursday Night Football\" to kick off Week 5.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Field Yates is nervous about Tyler Shough in Week 5",
-        "url": "https://www.espn.com/video/clip/_/id/50133263/why-field-yates-nervous-tyler-shough-week-5",
-        "publishedAt": "2026-10-08T15:16:38Z",
-        "summary": "Why Field Yates is nervous about Tyler Shough in Week 5 ",
+        "title": "Trevor Lawrence's Week 5 fantasy preview",
+        "url": "https://www.espn.com/video/clip/_/id/50135081/trevor-lawrence-week-5-fantasy-preview",
+        "publishedAt": "2026-10-08T20:43:59Z",
+        "summary": "Trevor Lawrence's Week 5 fantasy preview",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Daniel Dopp isn't sold on Kirk Cousins' fantasy output",
-        "url": "https://www.espn.com/video/clip/_/id/50133156/why-daniel-dopp-sold-kirk-cousins-fantasy-output",
-        "publishedAt": "2026-10-08T15:16:40Z",
-        "summary": "Why Daniel Dopp isn't sold on Kirk Cousins' fantasy output",
+        "title": "Shai Gilgeous-Alexander joins athletes who became owners",
+        "url": "https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners",
+        "publishedAt": "2026-10-08T21:14:28Z",
+        "summary": "The Oklahoma City Thunder star joins a list of athletes that includes LeBron James, Serena Williams, Wayne Gretzky and Tom Brady.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Daniel Dopp sees no reason to start Kyler Murray in Week 5",
-        "url": "https://www.espn.com/video/clip/_/id/50133092/why-daniel-dopp-sees-no-reason-start-kyler-murray-week-5",
-        "publishedAt": "2026-10-08T15:29:11Z",
-        "summary": "Why Daniel Dopp sees no reason to start Kyler Murray in Week 5",
+        "title": "Chargers OC McDaniel: Calls for firing 'comes with the territory'",
+        "url": "https://www.espn.com/nfl/story/_/id/50135054/chargers-oc-mcdaniel-calls-firing-comes-territory",
+        "publishedAt": "2026-10-08T20:36:56Z",
+        "summary": "Chargers offensive coordinator Mike McDaniel said calls for his firing \"comes with the territory of the job.\"",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why fantasy managers should steer clear of C.J. Stroud in Week 5",
-        "url": "https://www.espn.com/video/clip/_/id/50133072/why-fantasy-managers-steer-clear-cj-stroud-week-5",
-        "publishedAt": "2026-10-08T14:58:39Z",
-        "summary": "Why fantasy managers should steer clear of C.J. Stroud in Week 5",
+        "title": "Is Sean Payton taking over playcalling duties good for Bo Nix?",
+        "url": "https://www.espn.com/video/clip/_/id/50135045/is-sean-payton-taking-playcalling-duties-good-bo-nix",
+        "publishedAt": "2026-10-08T20:40:35Z",
+        "summary": "Is Sean Payton taking over playcalling duties good for Bo Nix?",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Stephen A.: The Cowboys have to find someone to get to the quarterback",
-        "url": "https://www.espn.com/video/clip/_/id/50133068/cowboys-find-get-quarterback",
-        "publishedAt": "2026-10-08T14:47:50Z",
-        "summary": "Stephen A.: The Cowboys have to find someone to get to the quarterback",
+        "title": "Sean Payton says he's taking over playcalling for Broncos' offense",
+        "url": "https://www.espn.com/nfl/story/_/id/50135033/sean-payton-says-taking-playcalling-broncos-offense",
+        "publishedAt": "2026-10-08T20:58:52Z",
+        "summary": "Broncos coach Sean Payton said he is taking over the offensive playcalling beginning Sunday against the Chargers as the team looks to kick-start a sputtering offense.",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: Start Bucky Irving, sit Emeka Egbuka on Thursday night",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-08T15:02:41Z",
-        "summary": "Which Buccaneers should you start, sit or monitor coming into a Thursday night matchup with the Cowboys?",
+        "title": "Gerald McCoy, Stephen A. make their Bills-Rams picks for MNF",
+        "url": "https://www.espn.com/video/clip/_/id/50134939/gerald-mccoy-stephen-make-their-bills-rams-picks-mnf",
+        "publishedAt": "2026-10-08T20:25:05Z",
+        "summary": "Gerald McCoy, Stephen A. make their Bills-Rams picks for MNF",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Source: Cowboys activating Pro Bowl LG Tyler Smith (thumb) from IR",
-        "url": "https://www.espn.com/nfl/story/_/id/50132896/source-cowboys-activating-pro-bowl-lg-tyler-smith-thumb-ir",
-        "publishedAt": "2026-10-08T14:27:15Z",
-        "summary": "The Cowboys are activating Pro Bowl left guard from injured reserve to play Thursday night against the Buccaneers, a source told NFL Network's Ian Rapoport.",
+        "title": "Why Stephen A. trusts the Patriots more than the Raiders",
+        "url": "https://www.espn.com/video/clip/_/id/50134846/why-stephen-trusts-patriots-more-raiders",
+        "publishedAt": "2026-10-08T20:10:45Z",
+        "summary": "Why Stephen A. trusts the Patriots more than the Raiders",
         "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What will spark the Texans' defense?",
-        "url": "https://www.espn.com/video/clip/_/id/50132745/what-spark-texans-defense",
-        "publishedAt": "2026-10-08T13:59:54Z",
-        "summary": "DJ BienAime recaps the Texans' defensive struggles and why Head Coach DeMeco Ryans is taking over the play-calling.",
-        "image": "data/news-images/espn-8.jpg",
+        "title": "McCarthy is staying the course as uneven Steelers try to steady themselves vs. the improving Colts",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872985",
+        "publishedAt": "2026-10-08T19:54:28Z",
+        "summary": "— Mike McCarthy spent the weekend after Pittsburgh’s uneven performance in a Thursday night loss to...",
+        "image": "data/news-images/espn-8.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL asks U.S. Supreme Court to take up prediction market case",
-        "url": "https://www.espn.com/nfl/story/_/id/50132618/nfl-supreme-court-kalshi-prediction-markets-regulation",
-        "publishedAt": "2026-10-08T14:36:37Z",
-        "summary": "The NFL urged the U.S. Supreme Court Thursday to take up a hotly contested legal battle over prediction markets.",
+        "title": "Malik Washington's fantasy outlook",
+        "url": "https://www.espn.com/video/clip/_/id/50134818/malik-washington-fantasy-outlook",
+        "publishedAt": "2026-10-08T19:56:18Z",
+        "summary": "Malik Washington's fantasy outlook",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -205,18 +205,18 @@
       {
         "title": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
         "url": "https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms",
-        "publishedAt": "2026-10-08T13:07:04Z",
+        "publishedAt": "2026-10-08T19:33:15Z",
         "summary": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Does Jalen Hurts have a long-term future with the Eagles?",
-        "url": "https://www.espn.com/video/clip/_/id/50132334/does-jalen-hurts-long-term-future-eagles",
-        "publishedAt": "2026-10-08T13:25:38Z",
-        "summary": "Does Jalen Hurts have a long-term future with the Eagles?",
-        "image": "data/news-images/espn-11.jpg",
+        "title": "With confident Penix at QB, Falcons will look to continue turnaround against Ravens",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872993",
+        "publishedAt": "2026-10-08T19:11:28Z",
+        "summary": "— The Atlanta Falcons will be looking to build upon their dramatic turnaround since Michael Penix Jr. took over at quarterback when they play the Baltimore Ravens on Sunday night.",
+        "image": "data/news-images/espn-11.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
