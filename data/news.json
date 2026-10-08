@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:59:51.493Z",
+  "updatedAt": "2026-10-08T07:23:58.009Z",
   "sources": {
     "packers": [
       {
@@ -223,11 +223,38 @@
     ],
     "acme": [
       {
+        "title": "Packers Injury Report: 4 were non-participants on Wednesday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87776/packers-injury-report-4-were-non-participants-on-wednesday",
+        "publishedAt": "2026-10-07T19:57:11-04:00",
+        "summary": "The Green Bay Packers had four players listed as non-participants on their first injury report of the week: left running back Chris Brooks (ankle), guard Aaron Banks (knee/toe), offensive lineman Jager Burton (back) and offensive lineman Jacob Monk (quadricep). The good news here? If the Packers are out all of those offensive linemen, the team [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers sign LB Jack Dingle",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87772/green-bay-packers-sign-lb-jack-dingle",
+        "publishedAt": "2026-10-07T19:44:52-04:00",
+        "summary": "The Green Bay Packers worked out five linebackers on Wednesday, after working out two on Tuesday who were not signed by the team. This time around, the batch produced a signing: former Cincinnati linebacker Jack Dingle has joined the Packers’ practice squad. Green Bay no longer had an off-ball linebacker on their practice squad, as [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Packers’ running back problems are on full display",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87752/the-packers-running-back-problems-are-on-full-display",
+        "publishedAt": "2026-10-07T19:29:11-04:00",
+        "summary": "In an enjoyable turn of events this past Sunday, the Green Bay Packers’ offensive line was completely fine. Through three games, the Buccaneers ranked fourth in the NFL in opponent rushing success rate, creating what should have been a very steep challenge for the running game. This was of little surprise as for much of [&#8230;]",
+        "image": "data/news-images/acme-2.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Kevin Zeitler takes starting right guard reps for Packers on Wednesday",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/87757/kevin-zeitler-takes-starting-right-guard-reps-for-packers-on-wednesday",
         "publishedAt": "2026-10-07T13:55:00-04:00",
         "summary": "Last Sunday, Travis Glover did an admirable job filling in as the Green Bay Packers’ right guard in the team’s win over the Tampa Bay Buccaneers. The offensive line as a whole looked more cohesive than it had through the first three weeks of the season with Glover and veteran acquisition Laken Tomlinson as the [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87754/packers-wr-savion-williams-returns-to-practice-wednesday",
         "publishedAt": "2026-10-07T13:41:04-04:00",
         "summary": "One of the two players who the Green Bay Packers placed on injured reserve before the season with a return designation is officially on his way back. On cutdown day in August, the Packers put second-year wide receiver Savion Williams on injured reserve to open up a roster spot; on Wednesday ahead of week five, [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/87747/packers-vs-bears-week-5-tv-broadcast-map",
         "publishedAt": "2026-10-07T10:30:36-04:00",
         "summary": "At the beginning of the 2026 NFL season, the Week 5 matchup between the Green Bay Packers and Chicago Bears looked set to be one of the biggest regular season games on the schedule. The two teams played three thrilling games in 2025, including a Wild Card matchup that went Chicago’s way after a late [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87734/green-bay-packers-news-zaire-franklin-takes-center-stage",
         "publishedAt": "2026-10-07T10:01:56-04:00",
         "summary": "You can count me among the people who were initially skeptical of the Zaire Franklin acquisition. Brian Gutekunst seems to have had an over-obsession with linebackers ever since De’Vondre Campbell’s out-of-nowhere All-Pro season in 2021, and his move to add Franklin as a replacement for Quay Walker, then reward him with a reworked contract, seemed [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87728/packers-film-room-random-fun-moments-from-a-week-4-win",
         "publishedAt": "2026-10-07T10:00:00-04:00",
         "summary": "I know the vast majority of people have already moved past the Green Bay Packers’ Week 4 win over the Buccaneers and are looking forward to Week 5, but I’m not quite ready to do that yet, because there are still fun things to talk about from Week 4. So let’s take a couple minutes [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87709/packers-work-out-4-including-former-pro-bowl-lb-deion-jones",
         "publishedAt": "2026-10-06T19:36:54-04:00",
         "summary": "The Green Bay Packers worked out four players on Tuesday, and there have been no reports that the team has signed these players — at least yet. Currently, the Packers’ 53-man roster and practice squad are filled, after the team moved linebacker Kristian Welch up to the 53-man roster and signed back running back Damon [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,33 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/87707/packers-send-edgerrin-cooper-to-ir-call-up-kristian-welch",
         "publishedAt": "2026-10-06T16:58:41-04:00",
         "summary": "Once Monday’s medical exams took place, the Green Bay Packers moving linebacker Edgerrin Cooper to injured reserve was only a matter of when, not if, it would take place. The star linebacker tore his Achilles tendon in the Packers’ 17-14 win over the Tampa Bay Buccaneers, and as of Tuesday afternoon he has officially gone [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ slow pace is another sign of offensive struggles",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87702/packers-slow-pace-is-another-sign-of-offensive-struggles",
-        "publishedAt": "2026-10-06T16:00:00-04:00",
-        "summary": "We’ve been tracking the Packers’ pace of play for a while. I wrote about it a couple of times last year, including this midseason piece, and our Paul Noonan was on the case all the way back in 2020. Generally speaking, under Matt LaFleur the Packers have run a pretty slow-paced offense, snapping the ball [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Green Bay’s Week 4 touchdowns",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87665/packers-film-room-green-bays-week-4-touchdowns",
-        "publishedAt": "2026-10-06T15:00:00-04:00",
-        "summary": "The Green Bay Packers got a Christian Watson touchdown for three straight weeks, so I just kind of assumed that was going to keep happening all year. We didn’t get a Watson TD in the team’s week 4 win over the Buccaneers, but we did get a couple other scores I wanted to dig into [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Predict the Packers’ record in NFC North games in 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/87676/predict-the-packers-record-in-nfc-north-games-in-2026",
-        "publishedAt": "2026-10-06T14:45:00-04:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. In Week 5, the Green Bay Packers will play their second game within the NFC North division this season. The first such game did not go [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
