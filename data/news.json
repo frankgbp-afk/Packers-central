@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-09T09:03:12.020Z",
+  "updatedAt": "2026-10-09T16:11:50.885Z",
   "sources": {
     "packers": [
+      {
+        "title": "Jordan Morgan settling back in at left tackle",
+        "url": "https://www.packers.com/news/jordan-morgan-settling-back-in-at-left-tackle-oct-9-2026",
+        "publishedAt": "Fri, 09 Oct 2026 14:00:00 GMT",
+        "summary": "Former Packers first-round pick enjoying return to natural post",
+        "image": "data/news-images/packers-0.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: As challenges go, this is a big one Sunday",
+        "url": "https://www.packers.com/news/inbox-as-challenges-go-this-is-a-big-one-sunday-oct-9-2026",
+        "publishedAt": "Fri, 09 Oct 2026 13:30:00 GMT",
+        "summary": "It’s a trend worth monitoring",
+        "image": "data/news-images/packers-1.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Lambeau Field ready for Packers-Bears game Sunday",
         "url": "https://www.packers.com/news/lambeau-field-ready-for-packers-bears-game-sunday-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 21:45:51 GMT",
         "summary": "Packers debut new Nike Rivalries jerseys as football’s oldest foes clash for the 214th time at Lambeau Field",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "data/news-images/packers-2.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-sign-rb-pierre-strong-jr-to-the-active-roster-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 21:18:02 GMT",
         "summary": "Green Bay also signs LB Jack Dingle to practice squad",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "data/news-images/packers-3.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +43,7 @@
         "url": "https://www.packers.com/news/packers-welcoming-bubba-franks-ryan-longwell-as-featured-alumni-this-week-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 20:58:05 GMT",
         "summary": "Former players to greet fans near Lambeau Field on Saturday and Sunday",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "data/news-images/packers-4.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +52,7 @@
         "url": "https://www.packers.com/news/packers-bears-injury-report-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 20:29:37 GMT",
         "summary": "",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "data/news-images/packers-5.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +61,7 @@
         "url": "https://www.packers.com/news/packers-defense-looks-to-pick-up-where-edgerrin-cooper-left-off-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 14:00:00 GMT",
         "summary": "Green Bay not expecting one person to replace star linebacker",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "data/news-images/packers-6.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +70,7 @@
         "url": "https://www.packers.com/news/inbox-in-this-game-positions-come-second-to-playmakers-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 13:30:00 GMT",
         "summary": "If Packers-Bears isn’t circled on your calendar, you can’t find a pen",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "data/news-images/packers-7.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +79,7 @@
         "url": "https://www.packers.com/news/scott-haskins-of-webster-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 12:00:00 GMT",
         "summary": "Haskins has the Tigers out to a 6-1 record, marking the program’s best start since 2013",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "data/news-images/packers-8.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-offense-must-stay-on-schedule-vs-bears-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 22:51:18 GMT",
         "summary": "Third-down mismatch on paper looms as challenge to overcome",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "data/news-images/packers-9.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-bears-injury-report-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 20:31:25 GMT",
         "summary": "",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "data/news-images/packers-10.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,24 +106,6 @@
         "url": "https://www.packers.com/news/mike-s-mid-week-chat-can-the-packers-stop-the-bears-running-game-oct-7-2026",
         "publishedAt": "Wed, 07 Oct 2026 19:00:00 GMT",
         "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "data/news-images/packers-9.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: He's worth watching",
-        "url": "https://www.packers.com/news/inbox-he-s-worth-watching-oct-7-2026",
-        "publishedAt": "Wed, 07 Oct 2026 13:30:00 GMT",
-        "summary": "Both things can be true",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers vs. Bears | How to watch, stream & listen | Week 5",
-        "url": "https://www.packers.com/news/packers-vs-bears-how-to-watch-stream-listen-week-5-2026",
-        "publishedAt": "Tue, 06 Oct 2026 22:01:38 GMT",
-        "summary": "Green Bay Packers vs. Chicago Bears channel listing, radio & streaming options",
         "image": "data/news-images/packers-11.jpg",
         "source": "Packers.com",
         "icon": "GB"
@@ -113,109 +113,109 @@
     ],
     "espn": [
       {
-        "title": "NFL Week 5 betting: Odds, lines and totals for every game",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals",
-        "publishedAt": "2026-10-09T08:10:19Z",
-        "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
+        "title": "Stephen A. remembers how Mike Ditka 'elevated the NFL'",
+        "url": "https://www.espn.com/video/clip/_/id/50140978/stephen-remembers-how-mike-ditka-elevated-nfl",
+        "publishedAt": "2026-10-09T15:54:41Z",
+        "summary": "Stephen A. remembers how Mike Ditka 'elevated the NFL'",
         "image": "data/news-images/espn-0.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
-        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
-        "publishedAt": "2026-10-09T07:41:29Z",
-        "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+        "title": "Daniel Dopp's Week 5 DraftKings tournament lineup",
+        "url": "https://www.espn.com/video/clip/_/id/50140944/daniel-dopp-week-5-draftkings-tournament-lineup",
+        "publishedAt": "2026-10-09T15:49:23Z",
+        "summary": "Daniel Dopp's Week 5 DraftKings tournament lineup",
         "image": "data/news-images/espn-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-        "publishedAt": "2026-10-09T07:27:21Z",
-        "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+        "title": "Fantasy football: Why now is the ideal time to trade Derrick Henry",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50140857/fantasy-football-trades-value-derrick-henry",
+        "publishedAt": "2026-10-09T15:52:43Z",
+        "summary": "The ageless back is off to a strong start, which presents the opportunity to maximize the return in a deal.",
         "image": "data/news-images/espn-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Undrafted rookie QB Daniels savors Thursday night win vs. Cowboys",
-        "url": "https://www.espn.com/nfl/story/_/id/50138218/undrafted-rookie-qb-daniels-savors-thursday-night-win-vs-cowboys",
-        "publishedAt": "2026-10-09T06:55:56Z",
-        "summary": "Jalon Daniels became the first undrafted rookie starting QB in the common draft era to win a game for a team that entered winless, leading the Bucs to a 24-16 win over the Cowboys.",
+        "title": "Sputtering Jets offense without RB Hall, WR Mitchell vs. Browns",
+        "url": "https://www.espn.com/nfl/story/_/id/50140789/sputtering-jets-offense-rb-hall-wr-mitchell-vs-browns",
+        "publishedAt": "2026-10-09T15:42:07Z",
+        "summary": "The Jets, coming off a historically poor performance, will be without two of their top playmakers in RB Breece Hall and WR Adonai Mitchell vs. the Browns.",
         "image": "data/news-images/espn-3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cowboys' Prescott irked by stadium worker's callout after loss",
-        "url": "https://www.espn.com/nfl/story/_/id/50138082/cowboys-prescott-irked-stadium-worker-call-loss",
-        "publishedAt": "2026-10-09T08:14:15Z",
-        "summary": "Cowboys quarterback Dak Prescott took exception to a stadium worker who yelled \"embarrassing\" to him as he walked to the locker room after Thursday night's 24-16 loss to the Bucs.",
+        "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
+        "url": "https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86",
+        "publishedAt": "2026-10-09T16:00:08Z",
+        "summary": "Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.",
         "image": "data/news-images/espn-4.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Dak addresses 'embarrassing' comment made in AT&T Stadium tunnel",
-        "url": "https://www.espn.com/video/clip/_/id/50138071/dak-addresses-embarrassing-comment-made-att-stadium-tunnel",
-        "publishedAt": "2026-10-09T05:58:38Z",
-        "summary": "Dak addresses 'embarrassing' comment made in AT&T Stadium tunnel",
+        "title": "Can fantasy managers even consider benching Brock Purdy in Week 5?",
+        "url": "https://www.espn.com/video/clip/_/id/50140693/can-fantasy-managers-even-consider-benching-brock-purdy-week-5",
+        "publishedAt": "2026-10-09T15:17:00Z",
+        "summary": "Can fantasy managers even consider benching Brock Purdy in Week 5?",
         "image": "data/news-images/espn-5.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Buccaneers explode in third quarter against Cowboys to get first win",
-        "url": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf",
-        "publishedAt": "2026-10-09T05:23:16Z",
-        "summary": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+        "title": "Why Field Yates still likes Jaylen Warren's fantasy upside",
+        "url": "https://www.espn.com/video/clip/_/id/50140573/why-field-yates-likes-jaylen-warren-fantasy-upside",
+        "publishedAt": "2026-10-09T15:27:01Z",
+        "summary": "Why Field Yates still likes Jaylen Warren's fantasy upside",
         "image": "data/news-images/espn-6.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872980",
-        "publishedAt": "2026-10-09T04:32:27Z",
-        "summary": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
-        "image": "data/news-images/espn-7.png",
+        "title": "Field Yates: Daniel Jones is a 'nonfactor' in fantasy right now",
+        "url": "https://www.espn.com/video/clip/_/id/50140570/daniel-jones-nonfactor-fantasy-right-now",
+        "publishedAt": "2026-10-09T15:39:52Z",
+        "summary": "Field Yates: Daniel Jones is a 'nonfactor' in fantasy right now",
+        "image": "data/news-images/espn-7.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football stock watch: Boston among players rising; Hurts falling",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts",
-        "publishedAt": "2026-10-09T03:40:26Z",
-        "summary": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+        "title": "Why Josh Downs' heavy volume makes him a Week 5 lineup lock for Mike Clay",
+        "url": "https://www.espn.com/video/clip/_/id/50140555/why-josh-downs-heavy-volume-makes-week-5-lineup-lock-mike-clay",
+        "publishedAt": "2026-10-09T15:14:17Z",
+        "summary": "Why Josh Downs' heavy volume makes him a Week 5 lineup lock for Mike Clay",
         "image": "data/news-images/espn-8.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Week 5 TNF highlights: Best plays, moments, touchdowns from Cowboys vs. Bucs",
-        "url": "https://www.espn.com/nfl/story/_/id/50134891/week-5-tnf-highlights-cowboys-buccaneers",
-        "publishedAt": "2026-10-09T04:17:25Z",
-        "summary": "A look at the highlights from Dallas hosting Tampa Bay for \"Thursday Night Football\" to kick off Week 5.",
+        "title": "Why Dopp thinks Denzel Boston's fantasy upside is slightly higher than KC Concepcion's",
+        "url": "https://www.espn.com/video/clip/_/id/50140522/why-dopp-thinks-denzel-boston-fantasy-upside-slightly-higher-kc-concepcions",
+        "publishedAt": "2026-10-09T15:58:02Z",
+        "summary": "Why Dopp thinks Denzel Boston's fantasy upside is slightly higher than KC Concepcion's",
         "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Buccaneers stun Cowboys 24-16 to pick up first win of season",
-        "url": "https://www.espn.com/video/clip/_/id/50137470/buccaneers-stun-cowboys-24-16-pick-first-win-season",
-        "publishedAt": "2026-10-09T04:08:56Z",
-        "summary": "Buccaneers stun Cowboys 24-16 to pick up first win of season",
+        "title": "Why Stephen A. is picking the Commanders to beat the Giants",
+        "url": "https://www.espn.com/video/clip/_/id/50140484/why-stephen-picking-commanders-beat-giants",
+        "publishedAt": "2026-10-09T14:53:41Z",
+        "summary": "Why Stephen A. is picking the Commanders to beat the Giants",
         "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: Sean Payton not a cure-all for Broncos fantasy woes",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-09T04:26:22Z",
-        "summary": "Sean Payton will call the plays for the Broncos' offense, but fantasy managers should temper their expectations.",
+        "title": "Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs",
+        "url": "https://www.espn.com/video/clip/_/id/50140483/cowboys-do-anything-right-bucs",
+        "publishedAt": "2026-10-09T14:32:19Z",
+        "summary": "Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,20 @@
     ],
     "acme": [
       {
+        "title": "Green Bay Packers News: Running back committee remains unsettled",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87814/green-bay-packers-news-running-back-committee-remains-unsettled",
+        "publishedAt": "2026-10-09T09:30:00-04:00",
+        "summary": "Good luck trying to predict which of the Green Bay Packers’ running backs is going to lead the way on any given week at this point. The trio of MarShawn Lloyd, Kaleb Johnson, and Chris Brooks have struggled mightily so far this season, and although each of them had some high points in last Sunday’s [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers sign Pierre Strong Jr. to active roster",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87802/packers-sign-pierre-strong-jr-to-active-roster",
         "publishedAt": "2026-10-08T18:16:06-04:00",
         "summary": "The Green Bay Packers announced on Thursday that they have signed running back Pierre Strong Jr. to the active roster, giving them a fourth option if the team can’t play Chris Brooks on Sunday against the Chicago Bears. Brooks left Week 4 with an ankle injury and hasn&#8217;t practiced with the team since. In his [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-1.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +245,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87788/packers-injury-report-jager-burton-returns-on-thursday",
         "publishedAt": "2026-10-08T16:33:37-04:00",
         "summary": "Green Bay Packers offensive lineman Jager Burton, who, according to head coach Matt LaFleur, is dealing with back spasms, went from a non-participant in Wednesday’s practice to a limited participant in Thursday’s practice. Burton is the only player whose status changed today. Players who remain as non-participants are left guard Aaron Banks (knee/toe), running back [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87783/green-bay-packers-news-baby-steps-for-packers-run-game",
         "publishedAt": "2026-10-08T13:14:44-04:00",
         "summary": "The Packers’ offensive line woes this year are well documented, and they tend to lead the public discourse about the team. Rightfully so. Dive just beyond the surface, though, and the true ouroboros becomes more clear.&#160; A unique combination of intense pass rushing teams, green linemen, and a startlining lack of schematic understanding has made [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87776/packers-injury-report-4-were-non-participants-on-wednesday",
         "publishedAt": "2026-10-07T19:57:11-04:00",
         "summary": "The Green Bay Packers had four players listed as non-participants on their first injury report of the week: left running back Chris Brooks (ankle), guard Aaron Banks (knee/toe), offensive lineman Jager Burton (back) and offensive lineman Jacob Monk (quadricep). The good news here? If the Packers are out all of those offensive linemen, the team [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87772/green-bay-packers-sign-lb-jack-dingle",
         "publishedAt": "2026-10-07T19:44:52-04:00",
         "summary": "The Green Bay Packers worked out five linebackers on Wednesday, after working out two on Tuesday who were not signed by the team. This time around, the batch produced a signing: former Cincinnati linebacker Jack Dingle has joined the Packers’ practice squad. Green Bay no longer had an off-ball linebacker on their practice squad, as [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87752/the-packers-running-back-problems-are-on-full-display",
         "publishedAt": "2026-10-07T19:29:11-04:00",
         "summary": "In an enjoyable turn of events this past Sunday, the Green Bay Packers’ offensive line was completely fine. Through three games, the Buccaneers ranked fourth in the NFL in opponent rushing success rate, creating what should have been a very steep challenge for the running game. This was of little surprise as for much of [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/87757/kevin-zeitler-takes-starting-right-guard-reps-for-packers-on-wednesday",
         "publishedAt": "2026-10-07T13:55:00-04:00",
         "summary": "Last Sunday, Travis Glover did an admirable job filling in as the Green Bay Packers’ right guard in the team’s win over the Tampa Bay Buccaneers. The offensive line as a whole looked more cohesive than it had through the first three weeks of the season with Glover and veteran acquisition Laken Tomlinson as the [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87754/packers-wr-savion-williams-returns-to-practice-wednesday",
         "publishedAt": "2026-10-07T13:41:04-04:00",
         "summary": "One of the two players who the Green Bay Packers placed on injured reserve before the season with a return designation is officially on his way back. On cutdown day in August, the Packers put second-year wide receiver Savion Williams on injured reserve to open up a roster spot; on Wednesday ahead of week five, [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -299,15 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/87747/packers-vs-bears-week-5-tv-broadcast-map",
         "publishedAt": "2026-10-07T10:30:36-04:00",
         "summary": "At the beginning of the 2026 NFL season, the Week 5 matchup between the Green Bay Packers and Chicago Bears looked set to be one of the biggest regular season games on the schedule. The two teams played three thrilling games in 2025, including a Wild Card matchup that went Chicago’s way after a late [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Zaire Franklin takes center stage",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87734/green-bay-packers-news-zaire-franklin-takes-center-stage",
-        "publishedAt": "2026-10-07T10:01:56-04:00",
-        "summary": "You can count me among the people who were initially skeptical of the Zaire Franklin acquisition. Brian Gutekunst seems to have had an over-obsession with linebackers ever since De’Vondre Campbell’s out-of-nowhere All-Pro season in 2021, and his move to add Franklin as a replacement for Quay Walker, then reward him with a reworked contract, seemed [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
