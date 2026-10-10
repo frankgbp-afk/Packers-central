@@ -50,7 +50,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/schedule.json data/season.json
+          git add data/news.json data/schedule.json data/season.json data/opponent.json
           git commit -m "Refresh Packers news and results"
           for attempt in 1 2 3; do
             if git push; then exit 0; fi
