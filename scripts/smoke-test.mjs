@@ -61,4 +61,20 @@ const app=await readFile('app.js','utf8'),scout=await readFile('scout.js','utf8'
  assert(html.includes('Recent form'),'Recent games not rendered');
  console.log('PASS opponent preview, comparisons, news, and form');
 }
+
+// Regression guard: a scouting page without its own stylesheet breaks the entire design.
+const matchupPage=await readFile('matchup.html','utf8');
+const homepage=await readFile('index.html','utf8');
+const stylesheet=await readFile('scout.css','utf8');
+const cacheWorker=await readFile('service-worker.js','utf8');
+for(const [label,page] of [['Matchup',matchupPage],['Home',homepage]]){
+ assert(page.includes('href="scout.css?v='),label+' missing dedicated scouting stylesheet');
+ assert(page.includes('href="styles.css?v='),label+' missing base styles');
+ assert(page.includes('src="scout.js?v='),label+' missing scouting functionality');
+}
+assert(matchupPage.includes('data-page="matchup"'),'Scouting page marker missing');
+assert(stylesheet.includes('@media(max-width:760px)'),'Scouting CSS missing mobile rules');
+assert(cacheWorker.includes("'./scout.css'"),'Service worker must cache scouting CSS');
+console.log('PASS stylesheet wiring, cache registration and mobile CSS safeguards');
+
 console.log('All Packers Central UI smoke tests passed.');
