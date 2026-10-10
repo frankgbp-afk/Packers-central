@@ -1,0 +1,91 @@
+.scout-teaser{background:linear-gradient(115deg,#082d20,#14503a);border:1px solid #25543d;color:white;border-radius:12px;padding:24px 28px;margin:0 0 32px;box-shadow:var(--shadow);overflow:hidden;position:relative}
+.scout-teaser:before{content:"";position:absolute;right:-20px;top:-60px;width:240px;height:240px;border:1px solid rgba(255,255,255,.06);border-radius:50%;pointer-events:none}
+.scout-teaser-header{display:flex;justify-content:space-between;gap:18px;align-items:center;position:relative}
+.scout-teaser-header h2{font:800 41px/.98 'Barlow Condensed';text-transform:uppercase;margin:7px 0}
+.scout-teaser-header p{font-size:11px;color:#c0d7ca;margin:0}
+.scout-teaser-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;border-top:1px solid rgba(255,255,255,.13);margin-top:19px;padding-top:18px;position:relative}
+.scout-teaser-stats>div{padding:0 21px;border-left:1px solid rgba(255,255,255,.14)}
+.scout-teaser-stats>div:first-child{border-left:0;padding-left:0}
+.scout-teaser-stats small{display:block;font-size:10px;color:#b5cebd;text-transform:uppercase;letter-spacing:.05em;font-weight:800}
+.scout-teaser-stats strong{display:block;font:800 40px/1 'Barlow Condensed';margin:7px 0 5px}
+.scout-teaser-stats strong em{font:800 11px 'DM Sans';font-style:normal;color:var(--gold)}
+.scout-teaser-stats span{display:block;font-size:10px;color:var(--gold);font-weight:800}
+.scout-teaser-article{display:flex;align-items:center;gap:13px;text-decoration:none;color:inherit;border-top:1px solid rgba(255,255,255,.13);padding-top:15px;margin-top:18px}
+.scout-teaser-article small{font-size:10px;color:var(--gold);text-transform:uppercase;font-weight:900;white-space:nowrap}
+.scout-teaser-article b{font-size:12px;line-height:1.35;flex:1}
+.scout-teaser-article>span{color:var(--gold)}
+.scout-teaser-fine{font-size:10px;color:#bad4c4;margin:17px 0 0}
+.scout-hero{display:grid;grid-template-columns:minmax(0,1fr) 265px;gap:20px;align-items:center;position:relative;overflow:hidden;border-radius:12px;background:linear-gradient(110deg,#092a1f,#19583c);color:#fff;min-height:310px;padding:34px 38px}
+.scout-hero:after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(120deg,transparent 0 110px,rgba(255,255,255,.018) 110px 111px);pointer-events:none}
+.scout-hero>div{position:relative;z-index:1}
+.scout-hero h2{font:800 clamp(48px,5.5vw,71px)/.89 'Barlow Condensed';text-transform:uppercase;margin:14px 0 18px;letter-spacing:-.025em}
+.scout-hero h2 span{color:var(--gold);font-size:.7em}
+.scout-hero p{font-size:12px;color:#d3e4d7;line-height:1.7}
+.scout-hero-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:25px}
+.scout-outline{border:1px solid rgba(255,255,255,.3);color:white;background:rgba(255,255,255,.05)}
+.scout-hero-graphic{display:flex;align-items:center;justify-content:center;gap:10px}
+.scout-hero-graphic>b{display:grid;place-items:center;width:100px;height:100px;border-radius:50%;background:var(--gold);color:var(--forest);font:900 70px 'Barlow Condensed';transform:skewX(-7deg)}
+.scout-hero-graphic>span{font:800 34px 'Barlow Condensed';color:#a9c5b3}
+.scout-hero-graphic img{width:112px;height:112px;object-fit:contain;filter:drop-shadow(0 12px 18px rgba(0,0,0,.23))}
+.scout-info{display:flex;gap:20px;align-items:baseline;margin:18px 0;color:var(--muted);font-size:11px}
+.scout-info b{font-size:10px;font-weight:900;color:var(--green);white-space:nowrap;text-transform:uppercase;letter-spacing:.07em}
+.scout-info p{margin:0;line-height:1.65}
+.scout-compare{background:var(--paper);border:1px solid var(--line);border-radius:10px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:hidden}
+.scout-comparison-column:first-child{border-right:1px solid var(--line)}
+.scout-team-head{display:flex;align-items:center;gap:12px;background:#eaf0e8;padding:19px 22px}
+.scout-team-head b{display:block;font-size:15px}
+.scout-team-head small{display:block;color:var(--muted);font-size:10px;font-weight:800}
+.scout-team-chip{background:var(--forest);color:var(--gold);border-radius:6px;padding:9px 8px;min-width:54px;text-align:center;font:800 23px 'Barlow Condensed'}
+.scout-team-chip.gold-chip{background:var(--gold);color:var(--forest)}
+.scout-metric{position:relative;padding:17px 22px 19px;min-width:0;border-top:1px solid var(--line)}
+.scout-metric-head{display:flex;justify-content:space-between;gap:10px;align-items:baseline;font-size:10px;text-transform:uppercase;letter-spacing:.04em;font-weight:900;color:var(--muted)}
+.scout-metric-rank{color:var(--green);white-space:nowrap}
+.scout-metric strong{display:block;font:800 44px/1 'Barlow Condensed';margin:9px 0 4px}
+.scout-metric small{font-size:10px;color:var(--muted)}
+.scout-columns{display:grid;grid-template-columns:.85fr 1.15fr;align-items:start;gap:18px;margin-top:24px}
+.scout-columns .season-panel{margin:0}
+.scout-section-hint{font-size:10px;color:var(--muted);margin:-5px 0 14px}
+.scout-result{display:flex;align-items:center;gap:12px;padding:12px 0;border-top:1px solid var(--line)}
+.scout-result .tag{width:29px;min-width:29px;text-align:center;justify-content:center;padding:5px}
+.scout-result-game{flex:1;min-width:0}
+.scout-result-game b,.scout-result-game small{display:block}
+.scout-result-game b{font-size:12px}
+.scout-result-game small{font-size:10px;color:var(--muted)}
+.scout-result>strong{font:800 25px/1 'Barlow Condensed'}
+.scout-headline{display:block;position:relative;border-top:1px solid var(--line);padding:12px 26px 12px 0;text-decoration:none}
+.scout-headline small{display:block;color:var(--green);font-size:9px;text-transform:uppercase;letter-spacing:.08em;font-weight:900;margin-bottom:5px}
+.scout-headline b{display:block;font-size:13px;line-height:1.36}
+.scout-headline span{position:absolute;right:0;top:26px;color:var(--green)}
+.scout-headline:hover b{color:var(--green)}
+.scout-empty{font-size:12px;color:var(--muted);padding:20px 0}
+.scout-empty a{color:var(--green);font-weight:900}
+.score-order{display:block!important;color:var(--muted)!important;white-space:nowrap;font-size:10px!important;margin-top:5px!important}
+.spotlight-score-order{display:block;color:#d3e5d8;font-size:10px;margin-top:5px;letter-spacing:.06em}
+@media(max-width:760px){
+.scout-teaser{padding:20px 17px}
+.scout-teaser-header h2{font-size:30px}
+.scout-teaser-header .button{padding:10px;font-size:10px}
+.scout-teaser-stats>div{padding:0 9px}
+.scout-teaser-stats strong{font-size:30px}
+.scout-teaser-stats small{font-size:9px}
+.scout-teaser-stats span{font-size:9px}
+.scout-teaser-article{display:block}
+.scout-teaser-article small{display:block;margin-bottom:5px}
+.scout-teaser-article span{display:none}
+.scout-hero{grid-template-columns:1fr;gap:20px;padding:25px 21px}
+.scout-hero h2{font-size:50px}
+.scout-hero-graphic{justify-content:flex-start}
+.scout-hero-graphic>b{width:63px;height:63px;font-size:43px}
+.scout-hero-graphic img{width:72px;height:72px}
+.scout-info{display:block}.scout-info b{display:block;margin-bottom:5px}
+.scout-team-head{padding:14px 9px;gap:8px}
+.scout-team-chip{min-width:41px;font-size:18px;padding:8px 4px}
+.scout-team-head b{font-size:11px}
+.scout-metric{padding:13px 10px}
+.scout-metric-head{font-size:9px;gap:5px}
+.scout-metric-rank{font-size:9px}
+.scout-metric strong{font-size:35px}
+.scout-columns{grid-template-columns:1fr}
+.game-result{flex-wrap:wrap}
+.game-result .score-order{display:block!important;width:100%;font-size:9px!important}
+}
