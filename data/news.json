@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:50:13.672Z",
+  "updatedAt": "2026-10-10T07:05:59.372Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,101 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football rankings for Week 5: IDP",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+        "publishedAt": "2026-10-10T03:03:12Z",
+        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+        "image": "data/news-images/espn-0.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 5: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-10-10T03:02:18Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "data/news-images/espn-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 5: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-10-10T03:02:53Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "data/news-images/espn-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 5: D/ST",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+        "publishedAt": "2026-10-10T03:02:34Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "data/news-images/espn-3.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football flex and superflex rankings for Week 5",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-10-10T03:01:14Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+        "image": "data/news-images/espn-4.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 5: Quarterback",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+        "publishedAt": "2026-10-10T03:01:40Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "data/news-images/espn-5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 5: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+        "publishedAt": "2026-10-10T03:01:57Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "data/news-images/espn-6.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings Week 5: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-10-10T02:59:32Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "data/news-images/espn-7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 5: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-10-10T02:41:55Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "data/news-images/espn-8.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Rams DT Aaron Donald practices in full, plans to play MNF",
         "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills",
         "publishedAt": "2026-10-10T00:05:43Z",
         "summary": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "data/news-images/espn-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Fantasy football Week 5 inactives: Kyle Monangai, Lamar Jackson out",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active",
-        "publishedAt": "2026-10-10T00:33:51Z",
+        "publishedAt": "2026-10-10T01:25:41Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "data/news-images/espn-10.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,87 +216,6 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/50116012/fantasy-playbook-projections-lineup-locks-week-5-shadow",
         "publishedAt": "2026-10-09T22:36:03Z",
         "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-        "image": "data/news-images/espn-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers DE Mykel Williams to make season debut vs. Seahawks",
-        "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks",
-        "publishedAt": "2026-10-09T22:16:36Z",
-        "summary": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
-        "image": "data/news-images/espn-3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Expect Bears' Swift to retain RB1 role with Monangai out",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-09T21:52:56Z",
-        "summary": "D'Andre Swift will be the Bears' RB1 with Kyle Monangai out, with Roschon Johnson potentially getting work.",
-        "image": "data/news-images/espn-4.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles will be tested against the Jaguars",
-        "url": "https://www.espn.com/video/clip/_/id/50142927/eagles-tested-jaguars",
-        "publishedAt": "2026-10-09T21:42:20Z",
-        "summary": "After losing Lane Johnson and Cam Jergens, Philadelphia heads to London to face Jacksonville with no Saquon Barkley or DaVonta Smith.",
-        "image": "data/news-images/espn-5.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos OC Davis Webb says 'not ideal' to lose playcalling duties",
-        "url": "https://www.espn.com/nfl/story/_/id/50142757/broncos-oc-davis-webb-says-not-ideal-lose-play-calling-duties",
-        "publishedAt": "2026-10-09T21:45:55Z",
-        "summary": "Broncos offensive coordinator Davis Webb said that \"it's not ideal\" to have been stripped of playcalling duties, but said he plans to \"be the best offensive coordinator I can be.\"",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jordan Mason is expected to return Week 7",
-        "url": "https://www.espn.com/video/clip/_/id/50142595/jordan-mason-expected-return-week-7",
-        "publishedAt": "2026-10-09T20:42:15Z",
-        "summary": "Kevin Seifert breaks down Aaron Jones' increased workload at running back with Mason on IR.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL's longest active Iron Man streak may be in jeopardy",
-        "url": "https://www.espn.com/video/clip/_/id/50142584/nfl-longest-active-iron-man-streak-jeopardy",
-        "publishedAt": "2026-10-09T20:37:27Z",
-        "summary": "Marc Raimondi provides an update on Jake Matthews' groin injury ahead of what would be his 200th consecutive game starting.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Saquon Barkley, DeVonta Smith among Eagles ruled out vs. Jaguars",
-        "url": "https://www.espn.com/nfl/story/_/id/50142553/saquon-barkley-devonta-smith-eagles-players-ruled-london-game-vs-jaguars",
-        "publishedAt": "2026-10-09T20:56:39Z",
-        "summary": "Eagles running back Saquon Barkley, receiver DeVonta Smith, new starting center Drew Kendall, safety Marcus Epps and receiver Hollywood Brown were all ruled out for Sunday's game in London against the Jaguars.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Where to watch NFL London Games: Eagles vs. Jaguars",
-        "url": "https://www.espn.com/nfl/story/_/id/50135197/watch-2026-nfl-london-games-eagles-vs-jaguars",
-        "publishedAt": "2026-10-09T20:00:27Z",
-        "summary": "Eagles vs. Jaguars is a part of the NFL's games in London this season.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bills vs. Rams: Where to watch 'Monday Night Football'",
-        "url": "https://www.espn.com/nfl/story/_/id/50134144/bills-vs-rams-watch-monday-night-football-week-5",
-        "publishedAt": "2026-10-09T19:51:52Z",
-        "summary": "Here's what to know about the Week 5 matchup.",
         "image": "data/news-images/espn-11.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -223,11 +223,29 @@
     ],
     "acme": [
       {
+        "title": "Packers Injury Report: 7 given statuses vs. Bears",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87851/packers-injury-report-7-given-statuses-vs-bears",
+        "publishedAt": "2026-10-09T18:34:47-04:00",
+        "summary": "The Green Bay Packers are officially going to be out running back Chris Brooks (and receiver Savion Williams) against the Chicago Bears on Sunday, according to the Packers’ final injury report of the week. Brooks left Week 4 action with an ankle injury and was a non-participant for all three practices this week. The team [&#8230;]",
+        "image": "data/news-images/acme-0.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The “firsts” of Packers’ top performances against the Bears",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87848/the-firsts-of-packers-top-performances-against-the-bears",
+        "publishedAt": "2026-10-09T16:15:13-04:00",
+        "summary": "Normally I write about the best performances against a particular team in the lead-up to that week’s game. But against an opponent as old as the Bears, I think we should dig a little deeper. The Packers have been playing against the Bears for virtually their entire history and have had great performances throughout that [&#8230;]",
+        "image": "data/news-images/acme-1.webp",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "How the Packers defense overwhelmed Jalon Daniels",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87828/how-the-packers-defense-overwhelmed-jalon-daniels",
         "publishedAt": "2026-10-09T13:00:00-04:00",
         "summary": "Last Sunday, the Green Bay Packers defense bounced back after an abysmal performance in week three by tightening up and overwhelming a lifeless Buccaneers offense. They forced two interceptions on backup quarterback Jalon Daniels, making his first NFL start for the injured Baker Mayfield, and held the Bucs offense to 86 non-scrambling rushing yards. The [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "data/news-images/acme-2.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +254,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87799/why-edgerrin-coopers-absence-is-a-big-deal",
         "publishedAt": "2026-10-09T12:48:03-04:00",
         "summary": "It’s easy to understand that Green Bay Packers off-ball linebacker Edgerrin Cooper was (and still likely is) a budding star, and an incredibly important player for the Packers. You don’t need any fancy numbers or a scout’s eye to pick him out, he’s the kind of player that just looks different. Even among professional athletes, [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "data/news-images/acme-3.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87814/green-bay-packers-news-running-back-committee-remains-unsettled",
         "publishedAt": "2026-10-09T09:30:00-04:00",
         "summary": "Good luck trying to predict which of the Green Bay Packers’ running backs is going to lead the way on any given week at this point. The trio of MarShawn Lloyd, Kaleb Johnson, and Chris Brooks have struggled mightily so far this season, and although each of them had some high points in last Sunday’s [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "data/news-images/acme-4.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87802/packers-sign-pierre-strong-jr-to-active-roster",
         "publishedAt": "2026-10-08T18:16:06-04:00",
         "summary": "The Green Bay Packers announced on Thursday that they have signed running back Pierre Strong Jr. to the active roster, giving them a fourth option if the team can’t play Chris Brooks on Sunday against the Chicago Bears. Brooks left Week 4 with an ankle injury and hasn&#8217;t practiced with the team since. In his [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "data/news-images/acme-5.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87788/packers-injury-report-jager-burton-returns-on-thursday",
         "publishedAt": "2026-10-08T16:33:37-04:00",
         "summary": "Green Bay Packers offensive lineman Jager Burton, who, according to head coach Matt LaFleur, is dealing with back spasms, went from a non-participant in Wednesday’s practice to a limited participant in Thursday’s practice. Burton is the only player whose status changed today. Players who remain as non-participants are left guard Aaron Banks (knee/toe), running back [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "data/news-images/acme-6.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87783/green-bay-packers-news-baby-steps-for-packers-run-game",
         "publishedAt": "2026-10-08T13:14:44-04:00",
         "summary": "The Packers’ offensive line woes this year are well documented, and they tend to lead the public discourse about the team. Rightfully so. Dive just beyond the surface, though, and the true ouroboros becomes more clear.&#160; A unique combination of intense pass rushing teams, green linemen, and a startlining lack of schematic understanding has made [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "data/news-images/acme-7.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87776/packers-injury-report-4-were-non-participants-on-wednesday",
         "publishedAt": "2026-10-07T19:57:11-04:00",
         "summary": "The Green Bay Packers had four players listed as non-participants on their first injury report of the week: left running back Chris Brooks (ankle), guard Aaron Banks (knee/toe), offensive lineman Jager Burton (back) and offensive lineman Jacob Monk (quadricep). The good news here? If the Packers are out all of those offensive linemen, the team [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
+        "image": "data/news-images/acme-8.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -290,24 +308,6 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87772/green-bay-packers-sign-lb-jack-dingle",
         "publishedAt": "2026-10-07T19:44:52-04:00",
         "summary": "The Green Bay Packers worked out five linebackers on Wednesday, after working out two on Tuesday who were not signed by the team. This time around, the batch produced a signing: former Cincinnati linebacker Jack Dingle has joined the Packers’ practice squad. Green Bay no longer had an off-ball linebacker on their practice squad, as [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers’ running back problems are on full display",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87752/the-packers-running-back-problems-are-on-full-display",
-        "publishedAt": "2026-10-07T19:29:11-04:00",
-        "summary": "In an enjoyable turn of events this past Sunday, the Green Bay Packers’ offensive line was completely fine. Through three games, the Buccaneers ranked fourth in the NFL in opponent rushing success rate, creating what should have been a very steep challenge for the running game. This was of little surprise as for much of [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Kevin Zeitler takes starting right guard reps for Packers on Wednesday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/87757/kevin-zeitler-takes-starting-right-guard-reps-for-packers-on-wednesday",
-        "publishedAt": "2026-10-07T13:55:00-04:00",
-        "summary": "Last Sunday, Travis Glover did an admirable job filling in as the Green Bay Packers’ right guard in the team’s win over the Tampa Bay Buccaneers. The offensive line as a whole looked more cohesive than it had through the first three weeks of the season with Glover and veteran acquisition Laken Tomlinson as the [&#8230;]",
         "image": "data/news-images/acme-9.webp",
         "source": "Acme Packing Company",
         "icon": "ACME"
