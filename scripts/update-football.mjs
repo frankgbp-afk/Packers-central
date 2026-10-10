@@ -48,7 +48,7 @@ async function schedule(teamId,phase){
   const data=await json(BASE+'/'+teamId+'/schedule?season='+YEAR+'&seasontype='+phase);
   const items=(data.events||[]).filter(e=>!e.season?.year||Number(e.season.year)===YEAR).map(e=>game(e,phase,teamId)).filter(Boolean);
   if(items.length<1)throw Error('No '+phase+' schedule for '+teamId);
-  return items.sort((a,b)=>(a.kickoff||'').localeCompare(b.kickoff||''));
+  return items.sort((a,b)=>Number(a.week.replace(/\D/g,''))-Number(b.week.replace(/\D/g,'')));
 }
 function summary(games){
   const played=games.filter(g=>g.status==='final'&&g.result&&g.packersScore!==null&&g.opponentScore!==null);
