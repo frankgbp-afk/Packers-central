@@ -118,7 +118,7 @@ async function update(){
   if(leagueResult.status==='rejected')console.warn('League standings:',leagueResult.reason.message);
   if(gamesResult.status==='rejected')console.warn('Opponent schedule:',gamesResult.reason.message);
   if(newsResult.status==='rejected')console.warn('Opponent headlines:',newsResult.reason.message);
-  else console.log('Opponent news response keys:',Object.keys(newsResult.value||{}).join(','));
+  else console.log('Opponent headline feed received.');
   let league=leagueResult.status==='fulfilled'?readLeague(leagueResult.value):{teams:[],complete:false};
   const opp=league.teams.find(t=>t.id===String(next.opponentId))||null;
   const gb=league.teams.find(t=>t.id==='9')||null;

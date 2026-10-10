@@ -7,6 +7,9 @@ on:
       - 'scripts/fetch-data.mjs'
       - 'scripts/update-football.mjs'
       - 'scripts/update-opponent.mjs'
+      - 'scripts/smoke-test.mjs'
+      - 'app.js'
+      - 'scout.js'
       - '.github/workflows/refresh-data.yml'
   schedule:
     - cron: '9,24,39,54 * * * *'
@@ -32,6 +35,8 @@ jobs:
       - name: Validate JavaScript syntax
         run: |
           node --check app.js
+          node --check scout.js
+          node --check scripts/smoke-test.mjs
           node --check scripts/update-football.mjs
           node --check scripts/update-opponent.mjs
           node --check scripts/fetch-data.mjs
@@ -42,6 +47,8 @@ jobs:
       - name: Update news headlines
         if: github.event_name != 'schedule' || github.event.schedule == '18 */3 * * *'
         run: node scripts/fetch-data.mjs
+      - name: Smoke-test site scores and scouting
+        run: node scripts/smoke-test.mjs
       - name: Commit any refreshed feeds
         run: |
           if git diff --quiet -- data/news.json data/schedule.json data/season.json data/opponent.json; then
