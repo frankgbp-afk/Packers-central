@@ -28,6 +28,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Validate JavaScript syntax
+        run: |
+          node --check app.js
+          node --check scripts/update-football.mjs
+          node --check scripts/fetch-data.mjs
       - name: Update scores and standings
         run: node scripts/update-football.mjs
       - name: Update news headlines
@@ -43,4 +48,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json data/schedule.json data/season.json
           git commit -m "Refresh Packers news and results"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Remote moved; trying to integrate changes (attempt $attempt)"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            sleep 2
+          done
+          exit 1

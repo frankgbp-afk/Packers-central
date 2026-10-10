@@ -5,6 +5,8 @@ const BASE='https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams';
 const DIVISION=new Set(['Chicago Bears','Detroit Lions','Minnesota Vikings']);
 const CLUBS=[['Packers','9'],['Bears','3'],['Lions','8'],['Vikings','16']];
 const TZ='America/Chicago';
+// TV assignments from the Packers' published preseason schedule; ESPN takes precedence when available.
+const TV_BY_WEEK={1:'CBS',2:'FOX',3:'Prime Video',4:'FOX',5:'FOX',6:'NBC',7:'FOX',8:'Prime Video',9:'FOX',10:'FOX',12:'Netflix',13:'FOX',14:'NBC',15:'FOX',16:'Netflix',17:'ESPN'};
 async function oldFile(path){try{return JSON.parse(await readFile(path,'utf8'));}catch{return null;}}
 const dateText=iso=>new Intl.DateTimeFormat('en-US',{timeZone:TZ,weekday:'short',month:'short',day:'numeric'}).format(new Date(iso));
 const timeText=iso=>new Intl.DateTimeFormat('en-US',{timeZone:TZ,hour:'numeric',minute:'2-digit',hour12:true}).format(new Date(iso));
@@ -36,7 +38,7 @@ function game(event,phase,teamId){
     opponent:other.team?.displayName||other.team?.name||'Opponent TBD',
     opponentLogo:other.team?.logo||other.team?.logos?.[0]?.href||null,
     date:kickoff?dateText(kickoff):'TBD',time:kickoff?timeText(kickoff):'TBD',
-    network:[...new Set(broadcasts)].join(' / ')||'TBD',
+    network:[...new Set(broadcasts)].join(' / ')||(phase===1?'Packers TV Network':phase===2?TV_BY_WEEK[Number(event.week?.number)]:null)||'TBD',
     venue:comp.venue?.fullName||'TBD',kickoff,
     status:verifiedFinal?'final':state,
     statusDetail:comp.status?.type?.shortDetail||comp.status?.type?.detail||comp.status?.type?.description||event.status?.type?.shortDetail||'',
