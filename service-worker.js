@@ -1,5 +1,5 @@
-const VERSION='packers-central-v12';
-const ASSETS=['./','./index.html','./schedule.html','./season.html','./matchup.html','./hub.html','./styles.css','./scout.css','./app.js','./scout.js','./manifest.webmanifest','./icon.svg'];
+const VERSION='packers-central-v13';
+const ASSETS=['./','./index.html','./schedule.html','./season.html','./matchup.html','./hub.html','./styles.css','./scout.css','./packers-logo.svg','./app.js','./scout.js','./manifest.webmanifest','./icon.svg'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(VERSION).then(c=>c.addAll(ASSETS)));self.skipWaiting();});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(x=>x!==VERSION).map(x=>caches.delete(x)))));self.clients.claim();});
 self.addEventListener('fetch',e=>{

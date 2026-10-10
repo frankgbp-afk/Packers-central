@@ -24,7 +24,7 @@
 .scout-hero-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:25px}
 .scout-outline{border:1px solid rgba(255,255,255,.3);color:white;background:rgba(255,255,255,.05)}
 .scout-hero-graphic{display:flex;align-items:center;justify-content:center;gap:10px}
-.scout-hero-graphic>b{display:grid;place-items:center;width:100px;height:100px;border-radius:50%;background:var(--gold);color:var(--forest);font:900 70px 'Barlow Condensed';transform:skewX(-7deg)}
+
 .scout-hero-graphic>span{font:800 34px 'Barlow Condensed';color:#a9c5b3}
 .scout-hero-graphic img{width:112px;height:112px;object-fit:contain;filter:drop-shadow(0 12px 18px rgba(0,0,0,.23))}
 .scout-info{display:flex;gap:20px;align-items:baseline;margin:18px 0;color:var(--muted);font-size:11px}
@@ -35,7 +35,7 @@
 .scout-team-head{display:flex;align-items:center;gap:12px;background:#eaf0e8;padding:19px 22px}
 .scout-team-head b{display:block;font-size:15px}
 .scout-team-head small{display:block;color:var(--muted);font-size:10px;font-weight:800}
-.scout-team-chip{background:var(--forest);color:var(--gold);border-radius:6px;padding:9px 8px;min-width:54px;text-align:center;font:800 23px 'Barlow Condensed'}
+.scout-team-emblem{width:54px;height:48px;object-fit:contain;flex:none;display:block}.scout-team-chip{background:var(--forest);color:var(--gold);border-radius:6px;padding:9px 8px;min-width:54px;text-align:center;font:800 23px 'Barlow Condensed'}
 .scout-team-chip.gold-chip{background:var(--gold);color:var(--forest)}
 .scout-metric{position:relative;padding:17px 22px 19px;min-width:0;border-top:1px solid var(--line)}
 .scout-metric-head{display:flex;justify-content:space-between;gap:10px;align-items:baseline;font-size:10px;text-transform:uppercase;letter-spacing:.04em;font-weight:900;color:var(--muted)}
@@ -75,11 +75,11 @@
 .scout-hero{grid-template-columns:1fr;gap:20px;padding:25px 21px}
 .scout-hero h2{font-size:50px}
 .scout-hero-graphic{justify-content:flex-start}
-.scout-hero-graphic>b{width:63px;height:63px;font-size:43px}
+
 .scout-hero-graphic img{width:72px;height:72px}
 .scout-info{display:block}.scout-info b{display:block;margin-bottom:5px}
 .scout-team-head{padding:14px 9px;gap:8px}
-.scout-team-chip{min-width:41px;font-size:18px;padding:8px 4px}
+.scout-team-emblem{width:42px;height:38px}.scout-team-chip{min-width:41px;font-size:18px;padding:8px 4px}
 .scout-team-head b{font-size:11px}
 .scout-metric{padding:13px 10px}
 .scout-metric-head{font-size:9px;gap:5px}
@@ -95,4 +95,6 @@
 .scout-team-head b{overflow-wrap:anywhere;line-height:1.2}
 .scout-hero h2{overflow-wrap:break-word}
 .scout-hero-graphic img{max-width:45%;height:auto}
-@media(max-width:420px){.scout-metric-head{align-items:flex-start;flex-wrap:wrap;gap:4px}.scout-metric-head span:first-child{width:100%}.scout-hero h2{font-size:clamp(38px,12vw,50px)}.scout-hero-graphic>b{flex:none}.scout-hero-graphic{overflow:hidden}.scout-teaser-header{align-items:flex-start}.scout-teaser-header .button{flex:none}}
+@media(max-width:420px){.scout-metric-head{align-items:flex-start;flex-wrap:wrap;gap:4px}.scout-metric-head span:first-child{width:100%}.scout-hero h2{font-size:clamp(38px,12vw,50px)}.scout-hero-graphic{overflow:hidden}.scout-teaser-header{align-items:flex-start}.scout-teaser-header .button{flex:none}}
+
+.scout-hero-graphic .scout-packers-logo{background:none;object-fit:contain}

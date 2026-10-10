@@ -12,3 +12,7 @@ Files: index.html, schedule.html, season.html, styles.css, app.js, scripts/updat
 No accounts, API keys, servers, or paid services are required. ESPN's public site API is unofficial and may change; failed fetches leave existing JSON data intact. Injury reports, the roster and transactions link directly to Packers.com rather than showing manually maintained stale information.
 
 Independent fan project. Not affiliated with the Packers, NFL, ESPN or linked publishers.
+
+## Visual identity
+
+Packers Central uses the actual Green Bay Packers oval-G logo, with local SVG assets for the site masthead, matchup graphics and PWA/browser icon. The logo paths are sourced from the [Wikimedia Commons Green Bay Packers logo](https://commons.wikimedia.org/wiki/File:Green_Bay_Packers_logo.svg); Green Bay Packers is a trademark of its owner. This is an independent fan site and is not affiliated with the Packers or the NFL.

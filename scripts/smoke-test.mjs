@@ -77,4 +77,18 @@ assert(stylesheet.includes('@media(max-width:760px)'),'Scouting CSS missing mobi
 assert(cacheWorker.includes("'./scout.css'"),'Service worker must cache scouting CSS');
 console.log('PASS stylesheet wiring, cache registration and mobile CSS safeguards');
 
+const packersSvg=await readFile('packers-logo.svg','utf8');
+const appIcon=await readFile('icon.svg','utf8');
+const baseCss=await readFile('styles.css','utf8');
+assert(packersSvg.includes('viewBox="0 0 172.88213 114.26353"')&&packersSvg.includes('fill="#203731"'),'Missing official Green Bay logo paths');
+assert(appIcon.includes('viewBox="0 0 172.88213 114.26353"'),'App icon must embed the actual Packers logo');
+assert(app.includes('class="brand-mark" src="packers-logo.svg"'),'Site-wide masthead must use Packers logo');
+assert(!app.includes('class="brand-mark" aria-hidden="true">G</span>'),'Old homemade site mark still present');
+assert(scout.includes('class="scout-packers-logo" src="packers-logo.svg"'),'Matchup hero must show the actual Packers logo');
+assert(scout.includes('class="scout-team-emblem" src="packers-logo.svg"'),'Packers comparison must show the actual logo');
+assert(!scout.includes('<b>G</b>'),'Homemade matchup G remains');
+assert(baseCss.includes('.brand-mark{width:69px;height:54px;display:block'),'Masthead logo styling missing');
+for(const [label,page] of [['Home',homepage],['Matchup',matchupPage]])assert(page.includes('v=13'),label+' missing refreshed asset versions');
+assert(cacheWorker.includes("'./packers-logo.svg'"),'Offline logo missing from asset cache');
+console.log('PASS real Packers vector logo throughout site, app icon, and offline assets');
 console.log('All Packers Central UI smoke tests passed.');
