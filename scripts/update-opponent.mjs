@@ -113,11 +113,12 @@ async function update(){
   const [leagueResult,gamesResult,newsResult]=await Promise.allSettled([
     request(STANDINGS),
     request(API+'/teams/'+encodeURIComponent(next.opponentId)+'/schedule?season='+SEASON+'&seasontype=2'),
-    request(API+'/teams/'+encodeURIComponent(next.opponentId)+'/news')
+    request(API+'/news?team='+encodeURIComponent(next.opponentId))
   ]);
   if(leagueResult.status==='rejected')console.warn('League standings:',leagueResult.reason.message);
   if(gamesResult.status==='rejected')console.warn('Opponent schedule:',gamesResult.reason.message);
   if(newsResult.status==='rejected')console.warn('Opponent headlines:',newsResult.reason.message);
+  else console.log('Opponent news response keys:',Object.keys(newsResult.value||{}).join(','));
   let league=leagueResult.status==='fulfilled'?readLeague(leagueResult.value):{teams:[],complete:false};
   const opp=league.teams.find(t=>t.id===String(next.opponentId))||null;
   const gb=league.teams.find(t=>t.id==='9')||null;
