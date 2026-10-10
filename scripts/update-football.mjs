@@ -36,6 +36,8 @@ function game(event,phase,teamId){
     week:(phase===1?'PRE ':phase===3?'POST ':'WK ')+(event.week?.number||'?'),
     homeAway:own.homeAway==='home'?'VS':'AT',
     opponent:other.team?.displayName||other.team?.name||'Opponent TBD',
+    opponentId:String(other.team?.id||''),
+    opponentAbbr:String(other.team?.abbreviation||''),
     opponentLogo:other.team?.logo||other.team?.logos?.[0]?.href||null,
     date:kickoff?dateText(kickoff):'TBD',time:kickoff?timeText(kickoff):'TBD',
     network:[...new Set(broadcasts)].join(' / ')||(phase===1?'Packers TV Network':phase===2?TV_BY_WEEK[Number(event.week?.number)]:null)||'TBD',
