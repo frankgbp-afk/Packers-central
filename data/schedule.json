@@ -6,7 +6,7 @@
     {
       "id": "401873275",
       "phase": "Preseason",
-      "week": "PRE 2",
+      "week": "PRE 1",
       "homeAway": "AT",
       "opponent": "Pittsburgh Steelers",
       "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
@@ -25,7 +25,7 @@
     {
       "id": "401873613",
       "phase": "Preseason",
-      "week": "PRE 3",
+      "week": "PRE 2",
       "homeAway": "AT",
       "opponent": "Denver Broncos",
       "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
@@ -44,7 +44,7 @@
     {
       "id": "401874102",
       "phase": "Preseason",
-      "week": "PRE 4",
+      "week": "PRE 3",
       "homeAway": "VS",
       "opponent": "Arizona Cardinals",
       "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
@@ -59,6 +59,34 @@
       "opponentScore": 38,
       "result": "W",
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401874102"
+    },
+    {
+      "phase": "Regular Season",
+      "week": "WK 11",
+      "bye": true,
+      "date": "Bye week",
+      "time": "No game",
+      "status": "bye",
+      "kickoff": null
+    },
+    {
+      "id": "401873176",
+      "phase": "Regular Season",
+      "week": "WK 18",
+      "homeAway": "VS",
+      "opponent": "Detroit Lions",
+      "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+      "date": "TBD",
+      "time": "TBD",
+      "network": "TBD",
+      "venue": "Lambeau Field",
+      "kickoff": null,
+      "status": "scheduled",
+      "statusDetail": "TBD",
+      "packersScore": null,
+      "opponentScore": null,
+      "result": null,
+      "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     },
     {
       "id": "401872927",
@@ -251,15 +279,6 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873060"
     },
     {
-      "phase": "Regular Season",
-      "week": "WK 11",
-      "bye": true,
-      "date": "Bye week",
-      "time": "No game",
-      "status": "bye",
-      "kickoff": null
-    },
-    {
       "id": "401873079",
       "phase": "Regular Season",
       "week": "WK 12",
@@ -372,26 +391,7 @@
       "opponentScore": null,
       "result": null,
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873171"
-    },
-    {
-      "id": "401873176",
-      "phase": "Regular Season",
-      "week": "WK 18",
-      "homeAway": "VS",
-      "opponent": "Detroit Lions",
-      "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-      "date": "Sat, Jan 9",
-      "time": "11:00 PM",
-      "network": "TBD",
-      "venue": "Lambeau Field",
-      "kickoff": "2027-01-10T05:00:00.000Z",
-      "status": "scheduled",
-      "statusDetail": "TBD",
-      "packersScore": null,
-      "opponentScore": null,
-      "result": null,
-      "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-10T20:57:32.437Z"
+  "updatedAt": "2026-10-10T20:59:04.643Z"
 }
