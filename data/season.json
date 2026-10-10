@@ -1,20 +1,46 @@
 {
   "season": 2026,
-  "regularSeason": {"wins":0,"losses":0,"ties":0,"divisionWins":0,"divisionLosses":0,"divisionTies":0,"pointsFor":0,"pointsAgainst":0,"streak":"—"},
-  "prediction": {"record":"—","divisionFinish":"—","playoffFinish":"—","belief":"Set this before Week 1.","concern":"Set this before Week 1.","locked":false},
+  "source": "ESPN NFL",
+  "regularSeason": {
+    "wins": 2,
+    "losses": 2,
+    "ties": 0,
+    "divisionWins": 0,
+    "divisionLosses": 1,
+    "divisionTies": 0,
+    "pointsFor": 73,
+    "pointsAgainst": 105,
+    "streak": "W1"
+  },
   "standings": [
-    {"team":"Packers","wins":0,"losses":0,"ties":0,"packers":true},
-    {"team":"Bears","wins":0,"losses":0,"ties":0},
-    {"team":"Lions","wins":0,"losses":0,"ties":0},
-    {"team":"Vikings","wins":0,"losses":0,"ties":0}
+    {
+      "team": "Vikings",
+      "wins": 4,
+      "losses": 0,
+      "ties": 0,
+      "packers": false
+    },
+    {
+      "team": "Bears",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "packers": false
+    },
+    {
+      "team": "Packers",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "packers": true
+    },
+    {
+      "team": "Lions",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "packers": false
+    }
   ],
-  "watchlist": [
-    {"name":"Matthew Golden","position":"WR","note":"Track the Year 2 jump, target share and explosive plays.","stat":"Stats begin Week 1"},
-    {"name":"Anthony Belton","position":"OL","note":"Track his role, starts and how the offensive line settles around him.","stat":"Stats begin Week 1"},
-    {"name":"Colin Oliver","position":"EDGE","note":"Track pressure production, snaps and whether the breakout carries into Sundays.","stat":"Stats begin Week 1"},
-    {"name":"Edgerrin Cooper","position":"LB","note":"Track tackles, impact plays and overall Year 3 development.","stat":"Stats begin Week 1"}
-  ],
-  "injuries": [],
-  "notes": [],
-  "results": []
+  "updatedAt": "2026-10-10T20:57:32.438Z"
 }

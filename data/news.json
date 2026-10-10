@@ -1,13 +1,22 @@
 {
-  "updatedAt": "2026-10-10T18:34:57.134Z",
+  "updatedAt": "2026-10-10T20:57:32.496Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers place RB Chris Brooks on injured reserve",
+        "url": "https://www.packers.com/news/packers-place-rb-chris-brooks-on-injured-reserve-oct-10-2026",
+        "publishedAt": "Sat, 10 Oct 2026 20:00:00 GMT",
+        "summary": "General Manager Brian Gutekunst announced the transaction Saturday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/nkqwlwblhv027uxrackw.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Despite difficult injuries, Packers still in position to get better",
         "url": "https://www.packers.com/news/despite-difficult-injuries-packers-still-in-position-to-get-better-oct-10-2026",
         "publishedAt": "Sat, 10 Oct 2026 14:00:00 GMT",
         "summary": "Timeline is different from last season, which provides hope",
-        "image": "data/news-images/packers-0.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/dx5wlhjyzu5ydt6zqe8t.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -16,7 +25,7 @@
         "url": "https://www.packers.com/news/inbox-this-is-the-game-it-s-always-been-the-game-oct-10-2026",
         "publishedAt": "Sat, 10 Oct 2026 13:00:00 GMT",
         "summary": "The Packers must stop the run Sunday and win on third downs",
-        "image": "data/news-images/packers-1.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/n6cjk8sftj3tnkqa27yw.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -25,7 +34,7 @@
         "url": "https://www.packers.com/news/packers-list-three-questionable-two-doubtful-vs-bears-week-5-injury-report",
         "publishedAt": "Fri, 09 Oct 2026 19:32:40 GMT",
         "summary": "DT Javon Hargrave (toe) added to injury report, questionable for Sunday",
-        "image": "data/news-images/packers-2.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/kimrsbg5dbgzzqrj0n9m.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -34,7 +43,7 @@
         "url": "https://www.packers.com/news/statement-from-the-green-bay-packers-oct-9-2026",
         "publishedAt": "Fri, 09 Oct 2026 16:54:47 GMT",
         "summary": "",
-        "image": "data/news-images/packers-3.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rbutdwynwnjj3pmhgib5.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -43,7 +52,7 @@
         "url": "https://www.packers.com/news/jordan-morgan-settling-back-in-at-left-tackle-oct-9-2026",
         "publishedAt": "Fri, 09 Oct 2026 14:00:00 GMT",
         "summary": "Former Packers first-round pick enjoying return to natural post",
-        "image": "data/news-images/packers-4.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/c6q7wd35va1pdiepe1c9.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -52,7 +61,7 @@
         "url": "https://www.packers.com/news/inbox-as-challenges-go-this-is-a-big-one-sunday-oct-9-2026",
         "publishedAt": "Fri, 09 Oct 2026 13:30:00 GMT",
         "summary": "It’s a trend worth monitoring",
-        "image": "data/news-images/packers-5.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ir2jyy5jntzdebbhs7ba.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -61,7 +70,7 @@
         "url": "https://www.packers.com/news/lambeau-field-ready-for-packers-bears-game-sunday-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 21:45:51 GMT",
         "summary": "Packers debut new Nike Rivalries jerseys as football’s oldest foes clash for the 214th time at Lambeau Field",
-        "image": "data/news-images/packers-6.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ta6svs0a2k7mzbppfujm.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -70,7 +79,7 @@
         "url": "https://www.packers.com/news/packers-sign-rb-pierre-strong-jr-to-the-active-roster-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 21:18:02 GMT",
         "summary": "Green Bay also signs LB Jack Dingle to practice squad",
-        "image": "data/news-images/packers-7.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ilkw6phw272f1swc32nu.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -79,7 +88,7 @@
         "url": "https://www.packers.com/news/packers-welcoming-bubba-franks-ryan-longwell-as-featured-alumni-this-week-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 20:58:05 GMT",
         "summary": "Former players to greet fans near Lambeau Field on Saturday and Sunday",
-        "image": "data/news-images/packers-8.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/tnqdxqmi7fvahbglwpm2.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -88,7 +97,7 @@
         "url": "https://www.packers.com/news/packers-bears-injury-report-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 20:29:37 GMT",
         "summary": "",
-        "image": "data/news-images/packers-9.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fgr1vykxrzsvzmcb6cms.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -97,27 +106,63 @@
         "url": "https://www.packers.com/news/packers-defense-looks-to-pick-up-where-edgerrin-cooper-left-off-oct-8-2026",
         "publishedAt": "Thu, 08 Oct 2026 14:00:00 GMT",
         "summary": "Green Bay not expecting one person to replace star linebacker",
-        "image": "data/news-images/packers-10.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: In this game, positions come second to playmakers",
-        "url": "https://www.packers.com/news/inbox-in-this-game-positions-come-second-to-playmakers-oct-8-2026",
-        "publishedAt": "Thu, 08 Oct 2026 13:30:00 GMT",
-        "summary": "If Packers-Bears isn’t circled on your calendar, you can’t find a pen",
-        "image": "data/news-images/packers-11.jpg",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/j9qjsiytr7lu5nvqsri2.png",
         "source": "Packers.com",
         "icon": "GB"
       }
     ],
     "espn": [
       {
+        "title": "Rams: Myles Garrett making 'good progress,' but no return timeline",
+        "url": "https://www.espn.com/nfl/story/_/id/50150638/rams-say-myles-garrett-making-good-progress-no-return-line",
+        "publishedAt": "2026-10-10T20:51:09Z",
+        "summary": "Los Angeles Rams defensive end Myles Garrett is \"making good progress\" in his recovery from knee surgery, head coach Sean McVay said, but the team is unlikely to open his 21-day practice window next week.",
+        "image": "https://a.espncdn.com/photo/2026/0911/r1714767_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots place veteran WR Mack Hollins on IR with calf injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50150455/patriots-place-veteran-wr-mack-hollins-ir-calf-injury",
+        "publishedAt": "2026-10-10T20:56:14Z",
+        "summary": "The Patriots placed veteran wide receiver Mack Hollins on injured reserve Saturday with a calf injury.",
+        "image": "https://a.espncdn.com/photo/2026/1010/r1728851_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Odell Beckham Jr. joins Vikings roster, status unclear",
+        "url": "https://www.espn.com/nfl/story/_/id/50149803/source-odell-beckham-jr-joins-vikings-roster-status-unclear",
+        "publishedAt": "2026-10-10T20:46:04Z",
+        "summary": "While the Vikings elevated receiver Odell Beckham Jr. from the practice squad for Sunday's game, a source said, it's not yet decided if he'll play.",
+        "image": "https://a.espncdn.com/photo/2026/1007/r1727376_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Steelers place WR Michael Pittman Jr. on IR with foot injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50149634/steelers-placing-wr-pittman-injured-reserve",
+        "publishedAt": "2026-10-10T19:50:54Z",
+        "summary": "The Pittsburgh Steelers placed wide receiver Michael Pittman Jr. (foot) on injured reserve, the team announced on Saturday.",
+        "image": "https://a.espncdn.com/photo/2026/0914/r1716707_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bills rule out Ed Oliver, Joshua Palmer, wait on WR DJ Moore",
+        "url": "https://www.espn.com/nfl/story/_/id/50149505/bills-rule-ed-oliver-joshua-palmer-wait-wr-dj-moore",
+        "publishedAt": "2026-10-10T19:28:09Z",
+        "summary": "Bills wide receiver DJ Moore returned to practice in a noncontact jersey and will be designated as questionable for \"Monday Night Football\" against the Rams. Buffalo has ruled out wide receiver Joshua Palmer and defensive tackle Ed Oliver.",
+        "image": "https://a.espncdn.com/photo/2026/0930/r1724190_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Colts place DE Arden Key on IR with hamstring injury",
         "url": "https://www.espn.com/nfl/story/_/id/50148833/colts-place-de-arden-key-ir-hamstring-injury",
         "publishedAt": "2026-10-10T18:01:12Z",
         "summary": "Colts defensive end Arden Key has been placed on injured reserve with a hamstring injury, meaning he will miss at least four games before returning to the active roster.",
-        "image": "data/news-images/espn-0.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1010/r1728748_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -126,7 +171,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50148005/sources-cardinals-finalizing-deal-trade-wr-marvin-harrison-jr",
         "publishedAt": "2026-10-10T17:44:50Z",
         "summary": "The Cardinals are finalizing a deal to trade Marvin Harrison Jr., sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-        "image": "data/news-images/espn-1.jpg",
+        "image": "https://a.espncdn.com/photo/2025/0115/r1439000_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -135,7 +180,7 @@
         "url": "https://www.espn.com/fantasy/football/story/_/id/50147794/draftkings-nfl-dfs-values-week-5",
         "publishedAt": "2026-10-10T14:46:25Z",
         "summary": "Build a winning DFS lineup with our DraftKings NFL Week 5 cheat sheet identifying the players you want to spend up for, the teams to stack, the value picks to grab and the players you need to avoid.",
-        "image": "data/news-images/espn-2.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1010/r1728666_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -144,7 +189,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50147669/sources-ravens-held-cam-jurgens-physical-trade-eagles",
         "publishedAt": "2026-10-10T15:03:34Z",
         "summary": "As the Ravens and Eagles were preparing to agree to a trade that would send Cam Jurgens to Baltimore, the two sides made immediate plans for the center to undergo a physical in Philadelphia before any deal was finalized, league sources told ESPN.",
-        "image": "data/news-images/espn-3.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1007/r1727423_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -153,7 +198,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50133043/week-5-predictions-upsets-fantasy-sleepers-stats-2026",
         "publishedAt": "2026-10-10T10:40:06Z",
         "summary": "Big performances for Brock Bowers, Travon Walker and Luther Burden III? The Giants pulling an upset? And an under-the-radar RB emerging this week in fantasy?",
-        "image": "data/news-images/espn-4.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1008/r1727870_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -162,7 +207,7 @@
         "url": "https://www.espn.com/nfl/story/_/id/50144125/seattle-seahawks-defense-49ers-offense-nfc-west-week-5",
         "publishedAt": "2026-10-10T12:27:21Z",
         "summary": "Seattle's defense stole the show the past two times these teams met. But the 49ers and Brock Purdy are on a roll heading into Week 5.",
-        "image": "data/news-images/espn-5.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1010/r1728494_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -171,63 +216,45 @@
         "url": "https://www.espn.com/nfl/story/_/id/50139238/bengals-joe-burrow-dolphins-offensive-identity",
         "publishedAt": "2026-10-10T10:00:10Z",
         "summary": "The Bengals put Burrow under center but ultimately went back to what the QB knows best. What's next?",
-        "image": "data/news-images/espn-6.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "How wild-card game sent Bears, Packers in opposite directions",
-        "url": "https://www.espn.com/nfl/story/_/id/50140859/green-bay-packers-chicago-bears-jordan-love-caleb-williams",
-        "publishedAt": "2026-10-10T10:00:01Z",
-        "summary": "Ever since Chicago sent Green Bay home, the Bears have taken flight and the Packers can't find their footing.",
-        "image": "data/news-images/espn-7.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Texans, Titans face off desperately seeking first win after 0-4 starts",
-        "url": "https://www.espn.com/nfl/story/_/id/50134036/texans-titans-0-4-matchup-desperate-win",
-        "publishedAt": "2026-10-10T10:00:01Z",
-        "summary": "Tennessee coach Robert Saleh and Houston coach DeMeco Ryans put friendship aside in battle of winless teams.",
-        "image": "data/news-images/espn-8.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 5: IDP",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-        "publishedAt": "2026-10-10T03:03:12Z",
-        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "data/news-images/espn-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 5: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-10-10T03:02:18Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-10.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 5: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-10-10T03:02:53Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "data/news-images/espn-11.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1009/r1728182_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
+        "title": "Packers place RB Chris Brooks on injured reserve",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87884/packers-place-rb-chris-brooks-on-injured-reserve",
+        "publishedAt": "2026-10-10T16:14:36-04:00",
+        "summary": "The Green Bay Packers announced on Saturday that they have placed running back Chris Brooks, who was leading the backfield in snaps this season until his ankle injury, on the injured reserve. The Packers have already backfilled his position on the team with the addition of Pierre Strong Jr., who was brought up from the [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2295100266.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Bears at Packers, Week 5: Opponent Preview",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87866/bears-at-packers-week-5-opponent-preview",
+        "publishedAt": "2026-10-10T15:25:16-04:00",
+        "summary": "The Chicago Bears (3-1) come to Lambeau as a 2.5- to 3-point favorite, the Bears’ first time favored in Green Bay in 20 years. Caleb Williams (Grade 2 hamstring) is listed as questionable, so Tyson Bagent will likely start. Ben Johnson has won with three different quarterbacks this season, and the Bears’ defense has held [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2255629453.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Week 4 Interceptions and a game-clinching pressure",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87831/packers-film-room-week-4-interceptions-and-a-game-clinching-pressure",
+        "publishedAt": "2026-10-10T15:00:00-04:00",
+        "summary": "The Green Bay Packers intercepted Tampa Bay Buccaneers QB Jalon Daniels two times in week four and we covered one of them briefly in another article. They nearly had a third interception to end the game but it was overturned to incomplete in replay. It’s still worth breaking down and mentioning. Today we’ll go a [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/Cooper-interception.webp?quality=90&#038;strip=all&#038;crop=8.75,0,82.25,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
         "title": "Packers fans expect a losing record in NFC North games",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/87862/packers-fans-expect-a-losing-record-in-nfc-north-games",
         "publishedAt": "2026-10-10T14:00:00-04:00",
         "summary": "The Green Bay Packers play their second divisional game this Sunday against the Chicago Bears. After losing to the Minnesota Vikings on the road in week one, Green Bay currently has an 0-1 record in NFC North games, and this week will go a long way to helping determine whether the team will remain in [&#8230;]",
-        "image": "data/news-images/acme-0.webp",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296337047.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -236,7 +263,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/87758/packers-vs-bears-predictions-week-5-picks",
         "publishedAt": "2026-10-10T12:58:57-04:00",
         "summary": "The Green Bay Packers have a chance to exorcise some recent demons on Sunday afternoon. In Week 5, they will face the Chicago Bears, their oldest rivals and a team that mounted massive comeback wins in two of the three meetings between the franchises during the 2025 season. The third of those games, of course, [&#8230;]",
-        "image": "data/news-images/acme-1.webp",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2255757603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -245,7 +272,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87851/packers-injury-report-7-given-statuses-vs-bears",
         "publishedAt": "2026-10-09T18:34:47-04:00",
         "summary": "The Green Bay Packers are officially going to be out running back Chris Brooks (and receiver Savion Williams) against the Chicago Bears on Sunday, according to the Packers’ final injury report of the week. Brooks left Week 4 action with an ankle injury and was a non-participant for all three practices this week. The team [&#8230;]",
-        "image": "data/news-images/acme-2.webp",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2297808590.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -254,7 +281,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87848/the-firsts-of-packers-top-performances-against-the-bears",
         "publishedAt": "2026-10-09T16:15:13-04:00",
         "summary": "Normally I write about the best performances against a particular team in the lead-up to that week’s game. But against an opponent as old as the Bears, I think we should dig a little deeper. The Packers have been playing against the Bears for virtually their entire history and have had great performances throughout that [&#8230;]",
-        "image": "data/news-images/acme-3.webp",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2237503269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -263,7 +290,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87828/how-the-packers-defense-overwhelmed-jalon-daniels",
         "publishedAt": "2026-10-09T13:00:00-04:00",
         "summary": "Last Sunday, the Green Bay Packers defense bounced back after an abysmal performance in week three by tightening up and overwhelming a lifeless Buccaneers offense. They forced two interceptions on backup quarterback Jalon Daniels, making his first NFL start for the injured Baker Mayfield, and held the Bucs offense to 86 non-scrambling rushing yards. The [&#8230;]",
-        "image": "data/news-images/acme-4.webp",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2298022986.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -272,7 +299,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87799/why-edgerrin-coopers-absence-is-a-big-deal",
         "publishedAt": "2026-10-09T12:48:03-04:00",
         "summary": "It’s easy to understand that Green Bay Packers off-ball linebacker Edgerrin Cooper was (and still likely is) a budding star, and an incredibly important player for the Packers. You don’t need any fancy numbers or a scout’s eye to pick him out, he’s the kind of player that just looks different. Even among professional athletes, [&#8230;]",
-        "image": "data/news-images/acme-5.webp",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296349605.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -281,34 +308,7 @@
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87814/green-bay-packers-news-running-back-committee-remains-unsettled",
         "publishedAt": "2026-10-09T09:30:00-04:00",
         "summary": "Good luck trying to predict which of the Green Bay Packers’ running backs is going to lead the way on any given week at this point. The trio of MarShawn Lloyd, Kaleb Johnson, and Chris Brooks have struggled mightily so far this season, and although each of them had some high points in last Sunday’s [&#8230;]",
-        "image": "data/news-images/acme-6.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers sign Pierre Strong Jr. to active roster",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87802/packers-sign-pierre-strong-jr-to-active-roster",
-        "publishedAt": "2026-10-08T18:16:06-04:00",
-        "summary": "The Green Bay Packers announced on Thursday that they have signed running back Pierre Strong Jr. to the active roster, giving them a fourth option if the team can’t play Chris Brooks on Sunday against the Chicago Bears. Brooks left Week 4 with an ankle injury and hasn&#8217;t practiced with the team since. In his [&#8230;]",
-        "image": "data/news-images/acme-7.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Jager Burton returns on Thursday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87788/packers-injury-report-jager-burton-returns-on-thursday",
-        "publishedAt": "2026-10-08T16:33:37-04:00",
-        "summary": "Green Bay Packers offensive lineman Jager Burton, who, according to head coach Matt LaFleur, is dealing with back spasms, went from a non-participant in Wednesday’s practice to a limited participant in Thursday’s practice. Burton is the only player whose status changed today. Players who remain as non-participants are left guard Aaron Banks (knee/toe), running back [&#8230;]",
-        "image": "data/news-images/acme-8.webp",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Baby steps for Packers run game",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87783/green-bay-packers-news-baby-steps-for-packers-run-game",
-        "publishedAt": "2026-10-08T13:14:44-04:00",
-        "summary": "The Packers’ offensive line woes this year are well documented, and they tend to lead the public discourse about the team. Rightfully so. Dive just beyond the surface, though, and the true ouroboros becomes more clear.&#160; A unique combination of intense pass rushing teams, green linemen, and a startlining lack of schematic understanding has made [&#8230;]",
-        "image": "data/news-images/acme-9.webp",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2298366345.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
