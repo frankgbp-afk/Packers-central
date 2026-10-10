@@ -24,8 +24,10 @@ function game(event,phase,teamId){
   const ownScore=num(own.score),oppScore=num(other.score);
   const verifiedFinal=state==='final'&&ownScore!==null&&oppScore!==null;
   const result=verifiedFinal?(ownScore>oppScore?'W':ownScore<oppScore?'L':'T'):null;
-  const broadcasts=[...(comp.broadcasts||[]).flatMap(b=>b.names||[b.name].filter(Boolean)),...(comp.geoBroadcasts||[]).map(b=>b.media?.shortName||b.media?.name).filter(Boolean)];
-  const kickoff=event.date&&Number.isFinite(new Date(event.date).getTime())?new Date(event.date).toISOString():null;
+  const broadcasts=[...(comp.broadcasts||[]).flatMap(b=>b.names||[b.name].filter(Boolean)),...(event.broadcasts||[]).flatMap(b=>b.names||[b.name].filter(Boolean)),...(comp.geoBroadcasts||[]).map(b=>b.media?.shortName||b.media?.name).filter(Boolean),comp.broadcast,event.broadcast].filter(Boolean);
+  const rawKickoff=event.date&&Number.isFinite(new Date(event.date).getTime())?new Date(event.date).toISOString():null;
+  const placeholder=phase===2&&Number(event.week?.number)===18&&state==='scheduled'&&rawKickoff&&timeText(rawKickoff)==='11:00 PM';
+  const kickoff=placeholder?null:rawKickoff;
   return {
     id:String(event.id),
     phase:phase===1?'Preseason':phase===3?'Postseason':'Regular Season',
@@ -86,6 +88,8 @@ async function run(){
     schedule('9',3).catch(e=>{console.warn('Postseason:',e.message);return [];})
   ]);
   if(reg.length<16||reg.length>18)throw Error('Incomplete ESPN regular schedule: '+reg.length+'. No existing files changed.');
+  // ESPN indexes preseason weeks 2–4 when including the Hall of Fame week.
+  if(pre.length===3&&pre.every(g=>/^PRE [234]$/.test(g.week)))pre.forEach(g=>g.week='PRE '+(Number(g.week.slice(4))-1));
   const division=await Promise.all(CLUBS.map(async ([team,id])=>{
     try{
       const games=id==='9'?reg:await schedule(id,2);
