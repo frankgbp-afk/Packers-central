@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-10-11T19:35:31.154Z",
+  "updatedAt": "2026-10-11T23:32:30.217Z",
   "sources": {
     "packers": [
       {
-        "title": "Live Chat: Packers vs. Bears | Week 5",
-        "url": "https://www.packers.com/news/live-chat-packers-vs-bears-week-5-2026",
-        "publishedAt": "Sun, 11 Oct 2026 22:00:00 GMT",
-        "summary": "Follow the Green Bay Packers vs. Chicago Bears game with live updates from Lambeau Field.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/g7nlhbfg1twxbkidq3m5.png",
+        "title": "Game recap: 5 takeaways from Packers' victory over Bears",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-bears-week-5-2026",
+        "publishedAt": "Sun, 11 Oct 2026 22:31:25 GMT",
+        "summary": "Much-needed win comes with another tough injury on defense",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/wvltbhryplehqtc4r9wo.png",
         "source": "Packers.com",
         "icon": "GB"
       },
       {
-        "title": "Packers lead Bears 23-7 after three quarters",
+        "title": "Packers defeat Bears, 31-7",
         "url": "https://www.packers.com/news/in-game-updates-week-5-bears-2026",
         "publishedAt": "Sun, 11 Oct 2026 21:00:00 GMT",
-        "summary": "Christian Watson hauls in 53-yard touchdown on third-and-22",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bdn4zckvpls0qvbxlbuc.png",
+        "summary": "Offense makes big plays, defense gets five takeaways",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rxjbnhfv5cdjta4uzaoj.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -35,6 +35,15 @@
         "publishedAt": "Sun, 11 Oct 2026 15:30:00 GMT",
         "summary": "DT Anthony Campbell will not play vs. Chicago",
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xnrcojcjugghnohchdyt.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Live Chat: Packers vs. Bears | Week 5",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-bears-week-5-2026",
+        "publishedAt": "Sun, 11 Oct 2026 13:00:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. Chicago Bears game with live updates from Lambeau Field.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/g7nlhbfg1twxbkidq3m5.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -100,128 +109,146 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/c6q7wd35va1pdiepe1c9.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: As challenges go, this is a big one Sunday",
-        "url": "https://www.packers.com/news/inbox-as-challenges-go-this-is-a-big-one-sunday-oct-9-2026",
-        "publishedAt": "Fri, 09 Oct 2026 13:30:00 GMT",
-        "summary": "It’s a trend worth monitoring",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ir2jyy5jntzdebbhs7ba.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Sirianni's call leads to dramatic winning kick by Jaguars' Little",
-        "url": "https://www.espn.com/nfl/story/_/id/50159690/sirianni-call-leads-dramatic-winning-kick-jaguars-little",
-        "publishedAt": "2026-10-11T19:24:11Z",
-        "summary": "Eagles coach Nick Sirianni took responsibility for his handling of the closing moments of Sunday's dramatic 19-17 loss to the Jaguars in London.",
-        "image": "https://a.espncdn.com/photo/2026/1011/r1729317_1296x729_16-9.jpg",
+        "title": "Denver Broncos vs. Los Angeles Chargers: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50162176/game-highlights",
+        "publishedAt": "2026-10-11T23:30:40Z",
+        "summary": "Denver Broncos vs. Los Angeles Chargers: Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/6dc325ce-5cb5-45d2-9a33-7c08138786f3/6dc325ce-5cb5-45d2-9a33-7c08138786f3.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Texans RB David Montgomery ruled out with groin injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50159624/texans-rb-david-montgomery-ruled-groin-injury",
-        "publishedAt": "2026-10-11T19:14:53Z",
-        "summary": "Texans running back David Montgomery suffered a groin injury against the Titans and was ruled out.",
-        "image": "https://a.espncdn.com/photo/2026/0913/r1716145_1296x729_16-9.jpg",
+        "title": "David Bailey delivers breakthrough performance in Jets' win",
+        "url": "https://www.espn.com/nfl/story/_/id/50162150/david-bailey-delivers-breakthrough-performance-jets-win",
+        "publishedAt": "2026-10-11T23:29:06Z",
+        "summary": "Desperate to get back in the win column on Sunday, the New York Jets were lifted 23-year-old rookie David Bailey, who delivered his breakthrough performance, recording three sacks and eight quarterback pressures, in a 17-12 win over the Cleveland Browns.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729467_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football Week 5 inactives: Lamar Jackson out; Zay Flowers, DJ Moore questionable",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50116111/fantasy-football-injuries-nfl-week-5-inactive-active",
-        "publishedAt": "2026-10-11T19:11:37Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "https://a.espncdn.com/photo/2026/1009/r1728264_576x324_16-9.jpg",
+        "title": "Packers maul Bears, then fire back at Burden for 'quit' talk",
+        "url": "https://www.espn.com/nfl/story/_/id/50162146/packers-maul-bears-fire-back-burden-quit-talk",
+        "publishedAt": "2026-10-11T23:26:38Z",
+        "summary": "Zaire Franklin had some strong words for Luther Burden -- even if he didn't mention him by name-- after the Packers' 31-7 win over the Bears at Lambeau Field.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729387_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Eric Moody lays out his concerns with the Eagles backfield",
-        "url": "https://www.espn.com/video/clip/_/id/50159374/eric-moody-lays-concerns-eagles-backfield",
-        "publishedAt": "2026-10-11T18:24:47Z",
-        "summary": "Eric Moody lays out his concerns with the Eagles backfield",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_fantasy_eagles_backfield/dm_261011_fantasy_eagles_backfield.jpg",
+        "title": "49ers lose WR Deebo Samuel to hamstring injury vs. Seahawks",
+        "url": "https://www.espn.com/nfl/story/_/id/50161984/49ers-lose-wr-deebo-samuel-hamstring-injury-vs-seahawks",
+        "publishedAt": "2026-10-11T23:11:28Z",
+        "summary": "The 49ers ruled out Deebo Samuel due to a hamstring injury in the third quarter, leaving San Francisco with just three healthy wideouts to finish Sunday's game vs. the Seahawks.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729462_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cam Little's 57-yard FG gives Jaguars 19-17 win over Eagles in wild finish in London",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872981",
-        "publishedAt": "2026-10-11T19:30:27Z",
-        "summary": "— Cam Little grew up playing soccer and watching Premier League games every weekend.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872981.png?templateId=espn.applewatch.awayhome.1",
+        "title": "C.J. Stroud excited for 'dynamic playmaker' Marvin Harrison Jr. to join Texans",
+        "url": "https://www.espn.com/video/clip/_/id/50161844/cj-stroud-excited-dynamic-playmaker-marvin-harrison-jr-join-texans",
+        "publishedAt": "2026-10-11T23:13:35Z",
+        "summary": "C.J. Stroud excited for 'dynamic playmaker' Marvin Harrison Jr. to join Texans",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/ss_20261011_190246702_36939811153/ss_20261011_190246702_36939811153.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Week 5 NFL highlights: Best plays, moments, touchdowns, more",
-        "url": "https://www.espn.com/nfl/story/_/id/50156554/week-5-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-10-11T18:07:22Z",
-        "summary": "Check out the top plays from Week 5 from around the NFL.",
-        "image": "https://a.espncdn.com/photo/2026/1011/r1729291_608x342_16-9.jpg",
+        "title": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
+        "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
+        "publishedAt": "2026-10-11T23:12:50Z",
+        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729458_2_608x342_16-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Eric Moody is extremely bullish on Parker Washington moving forward",
-        "url": "https://www.espn.com/video/clip/_/id/50159261/why-eric-moody-extremely-bullish-parker-washington-moving-forward",
-        "publishedAt": "2026-10-11T18:03:48Z",
-        "summary": "Why Eric Moody is extremely bullish on Parker Washington moving forward",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_fantasy_parker_washington/dm_261011_fantasy_parker_washington.jpg",
+        "title": "Tracking Jaguars CB/WR Travis Hunter's 2026 season: How did he do vs. Eagles?",
+        "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
+        "publishedAt": "2026-10-11T23:00:55Z",
+        "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
+        "image": "https://a.espncdn.com/photo/2026/0927/r1722730_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns WR KC Concepcion suffers head injury after illegal hit",
-        "url": "https://www.espn.com/nfl/story/_/id/50159137/browns-wr-kc-concepcion-suffers-head-injury-illegal-hit",
-        "publishedAt": "2026-10-11T18:29:26Z",
-        "summary": "Browns rookie wide receiver KC Concepcion sustained a head injury in the first quarter of the team's game against the Jets and was ruled out.",
-        "image": "https://a.espncdn.com/photo/2026/1011/r1729282_1296x729_16-9.jpg",
+        "title": "Week 5 winners and losers: Drake Maye, Jaylen Warren dominate; Jonathan Taylor struggles",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50160964/nfl-week-5-fantasy-football-winners-losers-injuries-rankings-more",
+        "publishedAt": "2026-10-11T23:27:22Z",
+        "summary": "Drake Maye and Jaylen Warren came up big in Week 5, while Jonathan Taylor and Chase Brown had disappointing days.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729403_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 5: Big takeaways, questions and fantasy spin from Sunday's games",
-        "url": "https://www.espn.com/nfl/story/_/id/50127290/week-5-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-10-11T18:03:23Z",
-        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 5.",
-        "image": "https://a.espncdn.com/photo/2026/1011/r1729233_608x342_16-9.jpg",
+        "title": "Bears QB Caleb Williams 'close' to returning, Ben Johnson says",
+        "url": "https://www.espn.com/nfl/story/_/id/50161771/bears-qb-caleb-williams-close-returning-ben-johnson-says",
+        "publishedAt": "2026-10-11T23:22:58Z",
+        "summary": "Following Sunday's loss to the Packers, Bears coach Ben Johnson said quarterback Caleb Williams is close to returning, which could be as soon as Week 6 when the Bears play the Falcons in Atlanta.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729445_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Vikings TE T.J. Hockenson suffers concussion against Saints",
-        "url": "https://www.espn.com/nfl/story/_/id/50158965/vikings-te-tj-hockenson-suffers-concussion-saints",
-        "publishedAt": "2026-10-11T18:30:53Z",
-        "summary": "The Vikings' injury-ravaged offense absorbed another blow when tight end T.J. Hockenson suffered a concussion on the second play of their game against the Saints.",
-        "image": "https://a.espncdn.com/photo/2026/1011/r1729276_1296x729_16-9.jpg",
+        "title": "Kyler Murray's vintage performance leads Vikings past Saints",
+        "url": "https://www.espn.com/nfl/story/_/id/50161627/kyler-murray-vintage-performance-leads-vikings-saints",
+        "publishedAt": "2026-10-11T23:10:08Z",
+        "summary": "Kyler Murray produced a vintage performance Sunday, scrambling more times than he has in a game since 2020, in leading the Vikings to victory.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729437_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Philadelphia Eagles vs. Jacksonville Jaguars: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50158828/game-highlights",
-        "publishedAt": "2026-10-11T17:26:18Z",
-        "summary": "Philadelphia Eagles vs. Jacksonville Jaguars: Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1011/dadc26f9-7154-4976-b0b9-6003d60d921a/dadc26f9-7154-4976-b0b9-6003d60d921a.jpg",
+        "title": "Raiders' Fernando Mendoza makes NFL debut late in loss to Pats",
+        "url": "https://www.espn.com/nfl/story/_/id/50161581/raiders-qb-fernando-mendoza-makes-nfl-regular-season-debut-late-loss-patriots",
+        "publishedAt": "2026-10-11T23:09:05Z",
+        "summary": "No. 1 pick Fernando Mendoza made his NFL regular-season debut Sunday with the Raiders trailing the Patriots by 28 points late in the fourth quarter.",
+        "image": "https://a.espncdn.com/photo/2026/1011/r1729438_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaguars rule out LT Anton Harrison with apparent knee injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50158493/jaguars-rule-lt-anton-harrison-apparent-knee-injury",
-        "publishedAt": "2026-10-11T17:15:32Z",
-        "summary": "Jaguars left tackle Anton Harrison has been ruled out of Sunday's game against the Eagles after suffering an apparent knee injury in the second half.",
-        "image": "https://a.espncdn.com/photo/2026/1011/r1729236_1296x729_16-9.jpg",
+        "title": "IIs Joe Burrow back to his best after fantasy Week 5?",
+        "url": "https://www.espn.com/video/clip/_/id/50161573/iis-joe-burrow-back-best-fantasy-week-5",
+        "publishedAt": "2026-10-11T22:26:16Z",
+        "summary": "Is Joe Burrow back to his best after fantasy Week 5?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1011/dm_261011_Watchfolder_Joe_Burrow_FFIA/dm_261011_Watchfolder_Joe_Burrow_FFIA.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Week 5 Snap Counts: Kaleb Johnson slides",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/87915/packers-week-5-snap-counts-kaleb-johnson-slides",
+        "publishedAt": "2026-10-11T17:16:46-04:00",
+        "summary": "The Green Bay Packers beat the Chicago Bears 31-7. It was very enjoyable. We should do this every weekend. Beyond the win, though, let’s look at the Packers’ snap counts to see what is staying the same and what is changing as the season unfolds. For the most part, we know what this squad is, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299718707.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers fear Javon Hargrave tore his Achilles",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87916/packers-fear-javon-hargrave-tore-his-achilles",
+        "publishedAt": "2026-10-11T16:57:16-04:00",
+        "summary": "Green Bay Packers head coach Matt LaFleur opened up his press conference on Sunday by stating that the win over the Chicago Bears was “bittersweet,” as it didn’t “look good” for defensive lineman Javon Hargrave. Hargrave went down late against the Bears in garbage time and was carted off the field. When asked for more [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299209157.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Bears Final Score: Jordan Love dismantles Chicago with deep ball in 31-7 win",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/87904/packers-vs-bears-final-score-jordan-love-dismantles-chicago-with-deep-ball-in-31-7-win",
+        "publishedAt": "2026-10-11T16:07:57-04:00",
+        "summary": "Maybe facing the Chicago Bears really was what the doctor ordered after all. On Sunday in Week 5, and for the first time all season, the Green Bay Packers looked like a team capable of contending in 2026. For all of his downplaying of any personal animosity against Ben Johnson, Matt LaFleur kept sticking with [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299710042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers vs. Bears Week 5 Game Discussion",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/87876/packers-vs-bears-week-5-game-discussion",
@@ -282,33 +309,6 @@
         "publishedAt": "2026-10-10T14:00:00-04:00",
         "summary": "The Green Bay Packers play their second divisional game this Sunday against the Chicago Bears. After losing to the Minnesota Vikings on the road in week one, Green Bay currently has an 0-1 record in NFC North games, and this week will go a long way to helping determine whether the team will remain in [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296337047.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL predictions: Packers look for revenge over Bears for playoff loss",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/87758/packers-vs-bears-predictions-week-5-picks",
-        "publishedAt": "2026-10-10T12:58:57-04:00",
-        "summary": "The Green Bay Packers have a chance to exorcise some recent demons on Sunday afternoon. In Week 5, they will face the Chicago Bears, their oldest rivals and a team that mounted massive comeback wins in two of the three meetings between the franchises during the 2025 season. The third of those games, of course, [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2255757603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: 7 given statuses vs. Bears",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87851/packers-injury-report-7-given-statuses-vs-bears",
-        "publishedAt": "2026-10-09T18:34:47-04:00",
-        "summary": "The Green Bay Packers are officially going to be out running back Chris Brooks (and receiver Savion Williams) against the Chicago Bears on Sunday, according to the Packers’ final injury report of the week. Brooks left Week 4 action with an ankle injury and was a non-participant for all three practices this week. The team [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2297808590.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The “firsts” of Packers’ top performances against the Bears",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87848/the-firsts-of-packers-top-performances-against-the-bears",
-        "publishedAt": "2026-10-09T16:15:13-04:00",
-        "summary": "Normally I write about the best performances against a particular team in the lead-up to that week’s game. But against an opponent as old as the Bears, I think we should dig a little deeper. The Packers have been playing against the Bears for virtually their entire history and have had great performances throughout that [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2237503269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }

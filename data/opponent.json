@@ -38,7 +38,7 @@
       "scoringOffense": 20.8,
       "scoringDefense": 22.4,
       "offenseRank": 24,
-      "defenseRank": 14
+      "defenseRank": 15
     }
   },
   "recentGames": [
@@ -81,11 +81,35 @@
   ],
   "articles": [
     {
-      "title": "NFL Week 5 arrivals: Maxx Crosby, Craig Woodson honor New England legends",
+      "title": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
       "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
-      "publishedAt": "2026-10-11T16:25:16Z",
+      "publishedAt": "2026-10-11T23:12:50Z",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "image": "https://a.espncdn.com/photo/2026/1011/r1729230_608x342_16-9.png",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729458_2_608x342_16-9.png",
+      "source": "ESPN"
+    },
+    {
+      "title": "NFL trade deadline grades: Marvin Harrison Jr. to Texans, Cam Jurgens to Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "publishedAt": "2026-10-11T22:27:18Z",
+      "summary": "Will Marvin Harrison Jr. boost Houston's offense? Can Cam Jurgens fill the Ravens' hole at center? We're grading NFL trades ahead of November's deadline.",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729431_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "Inside the NFL's wild endings and why coaches need to adapt",
+      "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback",
+      "publishedAt": "2026-10-11T21:44:30Z",
+      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728178_1296x729_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "2026 NFL trade deadline updates: Marvin Harrison Jr., Cam Jurgens on the move",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "publishedAt": "2026-10-11T20:56:40Z",
+      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Cards sending Marvin Harrison Jr. to the Texans.",
+      "image": "https://a.espncdn.com/photo/2026/1007/r1727417_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -103,31 +127,7 @@
       "summary": "Todd Archer reports on the Cowboys' 24-16 loss to the Buccaneers ahead of their matchup with the Packers in Week 6.",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/fb14426061654023ba4aa2e06d05523a909/fb14426061654023ba4aa2e06d05523a909.jpg",
       "source": "ESPN"
-    },
-    {
-      "title": "Inside the NFL's wild endings and why coaches need to adapt",
-      "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback",
-      "publishedAt": "2026-10-09T17:31:51Z",
-      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728178_1296x729_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs",
-      "url": "https://www.espn.com/video/clip/_/id/50140483/cowboys-do-anything-right-bucs",
-      "publishedAt": "2026-10-09T14:32:19Z",
-      "summary": "Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_102753403_3689694/ss_20261009_102753403_3689694.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Chris Canty: This is a 'historically bad loss' for the Cowboys",
-      "url": "https://www.espn.com/video/clip/_/id/50139616/historically-bad-loss-cowboys",
-      "publishedAt": "2026-10-09T12:28:01Z",
-      "summary": "Chris Canty: This is a 'historically bad loss' for the Cowboys",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_081758602_3689645/ss_20261009_081758602_3689645.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-11T21:12:17.096Z"
+  "updatedAt": "2026-10-11T23:32:30.163Z"
 }
