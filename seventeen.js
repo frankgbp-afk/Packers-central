@@ -22,7 +22,7 @@ const clean=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':
 const newState=()=>({stage:'intro',team:null,year:null,roster:{},teamUsed:false,yearUsed:false,selected:null,filter:'ALL',search:'',result:null});
 let game=newState(),database={},ready=false,filteredPlayers=[];
 function save(){try{localStorage.setItem(KEY,JSON.stringify(game))}catch(e){}}
-function restore(){try{const old=JSON.parse(localStorage.getItem(KEY)||'null');if(!old||!['intro','board','complete','result'].includes(old.stage))return;game={...newState(),...old,roster:old.roster||{}};if(game.stage==='board'&&(!database[game.year]||!database[game.year][game.team]))game=newState()}catch(e){game=newState()}}
+function restore(){try{const old=JSON.parse(localStorage.getItem(KEY)||'null');if(!old||!['intro','board','complete','result'].includes(old.stage))return;game={...newState(),...old,roster:old.roster||{}};if(game.stage==='board'&&game.team!==null&&(!database[game.year]||!database[game.year][game.team]))game=newState()}catch(e){game=newState()}}
 const filled=()=>SLOTS.filter(s=>!!game.roster[s]).length;
 const openSlots=()=>SLOTS.filter(s=>!game.roster[s]);
 function eligible(pos){return openSlots().filter(s=>s==='FLEX'?['RB','WR','TE'].includes(pos):s.startsWith(pos))}
