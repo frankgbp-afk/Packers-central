@@ -137,3 +137,24 @@
 @media(max-width:1040px){.draft-heading-record{display:none}.draft-layout{grid-template-columns:minmax(0,1.3fr) minmax(255px,.85fr);gap:14px}.draft-panel{padding:20px}.draft-roster-panel{padding:17px}.draft-search-row{align-items:stretch;flex-direction:column}.draft-pos-filters{width:100%}.draft-pos-filters button{flex:1}}
 @media(max-width:700px){.draft-heading{min-height:0;padding:27px 23px;border-radius:10px;margin-bottom:15px}.draft-heading h1{font-size:clamp(43px,11vw,66px)}.draft-heading p{font-size:12px}.draft-layout{grid-template-columns:1fr;gap:0}.draft-roster-panel{position:static;margin-bottom:20px}.draft-main{order:0}.draft-roster-panel{order:1}.draft-panel{padding:18px;border-radius:11px;margin-bottom:14px}.draft-welcome{padding:30px 19px}.draft-rules{gap:16px}.draft-rules strong{font-size:37px}.draft-rules span{font-size:9px}.draft-draw-match{gap:10px;padding:17px 0}.draft-logo{width:70px;height:70px}.draft-draw-match h2{font-size:clamp(31px,8vw,43px)}.draft-draw-match strong{font-size:30px}.draft-rerolls{gap:8px;margin-top:15px}.draft-rerolls button{padding:10px;gap:8px;min-height:70px}.draft-rerolls button>span:first-child{height:29px;width:29px;font-size:20px}.draft-rerolls button small{font-size:9px}.draft-player-results{max-height:510px}.draft-result-top{padding:20px 18px}.draft-grade{width:66px;height:66px;font-size:40px}.draft-week-grid{grid-template-columns:repeat(6,minmax(0,1fr))}.draft-analysis{gap:8px}.draft-result-actions{flex-direction:column}.draft-result-actions button{width:100%}.draft-pick-confirm{align-items:flex-start}.draft-slot-options{margin-left:0;width:100%}.draft-slot-options>span{text-align:left}}
 @media(prefers-reduced-motion:reduce){.draft-site button,.draft-toast,.draft-progress span{transition:none}}
+
+/* Roster stays alongside the board on desktop; on phones, a compact
+   seven-position readout sits directly between the draw and player choices. */
+.draft-draw,.draft-pick-confirm{scroll-margin-top:88px}
+.draft-mini-roster{display:none}
+@media(max-width:700px){
+ .draft-mini-roster{display:block;margin:0 0 14px;padding:15px;background:#0d3527;
+  color:#f5f8f3;border:1px solid #2f674c;border-radius:11px}
+ .draft-mini-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:10px}
+ .draft-mini-head strong{font-size:10px;font-weight:900;letter-spacing:.11em;color:#dcebdd}
+ .draft-mini-head span{font-size:10px;font-weight:800;color:#f3bf49;white-space:nowrap}
+ .draft-mini-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
+ .draft-mini-slot{min-width:0;min-height:55px;padding:8px 7px;border-radius:6px;border:1px solid rgba(255,255,255,.12);background:#1b4938}
+ .draft-mini-slot b{display:block;font-size:10px;line-height:1.25;font-weight:900;color:#f5c75b}
+ .draft-mini-slot span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  overflow-wrap:anywhere;line-height:1.25;font-size:10px;margin-top:5px;color:#e1eee3}
+ .draft-mini-slot.available{background:#123729;border-style:dashed;border-color:rgba(219,238,223,.25)}
+ .draft-mini-slot.available span{color:#96bcab;font-weight:800;font-size:9px;letter-spacing:.08em}
+ .draft-mini-slot.filled{border-color:rgba(246,193,70,.48)}
+}
+@media(max-width:360px){.draft-mini-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
