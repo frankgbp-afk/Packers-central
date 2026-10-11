@@ -74,7 +74,7 @@ for(const [label,page] of [['Matchup',matchupPage],['Home',homepage]]){
 }
 assert(matchupPage.includes('data-page="matchup"'),'Scouting page marker missing');
 assert(stylesheet.includes('@media(max-width:760px)'),'Scouting CSS missing mobile rules');
-assert(cacheWorker.includes("'./scout.css'"),'Service worker must cache scouting CSS');
+assert(cacheWorker.includes("'./scout.css?v=14'"),'Service worker must cache current scouting CSS');
 console.log('PASS stylesheet wiring, cache registration and mobile CSS safeguards');
 
 
