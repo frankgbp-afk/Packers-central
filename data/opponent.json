@@ -1,82 +1,82 @@
 {
   "season": 2026,
-  "opponentId": "3",
-  "opponent": "Chicago Bears",
-  "opponentAbbr": "CHI",
-  "gameId": "401872990",
-  "week": "WK 5",
-  "kickoff": "2026-10-11T17:00:00.000Z",
+  "opponentId": "6",
+  "opponent": "Dallas Cowboys",
+  "opponentAbbr": "DAL",
+  "gameId": "401873007",
+  "week": "WK 6",
+  "kickoff": "2026-10-19T00:20:00.000Z",
   "statsSource": "ESPN NFL standings (regular season)",
   "scoringBasis": "Points per game (regular season). Scoring defense: opponent points allowed per game; lower is better.",
   "hasLeagueRanks": true,
   "teams": {
     "opponent": {
-      "id": "3",
-      "name": "Chicago Bears",
-      "abbreviation": "CHI",
-      "games": 4,
-      "wins": 3,
-      "losses": 1,
+      "id": "6",
+      "name": "Dallas Cowboys",
+      "abbreviation": "DAL",
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
       "ties": 0,
-      "pointsFor": 112,
-      "pointsAgainst": 65,
-      "scoringOffense": 28,
-      "scoringDefense": 16.3,
-      "offenseRank": 8,
-      "defenseRank": 4
+      "pointsFor": 138,
+      "pointsAgainst": 136,
+      "scoringOffense": 27.6,
+      "scoringDefense": 27.2,
+      "offenseRank": 7,
+      "defenseRank": 26
     },
     "packers": {
       "id": "9",
       "name": "Green Bay Packers",
       "abbreviation": "GB",
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "losses": 2,
       "ties": 0,
-      "pointsFor": 73,
-      "pointsAgainst": 105,
-      "scoringOffense": 18.3,
-      "scoringDefense": 26.3,
-      "offenseRank": 28,
-      "defenseRank": 23
+      "pointsFor": 104,
+      "pointsAgainst": 112,
+      "scoringOffense": 20.8,
+      "scoringDefense": 22.4,
+      "offenseRank": 24,
+      "defenseRank": 14
     }
   },
   "recentGames": [
     {
-      "date": "2026-10-04T17:00Z",
-      "opponent": "New York Jets",
-      "opponentAbbr": "NYJ",
-      "homeAway": "VS",
-      "result": "W",
-      "pointsFor": 23,
-      "pointsAgainst": 12
-    },
-    {
-      "date": "2026-09-29T00:15Z",
-      "opponent": "Philadelphia Eagles",
-      "opponentAbbr": "PHI",
-      "homeAway": "VS",
-      "result": "W",
-      "pointsFor": 27,
-      "pointsAgainst": 7
-    },
-    {
-      "date": "2026-09-20T17:00Z",
-      "opponent": "Minnesota Vikings",
-      "opponentAbbr": "MIN",
+      "date": "2026-10-09T00:15Z",
+      "opponent": "Tampa Bay Buccaneers",
+      "opponentAbbr": "TB",
       "homeAway": "VS",
       "result": "L",
-      "pointsFor": 3,
-      "pointsAgainst": 9
+      "pointsFor": 16,
+      "pointsAgainst": 24
     },
     {
-      "date": "2026-09-13T17:00Z",
-      "opponent": "Carolina Panthers",
-      "opponentAbbr": "CAR",
+      "date": "2026-10-04T17:00Z",
+      "opponent": "Houston Texans",
+      "opponentAbbr": "HOU",
       "homeAway": "AT",
       "result": "W",
-      "pointsFor": 59,
-      "pointsAgainst": 37
+      "pointsFor": 34,
+      "pointsAgainst": 30
+    },
+    {
+      "date": "2026-09-27T20:25Z",
+      "opponent": "Baltimore Ravens",
+      "opponentAbbr": "BAL",
+      "homeAway": "VS",
+      "result": "L",
+      "pointsFor": 31,
+      "pointsAgainst": 34
+    },
+    {
+      "date": "2026-09-20T20:25Z",
+      "opponent": "Washington Commanders",
+      "opponentAbbr": "WSH",
+      "homeAway": "VS",
+      "result": "W",
+      "pointsFor": 37,
+      "pointsAgainst": 20
     }
   ],
   "articles": [
@@ -89,45 +89,45 @@
       "source": "ESPN"
     },
     {
-      "title": "NFL Week 5 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50133043/week-5-predictions-upsets-fantasy-sleepers-stats-2026",
-      "publishedAt": "2026-10-10T10:40:06Z",
-      "summary": "Big performances for Brock Bowers, Travon Walker and Luther Burden III? The Giants pulling an upset? And an under-the-radar RB emerging this week in fantasy?",
-      "image": "https://a.espncdn.com/photo/2026/1008/r1727870_608x342_16-9.jpg",
+      "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
+      "url": "https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86",
+      "publishedAt": "2026-10-09T20:56:57Z",
+      "summary": "Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.",
+      "image": "https://a.espncdn.com/photo/2016/0613/r92315_1296x729_16-9.jpg",
       "source": "ESPN"
     },
     {
-      "title": "How wild-card game sent Bears, Packers in opposite directions",
-      "url": "https://www.espn.com/nfl/story/_/id/50140859/green-bay-packers-chicago-bears-jordan-love-caleb-williams",
-      "publishedAt": "2026-10-10T10:00:01Z",
-      "summary": "Ever since Chicago sent Green Bay home, the Bears have taken flight and the Packers can't find their footing.",
-      "image": "https://a.espncdn.com/photo/2026/1009/r1728277_608x342_16-9.jpg",
+      "title": "Why the Cowboys' loss to the Bucs had 'no explanation'",
+      "url": "https://www.espn.com/video/clip/_/id/50142038/why-cowboys-loss-bucs-had-no-explanation",
+      "publishedAt": "2026-10-09T19:10:21Z",
+      "summary": "Todd Archer reports on the Cowboys' 24-16 loss to the Buccaneers ahead of their matchup with the Packers in Week 6.",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/fb14426061654023ba4aa2e06d05523a909/fb14426061654023ba4aa2e06d05523a909.jpg",
       "source": "ESPN"
     },
     {
-      "title": "Caleb Williams listed as questionable for Sunday's game",
-      "url": "https://www.espn.com/video/clip/_/id/50143888/caleb-williams-listed-questionable-sunday-game",
-      "publishedAt": "2026-10-10T02:05:17Z",
-      "summary": "Courtney Cronin discusses Caleb Williams' status ahead of Sunday's game against the Packers.",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_16x9_Bears_IA-/dm_261009_16x9_Bears_IA-.jpg",
+      "title": "Inside the NFL's wild endings and why coaches need to adapt",
+      "url": "https://www.espn.com/nfl/story/_/id/50135925/wild-endings-cowboys-ravens-touchback",
+      "publishedAt": "2026-10-09T17:31:51Z",
+      "summary": "Scoring too early and kicking the ball into the end zone can be costly, as the Cowboys learned.",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728178_1296x729_16-9.jpg",
       "source": "ESPN"
     },
     {
-      "title": "Bears RB Monangai out, QB Williams now questionable vs. Packers",
-      "url": "https://www.espn.com/nfl/story/_/id/50142140/bears-rb-monangai-qb-williams-now-questionable-vs-packers",
-      "publishedAt": "2026-10-09T19:36:31Z",
-      "summary": "The Bears have ruled RB Kyle Monangai out for Sunday's matchup against the Packers, while QB Caleb Williams is questionable after being a limited participant in Friday's practice.",
-      "image": "https://a.espncdn.com/photo/2026/1007/r1727238_600x400_3-2.jpg",
+      "title": "Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs",
+      "url": "https://www.espn.com/video/clip/_/id/50140483/cowboys-do-anything-right-bucs",
+      "publishedAt": "2026-10-09T14:32:19Z",
+      "summary": "Stephen A.: The Cowboys 'couldn't do anything right' against the Bucs",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_102753403_3689694/ss_20261009_102753403_3689694.jpg",
       "source": "ESPN"
     },
     {
-      "title": "Greeny remembers Mike Ditka: He was the 'biggest star in Chicago sports'",
-      "url": "https://www.espn.com/video/clip/_/id/50141914/was-biggest-star-chicago-sports",
-      "publishedAt": "2026-10-09T18:50:19Z",
-      "summary": "Greeny remembers Mike Ditka: He was the 'biggest star in Chicago sports'",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_143024697_3689868/ss_20261009_143024697_3689868.jpg",
+      "title": "Chris Canty: This is a 'historically bad loss' for the Cowboys",
+      "url": "https://www.espn.com/video/clip/_/id/50139616/historically-bad-loss-cowboys",
+      "publishedAt": "2026-10-09T12:28:01Z",
+      "summary": "Chris Canty: This is a 'historically bad loss' for the Cowboys",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_081758602_3689645/ss_20261009_081758602_3689645.jpg",
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-11T17:49:50.307Z"
+  "updatedAt": "2026-10-11T21:12:17.096Z"
 }

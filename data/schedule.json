@@ -164,11 +164,11 @@
       "network": "FOX",
       "venue": "Lambeau Field",
       "kickoff": "2026-10-11T17:00:00.000Z",
-      "status": "live",
-      "statusDetail": "10:37 - 4th",
-      "packersScore": null,
-      "opponentScore": null,
-      "result": null,
+      "status": "final",
+      "statusDetail": "Final",
+      "packersScore": 31,
+      "opponentScore": 7,
+      "result": "W",
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401872990"
     },
     {
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-11T19:35:30.812Z"
+  "updatedAt": "2026-10-11T21:12:16.850Z"
 }
