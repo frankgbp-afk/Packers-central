@@ -74,21 +74,31 @@ for(const [label,page] of [['Matchup',matchupPage],['Home',homepage]]){
 }
 assert(matchupPage.includes('data-page="matchup"'),'Scouting page marker missing');
 assert(stylesheet.includes('@media(max-width:760px)'),'Scouting CSS missing mobile rules');
-assert(cacheWorker.includes("'./scout.css'"),'Service worker must cache scouting CSS');
+assert(cacheWorker.includes("'./scout.css?v=14'"),'Service worker must cache current scouting CSS');
 console.log('PASS stylesheet wiring, cache registration and mobile CSS safeguards');
 
-const packersSvg=await readFile('packers-logo.svg','utf8');
-const appIcon=await readFile('icon.svg','utf8');
+
+const packersSvg=await readFile('packers-mark-2026.svg','utf8');
+const oldPackersSvg=await readFile('packers-logo.svg','utf8');
+const appIcon=await readFile('packers-icon-2026.svg','utf8');
+const manifest=JSON.parse(await readFile('manifest.webmanifest','utf8'));
 const baseCss=await readFile('styles.css','utf8');
+assert.equal(packersSvg,oldPackersSvg,'The logo should be the actual Packers oval-G, not a recreation');
 assert(packersSvg.includes('viewBox="0 0 172.88213 114.26353"')&&packersSvg.includes('fill="#203731"'),'Missing official Green Bay logo paths');
 assert(appIcon.includes('viewBox="0 0 172.88213 114.26353"'),'App icon must embed the actual Packers logo');
-assert(app.includes('class="brand-mark" src="packers-logo.svg"'),'Site-wide masthead must use Packers logo');
-assert(!app.includes('class="brand-mark" aria-hidden="true">G</span>'),'Old homemade site mark still present');
-assert(scout.includes('class="scout-packers-logo" src="packers-logo.svg"'),'Matchup hero must show the actual Packers logo');
-assert(scout.includes('class="scout-team-emblem" src="packers-logo.svg"'),'Packers comparison must show the actual logo');
-assert(!scout.includes('<b>G</b>'),'Homemade matchup G remains');
+assert(app.includes('class="brand-mark" src="packers-mark-2026.svg"'),'All-page masthead must use the new canonical Packers mark');
+assert(scout.includes('class="scout-packers-logo" src="packers-mark-2026.svg"'),'Matchup hero must show the canonical Packers logo');
+assert(scout.includes('class="scout-team-emblem" src="packers-mark-2026.svg"'),'Matchup stats must show the canonical Packers logo');
+assert(!scout.includes('<b>G</b>'),'Old fake matchup G was not removed');
+assert(!scout.includes('packers-logo.svg')&&!app.includes('packers-logo.svg'),'Old logo URLs must not appear in generated UI');
 assert(baseCss.includes('.brand-mark{width:69px;height:54px;display:block'),'Masthead logo styling missing');
-for(const [label,page] of [['Home',homepage],['Matchup',matchupPage]])assert(page.includes('v=13'),label+' missing refreshed asset versions');
-assert(cacheWorker.includes("'./packers-logo.svg'"),'Offline logo missing from asset cache');
-console.log('PASS real Packers vector logo throughout site, app icon, and offline assets');
+for(const [label,page] of [['Home',homepage],['Matchup',matchupPage]]){
+ assert(page.includes('v=14'),label+' missing new URL version');
+ assert(page.includes('packers-icon-2026.svg?v=14'),label+' icon URL is stale');
+}
+assert(manifest.icons.some(x=>x.src==='packers-icon-2026.svg'),'Manifest icon URL is stale');
+assert(cacheWorker.includes("'./packers-mark-2026.svg'")&&cacheWorker.includes("'./packers-icon-2026.svg'"),'Service worker must precache canonical logo assets');
+assert(cacheWorker.includes("fetch(request,{cache:'no-store'})"),'Service worker must not serve stale logo assets while online');
+assert(app.includes("addEventListener('controllerchange'"),'Controlled pages must reload when a newer worker takes over');
+console.log('PASS canonical Packers mark across all pages, both matchup placements, icon, and fresh-cache handling');
 console.log('All Packers Central UI smoke tests passed.');
