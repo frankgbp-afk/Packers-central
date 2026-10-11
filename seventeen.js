@@ -15,9 +15,10 @@ const TEAM_NAMES={
 };
 const SOURCES=[
  'data/draft-1999-2002.json','data/draft-2003-2006.json','data/draft-2007-2010.json',
- 'data/draft-2011-2014.json','data/draft-2015-2017.json','data/draft-2018-2021.json'
+ 'data/draft-2011-2014.json','data/draft-2015-2017.json','data/draft-2018-2021.json',
+ 'data/draft-2022-2025.json'
 ];
-const KEY='packers-central-nfl17-v1';
+const KEY='packers-central-nfl17-v2';
 const clean=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const newState=()=>({stage:'intro',team:null,year:null,roster:{},teamUsed:false,yearUsed:false,selected:null,filter:'ALL',search:'',result:null});
 let game=newState(),database={},ready=false,filteredPlayers=[];
@@ -26,7 +27,7 @@ function restore(){try{const old=JSON.parse(localStorage.getItem(KEY)||'null');i
 const filled=()=>SLOTS.filter(s=>!!game.roster[s]).length;
 const openSlots=()=>SLOTS.filter(s=>!game.roster[s]);
 function eligible(pos){return openSlots().filter(s=>s==='FLEX'?['RB','WR','TE'].includes(pos):s.startsWith(pos))}
-function countPpg(p){return (p[2]/Math.max(1,p[3])).toFixed(1)}
+function seasonPoints(p){return p[2].toFixed(1)}
 function rng(n){if(n<=1)return 0;if(globalThis.crypto&&crypto.getRandomValues){const a=new Uint32Array(1);crypto.getRandomValues(a);return a[0]%n}return Math.floor(Math.random()*n)}
 function choose(items){return items[rng(items.length)]}
 function labelLogo(t){const code=t==='WAS'?'wsh':t.toLowerCase();return 'https://a.espncdn.com/i/teamlogos/nfl/500/'+code+'.png'}
@@ -35,7 +36,7 @@ function availablePlayers(team=game.team,year=game.year){
  const raw=database[year]?.[team]||[];
  const taken=new Set(Object.values(game.roster).map(x=>x.name.toLowerCase()));
  return raw.filter(p=>!taken.has(p[0].toLowerCase())&&eligible(p[1]).length)
-   .sort((a,b)=>b[2]/b[3]-a[2]/a[3]);
+   .sort((a,b)=>b[2]-a[2]);
 }
 function validBoards(year=undefined,team=undefined){
  const rows=[];
@@ -65,8 +66,8 @@ function reroll(which){
  if(draw(which)){if(which==='team')game.teamUsed=true;else game.yearUsed=true;save();render()}
 }
 function scoreFor(p,year){
- const others=Object.values(database[year]||{}).flat().filter(x=>x[1]===p[1]&&x[3]>=2).map(x=>x[2]/x[3]);
- const value=p[2]/Math.max(1,p[3]);
+ const others=Object.values(database[year]||{}).flat().filter(x=>x[1]===p[1]).map(x=>x[2]);
+ const value=p[2];
  if(others.length<=1)return 50;
  return Math.round(100*others.filter(x=>x<value).length/(others.length-1));
 }
@@ -106,7 +107,7 @@ function renderSlots(){
  return '<div class="draft-roster-list">'+SLOTS.map(s=>{
  const p=game.roster[s];
  return '<div class="draft-slot'+(p?' locked':'')+'"><span class="draft-slot-label">'+s+'</span>'+
- (p?'<div class="draft-slot-person"><b>'+clean(p.name)+'</b><span>'+clean(p.team)+' · '+p.year+' · '+(p.points/p.games).toFixed(1)+' PPG</span></div>'+
+ (p?'<div class="draft-slot-person"><b>'+clean(p.name)+'</b><span>'+clean(p.team)+' · '+p.year+' · '+(p.points).toFixed(1)+' PPR pts</span></div>'+
  '<span class="draft-check">✓</span>':'<span class="draft-slot-vacant">Available</span>')+'</div>';
  }).join('')+'</div>';
 }
@@ -120,7 +121,7 @@ function renderIntro(){
  '<p>Draw an NFL team and a real historical season. Draft one player from that roster, then build a seven-man fantasy lineup good enough to survive all 17 games.</p>'+
  '<div class="draft-rules"><div><strong>07</strong><span>Roster spots</span></div><div><strong>02</strong><span>Total rerolls</span></div><div><strong>17</strong><span>Simulated games</span></div></div>'+
  '<button type="button" class="draft-main-button" data-action="start">Start drafting <span>→</span></button>'+
- '<small>One team reroll and one year reroll per entire draft. Historical seasons: 1999–2021.</small></div>';
+ '<small>One team reroll and one year reroll per entire draft. Historical seasons: 1999–2025.</small></div>';
 }
 function renderDraw(){
  if(game.team===null){
@@ -141,7 +142,7 @@ function renderPicker(){
  return '<section class="draft-panel draft-player-panel"><div class="draft-section-top"><div><span class="draft-kicker">PICK ONE</span><h2>Season roster</h2></div><span class="draft-player-count">'+list.length+' eligible players</span></div>'+
  '<div class="draft-search-row"><input type="search" id="draft-search" placeholder="Search players..." value="'+clean(game.search)+'" autocomplete="off" aria-label="Search players" />'+
  '<div class="draft-pos-filters" role="group" aria-label="Position filter">'+['ALL','QB','RB','WR','TE'].map(p=>'<button class="'+(game.filter===p?'active':'')+'" data-filter="'+p+'" type="button">'+p+'</button>').join('')+'</div></div>'+
- (game.selected?'<div class="draft-pick-confirm"><div><span class="draft-kicker">YOUR PICK</span><h3>'+clean(game.selected[0])+'</h3><small>'+game.selected[1]+' · '+countPpg(game.selected)+' PPR points per game</small></div>'+
+ (game.selected?'<div class="draft-pick-confirm"><div><span class="draft-kicker">YOUR PICK</span><h3>'+clean(game.selected[0])+'</h3><small>'+game.selected[1]+' · '+seasonPoints(game.selected)+' full-PPR season points</small></div>'+
  '<div class="draft-slot-options"><span>Assign a lineup spot</span>'+eligible(game.selected[1]).map(s=>'<button type="button" data-slot="'+s+'">'+s+'</button>').join('')+'</div><button type="button" class="draft-cancel" data-action="cancel">Change player</button></div>':'')+
  '<div id="draft-player-results" class="draft-player-results"></div>'+
  '<p class="draft-data-note">Real historical player seasons. PPR totals calculated from season stats; season availability and ratings are not live NFL roster projections.</p></section>';
@@ -153,8 +154,8 @@ function renderPlayers(){
  el.innerHTML=filteredPlayers.length?filteredPlayers.map((p,i)=>{
  const current=game.selected&&game.selected[0]===p[0]&&game.selected[1]===p[1];
  return '<button class="draft-player'+(current?' selected':'')+'" type="button" data-pick="'+i+'" '+(game.selected?'aria-pressed="'+String(!!current)+'"':'')+'>'+
- '<span class="draft-player-id"><span class="draft-player-pos">'+p[1]+'</span><span><strong>'+clean(p[0])+'</strong><small>'+p[3]+' games · '+p[2].toFixed(1)+' PPR points</small></span></span>'+
- '<span class="draft-player-ppg"><b>'+countPpg(p)+'</b><small>PPG</small></span></button>';
+ '<span class="draft-player-id"><span class="draft-player-pos">'+p[1]+'</span><span><strong>'+clean(p[0])+'</strong><small>'+'Full-season PPR · '+p[2].toFixed(1)+' pts</small></span></span>'+
+ '<span class="draft-player-ppg"><b>'+seasonPoints(p)+'</b><small>PTS</small></span></button>';
  }).join(''):'<p class="draft-no-results">No matching eligible players. Try another position or search.</p>';
 }
 function renderComplete(){
@@ -181,7 +182,7 @@ function render(){
  '<div class="draft-roster-footer"><p><b>Team reroll</b><span class="'+(game.teamUsed?'draft-used':'draft-ready')+'">'+(game.teamUsed?'USED':'AVAILABLE')+'</span></p>'+
  '<p><b>Year reroll</b><span class="'+(game.yearUsed?'draft-used':'draft-ready')+'">'+(game.yearUsed?'USED':'AVAILABLE')+'</span></p></div>'+
  (game.stage!=='result'?'<button type="button" class="draft-reset" data-action="restart">↻ Start over</button>':'')+'</aside></div>')+
- '<div class="draft-bottom"><span>HISTORICAL PLAYER DATA: 1999–2021</span><a target="_blank" rel="noopener noreferrer" href="https://github.com/srsavas42/fantasy-football-research">Source &amp; attribution ↗</a></div></div>';
+ '<div class="draft-bottom"><span>HISTORICAL PLAYER DATA: 1999–2021</span><span><a target="_blank" rel="noopener noreferrer" href="https://github.com/srsavas42/fantasy-football-research">1999–2021 source ↗</a> · <a target="_blank" rel="noopener noreferrer" href="https://github.com/calves86/nfl-stats-data">2022–2025 source ↗</a></span></div></div>';
  renderPlayers();
 }
 async function share(){
