@@ -1,10 +1,12 @@
 // Packers Central: update HTML, scripts, styles and SVGs from the network on every navigation.
 // Only use the offline cache when the network is unavailable; never prefer an outdated team logo.
-const VERSION='packers-central-v14';
+const VERSION='packers-central-v15';
 const ASSETS=[
-  './','./index.html','./schedule.html','./season.html','./matchup.html','./hub.html',
-  './styles.css?v=14','./scout.css?v=14','./app.js?v=14','./scout.js?v=14',
-  './packers-mark-2026.svg','./packers-icon-2026.svg','./manifest.webmanifest?v=14'
+  './','./index.html','./schedule.html','./season.html','./matchup.html','./seventeen.html','./hub.html',
+  './styles.css?v=15','./scout.css?v=15','./app.js?v=15','./scout.js?v=15','./seventeen.css?v=1','./seventeen.js?v=1',
+  './data/draft-1999-2002.json','./data/draft-2003-2006.json','./data/draft-2007-2010.json',
+  './data/draft-2011-2014.json','./data/draft-2015-2017.json','./data/draft-2018-2021.json',
+  './packers-mark-2026.svg','./packers-icon-2026.svg','./manifest.webmanifest?v=15'
 ];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(VERSION).then(cache=>cache.addAll(ASSETS)));
