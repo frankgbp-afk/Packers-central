@@ -78,9 +78,8 @@ function lock(slot){
  game.selected=null;game.search='';game.filter='ALL';
  const complete=filled()===SLOTS.length;
  game.stage=complete?'complete':'board';
- game.team=null;game.year=null;
- if(complete){save();render()}
- else if(!draw()){save();render()}
+ if(complete){game.team=null;game.year=null;save();render()}
+ else if(!draw()){game.team=null;game.year=null;save();render()}
  if(!complete){
   const drawPanel=ROOT.querySelector?.('.draft-draw');
   drawPanel?.scrollIntoView({behavior:'smooth',block:'start'});
