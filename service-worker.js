@@ -1,13 +1,29 @@
-const VERSION='packers-central-v13';
-const ASSETS=['./','./index.html','./schedule.html','./season.html','./matchup.html','./hub.html','./styles.css','./scout.css','./packers-logo.svg','./app.js','./scout.js','./manifest.webmanifest','./icon.svg'];
-self.addEventListener('install',e=>{e.waitUntil(caches.open(VERSION).then(c=>c.addAll(ASSETS)));self.skipWaiting();});
-self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(x=>x!==VERSION).map(x=>caches.delete(x)))));self.clients.claim();});
-self.addEventListener('fetch',e=>{
- if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;
- const url=new URL(e.request.url);
- if(url.pathname.includes('/data/')){
-   e.respondWith(fetch(e.request,{cache:'no-store'}).then(r=>{if(r.ok)caches.open(VERSION).then(c=>c.put(e.request,r.clone()));return r;}).catch(()=>caches.match(e.request)));
-   return;
- }
- e.respondWith(fetch(e.request).then(r=>{if(r.ok&&r.type==='basic')caches.open(VERSION).then(c=>c.put(e.request,r.clone()));return r;}).catch(()=>caches.match(e.request)));
+// Packers Central: update HTML, scripts, styles and SVGs from the network on every navigation.
+// Only use the offline cache when the network is unavailable; never prefer an outdated team logo.
+const VERSION='packers-central-v14';
+const ASSETS=[
+  './','./index.html','./schedule.html','./season.html','./matchup.html','./hub.html',
+  './styles.css?v=14','./scout.css?v=14','./app.js?v=14','./scout.js?v=14',
+  './packers-mark-2026.svg','./packers-icon-2026.svg','./manifest.webmanifest?v=14'
+];
+self.addEventListener('install',event=>{
+  event.waitUntil(caches.open(VERSION).then(cache=>cache.addAll(ASSETS)));
+  self.skipWaiting();
+});
+self.addEventListener('activate',event=>{
+  event.waitUntil(caches.keys().then(keys=>Promise.all(keys
+    .filter(key=>key.startsWith('packers-central-')&&key!==VERSION)
+    .map(key=>caches.delete(key)))));
+  self.clients.claim();
+});
+self.addEventListener('fetch',event=>{
+  const request=event.request;
+  if(request.method!=='GET'||new URL(request.url).origin!==self.location.origin)return;
+  event.respondWith(fetch(request,{cache:'no-store'}).then(response=>{
+    if(response.ok&&response.type==='basic'){
+      const copy=response.clone();
+      event.waitUntil(caches.open(VERSION).then(cache=>cache.put(request,copy)));
+    }
+    return response;
+  }).catch(()=>caches.match(request).then(cached=>cached||Response.error())));
 });
