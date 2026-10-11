@@ -81,6 +81,14 @@
   ],
   "articles": [
     {
+      "title": "NFL Week 5 arrivals: Maxx Crosby, Craig Woodson honor New England legends",
+      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
+      "publishedAt": "2026-10-11T16:25:16Z",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729230_608x342_16-9.png",
+      "source": "ESPN"
+    },
+    {
       "title": "NFL Week 5 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
       "url": "https://www.espn.com/nfl/story/_/id/50133043/week-5-predictions-upsets-fantasy-sleepers-stats-2026",
       "publishedAt": "2026-10-10T10:40:06Z",
@@ -105,14 +113,6 @@
       "source": "ESPN"
     },
     {
-      "title": "Stephen A. remembers how Mike Ditka 'elevated the NFL'",
-      "url": "https://www.espn.com/video/clip/_/id/50140978/stephen-remembers-how-mike-ditka-elevated-nfl",
-      "publishedAt": "2026-10-09T20:22:35Z",
-      "summary": "Stephen A. remembers how Mike Ditka 'elevated the NFL'",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_114945954_3689745714/ss_20261009_114945954_3689745714.jpg",
-      "source": "ESPN"
-    },
-    {
       "title": "Bears RB Monangai out, QB Williams now questionable vs. Packers",
       "url": "https://www.espn.com/nfl/story/_/id/50142140/bears-rb-monangai-qb-williams-now-questionable-vs-packers",
       "publishedAt": "2026-10-09T19:36:31Z",
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-11T12:42:32.780Z"
+  "updatedAt": "2026-10-11T17:49:50.307Z"
 }
