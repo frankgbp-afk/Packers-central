@@ -76,9 +76,15 @@ function lock(slot){
  if(game.stage!=='board'||!p||!eligible(p[1]).includes(slot))return;
  game.roster[slot]={name:p[0],pos:p[1],points:p[2],games:p[3],team:game.team,year:game.year,rank:scoreFor(p,game.year)};
  game.selected=null;game.search='';game.filter='ALL';
- game.stage=filled()===SLOTS.length?'complete':'board';
+ const complete=filled()===SLOTS.length;
+ game.stage=complete?'complete':'board';
  game.team=null;game.year=null;
- save();render();
+ if(complete){save();render()}
+ else if(!draw()){save();render()}
+ if(!complete){
+  const drawPanel=ROOT.querySelector?.('.draft-draw');
+  drawPanel?.scrollIntoView({behavior:'smooth',block:'start'});
+ }
 }
 function nextRound(){if(game.stage==='board'&&game.team===null)draw()}
 function shuffleSeed(txt){let h=2166136261;for(let i=0;i<txt.length;i++){h^=txt.charCodeAt(i);h=Math.imul(h,16777619)}return h>>>0}
@@ -110,6 +116,16 @@ function renderSlots(){
  (p?'<div class="draft-slot-person"><b>'+clean(p.name)+'</b><span>'+clean(p.team)+' · '+p.year+' · '+(p.points).toFixed(1)+' PPR pts</span></div>'+
  '<span class="draft-check">✓</span>':'<span class="draft-slot-vacant">Available</span>')+'</div>';
  }).join('')+'</div>';
+}
+function renderMobileRoster(){
+ return '<section class="draft-mini-roster" aria-label="Current draft lineup">'+
+ '<div class="draft-mini-head"><strong>YOUR LIVE ROSTER</strong><span>'+filled()+' / 7 filled · '+(7-filled())+' open</span></div>'+
+ '<div class="draft-mini-grid">'+SLOTS.map(slot=>{
+  const player=game.roster[slot];
+  const name=player?player.name:'OPEN';
+  return '<div class="draft-mini-slot '+(player?'filled':'available')+'" title="'+clean(slot+': '+(player?player.name:'Open'))+'">'+
+   '<b>'+slot+(player?' ✓':'')+'</b><span>'+clean(name)+'</span></div>';
+ }).join('')+'</div></section>';
 }
 function renderProgress(){
  let pct=Math.round(filled()/7*100);
@@ -177,7 +193,7 @@ function render(){
  '<div class="draft-heading"><div><span class="draft-eyebrow"><span class="draft-live-dot"></span> PACKERS CENTRAL / GAMES</span><h1>THE <em>17–0</em> CHALLENGE</h1><p>Build an unstoppable NFL fantasy lineup from actual players and seasons.</p></div><div class="draft-heading-record"><span>THE TARGET</span><strong>17<span>–</span>0</strong></div></div>'+
  (game.stage==='intro'?renderIntro():
  '<div class="draft-layout"><div class="draft-main">'+
- (game.stage==='board'?renderDraw()+(game.team!==null?renderPicker():''):game.stage==='complete'?renderComplete():renderResult())+
+ (game.stage==='board'?renderDraw()+renderMobileRoster()+(game.team!==null?renderPicker():''):game.stage==='complete'?renderComplete():renderResult())+
  '</div><aside class="draft-roster-panel"><div class="draft-roster-heading"><span class="draft-kicker">YOUR TEAM</span><h2>Starting lineup</h2></div>'+renderProgress()+renderSlots()+
  '<div class="draft-roster-footer"><p><b>Team reroll</b><span class="'+(game.teamUsed?'draft-used':'draft-ready')+'">'+(game.teamUsed?'USED':'AVAILABLE')+'</span></p>'+
  '<p><b>Year reroll</b><span class="'+(game.yearUsed?'draft-used':'draft-ready')+'">'+(game.yearUsed?'USED':'AVAILABLE')+'</span></p></div>'+
@@ -194,7 +210,11 @@ async function share(){
 }
 ROOT.addEventListener('click',e=>{
  const btn=e.target.closest('button');if(!btn||btn.disabled)return;
- if(btn.dataset.pick!==undefined){game.selected=filteredPlayers[Number(btn.dataset.pick)]||null;save();render();return}
+ if(btn.dataset.pick!==undefined){
+  game.selected=filteredPlayers[Number(btn.dataset.pick)]||null;save();render();
+  ROOT.querySelector?.('.draft-pick-confirm')?.scrollIntoView({behavior:'smooth',block:'nearest'});
+  return;
+ }
  if(btn.dataset.slot){lock(btn.dataset.slot);return}
  if(btn.dataset.filter){game.filter=btn.dataset.filter;game.selected=null;save();render();return}
  const action=btn.dataset.action;
@@ -214,7 +234,9 @@ async function boot(){
  try{
   const files=await Promise.all(SOURCES.map(async path=>{const res=await fetch(path);if(!res.ok)throw new Error(path);return res.json()}));
   for(const file of files)Object.assign(database,file.teams);
-  ready=true;restore();render();
+  ready=true;restore();
+  if(game.stage==='board'&&game.team===null){if(!draw())render()}
+  else render();
  }catch(err){
   ROOT.innerHTML='<div class="draft-loading"><h2>Unable to load player data</h2><p>Check your connection and refresh the page. No game data has been changed.</p>'+
   '<button class="draft-main-button" data-action="reload">Retry</button></div>';
