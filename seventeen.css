@@ -1,0 +1,139 @@
+/* Packers Central NFL 17-0: self-contained, mobile-first game UI */
+.draft-site{--draft-dark:#08291f;--draft-green:#144536;--draft-gold:#f3b833;--draft-line:#dce5dc;max-width:1200px;margin:auto}
+.draft-site button{cursor:pointer;transition:transform .15s ease,border-color .15s ease,background-color .15s ease,box-shadow .15s ease}
+.draft-site button:not(:disabled):active{transform:translateY(1px)}
+.draft-site button:disabled{cursor:not-allowed;opacity:.47}
+.draft-site button:focus-visible,.draft-site input:focus-visible{outline:3px solid #d7a02d;outline-offset:2px}
+.draft-heading{position:relative;overflow:hidden;min-height:219px;background:radial-gradient(ellipse at 90% 0%,rgba(243,184,51,.13),transparent 45%),linear-gradient(120deg,#061e18,#10503c);border-radius:15px;padding:34px 40px 32px;margin-bottom:23px;color:#fff;display:flex;align-items:center;justify-content:space-between;gap:20px;isolation:isolate}
+.draft-heading:after{content:"";position:absolute;right:0;top:0;bottom:0;width:55%;z-index:-1;background:repeating-linear-gradient(90deg,transparent 0 83px,rgba(255,255,255,.045) 84px 85px)}
+.draft-eyebrow,.draft-kicker{display:inline-flex;gap:8px;align-items:center;color:#b1c9bb;letter-spacing:.14em;text-transform:uppercase;font-size:10px;font-weight:900}
+.draft-live-dot{height:8px;width:8px;background:var(--draft-gold);border-radius:50%;display:inline-block}
+.draft-heading h1{color:white;text-transform:uppercase;letter-spacing:-.015em;font-size:clamp(44px,6vw,80px);line-height:.86;margin:15px 0 15px;max-width:820px}
+.draft-heading h1 em{color:var(--draft-gold);font-style:normal}
+.draft-heading p{max-width:480px;margin:0;color:#c7d9cd;font-size:13px}
+.draft-heading-record{text-align:center;border:1px solid rgba(255,255,255,.17);padding:15px 27px;background:rgba(3,24,17,.38);border-radius:12px;flex:none}
+.draft-heading-record>span{color:#a6c3b3;letter-spacing:.13em;font-weight:900;font-size:9px;display:block}
+.draft-heading-record strong{display:block;color:white;font:900 48px/1 'Barlow Condensed',Impact,sans-serif}
+.draft-heading-record strong span{color:var(--draft-gold)}
+.draft-welcome{padding:50px 55px;color:#fff;background:linear-gradient(135deg,#10392c,#071f19);border:1px solid #315747;border-radius:16px;box-shadow:var(--shadow);text-align:center}
+.draft-welcome .draft-kicker{color:var(--draft-gold)}
+.draft-welcome h2{font-size:clamp(46px,6vw,74px);line-height:.9;text-transform:uppercase;color:white;margin:12px auto 18px}
+.draft-welcome>p{color:#c6d7cd;font-size:14px;max-width:560px;margin:0 auto 28px}
+.draft-welcome>small{display:block;margin-top:14px;color:#98b7a7;font-size:11px}
+.draft-rules{display:flex;justify-content:center;gap:36px;margin:26px auto 30px;border-top:1px solid #365749;border-bottom:1px solid #365749;padding:22px 5px;max-width:550px}
+.draft-rules>div{display:grid;gap:2px}.draft-rules strong{font:900 45px/.9 'Barlow Condensed',Impact,sans-serif;color:var(--draft-gold)}
+.draft-rules span{color:#a8c3b4;font-size:10px;text-transform:uppercase;letter-spacing:.08em;font-weight:800}
+.draft-main-button{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;background:var(--draft-gold);color:#09271c;border:1px solid #f3b833;border-radius:8px;padding:14px 19px;font-weight:900;font-size:13px;min-height:50px;text-decoration:none;box-shadow:0 8px 17px rgba(0,0,0,.07)}
+.draft-main-button:hover{background:#ffcb51}
+.draft-main-button span{font-size:19px;line-height:1}
+.draft-layout{display:grid;grid-template-columns:minmax(0,1.64fr) minmax(285px,.92fr);gap:22px;align-items:start}
+.draft-main{min-width:0}
+.draft-panel{background:#fffcf6;border:1px solid var(--draft-line);border-radius:13px;box-shadow:var(--shadow);padding:25px;margin-bottom:20px}
+.draft-panel h2{font-size:36px;line-height:1;text-transform:uppercase;margin:6px 0 10px}
+.draft-panel p{color:#61756a;line-height:1.6}
+.draft-section-top{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:15px}
+.draft-section-top h2{margin:4px 0 0}
+.draft-kicker{color:#3f795c}
+.draft-season-tag{background:#edf0e9;border-radius:4px;padding:7px 10px;color:#65766a;font-size:9px;font-weight:900;letter-spacing:.12em}
+.draft-draw-match{display:flex;align-items:center;gap:22px;padding:23px 2px 25px;border-bottom:1px solid var(--draft-line)}
+.draft-logo{object-fit:contain;width:100px;height:95px;filter:drop-shadow(0 7px 8px rgba(6,38,25,.1));flex:none}
+.draft-draw-small{display:block;text-transform:uppercase;color:#80968a;font-weight:900;letter-spacing:.13em;font-size:10px}
+.draft-draw-match h2{font-size:clamp(31px,4.3vw,52px);margin:4px 0;line-height:.95}
+.draft-draw-match strong{font:900 37px/1 'Barlow Condensed',Impact,sans-serif;color:#16714a}
+.draft-rerolls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:22px}
+.draft-rerolls button{display:flex;align-items:center;justify-content:flex-start;gap:13px;text-align:left;border:1px solid #cbd9d0;border-radius:9px;background:#f0f5ef;color:#154530;padding:14px 15px;min-height:74px}
+.draft-rerolls button:not(:disabled):hover{border-color:#1f8457;background:#e8f1e9}
+.draft-rerolls button>span:first-child{display:grid;place-items:center;width:37px;height:37px;background:#dbe9dd;border-radius:50%;font-size:24px;flex:none}
+.draft-rerolls button>span:nth-child(2){font-size:12px;font-weight:900;line-height:1.4;min-width:0}
+.draft-rerolls button small{display:block;color:#687d70;font-size:10px;font-weight:600;margin-top:3px}
+.draft-rerolls button:disabled{background:#f2f2ef;opacity:.66}
+.draft-reroll-warning{font-size:11px;margin:11px 0 0}
+.draft-player-panel{padding-bottom:19px}
+.draft-player-count{font-size:10px;font-weight:900;background:#e9eee7;color:#62786b;padding:8px 10px;border-radius:5px;white-space:nowrap}
+.draft-search-row{display:flex;gap:10px;align-items:center;margin-bottom:14px}
+.draft-search-row input{font:inherit;min-width:0;flex:1;padding:11px 13px;border:1px solid #ccd7d0;border-radius:7px;background:white;min-height:41px;color:#102e20}
+.draft-pos-filters{display:flex;gap:3px}
+.draft-pos-filters button{border:1px solid #d6e0d7;background:#f3f5ef;color:#52695d;border-radius:6px;min-width:36px;padding:9px 8px;font-size:10px;font-weight:900}
+.draft-pos-filters button.active{background:#0b3b2b;color:#fff;border-color:#0b3b2b}
+.draft-player-results{display:grid;gap:7px;max-height:590px;overflow-y:auto;scrollbar-color:#b6c7bb transparent;padding-right:2px}
+.draft-player{width:100%;min-height:65px;display:flex;justify-content:space-between;gap:14px;align-items:center;text-align:left;background:#fff;border:1px solid #e0e7dd;border-radius:8px;padding:9px 13px;color:#152a20}
+.draft-player:hover{background:#f0f7f1;border-color:#89b5a0}
+.draft-player.selected{background:#e2f1e5;border-color:#318764;box-shadow:inset 3px 0 #18804f}
+.draft-player-id{display:flex;gap:11px;align-items:center;min-width:0}
+.draft-player-pos{display:grid;place-items:center;background:#e9f0e9;border:1px solid #d8e4da;color:#174e39;width:39px;height:35px;border-radius:6px;flex:none;font-size:11px;font-weight:900}
+.draft-player-id>span:last-child{min-width:0}
+.draft-player-id strong{display:block;font-weight:900;font-size:13px;line-height:1.45}
+.draft-player-id small{display:block;color:#73847a;font-size:10px}
+.draft-player-ppg{text-align:right;flex:none;display:grid}
+.draft-player-ppg b{font:900 25px/1 'Barlow Condensed',Impact,sans-serif;color:#194f39}
+.draft-player-ppg small{font-size:9px;font-weight:900;letter-spacing:.08em;color:#74867b}
+.draft-pick-confirm{display:flex;align-items:center;flex-wrap:wrap;gap:12px;background:#0b3829;border:1px solid #26684d;color:white;border-radius:10px;padding:16px;margin-bottom:13px}
+.draft-pick-confirm .draft-kicker{color:#a8d3b3}
+.draft-pick-confirm h3{font-size:26px;margin:2px 0 0;color:white;line-height:1}
+.draft-pick-confirm small{color:#c6d6cb}
+.draft-slot-options{margin-left:auto;display:flex;align-items:center;flex-wrap:wrap;gap:6px}
+.draft-slot-options>span{width:100%;font-size:10px;font-weight:800;color:#b7d0be;text-align:right}
+.draft-slot-options button{background:var(--draft-gold);color:#06271b;border:1px solid var(--draft-gold);border-radius:5px;font-size:11px;font-weight:900;padding:11px 14px}
+.draft-slot-options button:hover{background:#ffcb53}
+.draft-cancel{padding:8px;background:transparent;color:#c7dacf;border:0;text-decoration:underline;font-size:11px}
+.draft-no-results{padding:25px;text-align:center}
+.draft-data-note{font-size:10px;margin:15px 0 0;color:#738379;line-height:1.6}
+.draft-roster-panel{position:sticky;top:84px;background:#fff;border:1px solid #d7e3d8;border-radius:12px;box-shadow:var(--shadow);overflow:hidden;padding:22px}
+.draft-roster-heading{padding-bottom:15px;border-bottom:1px solid #e1e8de}
+.draft-roster-heading h2{font-size:30px;line-height:1;text-transform:uppercase;margin:5px 0 0}
+.draft-progress-head{display:flex;justify-content:space-between;align-items:center;margin:17px 0 9px}
+.draft-progress-head b{font-size:11px;color:#617669}
+.draft-progress-head strong{font:900 21px/1 'Barlow Condensed',Impact,sans-serif;color:#143c2b}
+.draft-progress-head strong span{color:#a5b3a8}
+.draft-progress{height:7px;background:#e5ece5;border-radius:99px;overflow:hidden;margin-bottom:17px}
+.draft-progress span{height:100%;display:block;background:#1b7951;border-radius:99px;transition:width .25s}
+.draft-roster-list{display:grid;gap:7px}
+.draft-slot{min-height:58px;border:1px dashed #d0dcd2;background:#f9fbf8;display:flex;align-items:center;gap:11px;border-radius:7px;padding:8px 10px}
+.draft-slot.locked{background:#eef6ed;border:1px solid #d4e7d6}
+.draft-slot-label{display:grid;place-items:center;min-width:42px;font-size:11px;font-weight:900;color:#0b5235;background:#e2efe4;padding:8px 4px;border-radius:5px}
+.draft-slot-person{display:grid;gap:2px;min-width:0;flex:1}
+.draft-slot-person b{font-size:11px;overflow-wrap:anywhere}
+.draft-slot-person span{font-size:10px;color:#6b8375}
+.draft-slot-vacant{font-size:10px;font-weight:700;color:#a0aea2}
+.draft-check{font-weight:900;color:#197e53}
+.draft-roster-footer{margin-top:18px;padding-top:10px;border-top:1px solid #dce6dd}
+.draft-roster-footer p{margin:6px 0;display:flex;justify-content:space-between;align-items:center;font-size:11px}
+.draft-roster-footer b{font-weight:900;color:#536b5c}
+.draft-ready,.draft-used{font-size:9px;letter-spacing:.07em;font-weight:900}
+.draft-ready{color:#087c4e}.draft-used{color:#9ca7a0}
+.draft-reset{width:100%;border:1px solid #ccd8cf;border-radius:6px;background:white;padding:10px;margin-top:14px;color:#54695c;font-size:11px;font-weight:800}
+.draft-reset:hover{background:#f2f5ef}
+.draft-finish{text-align:center;padding:40px 24px}
+.draft-finish h2{font-size:clamp(38px,5vw,62px);margin:12px 0}
+.draft-finish>p:not(.draft-data-note){max-width:480px;margin:0 auto 23px}
+.draft-result{padding:29px}
+.draft-result-top{display:flex;align-items:center;justify-content:space-between;background:linear-gradient(120deg,#0a3224,#15583e);color:white;border-radius:12px;padding:26px 29px;margin-top:11px}
+.draft-record{font:900 clamp(65px,9vw,113px)/.9 'Barlow Condensed',Impact,sans-serif;letter-spacing:-.02em}
+.draft-record span{color:var(--draft-gold)}
+.draft-result-top p{color:#c8decd;margin:11px 0 0;font-weight:800}
+.draft-grade{display:grid;place-items:center;background:var(--draft-gold);color:#072d1d;border-radius:14px;width:87px;height:87px;font:900 51px 'Barlow Condensed',Impact,sans-serif}
+.draft-week-title{font-weight:900;font-size:11px;letter-spacing:.09em;text-transform:uppercase;margin:22px 0 12px}
+.draft-week-grid{display:grid;grid-template-columns:repeat(9,minmax(0,1fr));gap:6px}
+.draft-week{display:grid;place-items:center;gap:1px;border-radius:6px;padding:8px 2px;min-height:54px}
+.draft-week small{font-size:9px;font-weight:800;opacity:.83}
+.draft-week b{font-size:15px;font-weight:900}
+.draft-week.win{background:#d9eee0;color:#0c6945}
+.draft-week.loss{background:#f9dfdc;color:#993d39}
+.draft-analysis{display:flex;gap:12px;margin:22px 0}
+.draft-analysis>div{flex:1;background:#f2f5f0;border-radius:8px;padding:15px}
+.draft-analysis small{display:block;color:#6b8172;font-size:9px;font-weight:900;letter-spacing:.09em}
+.draft-analysis b{font:900 29px/1.2 'Barlow Condensed',Impact,sans-serif;color:#0f4832}
+.draft-analysis b span{color:#80998a;font-size:16px}
+.draft-result-actions{display:flex;gap:12px;flex-wrap:wrap}
+.draft-secondary{border:1px solid #cadbd0;background:#fff;color:#135539;padding:12px 18px;border-radius:7px;font-size:12px;font-weight:900}
+.draft-secondary:hover{background:#eff6ef}
+.draft-bottom{display:flex;justify-content:space-between;flex-wrap:wrap;gap:9px;margin-top:24px;color:#7a8e80;font-size:10px;letter-spacing:.05em;font-weight:800}
+.draft-bottom a{color:#276844;text-decoration:none}
+.draft-loading{text-align:center;padding:75px 25px;background:white;border-radius:12px}
+.draft-loading h2{font-size:39px;line-height:1;margin:11px 0}
+.draft-loading p{color:#698173}
+.draft-toast{position:fixed;z-index:100;bottom:24px;left:50%;transform:translate(-50%,35px);opacity:0;pointer-events:none;transition:transform .2s,opacity .2s;border-radius:8px;padding:13px 20px;background:#102e22;color:white;box-shadow:0 14px 30px #0003;font-size:12px;font-weight:800}
+.draft-toast.show{opacity:1;transform:translate(-50%,0)}
+@media(max-width:1040px){.draft-heading-record{display:none}.draft-layout{grid-template-columns:minmax(0,1.3fr) minmax(255px,.85fr);gap:14px}.draft-panel{padding:20px}.draft-roster-panel{padding:17px}.draft-search-row{align-items:stretch;flex-direction:column}.draft-pos-filters{width:100%}.draft-pos-filters button{flex:1}}
+@media(max-width:700px){.draft-heading{min-height:0;padding:27px 23px;border-radius:10px;margin-bottom:15px}.draft-heading h1{font-size:clamp(43px,11vw,66px)}.draft-heading p{font-size:12px}.draft-layout{grid-template-columns:1fr;gap:0}.draft-roster-panel{position:static;margin-bottom:20px}.draft-main{order:0}.draft-roster-panel{order:1}.draft-panel{padding:18px;border-radius:11px;margin-bottom:14px}.draft-welcome{padding:30px 19px}.draft-rules{gap:16px}.draft-rules strong{font-size:37px}.draft-rules span{font-size:9px}.draft-draw-match{gap:10px;padding:17px 0}.draft-logo{width:70px;height:70px}.draft-draw-match h2{font-size:clamp(31px,8vw,43px)}.draft-draw-match strong{font-size:30px}.draft-rerolls{gap:8px;margin-top:15px}.draft-rerolls button{padding:10px;gap:8px;min-height:70px}.draft-rerolls button>span:first-child{height:29px;width:29px;font-size:20px}.draft-rerolls button small{font-size:9px}.draft-player-results{max-height:510px}.draft-result-top{padding:20px 18px}.draft-grade{width:66px;height:66px;font-size:40px}.draft-week-grid{grid-template-columns:repeat(6,minmax(0,1fr))}.draft-analysis{gap:8px}.draft-result-actions{flex-direction:column}.draft-result-actions button{width:100%}.draft-pick-confirm{align-items:flex-start}.draft-slot-options{margin-left:0;width:100%}.draft-slot-options>span{text-align:left}}
+@media(prefers-reduced-motion:reduce){.draft-site button,.draft-toast,.draft-progress span{transition:none}}
