@@ -66,10 +66,15 @@ function reroll(which){
  if(draw(which)){if(which==='team')game.teamUsed=true;else game.yearUsed=true;save();render()}
 }
 function scoreFor(p,year){
- const others=Object.values(database[year]||{}).flat().filter(x=>x[1]===p[1]).map(x=>x[2]);
- const value=p[2];
- if(others.length<=1)return 50;
- return Math.round(100*others.filter(x=>x<value).length/(others.length-1));
+ // Grade against players with starter-level output in the same season,
+ // not every backup. This keeps an average starter from looking elite.
+ const pos=p[1],starterPool={QB:24,RB:44,WR:54,TE:26}[pos]||32;
+ const totals=Object.values(database[year]||{}).flat()
+  .filter(x=>x[1]===pos).map(x=>x[2]).sort((a,b)=>b-a);
+ if(totals.length<2)return 50;
+ const elite=totals[Math.min(totals.length-1,Math.floor(starterPool*.13))];
+ const baseline=totals[Math.min(totals.length-1,Math.floor(starterPool*.85))];
+ return Math.round(Math.min(98,Math.max(8,40+55*(p[2]-baseline)/Math.max(20,elite-baseline))));
 }
 function lock(slot){
  const p=game.selected;
@@ -90,9 +95,15 @@ function shuffleSeed(txt){let h=2166136261;for(let i=0;i<txt.length;i++){h^=txt.
 function seeded(seed){let x=seed>>>0;return ()=>{x+=0x6D2B79F5;let t=x;t=Math.imul(t^(t>>>15),t|1);t^=t+Math.imul(t^(t>>>7),t|61);return((t^(t>>>14))>>>0)/4294967296}}
 function simulate(){
  if(game.stage!=='complete')return;
- const players=SLOTS.map(s=>game.roster[s]),rates=players.map(x=>x.rank);
+ const players=SLOTS.map(s=>game.roster[s]);
+ // Regrade past picks so drafts started before this update stay fair.
+ const rates=players.map(p=>{
+  p.rank=scoreFor([p.name,p.pos,p.points,p.games],p.year);
+  return p.rank;
+ });
  const avg=rates.reduce((a,b)=>a+b,0)/rates.length,lowest=Math.min(...rates);
- const overall=Math.round(avg*.78+lowest*.22);
+ const weakestTwo=[...rates].sort((a,b)=>a-b).slice(0,2);
+ const overall=Math.round(avg*.78+((weakestTwo[0]+weakestTwo[1])/2)*.22);
  const random=seeded(shuffleSeed(players.map(x=>x.name+x.year+x.team).join('|')));
  const weeks=[];
  for(let w=1;w<=17;w++){
@@ -188,7 +199,7 @@ function renderResult(){
  '<div class="draft-week-title">17-game season simulation</div><div class="draft-week-grid">'+r.weeks.map(x=>'<div class="'+(x.win?'draft-week win':'draft-week loss')+'" title="Week '+x.week+': '+x.score.join('–')+'"><small>'+x.week+'</small><b>'+(x.win?'W':'L')+'</b></div>').join('')+'</div>'+
  '<div class="draft-analysis"><div><small>TEAM RATING</small><b>'+r.overall+' <span>/ 100</span></b></div><div><small>POSITION TO IMPROVE</small><b>'+r.weakest+'</b></div></div>'+
  '<div class="draft-result-actions"><button class="draft-main-button" type="button" data-action="restart">Draft again <span>↻</span></button><button type="button" class="draft-secondary" data-action="share">Share results ↗</button></div>'+
- '<p class="draft-data-note">Challenge difficulty: undefeated seasons are intentionally rare. Fictional matchups and scores; ratings normalize players within each season and position.</p></section>';
+ '<p class="draft-data-note">Challenge difficulty: undefeated seasons are intentionally rare. Fictional matchups and scores; ratings compare players with starter-level production in their own season and position.</p></section>';
 }
 function render(){
  ROOT.innerHTML='<div class="draft-site">'+
