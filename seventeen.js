@@ -78,7 +78,7 @@ function lock(slot){
  game.selected=null;game.search='';game.filter='ALL';
  const complete=filled()===SLOTS.length;
  game.stage=complete?'complete':'board';
- if(complete){game.team=null;game.year=null;save();render()}
+ if(complete){game.team=null;game.year=null;save();simulate()}
  else if(!draw()){game.team=null;game.year=null;save();render()}
  if(!complete){
   const drawPanel=ROOT.querySelector?.('.draft-draw');
@@ -96,11 +96,14 @@ function simulate(){
  const random=seeded(shuffleSeed(players.map(x=>x.name+x.year+x.team).join('|')));
  const weeks=[];
  for(let w=1;w<=17;w++){
-   const difficulty=55+Math.round(random()*35);
-   const chance=Math.min(.965,Math.max(.12,.32+(overall-52)*.017+(72-difficulty)*.007));
+   // Hard mode: even elite rosters must survive tougher opponents and week-to-week variance.
+   // A roughly average roster has about a 50% chance per week; perfection takes a standout team and luck.
+   const difficulty=62+Math.round(random()*36);
+   const chance=Math.min(.84,Math.max(.12,.49+(overall-75)*.015-(difficulty-80)*.009));
    const win=random()<chance;
-   const margin=Math.max(1,Math.round(2+random()*18+Math.abs(overall-difficulty)*.17));
-   weeks.push({week:w,win,score:win?[24+margin,24]:[17,17+margin]});
+   const base=14+Math.floor(random()*20);
+   const margin=Math.max(1,Math.round(1+random()*14+Math.abs(overall-difficulty)*.15));
+   weeks.push({week:w,win,score:win?[base+margin,base]:[base,base+margin]});
  }
  const wins=weeks.filter(x=>x.win).length;
  game.result={weeks,wins,losses:17-wins,overall,average:Math.round(avg),weakest:SLOTS[rates.indexOf(lowest)]};
@@ -185,7 +188,7 @@ function renderResult(){
  '<div class="draft-week-title">17-game season simulation</div><div class="draft-week-grid">'+r.weeks.map(x=>'<div class="'+(x.win?'draft-week win':'draft-week loss')+'" title="Week '+x.week+': '+x.score.join('–')+'"><small>'+x.week+'</small><b>'+(x.win?'W':'L')+'</b></div>').join('')+'</div>'+
  '<div class="draft-analysis"><div><small>TEAM RATING</small><b>'+r.overall+' <span>/ 100</span></b></div><div><small>POSITION TO IMPROVE</small><b>'+r.weakest+'</b></div></div>'+
  '<div class="draft-result-actions"><button class="draft-main-button" type="button" data-action="restart">Draft again <span>↻</span></button><button type="button" class="draft-secondary" data-action="share">Share results ↗</button></div>'+
- '<p class="draft-data-note">Fictional matchups and scores; ratings normalize players within each season and position.</p></section>';
+ '<p class="draft-data-note">Challenge difficulty: undefeated seasons are intentionally rare. Fictional matchups and scores; ratings normalize players within each season and position.</p></section>';
 }
 function render(){
  ROOT.innerHTML='<div class="draft-site">'+
@@ -197,7 +200,7 @@ function render(){
  '<div class="draft-roster-footer"><p><b>Team reroll</b><span class="'+(game.teamUsed?'draft-used':'draft-ready')+'">'+(game.teamUsed?'USED':'AVAILABLE')+'</span></p>'+
  '<p><b>Year reroll</b><span class="'+(game.yearUsed?'draft-used':'draft-ready')+'">'+(game.yearUsed?'USED':'AVAILABLE')+'</span></p></div>'+
  (game.stage!=='result'?'<button type="button" class="draft-reset" data-action="restart">↻ Start over</button>':'')+'</aside></div>')+
- '<div class="draft-bottom"><span>HISTORICAL PLAYER DATA: 1999–2021</span><span><a target="_blank" rel="noopener noreferrer" href="https://github.com/srsavas42/fantasy-football-research">1999–2021 source ↗</a> · <a target="_blank" rel="noopener noreferrer" href="https://github.com/calves86/nfl-stats-data">2022–2025 source ↗</a></span></div></div>';
+ '<div class="draft-bottom"><span>HISTORICAL PLAYER DATA: 1999–2025</span><span><a target="_blank" rel="noopener noreferrer" href="https://github.com/srsavas42/fantasy-football-research">1999–2021 source ↗</a> · <a target="_blank" rel="noopener noreferrer" href="https://github.com/calves86/nfl-stats-data">2022–2025 source ↗</a></span></div></div>';
  renderPlayers();
 }
 async function share(){
@@ -234,7 +237,8 @@ async function boot(){
   const files=await Promise.all(SOURCES.map(async path=>{const res=await fetch(path);if(!res.ok)throw new Error(path);return res.json()}));
   for(const file of files)Object.assign(database,file.teams);
   ready=true;restore();
-  if(game.stage==='board'&&game.team===null){if(!draw())render()}
+  if(game.stage==='complete'&&filled()===SLOTS.length){simulate()}
+  else if(game.stage==='board'&&game.team===null){if(!draw())render()}
   else render();
  }catch(err){
   ROOT.innerHTML='<div class="draft-loading"><h2>Unable to load player data</h2><p>Check your connection and refresh the page. No game data has been changed.</p>'+
