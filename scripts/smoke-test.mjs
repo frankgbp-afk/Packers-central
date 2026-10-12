@@ -74,7 +74,9 @@ for(const [label,page] of [['Matchup',matchupPage],['Home',homepage]]){
 }
 assert(matchupPage.includes('data-page="matchup"'),'Scouting page marker missing');
 assert(stylesheet.includes('@media(max-width:760px)'),'Scouting CSS missing mobile rules');
-assert(cacheWorker.includes("'./scout.css?v=15'"),'Service worker must cache current scouting CSS');
+const currentScoutCss=homepage.match(/href="(scout\.css\?v=\d+)"/)?.[1];
+assert(currentScoutCss&&matchupPage.includes('href="'+currentScoutCss+'"'),'Pages must reference matching scouting CSS versions');
+assert(cacheWorker.includes("'./"+currentScoutCss+"'"),'Service worker must cache current scouting CSS');
 console.log('PASS stylesheet wiring, cache registration and mobile CSS safeguards');
 
 
@@ -93,8 +95,10 @@ assert(!scout.includes('<b>G</b>'),'Old fake matchup G was not removed');
 assert(!scout.includes('packers-logo.svg')&&!app.includes('packers-logo.svg'),'Old logo URLs must not appear in generated UI');
 assert(baseCss.includes('.brand-mark{width:69px;height:54px;display:block'),'Masthead logo styling missing');
 for(const [label,page] of [['Home',homepage],['Matchup',matchupPage]]){
- assert(page.includes('v=15'),label+' missing new URL version');
- assert(page.includes('packers-icon-2026.svg?v=15'),label+' icon URL is stale');
+ const iconVersion=page.match(/packers-icon-2026\.svg\?v=(\d+)/)?.[1];
+ assert(iconVersion,label+' missing versioned Packers icon');
+ assert(page.includes('href="styles.css?v='+iconVersion+'"'),label+' base CSS version is inconsistent');
+ assert(page.includes('href="scout.css?v='+iconVersion+'"'),label+' scouting CSS version is inconsistent');
 }
 assert(manifest.icons.some(x=>x.src==='packers-icon-2026.svg'),'Manifest icon URL is stale');
 assert(cacheWorker.includes("'./packers-mark-2026.svg'")&&cacheWorker.includes("'./packers-icon-2026.svg'"),'Service worker must precache canonical logo assets');
