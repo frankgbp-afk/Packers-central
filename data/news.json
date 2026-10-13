@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-13T06:52:06.845Z",
+  "updatedAt": "2026-10-13T16:59:23.175Z",
   "sources": {
     "packers": [
+      {
+        "title": "Inbox: The Packers have been winning this way for decades",
+        "url": "https://www.packers.com/news/inbox-the-packers-have-been-winning-this-way-for-decades-oct-13-2026",
+        "publishedAt": "Tue, 13 Oct 2026 13:30:00 GMT",
+        "summary": "Green Bay won the cat-and-mouse game with the Bears Sunday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/zfqpi1unqazqhwcm3nqw.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers, WIAA announce September high school football officiating 'Crew of the Month'",
         "url": "https://www.packers.com/news/packers-wiaa-announce-september-high-school-football-officiating-crew-of-the-month-2026",
@@ -100,128 +109,146 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xhgkoksdppmhi6plx817.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "G Kevin Zeitler active for Green Bay | Packers-Bears inactives",
-        "url": "https://www.packers.com/news/packers-bears-week-5-inactives-oct-11-2026",
-        "publishedAt": "Sun, 11 Oct 2026 15:30:00 GMT",
-        "summary": "DT Anthony Campbell will not play vs. Chicago",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xnrcojcjugghnohchdyt.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Sean McVay says Rams to 'evaluate everything' about kicking unit after OT loss",
-        "url": "https://www.espn.com/nfl/story/_/id/50171556/sean-mcvay-says-rams-evaluate-everything-kicking-unit-ot-loss-bills",
-        "publishedAt": "2026-10-13T06:49:30Z",
-        "summary": "After the Rams missed a field goal attempt and had another blocked in Monday night's 37-34 overtime loss to the Bills, coach Sean McVay said Los Angeles will \"evaluate everything\" about the kicking unit.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730028_600x400_3-2.jpg",
+        "title": "Bengals tight end Tanner Hudson out for season with torn pec",
+        "url": "https://www.espn.com/nfl/story/_/id/50174705/bengals-tight-end-tanner-hudson-season-torn-pec",
+        "publishedAt": "2026-10-13T16:43:38Z",
+        "summary": "Bengals TE Tanner Hudson suffered a torn pectoral in last Sunday's win over the Dolphins that will sideline him for the season, his agent told ESPN.",
+        "image": "https://a.espncdn.com/photo/2024/0222/r1294645_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF",
-        "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
-        "publishedAt": "2026-10-13T06:43:34Z",
-        "summary": "Josh Allen came through with his usual late-game theatrics in leading the Bills to a 37-34 overtime win against the Rams on \"Monday Night Football,\" breaking his careerlong winless streak in OT.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730022_600x400_3-2.jpg",
+        "title": "Rest-of-season rankings: Packers WRs rise, Jalen Hurts sinks further",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "publishedAt": "2026-10-13T16:47:34Z",
+        "summary": "Need a quick free agent pickup -- or roster overhaul -- after Week 5? These rankings are designed to help.",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730150_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams' Alaric Jackson punches Bills' Bradley Chubb after MNF",
-        "url": "https://www.espn.com/nfl/story/_/id/50171415/rams-alaric-jackson-punches-bills-bradley-chubb-mnf",
-        "publishedAt": "2026-10-13T06:49:20Z",
-        "summary": "On the field after the Los Angeles Rams' 37-34 overtime loss to the Buffalo Bills on Monday night, Rams left tackle Alaric Jackson punched Bills outside linebacker Bradley Chubb in a scene captured by ESPN's cameras at SoFi Stadium.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730013_600x600_1-1.jpg",
+        "title": "Why the Browns' run game is at the root of their offensive struggles",
+        "url": "https://www.espn.com/nfl/story/_/id/50170630/cleveland-browns-run-game-root-struggles-offense-week-5",
+        "publishedAt": "2026-10-13T16:00:01Z",
+        "summary": "Cleveland's O-line hasn't been able to open running lanes consistently enough for Quinshon Judkins and others.",
+        "image": "https://a.espncdn.com/photo/2026/1002/r1724767_576x324_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Alaric Jackson throws a punch at Bradley Chubb after Bills-Rams",
-        "url": "https://www.espn.com/video/clip/_/id/50171237/alaric-jackson-throws-punch-bradley-chubb-bills-rams",
-        "publishedAt": "2026-10-13T05:35:18Z",
-        "summary": "Alaric Jackson throws a punch at Bradley Chubb after Bills-Rams",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_005517069_3695142/ss_20261013_005517069_3695142.jpg",
+        "title": "Marvin Harrison Jr. latest in Texans' quest to solve their WR2 conundrum",
+        "url": "https://www.espn.com/nfl/story/_/id/50167782/texans-wr2-issues-marvin-harrison-jr",
+        "publishedAt": "2026-10-13T16:00:15Z",
+        "summary": "Houston has traded and drafted receivers, hoping to complement No. 1 wideout Nico Collins and QB C.J. Stroud.",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1729987_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills, Josh Allen outlast Rams in overtime on MNF",
-        "url": "https://www.espn.com/nfl/story/_/id/50170290/buffalo-bills-los-angeles-rams-mnf-week-5-ot-josh-allen",
-        "publishedAt": "2026-10-13T05:49:58Z",
-        "summary": "Using a throwback offense with downhill runs and scrambles from their star QB, the Bills escape with the win.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1729991_2_608x342_16-9.jpg",
+        "title": "Who is to blame for Chargers' 0-5 start to season: Jim Harbaugh or Justin Herbert?",
+        "url": "https://www.espn.com/video/clip/_/id/50174555/jim-harbaugh-justin-herbert",
+        "publishedAt": "2026-10-13T16:06:46Z",
+        "summary": "Who is to blame for Chargers' 0-5 start to season: Jim Harbaugh or Justin Herbert?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_115626664_3695292722/ss_20261013_115626664_3695292722.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Peyton Manning has his head in his hands after James Cook III's OT fumble",
-        "url": "https://www.espn.com/video/clip/_/id/50171166/peyton-manning-head-hands-james-cook-iii-ot-fumble",
-        "publishedAt": "2026-10-13T04:21:03Z",
-        "summary": "Peyton Manning has his head in his hands after James Cook III's OT fumble",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_000947476_3695117/ss_20261013_000947476_3695117.jpg",
+        "title": "Fantasy football rankings Week 6: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-10-13T16:23:42Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Josh Allen: 'Feels good' to be on winning side of OT",
-        "url": "https://www.espn.com/video/clip/_/id/50171162/feels-good-winning-side-ot",
-        "publishedAt": "2026-10-13T04:12:37Z",
-        "summary": "Josh Allen: 'Feels good' to be on winning side of OT",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_000831381_3695113/ss_20261013_000831381_3695113.jpg",
+        "title": "Fantasy football rankings for Week 6: IDP",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+        "publishedAt": "2026-10-13T15:45:48Z",
+        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720597_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills win OT thriller over the Rams to move to 4-1",
-        "url": "https://www.espn.com/video/clip/_/id/50171089/bills-win-ot-thriller-rams-move-4-1",
-        "publishedAt": "2026-10-13T03:58:51Z",
-        "summary": "Bills win OT thriller over the Rams to move to 4-1",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1013/32e77eaf-f4a0-4edf-a089-08fd6114e3e5/32e77eaf-f4a0-4edf-a089-08fd6114e3e5.jpg",
+        "title": "Fantasy football rankings for Week 6: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-10-13T15:38:55Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Josh Allen racks up 331 yards and Bills outlast Rams with help from blocked FG for 37-34 win in OT",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872994",
-        "publishedAt": "2026-10-13T06:17:34Z",
-        "summary": "— Josh Allen realized that his extraordinary efforts throughout this frenetic game might all amount to nothing Monday night when the Buffalo Bills fumbled deep in Rams territory early in overtime.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872994.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Fantasy football rankings for Week 6: D/ST",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+        "publishedAt": "2026-10-13T15:38:10Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Peyton Manning draws up Brenda Song’s play for the Rams",
-        "url": "https://www.espn.com/video/clip/_/id/50170610/peyton-manning-draws-brenda-songs-play-rams",
-        "publishedAt": "2026-10-13T02:28:46Z",
-        "summary": "Peyton Manning draws up Brenda Song’s play for the Rams",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/ss_20261012_222115918_3695014/ss_20261012_222115918_3695014.jpg",
+        "title": "Fantasy football rankings for Week 6: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-10-13T15:36:33Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "ManningCast 2026 schedule: How to watch MNF games and guests",
-        "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
-        "publishedAt": "2026-10-13T01:34:10Z",
-        "summary": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
-        "image": "https://a.espncdn.com/photo/2024/0116/r1278006_608x342_16-9.jpg",
+        "title": "Fantasy football rankings for Week 6: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-10-13T15:27:18Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jim Harbaugh says he, Chargers ownership 'in this fight together' amid 0-5 start",
-        "url": "https://www.espn.com/nfl/story/_/id/50170100/amid-0-5-start-jim-harbaugh-chargers-ownership-fight-together",
-        "publishedAt": "2026-10-13T06:07:09Z",
-        "summary": "With the Chargers off to an 0-5 start for the first time since 2003, coach Jim Harbaugh said Monday that he and the team's ownership group are \"shoulder to shoulder where we're in this fight together.\"",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1729957_600x400_3-2.jpg",
+        "title": "Fantasy football rankings for Week 6: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+        "publishedAt": "2026-10-13T15:24:59Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Cowboys will give the Packers defense its biggest test yet",
+        "url": "https://www.acmepackingcompany.com/general/88030/cowboys-will-give-the-packers-defense-its-biggest-test-yet",
+        "publishedAt": "2026-10-13T11:30:00-04:00",
+        "summary": "Coming out of week five, the Green Bay Packers’ defense has been a pleasant surprise on the season. Without Micah Parsons for a single snap yet, they rank eighth in EPA allowed per dropback and they rank an outstanding third in ANY/A value, as seen below from Justis Mosqueda. Under the hood, though, things look [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2247239583.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Long snapping on kicks in Week 5",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88010/packers-film-room-long-snapping-on-kicks-in-week-5",
+        "publishedAt": "2026-10-13T10:45:00-04:00",
+        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. After some pretty light weeks, we have 6 to look at this week. If you watched the game you know a lot of these did not have pretty outcomes, but we’re going to slow down the operation and see how [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Packers’ passing attack looking terrific",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88026/green-bay-packers-news-packers-passing-attack-looking-terrific",
+        "publishedAt": "2026-10-13T09:57:50-04:00",
+        "summary": "I think a lot of people were pretty bullish on the Packers’ passing offense this year. With Jordan Love entering year four as the Packers’ starting quarterback, Tucker Kraft back from his torn ACL, and Christian Watson, Jayden Reed, and Matthew Golden making up a revamped wide receiver corps, things looked promising.&#160; Through five games, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/05/gettyimages-2247970608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers work out 3 defenders on Monday",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88000/green-bay-packers-work-out-3-defenders-on-monday",
@@ -282,33 +309,6 @@
         "publishedAt": "2026-10-11T20:53:12-04:00",
         "summary": "Chicago Bears head coach Ben Johnson said he wanted blowouts, and a blowout is exactly what he got as the Green Bay Packers hosted their division rivals and won in commanding fashion, 31-7. After a ton of well-warranted criticism that the Packers couldn’t hold onto leads, they took complete control of the game on Sunday, [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299717137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Week 5 Snap Counts: Kaleb Johnson slides",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/87915/packers-week-5-snap-counts-kaleb-johnson-slides",
-        "publishedAt": "2026-10-11T17:16:46-04:00",
-        "summary": "The Green Bay Packers beat the Chicago Bears 31-7. It was very enjoyable. We should do this every weekend. Beyond the win, though, let’s look at the Packers’ snap counts to see what is staying the same and what is changing as the season unfolds. For the most part, we know what this squad is, [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299718707.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers fear Javon Hargrave tore his Achilles",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87916/packers-fear-javon-hargrave-tore-his-achilles",
-        "publishedAt": "2026-10-11T16:57:16-04:00",
-        "summary": "Green Bay Packers head coach Matt LaFleur opened up his press conference on Sunday by stating that the win over the Chicago Bears was “bittersweet,” as it didn’t “look good” for defensive lineman Javon Hargrave. Hargrave went down late against the Bears in garbage time and was carted off the field. When asked for more [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299209157.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Bears Final Score: Jordan Love dismantles Chicago with deep ball in 31-7 win",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/87904/packers-vs-bears-final-score-jordan-love-dismantles-chicago-with-deep-ball-in-31-7-win",
-        "publishedAt": "2026-10-11T16:07:57-04:00",
-        "summary": "Maybe facing the Chicago Bears really was what the doctor ordered after all. On Sunday in Week 5, and for the first time all season, the Green Bay Packers looked like a team capable of contending in 2026. For all of his downplaying of any personal animosity against Ben Johnson, Matt LaFleur kept sticking with [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299710042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
