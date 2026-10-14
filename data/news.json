@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:51:22.762Z",
+  "updatedAt": "2026-10-14T05:00:58.726Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,45 @@
     ],
     "espn": [
       {
+        "title": "Niners LB Dre Greenlaw's appeal of suspension rejected, will sit vs. Commanders",
+        "url": "https://www.espn.com/nfl/story/_/id/50178480/niners-lb-dre-greenlaw-appeal-1-game-suspension-rejected",
+        "publishedAt": "2026-10-14T02:37:47Z",
+        "summary": "Niners linebacker Dre Greenlaw will serve his one-game suspension in Monday night's game against the Commanders after the NFL denied his appeal Tuesday.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730452_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Tyreek Hill found liable for 2 of 10 counts in battery trial; wife awarded $500K",
+        "url": "https://www.espn.com/nfl/story/_/id/50178212/tyreek-hill-found-liable-2-counts-battery-civil-trial-not-liable-remaining-claims",
+        "publishedAt": "2026-10-14T03:16:56Z",
+        "summary": "A Miami jury returned a mixed verdict in the assault and battery civil trial against Tyreek Hill, finding the former NFL receiver liable for two counts of battery but not liable for the eight other claims made by his estranged wife, Lakeeta Vaccaro.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730415_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cleveland Browns gets their close-up in first trailer for Hulu's 'The Land'",
+        "url": "https://www.espn.com/nfl/story/_/id/50177761/cleveland-browns-land-hulu-trailer",
+        "publishedAt": "2026-10-14T00:31:08Z",
+        "summary": "Created by Dan Fogelman, the NFL-backed drama follows a fictional version of the Browns and premieres the day after Super Bowl LXI.",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730403_608x342_16-9.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Broncos' Bo Nix says he needs to simplify approach, play faster amid rocky start",
+        "url": "https://www.espn.com/nfl/story/_/id/50177580/broncos-bo-nix-says-needs-simplify-approach-amid-rocky-start",
+        "publishedAt": "2026-10-14T00:05:25Z",
+        "summary": "Broncos quarterback Bo Nix said Tuesday he can find solutions if he can simplify his approach: \"Making it simple, making things 1-2-3, and let's play fast and let's roll.\"",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730390_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Panthers RT Moton coughed up blood before clot diagnosis",
         "url": "https://www.espn.com/nfl/story/_/id/50177416/panthers-rt-moton-coughed-blood-clot-diagnosis",
-        "publishedAt": "2026-10-13T22:33:34Z",
+        "publishedAt": "2026-10-14T01:37:20Z",
         "summary": "Carolina Panthers right tackle Taylor Moton, 32, told reporters Tuesday that he coughed up blood before being diagnosed with multiple blood clots in June, an ailment that sidelined him through training camp and into the second month of the regular season.",
         "image": "https://a.espncdn.com/photo/2026/1013/r1730380_600x600_1-1.jpg",
         "source": "ESPN NFL",
@@ -124,7 +160,7 @@
       {
         "title": "Saints owner Gayle Benson rips 1-4 start, says fans 'deserve better'",
         "url": "https://www.espn.com/nfl/story/_/id/50177269/saints-owner-benson-rips-1-4-start-says-fans-deserve-better",
-        "publishedAt": "2026-10-13T22:37:40Z",
+        "publishedAt": "2026-10-14T01:15:11Z",
         "summary": "Saints owner Gayle Benson called out several members of the organization amid the team's 1-4 start and said that fans are \"right to expect more than we have delivered.\"",
         "image": "https://a.espncdn.com/photo/2026/1013/r1730376_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -133,7 +169,7 @@
       {
         "title": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
         "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
-        "publishedAt": "2026-10-13T22:42:04Z",
+        "publishedAt": "2026-10-13T23:36:26Z",
         "summary": "Micah Parsons said on his podcast that Jayden Daniels' mistake at the end of overtime Sunday will probably end up getting Commanders coach Dan Quinn fired.",
         "image": "https://a.espncdn.com/photo/2026/1012/r1729529_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -142,8 +178,8 @@
       {
         "title": "The Saints' offense keeps declining each week. Can they turn it around?",
         "url": "https://www.espn.com/nfl/story/_/id/50176573/new-orleans-saints-offense-worse-week-6-turn-around",
-        "publishedAt": "2026-10-13T22:34:55Z",
-        "summary": "After dropping three straight games at home, New Orleans goes on the road with intent to \"completely flip the script.\"",
+        "publishedAt": "2026-10-14T01:33:25Z",
+        "summary": "After dropping three straight games at home, New Orleans goes on the road with intent to turn things around.",
         "image": "https://a.espncdn.com/photo/2026/1013/r1730322_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -151,7 +187,7 @@
       {
         "title": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
         "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
-        "publishedAt": "2026-10-13T22:36:11Z",
+        "publishedAt": "2026-10-13T23:32:42Z",
         "summary": "Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues.",
         "image": "https://a.espncdn.com/photo/2026/1013/r1729967_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -176,139 +212,103 @@
         "icon": "ESPN"
       },
       {
-        "title": "Sources: NFL expected to suspend Rams' Alaric Jackson for two games for punch",
+        "title": "NFL suspends Rams' Alaric Jackson for two games after punch",
         "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
-        "publishedAt": "2026-10-13T21:38:48Z",
-        "summary": "The NFL is expected to suspend Rams left tackle Alaric Jackson for two games without pay, sources told ESPN's Adam Schefter.",
+        "publishedAt": "2026-10-14T02:01:58Z",
+        "summary": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
         "image": "https://a.espncdn.com/photo/2026/1013/r1730114_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears DE Montez Sweat suspended two games for violating NFL's PED policy",
-        "url": "https://www.espn.com/nfl/story/_/id/50176333/bears-de-sweat-suspended-two-games-violating-ped-policy",
-        "publishedAt": "2026-10-13T22:02:40Z",
-        "summary": "The NFL has issued a two-game suspension to Bears defensive end Montez Sweat for violating the league's policy on performance-enhancing substances.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730287_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football 13-team Knockout league rankings: The 182 players to draft",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-        "publishedAt": "2026-10-13T20:10:29Z",
-        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why Rams releasing Harrison Mevis for Blake Grupe is a 'significant change'",
-        "url": "https://www.espn.com/video/clip/_/id/50176017/why-rams-releasing-harrison-mevis-blake-grupe-significant-change",
-        "publishedAt": "2026-10-13T19:58:30Z",
-        "summary": " Why Rams releasing Harrison Mevis for Blake Grupe is a 'significant change'",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/ss_20261013_152445136_3695477933/ss_20261013_152445136_3695477933.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles pass rusher Jalyx Hunt (leg) unlikely vs. Panthers",
-        "url": "https://www.espn.com/nfl/story/_/id/50175748/eagles-pass-rusher-jalyx-hunt-leg-unlikely-vs-panthers",
-        "publishedAt": "2026-10-13T20:26:07Z",
-        "summary": "Eagles pass rusher Jalyx Hunt, who sustained ankle and knee injuries last week, is not expected to play Sunday against the Carolina Panthers, DC Vic Fangio said.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730299_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
-        "title": "Green Bay Packers News: Unlike Bears, Packers won first and talked second",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87961/green-bay-packers-news-unlike-bears-packers-won-first-and-talked-second",
-        "publishedAt": "2026-10-12T08:00:00-04:00",
-        "summary": "The Chicago Bears talked a big game heading into their Week 5 matchup with the Green Bay Packers. That didn’t exactly work out well for them when the two teams actually played their game on Sunday afternoon. The Packers dropped bomb after bomb on the Bears’ defense as Jordan Love connected with Christian Watson, Matthew [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299208862.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Josh Jacobs video release is delayed",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88069/josh-jacobs-video-release-is-delayed",
+        "publishedAt": "2026-10-13T17:35:43-04:00",
+        "summary": "Yesterday, Green Bay Packers head coach Matt LaFleur stated that the team received no updates on the status of running back Josh Jacobs, in terms of the league’s feedback on when he’ll return from his time on the exempt list. Jacobs has spent the entire regular season on the exempt list, where a potential suspension [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/05/gettyimages-2256052537.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers vs. Cowboys odds: Opening lines for Week 6 matchup",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/87891/packers-vs-cowboys-odds-week-6-opening-lines-point-spread-total",
-        "publishedAt": "2026-10-12T00:30:00-04:00",
-        "summary": "The Green Bay Packers just dismantled their oldest rivals, the Chicago Bears, 31-7 on Sunday afternoon. The Dallas Cowboys just lost to an 0-4 Tampa Bay Buccaneers at home on Thursday Night Football, falling to 2-3 in the process. Somehow, however, the Cowboys are actually the favorites for their game at Lambeau Field on Sunday [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/10/gettyimages-2237957924.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Packers sign CB Elijah Culp, release high-priced UDFA",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88066/packers-sign-cb-elijah-culp-release-high-priced-udfa",
+        "publishedAt": "2026-10-13T17:15:44-04:00",
+        "summary": "The Green Bay Packers announced on Tuesday that the team signed cornerback Elijah Culp, whom the team brought in on Monday for a tryout. There’s little info out there about Culp, but here’s what we wrote on him yesterday: Culp is an undrafted rookie who played for four different college programs over six seasons (Austin [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2289908752.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Winners and Losers: Week 5 vs. the Bears",
-        "url": "https://www.acmepackingcompany.com/general/87902/packers-winners-and-losers-week-5-vs-the-bears",
-        "publishedAt": "2026-10-11T20:53:12-04:00",
-        "summary": "Chicago Bears head coach Ben Johnson said he wanted blowouts, and a blowout is exactly what he got as the Green Bay Packers hosted their division rivals and won in commanding fashion, 31-7. After a ton of well-warranted criticism that the Packers couldn’t hold onto leads, they took complete control of the game on Sunday, [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299717137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Jerry Jones is making up stories",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88058/jerry-jones-is-making-up-stories",
+        "publishedAt": "2026-10-13T13:45:52-04:00",
+        "summary": "I regret to inform you that Jerry Jones is making stuff up. Speaking with 105.3 The Fan (the Cowboys’ flagship radio station) the 84-year-old Jones recently recounted a story of a memorable trip he made to Green Bay. As quoted by The Athletic’s Jon Marchota, Jones and his young grandchildren and an, um, interesting encounter [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2288093597.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Week 5 Snap Counts: Kaleb Johnson slides",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/87915/packers-week-5-snap-counts-kaleb-johnson-slides",
-        "publishedAt": "2026-10-11T17:16:46-04:00",
-        "summary": "The Green Bay Packers beat the Chicago Bears 31-7. It was very enjoyable. We should do this every weekend. Beyond the win, though, let’s look at the Packers’ snap counts to see what is staying the same and what is changing as the season unfolds. For the most part, we know what this squad is, [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299718707.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Cowboys will give the Packers defense its biggest test yet",
+        "url": "https://www.acmepackingcompany.com/general/88030/cowboys-will-give-the-packers-defense-its-biggest-test-yet",
+        "publishedAt": "2026-10-13T11:30:00-04:00",
+        "summary": "Coming out of week five, the Green Bay Packers’ defense has been a pleasant surprise on the season. Without Micah Parsons for a single snap yet, they rank eighth in EPA allowed per dropback and they rank an outstanding third in ANY/A value, as seen below from Justis Mosqueda. Under the hood, though, things look [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2247239583.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers fear Javon Hargrave tore his Achilles",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87916/packers-fear-javon-hargrave-tore-his-achilles",
-        "publishedAt": "2026-10-11T16:57:16-04:00",
-        "summary": "Green Bay Packers head coach Matt LaFleur opened up his press conference on Sunday by stating that the win over the Chicago Bears was “bittersweet,” as it didn’t “look good” for defensive lineman Javon Hargrave. Hargrave went down late against the Bears in garbage time and was carted off the field. When asked for more [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299209157.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Packers Film Room: Long snapping on kicks in Week 5",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88010/packers-film-room-long-snapping-on-kicks-in-week-5",
+        "publishedAt": "2026-10-13T10:45:00-04:00",
+        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. After some pretty light weeks, we have 6 to look at this week. If you watched the game you know a lot of these did not have pretty outcomes, but we’re going to slow down the operation and see how [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers vs. Bears Final Score: Jordan Love dismantles Chicago with deep ball in 31-7 win",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/87904/packers-vs-bears-final-score-jordan-love-dismantles-chicago-with-deep-ball-in-31-7-win",
-        "publishedAt": "2026-10-11T16:07:57-04:00",
-        "summary": "Maybe facing the Chicago Bears really was what the doctor ordered after all. On Sunday in Week 5, and for the first time all season, the Green Bay Packers looked like a team capable of contending in 2026. For all of his downplaying of any personal animosity against Ben Johnson, Matt LaFleur kept sticking with [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299710042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Green Bay Packers News: Packers’ passing attack looking terrific",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88026/green-bay-packers-news-packers-passing-attack-looking-terrific",
+        "publishedAt": "2026-10-13T09:57:50-04:00",
+        "summary": "I think a lot of people were pretty bullish on the Packers’ passing offense this year. With Jordan Love entering year four as the Packers’ starting quarterback, Tucker Kraft back from his torn ACL, and Christian Watson, Jayden Reed, and Matthew Golden making up a revamped wide receiver corps, things looked promising.&#160; Through five games, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/05/gettyimages-2247970608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers vs. Bears Week 5 Game Discussion",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/87876/packers-vs-bears-week-5-game-discussion",
-        "publishedAt": "2026-10-11T12:30:00-04:00",
-        "summary": "It’s just about time for the Green Bay Packers and Chicago Bears to kick off their first meeting of the 2026 regular season. The NFL’s oldest rivals renew their rivalry, playing for the 214th time in history today with the Packers holding a nine-game lead overall in the teams’ head-to-head history. Chicago comes in as [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-1030137238.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Green Bay Packers work out 3 defenders on Monday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88000/green-bay-packers-work-out-3-defenders-on-monday",
+        "publishedAt": "2026-10-12T18:13:51-04:00",
+        "summary": "The Green Bay Packers generally work out players on their Tuesday “off” day, but the team got an early start this week by bringing in three defenders on Monday: cornerback Miles Battle, cornerback Elijah Culp and defensive lineman Isaiah Iton, per the NFL transaction wire. Miles Battle, CB Battle is a former undrafted player who [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2290015226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers Week 5 Inactives: Kevin Zeitler to make his debut",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/87895/packers-week-5-inactives-kevin-zeitler-to-make-his-debut",
-        "publishedAt": "2026-10-11T12:07:13-04:00",
-        "summary": "The Green Bay Packers will get new addition Kevin Zeitler on the field for the first time in a game on Sunday. Zeitler is active and will suit up for the Packers against the Chicago Bears for Sunday afternoon&#8217;s week 5 matchup, and he is expected to start at right guard. Zeitler did not play [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2254172331.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Packers’ next opponent hires Mike Pettine, former Green Bay coordinator",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87997/packers-next-opponent-hires-mike-pettine-former-green-bay-coordinator",
+        "publishedAt": "2026-10-12T17:40:41-04:00",
+        "summary": "The struggling Dallas Cowboys have hired former Green Bay Packers defensive coordinator Mike Pettine to help right the ship. The Cowboys’ defense is allowing 27.2 points per game this season and has allowed a passer rating of 120.5 against, the worst mark in the NFL through five weeks of NFL action. First-time defensive coordinator Christian [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-1020130954.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers vs. Bears, Week 5: Game time, TV channel, odds, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/87873/packers-vs-bears-week-5-game-time-tv-channel-odds-more",
-        "publishedAt": "2026-10-11T06:00:00-04:00",
-        "summary": "The Green Bay Packers and Chicago Bears renew the NFL’s oldest and most-played rivalry today when they meet at Lambeau Field. The two teams will play for the 214th time, including regular season and playoffs, with the Packers holding a 109-98-6 lead overall in the series. This week’s game was moved from a 3:25 PM [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/02/gettyimages-2250006074.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Packers have no league updates on Josh Jacobs&#8217; situation",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87995/packers-have-no-league-updates-on-josh-jacobs-situation",
+        "publishedAt": "2026-10-12T17:31:32-04:00",
+        "summary": "Green Bay Packers head coach Matt LaFleur stated on Monday that the team has not received any updates regarding running back Josh Jacobs’ status. Jacobs pleaded no contest to charges of battery and criminal damage to property, stemming from an incident that involved his then-girlfriend. At the moment, the NFL has Jacobs on the commissioner [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280733104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
-        "title": "Packers place RB Chris Brooks on injured reserve",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87884/packers-place-rb-chris-brooks-on-injured-reserve",
-        "publishedAt": "2026-10-10T16:14:36-04:00",
-        "summary": "The Green Bay Packers announced on Saturday that they have placed running back Chris Brooks, who was leading the backfield in snaps this season until his ankle injury, on the injured reserve. The Packers have already backfilled his position on the team with the addition of Pierre Strong Jr., who was brought up from the [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2295100266.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Packers By The Numbers: Stats from the Week 5 win over the Bears",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/87957/packers-by-the-numbers-stats-from-the-week-5-win-over-the-bears",
+        "publishedAt": "2026-10-12T10:00:00-04:00",
+        "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers’ most recent game, courtesy of SumerSports. Today we’re looking at the 31-7 victory over the Chicago Bears in Week 5. Offense Last week we saw a drastic decrease in the Packers usage of 11 personnel (1 RB, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30060581543850480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
