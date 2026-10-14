@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T05:00:58.726Z",
+  "updatedAt": "2026-10-14T12:01:52.294Z",
   "sources": {
     "packers": [
       {
@@ -113,6 +113,60 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football matchup rankings: Upgrade Tony Pollard, fade Trevor Lawrence",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50176395/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+        "publishedAt": "2026-10-14T11:18:04Z",
+        "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730333_2_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jaguars coach Liam Coen takes blame for delay of game penalties vs. Eagles",
+        "url": "https://www.espn.com/nfl/story/_/id/50180676/jaguars-coach-takes-blame-rash-delay-game-penalties",
+        "publishedAt": "2026-10-14T11:16:46Z",
+        "summary": "Jaguars coach Liam Coen says the blame for the team's three delay of game penalties against the Eagles belongs on his shoulders.",
+        "image": "https://a.espncdn.com/photo/2025/1019/r1562591_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track?",
+        "url": "https://www.espn.com/nfl/story/_/id/50163007/2026-season-evaluating-preseason-predictions-updates",
+        "publishedAt": "2026-10-14T10:25:47Z",
+        "summary": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730176_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 6 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+        "url": "https://www.espn.com/nfl/story/_/id/50173775/week-6-buzz-fantasy-predictions-graziano-fowler-2026",
+        "publishedAt": "2026-10-14T10:25:04Z",
+        "summary": "What is going on with the Eagles?! We have intel on Philly's three-game slide, three remaining unbeaten teams, QBs at risk of being benched, potential WR trades and more.",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730277_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jaguars WR Parker Washington has the clutch gene: Will that earn him an extension?",
+        "url": "https://www.espn.com/nfl/story/_/id/50174583/jacksonville-jaguars-parker-washington-2026-breakout",
+        "publishedAt": "2026-10-14T10:00:10Z",
+        "summary": "Did you see Washington's one-handed grab in London? How did he get so good at contested catches? And how did he quickly become a big part of the Jaguars' offense?",
+        "image": "https://a.espncdn.com/photo/2026/1012/r1729841_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jacksonville Jaguars remain in the NFL hunt thanks to Foyesade Oluokun's bone-crunching efforts",
+        "url": "https://www.espn.com/espn/story/_/id/50180170/jacksonville-jaguars-remain-nfl-hunt-thanks-foyesade-oluokun-bone-crunching-efforts",
+        "publishedAt": "2026-10-14T08:59:13Z",
+        "summary": "Runaway AFC South leaders the Jacksonville Jaguars continued their impressive start to the season, with Nigerian-American linebacker Foyesade Oluokun starring in a 19-17 win over the Philadelphia Eagles.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730533_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Niners LB Dre Greenlaw's appeal of suspension rejected, will sit vs. Commanders",
         "url": "https://www.espn.com/nfl/story/_/id/50178480/niners-lb-dre-greenlaw-appeal-1-game-suspension-rejected",
         "publishedAt": "2026-10-14T02:37:47Z",
@@ -160,86 +214,14 @@
       {
         "title": "Saints owner Gayle Benson rips 1-4 start, says fans 'deserve better'",
         "url": "https://www.espn.com/nfl/story/_/id/50177269/saints-owner-benson-rips-1-4-start-says-fans-deserve-better",
-        "publishedAt": "2026-10-14T01:15:11Z",
+        "publishedAt": "2026-10-14T10:27:05Z",
         "summary": "Saints owner Gayle Benson called out several members of the organization amid the team's 1-4 start and said that fans are \"right to expect more than we have delivered.\"",
         "image": "https://a.espncdn.com/photo/2026/1013/r1730376_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
-        "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
-        "publishedAt": "2026-10-13T23:36:26Z",
-        "summary": "Micah Parsons said on his podcast that Jayden Daniels' mistake at the end of overtime Sunday will probably end up getting Commanders coach Dan Quinn fired.",
-        "image": "https://a.espncdn.com/photo/2026/1012/r1729529_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "The Saints' offense keeps declining each week. Can they turn it around?",
-        "url": "https://www.espn.com/nfl/story/_/id/50176573/new-orleans-saints-offense-worse-week-6-turn-around",
-        "publishedAt": "2026-10-14T01:33:25Z",
-        "summary": "After dropping three straight games at home, New Orleans goes on the road with intent to turn things around.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730322_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
-        "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
-        "publishedAt": "2026-10-13T23:32:42Z",
-        "summary": "Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1729967_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football consistency ratings: 2024 to 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49954186/fantasy-football-rankings-consistency-ratings-start-sit-value",
-        "publishedAt": "2026-10-13T21:16:23Z",
-        "summary": "The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
-        "image": "https://a.espncdn.com/photo/2026/0923/r1720966_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football consistency ratings for 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50119375/2026-fantasy-football-rankings-start-sit",
-        "publishedAt": "2026-10-13T21:09:49Z",
-        "summary": "The consistency ratings weigh how consistent, as well as how start-worthy, players have been in ESPN fantasy football leagues in 2026.",
-        "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL suspends Rams' Alaric Jackson for two games after punch",
-        "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
-        "publishedAt": "2026-10-14T02:01:58Z",
-        "summary": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730114_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
-      {
-        "title": "Josh Jacobs video release is delayed",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88069/josh-jacobs-video-release-is-delayed",
-        "publishedAt": "2026-10-13T17:35:43-04:00",
-        "summary": "Yesterday, Green Bay Packers head coach Matt LaFleur stated that the team received no updates on the status of running back Josh Jacobs, in terms of the league’s feedback on when he’ll return from his time on the exempt list. Jacobs has spent the entire regular season on the exempt list, where a potential suspension [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/05/gettyimages-2256052537.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers sign CB Elijah Culp, release high-priced UDFA",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88066/packers-sign-cb-elijah-culp-release-high-priced-udfa",
-        "publishedAt": "2026-10-13T17:15:44-04:00",
-        "summary": "The Green Bay Packers announced on Tuesday that the team signed cornerback Elijah Culp, whom the team brought in on Monday for a tryout. There’s little info out there about Culp, but here’s what we wrote on him yesterday: Culp is an undrafted rookie who played for four different college programs over six seasons (Austin [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2289908752.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
       {
         "title": "Jerry Jones is making up stories",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88058/jerry-jones-is-making-up-stories",
@@ -309,6 +291,24 @@
         "publishedAt": "2026-10-12T10:00:00-04:00",
         "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers’ most recent game, courtesy of SumerSports. Today we’re looking at the 31-7 victory over the Chicago Bears in Week 5. Offense Last week we saw a drastic decrease in the Packers usage of 11 personnel (1 RB, [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30060581543850480.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Unlike Bears, Packers won first and talked second",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/87961/green-bay-packers-news-unlike-bears-packers-won-first-and-talked-second",
+        "publishedAt": "2026-10-12T08:00:00-04:00",
+        "summary": "The Chicago Bears talked a big game heading into their Week 5 matchup with the Green Bay Packers. That didn’t exactly work out well for them when the two teams actually played their game on Sunday afternoon. The Packers dropped bomb after bomb on the Bears’ defense as Jordan Love connected with Christian Watson, Matthew [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299208862.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Cowboys odds: Opening lines for Week 6 matchup",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/87891/packers-vs-cowboys-odds-week-6-opening-lines-point-spread-total",
+        "publishedAt": "2026-10-12T00:30:00-04:00",
+        "summary": "The Green Bay Packers just dismantled their oldest rivals, the Chicago Bears, 31-7 on Sunday afternoon. The Dallas Cowboys just lost to an 0-4 Tampa Bay Buccaneers at home on Thursday Night Football, falling to 2-3 in the process. Somehow, however, the Cowboys are actually the favorites for their game at Lambeau Field on Sunday [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/10/gettyimages-2237957924.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
