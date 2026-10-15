@@ -1,12 +1,39 @@
 {
-  "updatedAt": "2026-10-15T17:07:39.799Z",
+  "updatedAt": "2026-10-15T21:29:31.919Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers-Cowboys Injury Report | Oct. 15, 2026",
+        "url": "https://www.packers.com/news/packers-cowboys-injury-report-oct-15-2026",
+        "publishedAt": "Thu, 15 Oct 2026 20:59:26 GMT",
+        "summary": "",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hxs2qd9h7mxezogogh6h.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Lambeau Field ready for Sunday's Packers vs. Cancer game, presented by UW Health | Carbone Cancer Center",
+        "url": "https://www.packers.com/news/lambeau-field-ready-for-sunday-s-packers-vs-cancer-game-presented-by-uw-health-carbone-cancer-center-week-6-2026",
+        "publishedAt": "Thu, 15 Oct 2026 20:55:00 GMT",
+        "summary": "Packers-Cowboys matchup to honor those who have battled cancer",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/uk0d06hskukrnxesv5j7.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers welcoming Will Blackmon, Marco Rivera as featured alumni this week",
+        "url": "https://www.packers.com/news/packers-welcoming-will-blackmon-marco-rivera-as-featured-alumni-this-week-oct-15-2026",
+        "publishedAt": "Thu, 15 Oct 2026 19:37:29 GMT",
+        "summary": "Former players to greet fans near Lambeau Field on Saturday and Sunday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/chvo5m0khb2fe2pkn1na.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Nick Whalen of Mauston High School named Green Bay Packers High School Coach of the Week",
         "url": "https://www.packers.com/news/nick-whalen-of-mauston-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-15-2026",
         "publishedAt": "Thu, 15 Oct 2026 17:01:56 GMT",
-        "summary": "Whalen has helped lead a remarkable turnaround, guiding Mauston to a 5-3 record after a 9-0 finish in his first season",
+        "summary": "Whalen has helped lead a remarkable turnaround, guiding Mauston to a 5-3 record after a 0-9 finish in his first season",
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/u5yqcr47nq4c3odxxwke.png",
         "source": "Packers.com",
         "icon": "GB"
@@ -82,146 +109,128 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/aslrbv5amqrklst6j1hn.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Surging Christian Watson intends to 'keep on climbing'",
-        "url": "https://www.packers.com/news/surging-christian-watson-intends-to-keep-on-climbing-oct-14-2026",
-        "publishedAt": "Wed, 14 Oct 2026 14:00:00 GMT",
-        "summary": "Packers receiver took his game to next level after ACL injury",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/gjrteumnklrz4fsb10qo.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: The transition looks complete",
-        "url": "https://www.packers.com/news/inbox-the-transition-looks-complete-oct-14-2026",
-        "publishedAt": "Wed, 14 Oct 2026 13:30:00 GMT",
-        "summary": "The human psyche remains forever fascinating",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ncvyvxmczesgyn9ysyvl.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers announce roster moves | Oct. 13, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-oct-13-2026",
-        "publishedAt": "Tue, 13 Oct 2026 21:01:09 GMT",
-        "summary": "Green Bay signs CB Elijah Culp to the practice squad; releases G Josh Gesky",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/cnzhtibobbuwliiabfpi.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "How to bet Seahawks-Broncos: Analysis, tips and top prop plays",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50167970/nfl-week-6-odds-betting-tips-picks-seahawks-broncos",
-        "publishedAt": "2026-10-15T16:59:51Z",
-        "summary": "Odds, bets and analysis to help you bet Seattle Seahawks at Denver Broncos on \"Thursday Night Football.\"",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731124_2_1296x729_16-9.jpg",
+        "title": "The Bills aim to avoid a letdown in Las Vegas as the Raiders seek a rebound",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873005",
+        "publishedAt": "2026-10-15T21:28:28Z",
+        "summary": "— Buffalo will come into its game against Las Vegas trying to maintain momentum. The Bills could learn a lesson on what not to do from the Raiders.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873005.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Stephen A.'s concerns about the Eagles heading into matchup vs. Panthers",
-        "url": "https://www.espn.com/video/clip/_/id/50189712/stephen-concerns-eagles-heading-matchup-vs-panthers",
-        "publishedAt": "2026-10-15T16:27:06Z",
-        "summary": "Stephen A.'s concerns about the Eagles heading into matchup vs. Panthers ",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/ss_20261015_120015539_3697354723/ss_20261015_120015539_3697354723.jpg",
+        "title": "Aaron Rodgers vs. Todd Bowles should be quite a chess match when Steelers visit the Buccaneers",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873002",
+        "publishedAt": "2026-10-15T21:07:28Z",
+        "summary": "— Todd Bowles will have to be quite creative to surprise Aaron Rodgers.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873002.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Is Brenton Strange a good fantasy play vs. Texans?",
-        "url": "https://www.espn.com/video/clip/_/id/50189396/is-brenton-strange-good-fantasy-play-vs-texans",
-        "publishedAt": "2026-10-15T15:10:56Z",
-        "summary": "Is Brenton Strange a good fantasy play vs. Texans?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/ss_20261015_105922354_3697324/ss_20261015_105922354_3697324.jpg",
+        "title": "Packers seek to build on their momentum as Cowboys attempt to bounce back from ugly loss",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873007",
+        "publishedAt": "2026-10-15T20:51:28Z",
+        "summary": "— Jordan Love and the Green Bay Packers are aiming to build off their best win of the season as they prepare to host a Dallas team attempting to bounce...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873007.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Dopp views Matthew Stafford as a top-10 fantasy QB",
-        "url": "https://www.espn.com/video/clip/_/id/50189351/why-dopp-views-matthew-stafford-top-10-fantasy-qb",
-        "publishedAt": "2026-10-15T15:09:49Z",
-        "summary": "Why Dopp views Matthew Stafford as a top-10 fantasy QB  ",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/ss_20261015_105607426_3697321/ss_20261015_105607426_3697321.jpg",
+        "title": "The Colts are hoping to get Jonathan Taylor back on track when they host the winless Titans",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873003",
+        "publishedAt": "2026-10-15T20:39:28Z",
+        "summary": "The Indianapolis Colts need Jonathan Taylor to become a big-play threat again.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873003.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Daniel Dopp is still in on Jalen Coker heading into Week 6",
-        "url": "https://www.espn.com/video/clip/_/id/50189344/why-daniel-dopp-on-jalen-coker-heading-week-6",
-        "publishedAt": "2026-10-15T15:06:30Z",
-        "summary": "Why Daniel Dopp is still in on Jalen Coker heading into Week 6",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/ss_20261015_105328426_3697320/ss_20261015_105328426_3697320.jpg",
+        "title": "Raiders' Ashton Jeanty feels 'great' ahead of game vs. Bills",
+        "url": "https://www.espn.com/nfl/story/_/id/50191564/raiders-ashton-jeanty-feels-great-ahead-game-vs-bills",
+        "publishedAt": "2026-10-15T21:09:13Z",
+        "summary": "Raiders running back Ashton Jeanty, who has been battling ankle and foot injuries, said he's feeling great ahead of Sunday's game against the Bills.",
+        "image": "https://a.espncdn.com/photo/2026/1004/r1726093_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Stephen A. takes exception to Schottenheimer's attitude about players-only meeting",
-        "url": "https://www.espn.com/video/clip/_/id/50189340/why-stephen-takes-exception-schottenheimer-attitude-players-only-meeting",
-        "publishedAt": "2026-10-15T15:26:03Z",
-        "summary": "Why Stephen A. takes exception to Schottenheimer's attitude about players-only meeting",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/ss_20261015_105239200_3697317665/ss_20261015_105239200_3697317665.jpg",
+        "title": "Marvin Harrison Jr. set to debut for Texans in London against Jaguars, Parker Washington",
+        "url": "http://www.espn.com/nfl/preview?gameId=401872996",
+        "publishedAt": "2026-10-15T20:09:28Z",
+        "summary": "— Plenty of attention will be on Marvin Harrison Jr. when the receiver makes his Houston Texans debut on Sunday against the Jacksonville Jaguars in London.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872996.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Dopp explains why he'd bench Tyler Shough vs. Giants in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/50189269/dopp-explains-why-bench-tyler-shough-vs-giants-fantasy",
-        "publishedAt": "2026-10-15T15:19:03Z",
-        "summary": "Dopp explains why he'd bench Tyler Shough vs. Giants in fantasy",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/ss_20261015_103932433_3697309/ss_20261015_103932433_3697309.jpg",
+        "title": "Colts RB Jonathan Taylor not fretting slower start than usual",
+        "url": "https://www.espn.com/nfl/story/_/id/50191115/colts-jonathan-taylor-low-rushing-stats",
+        "publishedAt": "2026-10-15T21:05:29Z",
+        "summary": "Taylor may have lower numbers than usual, but he's still in the top 10 in rushing yards and rushing TDs.",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731303_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Clay: Jameis Winston is a viable streamer in Week 6 vs. Saints",
-        "url": "https://www.espn.com/video/clip/_/id/50189264/jameis-winston-viable-streamer-week-6-vs-saints",
-        "publishedAt": "2026-10-15T15:19:44Z",
-        "summary": "Clay: Jameis Winston is a viable streamer in Week 6 vs. Saints",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/ss_20261015_103651415_3697306/ss_20261015_103651415_3697306.jpg",
+        "title": "Fantasy football rankings for Week 6: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-10-15T19:23:30Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Which NFL teams have never won a Super Bowl?",
-        "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl",
-        "publishedAt": "2026-10-15T13:59:34Z",
-        "summary": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
-        "image": "https://a.espncdn.com/photo/2011/0526/nfl_a_snorwood_sy_576.jpg",
+        "title": "Fantasy football rankings for Week 6: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-10-15T19:23:48Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Nick Bosa to potentially return for MNF",
-        "url": "https://www.espn.com/video/clip/_/id/50189048/nick-bosa-potentially-return-mnf",
-        "publishedAt": "2026-10-15T13:59:34Z",
-        "summary": "Nicholas Wagoner details Nick Bosa's potential return to the field against the Commanders on Monday.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1015/dm_261015_Nick_Bosa_49ers_IA/dm_261015_Nick_Bosa_49ers_IA.jpg",
+        "title": "Fantasy football rankings for Week 6: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-10-15T19:23:10Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: Players to trade for, and what to expect from Bears RBs",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-15T13:39:16Z",
-        "summary": "Whom you should be looking to acquire this week, and what to expect from the Bears backfield in Week 6.",
-        "image": "https://a.espncdn.com/photo/2026/0920/r1719662_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings Week 6: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-10-15T19:22:12Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-        "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-        "publishedAt": "2026-10-15T12:58:28Z",
-        "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-        "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+        "title": "Fantasy football rankings for Week 6: Quarterback",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+        "publishedAt": "2026-10-15T19:22:32Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Injury Report: Keisean Nixon returns to practice",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88159/packers-injury-report-keisean-nixon-returns-to-practice",
+        "publishedAt": "2026-10-15T17:04:24-04:00",
+        "summary": "As we wrote earlier today, the Green Bay Packers no longer have the freedom to have players on the 53-man roster miss games with injury without making some sort of corresponding moves to bring in their replacements. Here’s the good news: One player who did not practice on Wednesday, cornerback Keisean Nixon, practiced on Thursday, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296349128.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Josh Jacobs sues to stop video evidence from being released",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88157/josh-jacobs-sues-to-stop-video-evidence-from-being-released",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-10-14T09:15:00-04:00",
         "summary": "If you watch football for any amount of time, you have no doubt heard the same talking points repeated hundreds of times. Thousands of times. An ocean of times, spreading out over the vast and speckled horizon. Some of those things are good, some of them are bad, and some simply roll off your back [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30060154601762448.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Week 6 Packers Power Rankings, NFC Playoff Picture",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-power-rankings/88071/week-6-packers-power-rankings-nfc-playoff-picture",
-        "publishedAt": "2026-10-13T20:13:39-04:00",
-        "summary": "Let’s take a look at what the national analysts think about the 3-2 Green Bay Packers after their back-to-back wins over the last two weeks, along with a peek at the current NFC standings. Yes, it’s still way too early in the year to start calculating exact playoff scenarios, but it’s worth mentioning how the [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299719715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
