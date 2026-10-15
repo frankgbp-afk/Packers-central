@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:49:11.095Z",
+  "updatedAt": "2026-10-15T11:39:12.731Z",
   "sources": {
     "packers": [
       {
@@ -113,6 +113,78 @@
     ],
     "espn": [
       {
+        "title": "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50182998/2027-nfl-draft-rankings-kiper-big-board-top-prospects",
+        "publishedAt": "2026-10-15T10:48:37Z",
+        "summary": "Seven quarterbacks ranked in the top 25? This NFL draft class could be fun. Mel Kiper Jr. stacks the best players on the board as we hit the midway mark of the college season.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730858_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "15 NFL players, coaches on the hot seat entering Week 6: Quinn, McDaniel, others",
+        "url": "https://www.espn.com/nfl/story/_/id/50176029/hot-seats-players-coaches-week-6-barnwell",
+        "publishedAt": "2026-10-15T10:20:50Z",
+        "summary": "What now for Mike McDaniel? Should the Commanders or Eagles consider coaching changes? Could Jacoby Brissett or Brian Thomas Jr. get traded?",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730677_2_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football 'believe it or not': How to value five star-caliber players",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50181276/fantasy-football-trade-value-breakout-bust",
+        "publishedAt": "2026-10-15T10:14:28Z",
+        "summary": "Five players with varying results and what you should expect from them going forward.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730810_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Is Seahawks OC Brian Fleury a 'home run' hire? How the rookie playcaller is faring",
+        "url": "https://www.espn.com/nfl/story/_/id/50183046/seattle-seahawks-offensive-coordinator-brian-fleury",
+        "publishedAt": "2026-10-15T10:00:00Z",
+        "summary": "Fleury took over the reigns of the Seahawks' Super Bowl champion offense despite never having called plays. How's he doing through five weeks?",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730742_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Are Panthers positioned to add reinforcements before NFL trade deadline?",
+        "url": "https://www.espn.com/nfl/story/_/id/50186245/carolina-panthers-nfl-trade-deadline-positioned-roster",
+        "publishedAt": "2026-10-15T10:00:00Z",
+        "summary": "Armed with draft capital and sitting at 2-2, Carolina has leverage unlike in years past. So what does it mean?",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731005_576x324_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "WR Garrett Wilson deems Patriots matchup a 'big-ass game' for Jets",
+        "url": "https://www.espn.com/nfl/story/_/id/50182680/jets-patriots-matchup-big-game-pac-man",
+        "publishedAt": "2026-10-15T10:18:56Z",
+        "summary": "New York knows its first divisional game means a lot for the standings.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730871_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chiefs still have faith in pass rush, despite going without a sack since Week 1",
+        "url": "https://www.espn.com/nfl/story/_/id/50183978/chiefs-pass-rush-sacks-pressure-qbs-chris-jones",
+        "publishedAt": "2026-10-15T10:00:03Z",
+        "summary": "Entering this week, the Chiefs ranked 27th in pass rush win rate and hadn't recorded a sack since Week 1.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730825_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Where is Jaylen Waddle? Broncos' big offseason acquisition is off to slow start",
+        "url": "https://www.espn.com/nfl/story/_/id/50182987/broncos-jaylen-waddle-slow-start-struggling-offense",
+        "publishedAt": "2026-10-15T10:00:10Z",
+        "summary": "With just 204 receiving yards through five games, Jaylen Waddle has been mostly contained and hasn't yet made the impact the Broncos hoped. What has gone wrong?",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730740_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Tyler Shough, Kellen Moore respond to criticism from Saints owner Gayle Benson",
         "url": "https://www.espn.com/nfl/story/_/id/50186221/tyler-shough-saints-just-frustrated-gayle-benson",
         "publishedAt": "2026-10-15T02:25:47Z",
@@ -147,81 +219,27 @@
         "image": "https://a.espncdn.com/photo/2026/0609/r1670240_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Bills' Bradley Chubb details his side of altercation with Rams' Alaric Jackson",
-        "url": "https://www.espn.com/nfl/story/_/id/50185371/bills-rams-bradley-chubb-alaric-jackson-punch-side",
-        "publishedAt": "2026-10-15T00:04:08Z",
-        "summary": "Bills edge defender Bradley Chubb gave his side of the story two days after a postgame altercation with Rams offensive tackle Alaric Jackson.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730013_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Four men arrested in connection with Feb. shooting of 49ers' Keion White",
-        "url": "https://www.espn.com/nfl/story/_/id/50185071/four-arrested-feb-shooting-49ers-keion-white",
-        "publishedAt": "2026-10-15T00:29:52Z",
-        "summary": "Four men have been arrested in connection with the shooting of 49ers defensive lineman Keion White at a nightclub in February, officials said Wednesday.",
-        "image": "https://a.espncdn.com/photo/2026/0210/r1612987_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Marvin Harrison Jr. will play for Texans on Sunday in London, coach says",
-        "url": "https://www.espn.com/nfl/story/_/id/50184544/marvin-harrison-jr-play-texans-sunday-london",
-        "publishedAt": "2026-10-15T03:10:43Z",
-        "summary": "Texans wideout Marvin Harrison Jr. will play against the Jacksonville Jaguars in London on Sunday, Houston coach DeMeco Ryans said Wednesday.",
-        "image": "https://a.espncdn.com/photo/2026/1014/r1730812_2_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cockcroft: Rhamondre Stevenson a borderline top-10 RB in Week 6",
-        "url": "https://www.espn.com/video/clip/_/id/50184369/rhamondre-stevenson-borderline-top-10-rb-week-6",
-        "publishedAt": "2026-10-14T20:54:23Z",
-        "summary": "Cockcroft: Rhamondre Stevenson a borderline top-10 RB in Week 6",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_Rhamondre_Stevenson/dm_261014_Rhamondre_Stevenson.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why David Bailey is worth having in IDP lineups in Week 6",
-        "url": "https://www.espn.com/video/clip/_/id/50184347/why-david-bailey-worth-having-idp-lineups-week-6",
-        "publishedAt": "2026-10-14T20:53:10Z",
-        "summary": "Why David Bailey is worth having in IDP lineups in Week 6",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_David_Bailey_Fantasy_video/dm_261014_David_Bailey_Fantasy_video.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why the Chiefs are Tristan H. Cockcroft's top fantasy defense for Week 6",
-        "url": "https://www.espn.com/video/clip/_/id/50184332/why-chiefs-tristan-h-cockcroft-top-fantasy-defense-week-6",
-        "publishedAt": "2026-10-14T20:49:36Z",
-        "summary": "Why the Chiefs are Tristan H. Cockcroft's top fantasy defense for Week 6",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_fantasy_chiefs_defense/dm_261014_fantasy_chiefs_defense.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL survivor power rankings: Why this is the week to use Rams, Patriots, Colts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50184062/nfl-survivor-week-6-survivor-pool-strategy-advice-picks",
-        "publishedAt": "2026-10-14T21:30:10Z",
-        "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top six options for Week 6",
-        "image": "https://a.espncdn.com/photo/2026/1014/r1730798_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What we've learned about the Detroit Lions after five weeks",
-        "url": "https://www.espn.com/nfl/story/_/id/50182094/lions-bye-week-learned-offense-goff-gibbs",
-        "publishedAt": "2026-10-14T19:38:59Z",
-        "summary": "At 3-2, Detroit enters its bye having found some much-needed momentum in Arizona. Here is a closer look.",
-        "image": "https://a.espncdn.com/photo/2026/1012/r1729547_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "The Packers have a locker room sledgehammer",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88137/the-packers-have-a-locker-room-sledgehammer",
+        "publishedAt": "2026-10-15T06:00:00-04:00",
+        "summary": "In a sentence I’m nearly positive has never been written before: the Green Bay Packers are trying something different with a rotating team sledgehammer. We’ve seen things like AJ Dillon’s positivity rabbit in the Eagles locker room, and Chicago White Sox pitcher Mike Vasil’s magic wand, and now the Packers are getting in on the [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198820.jpg?quality=90&#038;strip=all&#038;crop=38.8,0,61.2,61.899404678198",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Injury Report: How will Green Bay use its open roster spots?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88141/packers-injury-report-how-will-green-bay-use-its-open-roster-spots",
+        "publishedAt": "2026-10-15T05:38:41-04:00",
+        "summary": "For the most part, my injury analysis this season has basically boiled down to “next man up on the 53-man roster.” The Green Bay Packers’ cluster of injuries has mostly hit two units, the offensive and defensive lines — where the team has been over-signed since they made their initial active roster — leaving them [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2290536321.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Will the Packers earn a playoff spot this year?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88118/will-the-packers-earn-a-playoff-spot-this-year",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-13T17:15:44-04:00",
         "summary": "The Green Bay Packers announced on Tuesday that the team signed cornerback Elijah Culp, whom the team brought in on Monday for a tryout. There’s little info out there about Culp, but here’s what we wrote on him yesterday: Culp is an undrafted rookie who played for four different college programs over six seasons (Austin [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2289908752.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Jerry Jones is making up stories",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88058/jerry-jones-is-making-up-stories",
-        "publishedAt": "2026-10-13T13:45:52-04:00",
-        "summary": "I regret to inform you that Jerry Jones is making stuff up. Speaking with 105.3 The Fan (the Cowboys’ flagship radio station) the 84-year-old Jones recently recounted a story of a memorable trip he made to Green Bay. As quoted by The Athletic’s Jon Marchota, Jones and his young grandchildren and an, um, interesting encounter [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2288093597.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Cowboys will give the Packers defense its biggest test yet",
-        "url": "https://www.acmepackingcompany.com/general/88030/cowboys-will-give-the-packers-defense-its-biggest-test-yet",
-        "publishedAt": "2026-10-13T11:30:00-04:00",
-        "summary": "Coming out of week five, the Green Bay Packers’ defense has been a pleasant surprise on the season. Without Micah Parsons for a single snap yet, they rank eighth in EPA allowed per dropback and they rank an outstanding third in ANY/A value, as seen below from Justis Mosqueda. Under the hood, though, things look [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2247239583.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
