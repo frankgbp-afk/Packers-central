@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-14T21:46:39.774Z",
+  "updatedAt": "2026-10-15T04:49:11.095Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers QB Jordan Love named FedEx Air and Ground Player of Week 5",
+        "url": "https://www.packers.com/news/packers-qb-jordan-love-named-fedex-air-and-ground-player-of-week-5-2026",
+        "publishedAt": "Wed, 14 Oct 2026 22:56:28 GMT",
+        "summary": "Green Bay quarterback threw for 367 yards, two TDs in win over Bears",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ctzcenlpd9ju4fxjvtbn.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers 'can't shy away' from Cowboys' explosive offense",
+        "url": "https://www.packers.com/news/packers-can-t-shy-away-from-cowboys-explosive-offense-oct-14-2026",
+        "publishedAt": "Wed, 14 Oct 2026 21:45:32 GMT",
+        "summary": "Dak Prescott’s game-breaking weapons must be contained",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yup4pixts20vk5nekmqh.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Global superstar Zach Bryan to play Lambeau Field Tuesday, May 4",
         "url": "https://www.packers.com/news/global-superstar-zach-bryan-to-play-lambeau-field-tuesday-may-4-2027",
@@ -91,31 +109,67 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hevvijbmieg6kb76hrjb.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: The Packers have been winning this way for decades",
-        "url": "https://www.packers.com/news/inbox-the-packers-have-been-winning-this-way-for-decades-oct-13-2026",
-        "publishedAt": "Tue, 13 Oct 2026 13:30:00 GMT",
-        "summary": "Green Bay won the cat-and-mouse game with the Bears Sunday",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/zfqpi1unqazqhwcm3nqw.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers, WIAA announce September high school football officiating 'Crew of the Month'",
-        "url": "https://www.packers.com/news/packers-wiaa-announce-september-high-school-football-officiating-crew-of-the-month-2026",
-        "publishedAt": "Mon, 12 Oct 2026 21:40:27 GMT",
-        "summary": "Crew members were chosen for their demonstration of objectivity, fairness, and commitment as officials",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/gdtz600deqm3d4ysjhbx.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
+        "title": "Tyler Shough, Kellen Moore respond to criticism from Saints owner Gayle Benson",
+        "url": "https://www.espn.com/nfl/story/_/id/50186221/tyler-shough-saints-just-frustrated-gayle-benson",
+        "publishedAt": "2026-10-15T02:25:47Z",
+        "summary": "Tyler Shough said Wednesday that he shares the same frustrations of owner Gayle Benson, who a day earlier called the Saints' 1-4 start \"unacceptable.\"",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730322_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Love (ankle) sits out Cardinals practice as LaFleur says rest 'vital'",
+        "url": "https://www.espn.com/nfl/story/_/id/50185425/love-ankle-cardinals-practice",
+        "publishedAt": "2026-10-15T00:56:04Z",
+        "summary": "Arizona Cardinals running back Jeremiyah Love didn't practice Wednesday to rest his ailing left ankle. His status for Sunday's game against the Rams isn't clear.",
+        "image": "https://a.espncdn.com/photo/2026/0928/r1722801_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks rule out LB Thomas, RB Charbonnet for Thursday night game vs. Broncos",
+        "url": "https://www.espn.com/nfl/story/_/id/50185443/seahawks-rule-thomas-charbonnet-thursday-vs-broncos",
+        "publishedAt": "2026-10-15T00:41:22Z",
+        "summary": "The Seahawks will be without starting linebacker Drake Thomas and running back Zach Charbonnet for Thursday's game at Denver.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730934_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rams' Alaric Jackson has suspension cut to 1 game following appeal",
+        "url": "https://www.espn.com/nfl/story/_/id/50185418/rams-alaric-jackson-suspension-cut-1-game",
+        "publishedAt": "2026-10-15T01:14:33Z",
+        "summary": "Alaric Jackson's suspension for punching Bradley Chubb after Monday night's game between the Bills and Rams was reduced from two games to one.",
+        "image": "https://a.espncdn.com/photo/2026/0609/r1670240_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bills' Bradley Chubb details his side of altercation with Rams' Alaric Jackson",
+        "url": "https://www.espn.com/nfl/story/_/id/50185371/bills-rams-bradley-chubb-alaric-jackson-punch-side",
+        "publishedAt": "2026-10-15T00:04:08Z",
+        "summary": "Bills edge defender Bradley Chubb gave his side of the story two days after a postgame altercation with Rams offensive tackle Alaric Jackson.",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1730013_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Four men arrested in connection with Feb. shooting of 49ers' Keion White",
+        "url": "https://www.espn.com/nfl/story/_/id/50185071/four-arrested-feb-shooting-49ers-keion-white",
+        "publishedAt": "2026-10-15T00:29:52Z",
+        "summary": "Four men have been arrested in connection with the shooting of 49ers defensive lineman Keion White at a nightclub in February, officials said Wednesday.",
+        "image": "https://a.espncdn.com/photo/2026/0210/r1612987_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Marvin Harrison Jr. will play for Texans on Sunday in London, coach says",
         "url": "https://www.espn.com/nfl/story/_/id/50184544/marvin-harrison-jr-play-texans-sunday-london",
-        "publishedAt": "2026-10-14T21:43:47Z",
+        "publishedAt": "2026-10-15T03:10:43Z",
         "summary": "Texans wideout Marvin Harrison Jr. will play against the Jacksonville Jaguars in London on Sunday, Houston coach DeMeco Ryans said Wednesday.",
         "image": "https://a.espncdn.com/photo/2026/1014/r1730812_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -163,60 +217,6 @@
         "publishedAt": "2026-10-14T19:38:59Z",
         "summary": "At 3-2, Detroit enters its bye having found some much-needed momentum in Arizona. Here is a closer look.",
         "image": "https://a.espncdn.com/photo/2026/1012/r1729547_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Adonai Mitchell had surgical procedure on finger, expected to miss Week 6",
-        "url": "https://www.espn.com/nfl/story/_/id/50183688/jets-adonai-mitchell-underwent-surgical-procedure-finger",
-        "publishedAt": "2026-10-14T19:48:07Z",
-        "summary": "Jets receiver Adonai Mitchell underwent a surgical procedure last month on his injured finger and is expected to miss a fourth consecutive game Sunday.",
-        "image": "https://a.espncdn.com/photo/2026/0927/r1722438_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-        "publishedAt": "2026-10-14T18:51:31Z",
-        "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-        "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Patriots CB Gonzalez says he's 'ready to go'; WR Brown returns to practice",
-        "url": "https://www.espn.com/nfl/story/_/id/50183044/patriots-gonzalez-set-return-wr-brown-back-practice",
-        "publishedAt": "2026-10-14T21:05:47Z",
-        "summary": "Patriots cornerback Christian Gonzalez said Wednesday he's ready to return after missing the past two games with a shoulder injury.",
-        "image": "https://a.espncdn.com/photo/2026/1014/r1730728_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Kiper: Jeremiah Smith is best player in 2027 draft 'by a wide margin'",
-        "url": "https://www.espn.com/video/clip/_/id/50182999/jeremiah-smith-best-player-2027-draft-wide-margin",
-        "publishedAt": "2026-10-14T17:53:33Z",
-        "summary": "Kiper: Jeremiah Smith is best player in 2027 draft 'by a wide margin'",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/ss_20261014_134921313_3696467/ss_20261014_134921313_3696467.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings Week 6: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-10-14T17:30:29Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-10-14T17:29:19Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
