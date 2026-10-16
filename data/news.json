@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-16T11:32:57.926Z",
+  "updatedAt": "2026-10-16T16:44:47.169Z",
   "sources": {
     "packers": [
+      {
+        "title": "Unsung heroes helping Packers power through early adversity",
+        "url": "https://www.packers.com/news/unsung-heroes-helping-packers-power-through-early-adversity-oct-16-2026",
+        "publishedAt": "Fri, 16 Oct 2026 14:00:00 GMT",
+        "summary": "Green Bay has waded through injuries with depth this season",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/j0r9biz6vptroawa0r92.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: That's happening now",
+        "url": "https://www.packers.com/news/inbox-that-s-happening-now-oct-16-2026",
+        "publishedAt": "Fri, 16 Oct 2026 13:30:00 GMT",
+        "summary": "Perhaps those are coming",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hyst5imvslxwj2ghser3.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers-Cowboys Injury Report | Oct. 15, 2026",
         "url": "https://www.packers.com/news/packers-cowboys-injury-report-oct-15-2026",
@@ -91,137 +109,128 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/t0l56tf45rawov2et6kg.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers-Cowboys Injury Report | Oct. 14, 2026",
-        "url": "https://www.packers.com/news/packers-cowboys-injury-report-oct-14-2026",
-        "publishedAt": "Wed, 14 Oct 2026 21:03:05 GMT",
-        "summary": "",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/kikzlr9gfwjr4jlzsgor.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Mike's Mid-Week Chat: Can the Packers make it three in a row?",
-        "url": "https://www.packers.com/news/mike-s-mid-week-chat-can-the-packers-make-it-three-in-a-row-oct-14-2026",
-        "publishedAt": "Wed, 14 Oct 2026 18:45:00 GMT",
-        "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/aslrbv5amqrklst6j1hn.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Fantasy playbook: NFL Week 6 Shadow Reports, lineup locks and projected scores",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50172991/fantasy-playbook-projections-lineup-locks-week-6-shadow",
-        "publishedAt": "2026-10-16T11:20:15Z",
-        "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/ss_20261014_110509506_3696351696/ss_20261014_110509506_3696351696.jpg",
+        "title": "Daniel Dopp's Week 6 DraftKings tournament lineup",
+        "url": "https://www.espn.com/video/clip/_/id/50196974/daniel-dopp-week-6-draftkings-tournament-lineup",
+        "publishedAt": "2026-10-16T16:26:36Z",
+        "summary": "Daniel Dopp's Week 6 DraftKings tournament lineup",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_fantasy_dopp_dfs/dm_261016_fantasy_dopp_dfs.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50192170/draftkings-nfl-dfs-values-week-6",
-        "publishedAt": "2026-10-16T10:43:43Z",
-        "summary": "Build a winning DFS lineup with our DraftKings NFL Week 6 cheat sheet identifying the best stacks and values",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731364_1296x729_16-9.jpg",
+        "title": "Jets rookie WR Cooper to play vs. Patriots; RB Hall, WR Mitchell out",
+        "url": "https://www.espn.com/nfl/story/_/id/50196775/jets-rookie-wr-cooper-play-vs-patriots-hall-mitchell-out",
+        "publishedAt": "2026-10-16T16:25:04Z",
+        "summary": "Jets rookie WR Omar Cooper Jr. (ankle) will play against the Patriots, but RB Breece Hall and wideout Adonai Mitchell have been ruled out for Sunday's game.",
+        "image": "https://a.espncdn.com/photo/2026/0913/r1716072_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football last-minute pickups: Winston, Tucker among top options",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50182356/fantasy-football-streamers-last-minute-pickups-week-6",
-        "publishedAt": "2026-10-16T10:42:02Z",
-        "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731253_2_1296x729_16-9.jpg",
+        "title": "Is 2026 the year for Joe Burrow and the Bengals?",
+        "url": "https://www.espn.com/video/clip/_/id/50196714/is-2026-year-joe-burrow-bengals",
+        "publishedAt": "2026-10-16T15:35:19Z",
+        "summary": "Ben Baby breaks down Burrow's successful start to the 2026 season and how the Bengals are \"overperforming.\"",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Bengals_Joe_Burrow_Best_Season_IA/dm_261016_Bengals_Joe_Burrow_Best_Season_IA.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "The Week 6 QB shuffle: Six quarterbacks to pick up if yours is underperforming",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50190576/fantasy-football-start-sit-week-6-quarterbacks",
-        "publishedAt": "2026-10-16T10:41:03Z",
-        "summary": "Is it finally time to drop that one quarterback? Adam Rank says yes and offers his favorite options.",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731302_1296x729_16-9.jpg",
+        "title": "NFL Week 6 betting guide: Analysis, best bets and TD predictions",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50133296/week-6-nfl-odds-touchdown-props-best-bets-sunday-preview",
+        "publishedAt": "2026-10-16T16:20:55Z",
+        "summary": "Our experts dive into the odds and player props for Week 6 and offer their betting tips and favorite plays.",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731371_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?",
-        "url": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst",
-        "publishedAt": "2026-10-16T10:38:23Z",
-        "summary": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731344_608x342_16-9.jpg",
+        "title": "Why Tony Pollard could be primed to have a big fantasy showing in Week 6",
+        "url": "https://www.espn.com/video/clip/_/id/50196500/why-tony-pollard-primed-big-fantasy-showing-week-6",
+        "publishedAt": "2026-10-16T15:11:21Z",
+        "summary": "Why Tony Pollard could be primed to have a big fantasy showing in Week 6",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_110157453_3698216/ss_20261016_110157453_3698216.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Pop quizzes from Aaron Rodgers?! How Steelers QB preps his pass catchers",
-        "url": "https://www.espn.com/nfl/story/_/id/50193213/pop-quizzes-aaron-rodgers-steelers-qb-prepares",
-        "publishedAt": "2026-10-16T10:00:02Z",
-        "summary": "The 42-year-old veteran acts more like Simon Cowell than Ken Jennings as he builds trust with his teammates.",
-        "image": "https://a.espncdn.com/photo/2026/1015/nfl_rodgers-quiz_16x9.jpg",
+        "title": "Dopp's hesitancy over starting Josh Downs in Week 6",
+        "url": "https://www.espn.com/video/clip/_/id/50196473/dopp-hesitancy-starting-josh-downs-week-6",
+        "publishedAt": "2026-10-16T15:28:14Z",
+        "summary": "Dopp's hesitancy over starting Josh Downs in Week 6",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_105642113_3698213/ss_20261016_105642113_3698213.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 6 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-        "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
-        "publishedAt": "2026-10-16T10:38:58Z",
-        "summary": "Can the Titans, Chargers finally win? Stroud vs. Lawrence? There are 13 more games in Week 6, and we have picks, predictions and more for all of them.",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731221_608x342_16-9.jpg",
+        "title": "Why Clay is 'super excited' for Germie Bernard's opportunity in Week 6",
+        "url": "https://www.espn.com/video/clip/_/id/50196464/why-clay-super-excited-germie-bernard-opportunity-week-6",
+        "publishedAt": "2026-10-16T15:04:15Z",
+        "summary": "Why Clay is 'super excited' for Germie Bernard's opportunity in Week 6",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_105401070_3698211/ss_20261016_105401070_3698211.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks' Sam Darnold owns up to late interceptions in overtime loss to Broncos",
-        "url": "https://www.espn.com/nfl/story/_/id/50194585/seahawks-darnold-owns-turnovers-loss-broncos",
-        "publishedAt": "2026-10-16T07:04:24Z",
-        "summary": "Seahawks quarterback Sam Darnold called his two late interceptions Thursday night \"unacceptable\" and vowed to be better after a 17-14 loss to the Broncos.",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731494_600x400_3-2.jpg",
+        "title": "Why Denzel Boston is a ‘lineup lock’ in fantasy for Week 6",
+        "url": "https://www.espn.com/video/clip/_/id/50196462/why-denzel-boston-lineup-lock-fantasy-week-6",
+        "publishedAt": "2026-10-16T15:13:57Z",
+        "summary": "Why Denzel Boston is a ‘lineup lock’ in fantasy for Week 6",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_105239759_3698210/ss_20261016_105239759_3698210.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Defense bails out Broncos in OT win as Nix, offense struggle",
-        "url": "https://www.espn.com/nfl/story/_/id/50194537/broncos-seahawks-defense-bo-nix",
-        "publishedAt": "2026-10-16T07:26:29Z",
-        "summary": "The Broncos' D came up with five sacks, 17 QB hits and two interceptions, enabling Denver to win even though the offense finished with only 168 net yards.",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731500_600x400_3-2.jpg",
+        "title": "Stephen A. ‘fearful’ over Jalen Hurts’ blood clot",
+        "url": "https://www.espn.com/video/clip/_/id/50196397/stephen-fearful-jalen-hurts-blood-clot",
+        "publishedAt": "2026-10-16T14:44:10Z",
+        "summary": "Stephen A. ‘fearful’ over Jalen Hurts’ blood clot",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_103948130_3698200642/ss_20261016_103948130_3698200642.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Run game, defense power Broncos in OT win against Seahawks",
-        "url": "https://www.espn.com/nfl/story/_/id/50192352/broncos-seahawks-week-6-tnf-run-game-defense-ot",
-        "publishedAt": "2026-10-16T05:00:03Z",
-        "summary": "Behind two rushing touchdowns and a five-sack night, Denver holds off Seattle on \"Thursday Night Football.\"",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731446_608x342_16-9.jpg",
+        "title": "Stephen A. sounds off on Bo Nix for 'not competing'",
+        "url": "https://www.espn.com/video/clip/_/id/50196351/stephen-sounds-bo-nix-not-competing",
+        "publishedAt": "2026-10-16T14:41:35Z",
+        "summary": "Stephen A. sounds off on Bo Nix for 'not competing'",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_103251248_3698194638/ss_20261016_103251248_3698194638.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seattle Seahawks vs. Denver Broncos: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50194124/game-highlights",
-        "publishedAt": "2026-10-16T03:59:12Z",
-        "summary": "Seattle Seahawks vs. Denver Broncos: Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1016/deafc49b-855f-4f3e-b55d-9c1394f49a0a/deafc49b-855f-4f3e-b55d-9c1394f49a0a.jpg",
+        "title": "What does Caleb Williams' post-injury fantasy outlook look like?",
+        "url": "https://www.espn.com/video/clip/_/id/50196306/what-does-caleb-williams-post-injury-fantasy-outlook-look-like",
+        "publishedAt": "2026-10-16T16:01:54Z",
+        "summary": "What does Caleb Williams' post-injury fantasy outlook look like?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/ss_20261016_102609066_3698189/ss_20261016_102609066_3698189.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Broncos beat the Seahawks 17-14 in OT on Ja'Quan McMillian's pick, Wil Lutz's 53-yarder",
-        "url": "http://www.espn.com/nfl/recap?gameId=401872995",
-        "publishedAt": "2026-10-16T04:53:27Z",
-        "summary": "— The Denver Broncos are atrocious on offense, depleted on defense and shaky on special teams. All they do is find ways to win.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872995.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+        "publishedAt": "2026-10-16T14:22:01Z",
+        "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+        "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers offensive line should move forward without Aaron Banks",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88192/packers-offensive-line-should-move-forward-without-aaron-banks",
+        "publishedAt": "2026-10-16T11:55:09-04:00",
+        "summary": "Packers guard Aaron Banks was a limited participant in practice on Thursday, the second time this week he’s practiced on a limited basis. “Limited participant” is a pretty good description of Banks’ season to this point. He was out of much of training camp with a knee injury, which also cost him an appearance in [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296336753.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Injury Report: Keisean Nixon returns to practice",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88159/packers-injury-report-keisean-nixon-returns-to-practice",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-10-14T10:30:00-04:00",
         "summary": "Two things are simultaneously true about the Packers’ defense: they really haven’t played a decent quarterback yet this year, and they’re doing about as well as could be expected, given the circumstances. It’s absolutely true the Packers haven’t played any significant quarterbacks this year. They’ve faced backups in three of their five games so far, [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198683.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Attacking after an interception",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88075/packers-film-room-attacking-after-an-interception",
-        "publishedAt": "2026-10-14T09:15:00-04:00",
-        "summary": "If you watch football for any amount of time, you have no doubt heard the same talking points repeated hundreds of times. Thousands of times. An ocean of times, spreading out over the vast and speckled horizon. Some of those things are good, some of them are bad, and some simply roll off your back [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30060154601762448.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
