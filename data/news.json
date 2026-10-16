@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:39:26.814Z",
+  "updatedAt": "2026-10-16T11:32:57.926Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,90 @@
     ],
     "espn": [
       {
+        "title": "Fantasy playbook: NFL Week 6 Shadow Reports, lineup locks and projected scores",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50172991/fantasy-playbook-projections-lineup-locks-week-6-shadow",
+        "publishedAt": "2026-10-16T11:20:15Z",
+        "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/ss_20261014_110509506_3696351696/ss_20261014_110509506_3696351696.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50192170/draftkings-nfl-dfs-values-week-6",
+        "publishedAt": "2026-10-16T10:43:43Z",
+        "summary": "Build a winning DFS lineup with our DraftKings NFL Week 6 cheat sheet identifying the best stacks and values",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731364_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football last-minute pickups: Winston, Tucker among top options",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50182356/fantasy-football-streamers-last-minute-pickups-week-6",
+        "publishedAt": "2026-10-16T10:42:02Z",
+        "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731253_2_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "The Week 6 QB shuffle: Six quarterbacks to pick up if yours is underperforming",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50190576/fantasy-football-start-sit-week-6-quarterbacks",
+        "publishedAt": "2026-10-16T10:41:03Z",
+        "summary": "Is it finally time to drop that one quarterback? Adam Rank says yes and offers his favorite options.",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731302_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?",
+        "url": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst",
+        "publishedAt": "2026-10-16T10:38:23Z",
+        "summary": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731344_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Pop quizzes from Aaron Rodgers?! How Steelers QB preps his pass catchers",
+        "url": "https://www.espn.com/nfl/story/_/id/50193213/pop-quizzes-aaron-rodgers-steelers-qb-prepares",
+        "publishedAt": "2026-10-16T10:00:02Z",
+        "summary": "The 42-year-old veteran acts more like Simon Cowell than Ken Jennings as he builds trust with his teammates.",
+        "image": "https://a.espncdn.com/photo/2026/1015/nfl_rodgers-quiz_16x9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 6 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+        "url": "https://www.espn.com/nfl/story/_/id/50188997/week-6-picks-predictions-schedule-fantasy-odds-2026",
+        "publishedAt": "2026-10-16T10:38:58Z",
+        "summary": "Can the Titans, Chargers finally win? Stroud vs. Lawrence? There are 13 more games in Week 6, and we have picks, predictions and more for all of them.",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731221_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks' Sam Darnold owns up to late interceptions in overtime loss to Broncos",
+        "url": "https://www.espn.com/nfl/story/_/id/50194585/seahawks-darnold-owns-turnovers-loss-broncos",
+        "publishedAt": "2026-10-16T07:04:24Z",
+        "summary": "Seahawks quarterback Sam Darnold called his two late interceptions Thursday night \"unacceptable\" and vowed to be better after a 17-14 loss to the Broncos.",
+        "image": "https://a.espncdn.com/photo/2026/1016/r1731494_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Defense bails out Broncos in OT win as Nix, offense struggle",
+        "url": "https://www.espn.com/nfl/story/_/id/50194537/broncos-seahawks-defense-bo-nix",
+        "publishedAt": "2026-10-16T07:26:29Z",
+        "summary": "The Broncos' D came up with five sacks, 17 QB hits and two interceptions, enabling Denver to win even though the offense finished with only 168 net yards.",
+        "image": "https://a.espncdn.com/photo/2026/1016/r1731500_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Run game, defense power Broncos in OT win against Seahawks",
         "url": "https://www.espn.com/nfl/story/_/id/50192352/broncos-seahawks-week-6-tnf-run-game-defense-ot",
-        "publishedAt": "2026-10-16T04:22:34Z",
+        "publishedAt": "2026-10-16T05:00:03Z",
         "summary": "Behind two rushing touchdowns and a five-sack night, Denver holds off Seattle on \"Thursday Night Football.\"",
         "image": "https://a.espncdn.com/photo/2026/1016/r1731446_608x342_16-9.jpg",
         "source": "ESPN NFL",
@@ -133,90 +214,9 @@
       {
         "title": "Broncos beat the Seahawks 17-14 in OT on Ja'Quan McMillian's pick, Wil Lutz's 53-yarder",
         "url": "http://www.espn.com/nfl/recap?gameId=401872995",
-        "publishedAt": "2026-10-16T04:16:28Z",
-        "summary": "— Ja'Quan McMillian intercepted Sam Darnold's pass in overtime and Wil Lutz kicked a 53-yard field goal that gave the Denver Broncos a 17-14 victory over the Seattle Seahawks on Thursday night.",
+        "publishedAt": "2026-10-16T04:53:27Z",
+        "summary": "— The Denver Broncos are atrocious on offense, depleted on defense and shaky on special teams. All they do is find ways to win.",
         "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872995.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
-        "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
-        "publishedAt": "2026-10-16T03:47:40Z",
-        "summary": "Look back at all the biggest plays and highlights from Thursday night's Denver win against Seattle.",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731476_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
-        "url": "http://www.espn.com/nfl/preview?gameId=401872997",
-        "publishedAt": "2026-10-16T00:52:35Z",
-        "summary": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-        "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-        "publishedAt": "2026-10-16T00:00:42Z",
-        "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-        "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Panthers to visit an Eagles team that was already reeling before losing Hurts to a blood clot",
-        "url": "http://www.espn.com/nfl/preview?gameId=401872998",
-        "publishedAt": "2026-10-15T23:23:28Z",
-        "summary": "— The Carolina Panthers had already been installed as road betting favorites as they prepare to visit Philadelphia and face a banged-up Eagles team riding a three-game losing streak.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872998.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sean McVay faces former offensive coordinator Mike LaFleur for first time when Rams host Cardinals",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873004",
-        "publishedAt": "2026-10-15T22:56:28Z",
-        "summary": "— The game between the Rams and Cardinals on Sunday is about more than the latest matchup pitting Sean McVay against one of his former offensive assistants — in this instance, ",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873004.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jon Morris, former AFL and NFL center with Patriots, dies at 84",
-        "url": "https://www.espn.com/nfl/story/_/id/50192401/jon-morris-former-afl-nfl-center-patriots-dies-84",
-        "publishedAt": "2026-10-15T23:39:29Z",
-        "summary": "Jon Morris, who played 11 of his 15-year AFL and NFL career with the Boston and New England Patriots, has died at age 84.",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731392_1296x1296_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Patriots on upset alert as Geno Smith brings a no-INT streak into Jets matchup with Patriots",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873001",
-        "publishedAt": "2026-10-15T22:49:28Z",
-        "summary": "— The New England Patriots are coming off their best performance of the season, doing almost everything they wanted during a 28-point win over the...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873001.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Texans RB Montgomery, S Pitre out for London affair vs. Jaguars",
-        "url": "https://www.espn.com/nfl/story/_/id/50192302/texans-rb-montgomery-s-pitre-london-affair-vs-jaguars",
-        "publishedAt": "2026-10-15T23:03:48Z",
-        "summary": "Texans starting RB David Montgomery (groin) and safety Jalen Pitre (shoulder) have been ruled out for Sunday's matchup against the Jaguars in London.",
-        "image": "https://a.espncdn.com/photo/2026/0817/r1703142_576x324_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-        "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing",
-        "publishedAt": "2026-10-15T23:03:35Z",
-        "summary": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-        "image": "https://a.espncdn.com/photo/2026/1015/r1731365_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
