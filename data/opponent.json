@@ -81,6 +81,14 @@
   ],
   "articles": [
     {
+      "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
+      "publishedAt": "2026-10-16T00:00:42Z",
+      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "Packers seek to build on their momentum as Cowboys attempt to bounce back from ugly loss",
       "url": "http://www.espn.com/nfl/preview?gameId=401873007",
       "publishedAt": "2026-10-15T20:51:28Z",
@@ -94,14 +102,6 @@
       "publishedAt": "2026-10-15T19:43:08Z",
       "summary": "A players-only meeting held by the Cowboys' defense, which has since been panned by Mike Tomlin, is a good sign for the team, according to coach Brian Schottenheimer.",
       "image": "https://a.espncdn.com/photo/2026/1004/r1725550_1296x729_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-      "publishedAt": "2026-10-15T18:23:52Z",
-      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "image": "https://a.espncdn.com/photo/2026/1013/nfl-uniforms-week-6-16x9.jpg",
       "source": "ESPN"
     },
     {
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-15T21:19:04.434Z"
+  "updatedAt": "2026-10-16T01:55:20.720Z"
 }
