@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T20:41:46.363Z",
+  "updatedAt": "2026-10-17T23:10:45.065Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,27 @@
     ],
     "espn": [
       {
+        "title": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
+        "url": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
+        "publishedAt": "2026-10-17T23:09:36Z",
+        "summary": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
+        "image": "https://a.espncdn.com/photo/2026/1017/r1732188_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
+        "publishedAt": "2026-10-17T21:14:58Z",
+        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+        "image": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
         "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
-        "publishedAt": "2026-10-17T20:40:14Z",
+        "publishedAt": "2026-10-17T20:47:43Z",
         "summary": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
         "image": "https://a.espncdn.com/photo/2026/0920/r1719616_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -124,8 +142,8 @@
       {
         "title": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely",
         "url": "https://www.espn.com/nfl/story/_/id/50202417/sources-eagles-place-jalen-hurts-ir-due-blood-clot",
-        "publishedAt": "2026-10-17T20:22:15Z",
-        "summary": "The Eagles have decided to place Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
+        "publishedAt": "2026-10-17T22:48:14Z",
+        "summary": "The Eagles have placed Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
         "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -154,15 +172,6 @@
         "publishedAt": "2026-10-17T19:48:14Z",
         "summary": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
         "image": "https://a.espncdn.com/photo/2025/1213/r1588944_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football Week 6 inactives: Hurts, Jackson ruled out; Flowers to play",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
-        "publishedAt": "2026-10-17T17:50:26Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731551_576x324_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -210,18 +219,27 @@
         "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-10-17T16:44:04Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Cowboys at Packers, Week 6 Opponent Preview",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88274/cowboys-at-packers-week-6-opponent-preview",
+        "publishedAt": "2026-10-17T18:22:32-04:00",
+        "summary": "The Dallas Cowboys (2-3) bring a top-10 offense and the NFL&#8217;s worst defense to Lambeau for Sunday Night Football. The Green Bay Packers (3-2) are coming off a 31-7 win over Chicago that included five takeaways by the defense. This sets up as a shootout, and the Packers face the best quarterback and receiver group [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/11/gettyimages-2237972769.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers place 3 on injured reserve before Week 6 vs. the Cowboys",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88278/packers-place-3-on-injured-reserve-before-week-6-vs-the-cowboys",
+        "publishedAt": "2026-10-17T17:11:04-04:00",
+        "summary": "The Green Bay Packers announced a flurry of moves on Saturday as the team tries to get their roster in order for their Sunday Night Football matchup against the Dallas Cowboys. The Packers are dealing with several injuries, which led to four players being ruled out on Friday, forcing Green Bay to push up some [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299139331.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Majority of Packers fans expect Green Bay to be a playoff team",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88164/majority-of-packers-fans-expect-green-bay-to-be-a-playoff-team",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-16T11:55:09-04:00",
         "summary": "Packers guard Aaron Banks was a limited participant in practice on Thursday, the second time this week he’s practiced on a limited basis. “Limited participant” is a pretty good description of Banks’ season to this point. He was out of much of training camp with a knee injury, which also cost him an appearance in [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296336753.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Keisean Nixon returns to practice",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88159/packers-injury-report-keisean-nixon-returns-to-practice",
-        "publishedAt": "2026-10-15T17:04:24-04:00",
-        "summary": "As we wrote earlier today, the Green Bay Packers no longer have the freedom to have players on the 53-man roster miss games with injury without making some sort of corresponding moves to bring in their replacements. Here’s the good news: One player who did not practice on Wednesday, cornerback Keisean Nixon, practiced on Thursday, [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296349128.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Josh Jacobs sues to stop video evidence from being released",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88157/josh-jacobs-sues-to-stop-video-evidence-from-being-released",
-        "publishedAt": "2026-10-15T13:06:15-04:00",
-        "summary": "According to WBAY, Green Bay Packers running back Josh Jacobs is suing the Hobart-Lawrence Police Department, which is in charge of deciding whether or not a video from Jacobs’ garage will be released as part of his battery and criminal damage to property case. Yesterday, it was reported that the police department delayed the release [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280741287.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
