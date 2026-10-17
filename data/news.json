@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T21:18:37.275Z",
+  "updatedAt": "2026-10-17T04:36:52.221Z",
   "sources": {
     "packers": [
       {
@@ -113,6 +113,105 @@
     ],
     "espn": [
       {
+        "title": "Commanders vs. 49ers: Where to watch 'Monday Night Football'",
+        "url": "https://www.espn.com/nfl/story/_/id/50189765/commanders-vs-49ers-watch-monday-night-football-week-6",
+        "publishedAt": "2026-10-17T03:53:00Z",
+        "summary": "Here's what to know about the Week 6 matchup.",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1012/dm_261012_Commanders_choke_job/dm_261012_Commanders_choke_job.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
+        "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
+        "publishedAt": "2026-10-16T23:49:32Z",
+        "summary": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
+        "image": "https://a.espncdn.com/photo/2026/0913/r1716091_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-10-16T21:36:13Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-10-16T21:35:23Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: D/ST",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+        "publishedAt": "2026-10-16T21:35:40Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: IDP",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+        "publishedAt": "2026-10-16T21:35:55Z",
+        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720597_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-10-16T21:34:57Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Quarterback",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+        "publishedAt": "2026-10-16T21:34:06Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+        "publishedAt": "2026-10-16T21:34:27Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football flex and superflex rankings for Week 6",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-10-16T21:33:31Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+        "image": "https://a.espncdn.com/photo/2026/0928/r1723051_2_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings Week 6: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-10-16T21:33:49Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Decked-out, diehard Jaguars fans swarm London for pub takeover",
         "url": "https://www.espn.com/nfl/story/_/id/50196768/jaguars-fans-london-pub-takeover",
         "publishedAt": "2026-10-16T20:51:48Z",
@@ -120,108 +219,27 @@
         "image": "https://a.espncdn.com/photo/2026/1016/r1731659_481x271_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football 12-team Knockout league rankings: The 168 players to draft",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-        "publishedAt": "2026-10-16T20:50:14Z",
-        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles' Saquon Barkley ruled out; DeVonta Smith to return",
-        "url": "https://www.espn.com/nfl/story/_/id/50198056/eagles-saquon-barkley-ruled-devonta-smith-return",
-        "publishedAt": "2026-10-16T21:09:31Z",
-        "summary": "Eagles RB Saquon Barkley has been ruled out for Sunday's game against the Panthers with a hamstring injury, but it appears WR DeVonta Smith will return.",
-        "image": "https://a.espncdn.com/photo/2025/1015/r1559714_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Broncos' Jonathon Cooper off commissioner's exempt list, could return Week 7",
-        "url": "https://www.espn.com/nfl/story/_/id/50198029/broncos-jonathon-cooper-removed-nfl-commissioner-exempt-list",
-        "publishedAt": "2026-10-16T20:45:02Z",
-        "summary": "Broncos linebacker Jonathon Cooper was removed from the commissioner's exempt list Friday, meaning he is available to play Week 7. Cooper, who was arrested twice in a seven-day span in June on domestic violence charges, has been on the list since Aug. 30.",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731783_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Packers' Josh Jacobs eligible to return next week amid probe",
-        "url": "https://www.espn.com/nfl/story/_/id/50197784/packers-josh-jacobs-eligible-return-next-week-amid-probe",
-        "publishedAt": "2026-10-16T21:07:03Z",
-        "summary": "Packers RB Josh Jacobs will be removed from the commissioner exempt list Monday, the league announced, making him eligible to practice and play next week.",
-        "image": "https://a.espncdn.com/photo/2026/0107/r1597762_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears' Caleb Williams questionable after 3 days of practice",
-        "url": "https://www.espn.com/nfl/story/_/id/50197730/bears-caleb-williams-questionable-falcons",
-        "publishedAt": "2026-10-16T20:49:09Z",
-        "summary": "The quarterback said there are several hurdles to clear before he would be able to face the Falcons on Sunday.",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731766_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cardinals 'do what's right,' rule RB Jeremiyah Love (ankle) out vs. Rams",
-        "url": "https://www.espn.com/nfl/story/_/id/50197712/cardinals-rb-jeremiyah-love-ankle-sunday-vs-rams",
-        "publishedAt": "2026-10-16T20:04:22Z",
-        "summary": "The Cardinals say they're doing \"what's right\" for RB Jeremiyah Love by ruling the prized rookie out for Sunday's game against the Rams due to his injured left ankle.",
-        "image": "https://a.espncdn.com/photo/2026/0508/r1655540_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jalen Hurts' health bigger than football, as teammates, coach detail QB concern",
-        "url": "https://www.espn.com/nfl/story/_/id/50197708/sirianni-teammates-share-concern-jalen-hurts-diagnosis",
-        "publishedAt": "2026-10-16T20:16:31Z",
-        "summary": "Eagles coach Nick Sirianni declined to offer much detail about Jalen Hurts' health, instead focusing on his connection with the quarterback.",
-        "image": "https://a.espncdn.com/photo/2022/1213/r1106138_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks sticking with Sam Darnold as starter despite INTs",
-        "url": "https://www.espn.com/nfl/story/_/id/50197704/seahawks-sticking-sam-darnold-starter-ints",
-        "publishedAt": "2026-10-16T19:33:47Z",
-        "summary": "Seahawks coach Mike Macdonald is standing behind Sam Darnold as the team's starting quarterback despite his seven interceptions over the past four games.",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731410_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chiefs WR Rashee Rice out Sunday vs. Chargers with hamstring injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50197599/chiefs-wr-rashee-rice-vs-chargers-hamstring-injury",
-        "publishedAt": "2026-10-16T19:19:10Z",
-        "summary": "Kansas City's top receiver Rashee Rice will miss Sunday's game against the Chargers with a right hamstring injury.",
-        "image": "https://a.espncdn.com/photo/2026/0616/r1674306_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Pettine ready to lend support, experience to Cowboys' defense",
-        "url": "https://www.espn.com/nfl/story/_/id/50197559/pettine-ready-lend-support-experience-cowboys-defense",
-        "publishedAt": "2026-10-16T19:21:50Z",
-        "summary": "Mike Pettine was traveling through Italy, celebrating his 60th birthday when he got a call from Cowboys defensive coordinator Christian Parker a few weeks ago seeing if he would take a role on the staff.",
-        "image": "https://a.espncdn.com/photo/2019/1017/r614438_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Falcons' Michael Penix Jr. (ribs) cleared to play vs. Bears",
-        "url": "https://www.espn.com/nfl/story/_/id/50197497/falcons-michael-penix-jr-ribs-cleared-play-vs-bears",
-        "publishedAt": "2026-10-16T18:46:05Z",
-        "summary": "Falcons quarterback Michael Penix Jr., who left last week's game with injured ribs, has been fully cleared to play against the Bears on Sunday.",
-        "image": "https://a.espncdn.com/photo/2026/1006/r1726713_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "ESPN: Josh Jacobs has spoken to the NFL in their investigation",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88248/espn-josh-jacobs-has-spoken-to-the-nfl-in-their-investigation",
+        "publishedAt": "2026-10-16T20:19:28-04:00",
+        "summary": "According to ESPN’s Jeremy Fowler, the NFL has had a discussion with Green Bay Packers running back Josh Jacobs, which is an important piece of information now that he’s been reinstated by the league and removed from the commisioner exempt list. Here is Fowler’s relevant quote on the subject and the corresponding video, which touches [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280733104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "How the Packers&#8217; defense is pressuring into interceptions",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88196/how-the-packers-defense-is-pressuring-into-interceptions",
+        "publishedAt": "2026-10-16T18:44:33-04:00",
+        "summary": "The Green Bay Packers defense is climbing out of the bottom of the NFL’s worst defenses after a lopsided Week 3 loss to the Falcons, turning in a five-turnover performance in Week 5. They ranked 26th in EPA per play after Week 3 and now rank 14th after Week 5. While their run defense EPA [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300084933.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Injury Report: Green Bay rules out 4 vs. Dallas Cowboys",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88224/packers-injury-report-green-bay-rules-out-4-vs-dallas-cowboys",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-15T06:00:00-04:00",
         "summary": "In a sentence I’m nearly positive has never been written before: the Green Bay Packers are trying something different with a rotating team sledgehammer. We’ve seen things like AJ Dillon’s positivity rabbit in the Eagles locker room, and Chicago White Sox pitcher Mike Vasil’s magic wand, and now the Packers are getting in on the [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198820.jpg?quality=90&#038;strip=all&#038;crop=38.8,0,61.2,61.899404678198",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: How will Green Bay use its open roster spots?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88141/packers-injury-report-how-will-green-bay-use-its-open-roster-spots",
-        "publishedAt": "2026-10-15T05:38:41-04:00",
-        "summary": "For the most part, my injury analysis this season has basically boiled down to “next man up on the 53-man roster.” The Green Bay Packers’ cluster of injuries has mostly hit two units, the offensive and defensive lines — where the team has been over-signed since they made their initial active roster — leaving them [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2290536321.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Will the Packers earn a playoff spot this year?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88118/will-the-packers-earn-a-playoff-spot-this-year",
-        "publishedAt": "2026-10-14T16:20:00-04:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. Playoffs? We’re talking about playoffs? Surely that will be the reactions of some readers who see the question in the headline of this article. But after [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-1941286668.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
