@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:41:54.593Z",
+  "updatedAt": "2026-10-18T11:18:03.506Z",
   "sources": {
     "packers": [
       {
@@ -113,90 +113,18 @@
     ],
     "espn": [
       {
-        "title": "Ex-Broncos exec John Beake, who helped land John Elway, dies at 87",
-        "url": "https://www.espn.com/nfl/story/_/id/50206700/ex-broncos-exec-john-beake-helped-land-john-elway-dies-87",
-        "publishedAt": "2026-10-18T02:58:11Z",
-        "summary": "John Beake, who was instrumental in the trade for John Elway and helped guide the Denver Broncos to back-to-back Super Bowl titles in the late 1990s, has died at age 87, the team said Saturday.",
-        "image": "https://a.espncdn.com/photo/2022/0608/r1022916_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
-        "url": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
-        "publishedAt": "2026-10-17T23:11:15Z",
-        "summary": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
-        "image": "https://a.espncdn.com/photo/2026/1017/r1732188_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
         "title": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
-        "publishedAt": "2026-10-17T21:14:58Z",
+        "publishedAt": "2026-10-18T11:12:28Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
         "image": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
-        "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
-        "publishedAt": "2026-10-17T20:47:43Z",
-        "summary": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
-        "image": "https://a.espncdn.com/photo/2026/0920/r1719616_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely",
-        "url": "https://www.espn.com/nfl/story/_/id/50202417/sources-eagles-place-jalen-hurts-ir-due-blood-clot",
-        "publishedAt": "2026-10-17T22:48:14Z",
-        "summary": "The Eagles have placed Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
-        "image": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Steelers place Wilson on IR with finger injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
-        "publishedAt": "2026-10-17T20:00:08Z",
-        "summary": "The Pittsburgh Steelers placed Roman Wilson on the injured reserve list, their second key receiver lost to injury in as many weeks.",
-        "image": "https://a.espncdn.com/photo/2026/0728/r1694789_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Taylor Moton among 3 Panthers activated ahead of Eagles game",
-        "url": "https://www.espn.com/nfl/story/_/id/50202634/taylor-moton-3-panthers-activated-ahead-eagles-game",
-        "publishedAt": "2026-10-17T19:23:52Z",
-        "summary": "The Panthers will have RT Taylor Moton and DE Tershawn Wharton available Sunday against the Eagles. RB Trevor Etienne was also activated off IR.",
-        "image": "https://a.espncdn.com/photo/2026/1013/r1730380_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears CB Kyler Gordon set for 2026 debut after PUP activation",
-        "url": "https://www.espn.com/nfl/story/_/id/50202598/bears-cb-kyler-gordon-set-2026-debut-pup-activation",
-        "publishedAt": "2026-10-17T19:48:14Z",
-        "summary": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
-        "image": "https://a.espncdn.com/photo/2025/1213/r1588944_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Commanders RB Jacory Croskey-Merritt out vs. 49ers with groin injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50202044/commanders-rb-croskey-merritt-vs-49ers-groin-injury",
-        "publishedAt": "2026-10-17T17:50:22Z",
-        "summary": "Commanders running back Jacory Croskey-Merritt won't play against the 49ers because of a groin injury, coach Dan Quinn said.",
-        "image": "https://a.espncdn.com/photo/2026/1008/r1727688_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
         "title": "Fantasy football flex and superflex rankings for Week 6",
         "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-        "publishedAt": "2026-10-17T16:53:27Z",
+        "publishedAt": "2026-10-18T11:11:33Z",
         "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
         "image": "https://a.espncdn.com/photo/2026/0928/r1723051_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -205,7 +133,7 @@
       {
         "title": "Fantasy football rankings Week 6: PPR and superflex",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-10-17T16:46:13Z",
+        "publishedAt": "2026-10-18T11:09:00Z",
         "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
         "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -214,14 +142,104 @@
       {
         "title": "Fantasy football rankings for Week 6: Wide receiver",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-10-17T16:45:22Z",
+        "publishedAt": "2026-10-18T11:08:39Z",
         "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+        "publishedAt": "2026-10-18T11:12:15Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-10-18T11:07:17Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Quarterback",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+        "publishedAt": "2026-10-18T11:07:40Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: D/ST",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+        "publishedAt": "2026-10-18T11:08:01Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-10-18T11:06:26Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 6: IDP",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+        "publishedAt": "2026-10-18T11:06:54Z",
+        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720597_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+        "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+        "publishedAt": "2026-10-18T11:04:00Z",
+        "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+        "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints",
+        "url": "https://www.espn.com/nfl/story/_/id/50207241/gayle-benson-endorses-kellen-moore-saints-coaches",
+        "publishedAt": "2026-10-18T11:00:32Z",
+        "summary": "Saints owner Gayle Benson endorsed Kellen Moore and the coaching staff Friday, three days after her pointed comments about the state of the team.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732292_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers vs. Cowboys, Week 6: Game time, how to watch, odds, &#038; more",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88161/packers-vs-cowboys-week-6-game-time-how-to-watch-odds-more",
+        "publishedAt": "2026-10-18T06:00:00-04:00",
+        "summary": "Get ready to wait all day for Sunday night. The Green Bay Packers host the Dallas Cowboys on Sunday Night Football this evening in a game that will take place about a year and three weeks after the two teams met in prime time on NBC for their most recent matchup. That game was a [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-1441270768.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Cowboys preview: How Dallas schemes up shot plays",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88263/packers-cowboys-preview-how-dallas-schemes-up-shot-plays",
+        "publishedAt": "2026-10-18T06:00:00-04:00",
+        "summary": "So far through Week 5, the Dallas Cowboys and quarterback Dak Prescott have thrown 18 passes 20+ yards downfield. That may not seem like a lot, but Prescott has connected on eight of those passes for two touchdowns and 271 yards, ranking 9th in yardage. And he has a variety of weapons around him that [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2237961604.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Cowboys at Packers, Week 6 Opponent Preview",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88274/cowboys-at-packers-week-6-opponent-preview",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-16T16:05:35-04:00",
         "summary": "The Green Bay Packers got the Friday afternoon news dump treatment this week, with a big breaking news item coming on the heels of the Milwaukee Brewers’ clinching win in the NLCS on Thursday night. According to veteran NFL reporter Tom Pelissero, running back Josh Jacobs will be removed from the Commissioner’s Exempt list on [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280741287.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL predictions: Expecting lots of points and a Packers win over the Cowboys",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/88155/packers-vs-cowboys-predictions-week-6-picks",
-        "publishedAt": "2026-10-16T14:40:42-04:00",
-        "summary": "Sunday night’s game should be a fun one. The Green Bay Packers host the Dallas Cowboys in a matchup of high-powered offenses, something that Packers fans weren’t so confident in just a few weeks ago. But last weekend, the Packers scored more than 30 points for the first time since last Thanksgiving, and they were [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2237967290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers offensive line should move forward without Aaron Banks",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88192/packers-offensive-line-should-move-forward-without-aaron-banks",
-        "publishedAt": "2026-10-16T11:55:09-04:00",
-        "summary": "Packers guard Aaron Banks was a limited participant in practice on Thursday, the second time this week he’s practiced on a limited basis. “Limited participant” is a pretty good description of Banks’ season to this point. He was out of much of training camp with a knee injury, which also cost him an appearance in [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296336753.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
