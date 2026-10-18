@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:56:30.396Z",
+  "updatedAt": "2026-10-18T20:51:45.891Z",
   "sources": {
     "packers": [
       {
@@ -113,110 +113,110 @@
     ],
     "espn": [
       {
-        "title": "Texans safety Reed Blankenship suffers concussion vs. Jaguars in London",
-        "url": "https://www.espn.com/nfl/story/_/id/50210735/texans-safety-reed-blankenship-suffers-concussion-london",
-        "publishedAt": "2026-10-18T15:53:30Z",
-        "summary": "The Texans lost starter safety Reed Blankenship to a concussion after he suffered the injury in the second quarter against the Jaguars on Sunday in London.",
-        "image": "",
+        "title": "New Orleans Saints vs. New York Giants: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50212899/game-highlights",
+        "publishedAt": "2026-10-18T20:45:36Z",
+        "summary": "New Orleans Saints vs. New York Giants: Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/8dfbcae8-8a0a-4f8e-bd5f-290d37389bfe/8dfbcae8-8a0a-4f8e-bd5f-290d37389bfe.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Drake Maye's 3 TD passes help Patriots stave off late push by Jets in 26-19 win",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873001",
+        "publishedAt": "2026-10-18T20:39:29Z",
+        "summary": "— Drake Maye threw three touchdown passes, New England overcame losing three offensive linemen and Charles Woods came up with Geno Smith's first interception of the season in the fourth quarter to help the Patriots hold on for a 26-19 win over the New...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873001.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football buzz: Week 6 scoring leaders through Sunday's early games",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-18T20:46:19Z",
+        "summary": "A look at the leading fantasy scorers through Sunday's early games.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Tyler Shough and Saints score 34 consecutive points, hold on to beat Giants 34-27 and end skid",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873000",
+        "publishedAt": "2026-10-18T20:38:29Z",
+        "summary": "— Tyler Shough threw touchdown passes to Bryce Lance, Alvin Kamara and Chris Olave and ran for a score, Isaiah Stalbird forced a fumble on a kick return and the New Orleans Saints scored 34 consecutive points, holding on to defeat the New York Giants...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873000.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Carolina Panthers vs. Philadelphia Eagles: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50212800/game-highlights",
+        "publishedAt": "2026-10-18T20:37:48Z",
+        "summary": "Carolina Panthers vs. Philadelphia Eagles: Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/8808d41d-1f9c-4c9d-a757-1cb9caa33f9f/8808d41d-1f9c-4c9d-a757-1cb9caa33f9f.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+        "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
+        "publishedAt": "2026-10-18T20:38:51Z",
+        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732575_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What are the longest field goals in NFL history?",
+        "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+        "publishedAt": "2026-10-18T20:33:41Z",
+        "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+        "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Caleb Williams completes first 12 passes in return after missing 3 games as Bears top Falcons 31-23",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872999",
+        "publishedAt": "2026-10-18T20:31:28Z",
+        "summary": "— Caleb Williams completed his first 12 passes in his return from a hamstring injury, D'Andre Swift ran for two touchdowns and the Chicago Bears beat the Atlanta Falcons 31-23...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872999.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Deshaun Watson leads drive for winning field goal and Browns rally for 13-10 victory over Ravens",
+        "url": "http://www.espn.com/nfl/recap?gameId=401872997",
+        "publishedAt": "2026-10-18T20:21:28Z",
+        "summary": "— Deshaun Watson connected with Jerry Jeudy for 33 yards to set up Andre Szmyt's 37-yard field goal on the final snap, and the Cleveland Browns rallied past the Baltimore Ravens 13-10 on Sunday.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872997.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Baltimore Ravens vs. Cleveland Browns: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50212711/game-highlights",
+        "publishedAt": "2026-10-18T20:23:01Z",
+        "summary": "Baltimore Ravens vs. Cleveland Browns: Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/29212d8b-b0ce-4562-ad8c-d42da77b550c/29212d8b-b0ce-4562-ad8c-d42da77b550c.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Falcons' Kendal Daniels hurts neck on tackle vs. Bears, hospitalized",
+        "url": "https://www.espn.com/nfl/story/_/id/50212250/falcons-kendal-daniels-carted-collision-vs-bears",
+        "publishedAt": "2026-10-18T20:20:20Z",
+        "summary": "Kendal Daniels is alert and has movement in all his extremities, the Falcons said Sunday, after he injured his neck on a tackle attempt vs. the Bears.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732553_2_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
-        "publishedAt": "2026-10-18T14:20:54Z",
+        "publishedAt": "2026-10-18T19:24:30Z",
         "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-        "image": "https://a.espncdn.com/photo/2025/0929/r1552931_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
-        "url": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
-        "publishedAt": "2026-10-18T13:15:42Z",
-        "summary": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
-        "image": "https://a.espncdn.com/photo/2026/1017/r1731913_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
-        "publishedAt": "2026-10-18T15:52:25Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football flex and superflex rankings for Week 6",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-        "publishedAt": "2026-10-18T11:11:33Z",
-        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-        "image": "https://a.espncdn.com/photo/2026/0928/r1723051_2_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings Week 6: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-10-18T11:09:00Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-10-18T11:08:39Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: Running back",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-        "publishedAt": "2026-10-18T11:12:15Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-10-18T11:07:17Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-10-18T11:07:40Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: D/ST",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-        "publishedAt": "2026-10-18T11:08:01Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-10-18T11:06:26Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732497_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }

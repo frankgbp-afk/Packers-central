@@ -22,8 +22,8 @@
       "pointsAgainst": 136,
       "scoringOffense": 27.6,
       "scoringDefense": 27.2,
-      "offenseRank": 7,
-      "defenseRank": 25
+      "offenseRank": 6,
+      "defenseRank": 26
     },
     "packers": {
       "id": "9",
@@ -38,7 +38,7 @@
       "scoringOffense": 20.8,
       "scoringDefense": 22.4,
       "offenseRank": 24,
-      "defenseRank": 14
+      "defenseRank": 15
     }
   },
   "recentGames": [
@@ -81,9 +81,25 @@
   ],
   "articles": [
     {
+      "title": "What are the longest field goals in NFL history?",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+      "publishedAt": "2026-10-18T20:33:41Z",
+      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "image": "https://a.espncdn.com/photo/2025/0810/r1529808_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals",
+      "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
+      "publishedAt": "2026-10-18T19:32:13Z",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732459_608x342_16-9.png",
+      "source": "ESPN"
+    },
+    {
       "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
       "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
-      "publishedAt": "2026-10-18T18:21:03Z",
+      "publishedAt": "2026-10-18T19:24:30Z",
       "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732497_608x342_16-9.jpg",
       "source": "ESPN"
@@ -94,14 +110,6 @@
       "publishedAt": "2026-10-18T17:27:04Z",
       "summary": "Their \"Sunday Night Football\" matchup could add another memorable chapter to Packers-Cowboys lore.",
       "image": "https://a.espncdn.com/photo/2016/0624/r95724_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Eagles WR DeVonta Smith leads NFL Week 6's best arrivals",
-      "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
-      "publishedAt": "2026-10-18T16:08:01Z",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732459_608x342_16-9.png",
       "source": "ESPN"
     },
     {
@@ -119,15 +127,7 @@
       "summary": "First touchdown of 2026 for Drake London? Aaron Rodgers climbing the NFL record books? The Texans pulling an upset? Let's predict 15 things for Week 6.",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731282_2_608x342_16-9.jpg",
       "source": "ESPN"
-    },
-    {
-      "title": "What Cowboys-Packers' Micah Parsons trade means a year later",
-      "url": "https://www.espn.com/nfl/story/_/id/50195809/cowboys-packers-micah-parsons-trade-winner",
-      "publishedAt": "2026-10-17T10:00:02Z",
-      "summary": "We examine the fallout and lingering impact on both franchises more than a year after the blockbuster deal.",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731576_608x342_16-9.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-18T19:29:50.101Z"
+  "updatedAt": "2026-10-18T20:51:45.815Z"
 }
