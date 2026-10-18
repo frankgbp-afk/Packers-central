@@ -81,6 +81,14 @@
   ],
   "articles": [
     {
+      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+      "publishedAt": "2026-10-18T21:11:44Z",
+      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732620_1296x729_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "What are the longest field goals in NFL history?",
       "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
       "publishedAt": "2026-10-18T20:33:41Z",
@@ -94,14 +102,6 @@
       "publishedAt": "2026-10-18T19:32:13Z",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732459_608x342_16-9.png",
-      "source": "ESPN"
-    },
-    {
-      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
-      "publishedAt": "2026-10-18T19:24:30Z",
-      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732497_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-18T20:51:45.815Z"
+  "updatedAt": "2026-10-18T21:51:25.168Z"
 }
