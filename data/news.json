@@ -1,22 +1,31 @@
 {
-  "updatedAt": "2026-10-18T11:18:03.506Z",
+  "updatedAt": "2026-10-18T15:56:30.396Z",
   "sources": {
     "packers": [
       {
-        "title": "Packers announce roster moves | Oct. 17, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-oct-17-2026",
-        "publishedAt": "Sat, 17 Oct 2026 20:00:00 GMT",
-        "summary": "Green Bay activates WR Savion Williams off IR, elevates two players for gameday",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bvk5tp0t1l57hqvyngcp.png",
+        "title": "Packers vs. Cowboys | How to watch, stream & listen | Week 6",
+        "url": "https://www.packers.com/news/packers-vs-cowboys-how-to-watch-stream-listen-week-6-2026",
+        "publishedAt": "Sun, 18 Oct 2026 14:00:00 GMT",
+        "summary": "Green Bay Packers vs. Dallas Cowboys channel listing, radio & streaming options",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/brboecu2muqttlmzmkaa.png",
         "source": "Packers.com",
         "icon": "GB"
       },
       {
         "title": "Packers' running game gets chance to prove its progress vs. Cowboys",
         "url": "https://www.packers.com/news/packers-running-game-gets-chance-to-prove-its-progress-vs-cowboys-oct-17-2026",
-        "publishedAt": "Sat, 17 Oct 2026 14:00:00 GMT",
+        "publishedAt": "Sun, 18 Oct 2026 13:45:00 GMT",
         "summary": "Dallas defense ranked last vs. run but has other concerns coming to Green Bay",
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/pntggxacjqpfqgqieh2w.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers announce roster moves | Oct. 17, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-moves-oct-17-2026",
+        "publishedAt": "Sat, 17 Oct 2026 20:00:00 GMT",
+        "summary": "Green Bay activates WR Savion Williams off IR, elevates two players for gameday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bvk5tp0t1l57hqvyngcp.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -100,22 +109,40 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/vsj3vzv5zoyckdpsqu2y.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Game times announced for 'Travel Wisconsin Frozen Tundra Faceoff'",
-        "url": "https://www.packers.com/news/game-times-announced-for-travel-wisconsin-frozen-tundra-faceoff-2027",
-        "publishedAt": "Thu, 15 Oct 2026 14:25:00 GMT",
-        "summary": "Puck drops set for 2 p.m. and 6 p.m. for Feb. 20 doubleheader at Lambeau Field",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/sf7424hcj5s7uqb1re8v.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
+        "title": "Texans safety Reed Blankenship suffers concussion vs. Jaguars in London",
+        "url": "https://www.espn.com/nfl/story/_/id/50210735/texans-safety-reed-blankenship-suffers-concussion-london",
+        "publishedAt": "2026-10-18T15:53:30Z",
+        "summary": "The Texans lost starter safety Reed Blankenship to a concussion after he suffered the injury in the second quarter against the Jaguars on Sunday in London.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+        "publishedAt": "2026-10-18T14:20:54Z",
+        "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+        "image": "https://a.espncdn.com/photo/2025/0929/r1552931_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
+        "url": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+        "publishedAt": "2026-10-18T13:15:42Z",
+        "summary": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+        "image": "https://a.espncdn.com/photo/2026/1017/r1731913_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
-        "publishedAt": "2026-10-18T11:12:28Z",
+        "publishedAt": "2026-10-18T15:52:25Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
         "image": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -190,33 +217,6 @@
         "publishedAt": "2026-10-18T11:06:26Z",
         "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 6: IDP",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-        "publishedAt": "2026-10-18T11:06:54Z",
-        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "https://a.espncdn.com/photo/2026/0922/r1720597_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-        "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-        "publishedAt": "2026-10-18T11:04:00Z",
-        "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-        "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints",
-        "url": "https://www.espn.com/nfl/story/_/id/50207241/gayle-benson-endorses-kellen-moore-saints-coaches",
-        "publishedAt": "2026-10-18T11:00:32Z",
-        "summary": "Saints owner Gayle Benson endorsed Kellen Moore and the coaching staff Friday, three days after her pointed comments about the state of the team.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732292_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }

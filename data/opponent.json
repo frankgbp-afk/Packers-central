@@ -81,6 +81,14 @@
   ],
   "articles": [
     {
+      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+      "publishedAt": "2026-10-18T14:20:54Z",
+      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "image": "https://a.espncdn.com/photo/2025/0929/r1552931_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
       "publishedAt": "2026-10-18T11:16:20Z",
@@ -119,15 +127,7 @@
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 6.",
       "image": "https://a.espncdn.com/photo/2026/1010/r1728670_1296x729_16-9.jpg",
       "source": "ESPN"
-    },
-    {
-      "title": "Terrell Owens takes his place in the ESPN Fantasy Football Hall of Fame",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50191952/fantasy-football-hall-fame-terrell-owens",
-      "publishedAt": "2026-10-16T14:05:20Z",
-      "summary": "ESPN Fantasy Football's No. 2-scoring wide receiver had a dominant run from 1998 to 2007.",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731351_1296x729_16-9.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-18T14:04:20.971Z"
+  "updatedAt": "2026-10-18T15:56:30.336Z"
 }
