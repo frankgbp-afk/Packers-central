@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-10-19T04:50:42.456Z",
+  "updatedAt": "2026-10-19T13:30:29.173Z",
   "sources": {
     "packers": [
+      {
+        "title": "Game recap: 5 takeaways from Packers' victory over Cowboys",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-cowboys-week-6-2026",
+        "publishedAt": "Mon, 19 Oct 2026 07:00:00 GMT",
+        "summary": "Early lead holds up as Green Bay’s defense shines",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hud8827ynw0f5q0zjghi.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Game notes: Packers' blitzes and takeaways dominate Cowboys",
+        "url": "https://www.packers.com/news/game-notes-packers-blitzes-and-takeaways-dominate-cowboys-week-6-2026",
+        "publishedAt": "Mon, 19 Oct 2026 06:55:49 GMT",
+        "summary": "Jonathan Gannon’s unit keeps stingy streak going; Green Bay’s passing game overcomes uneven night",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/e5siasqs8u5trzluolxu.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Rapid reaction: Packers picked each other up en route to quality win",
+        "url": "https://www.packers.com/news/rapid-reaction-packers-picked-each-other-up-en-route-to-quality-win-week-6-2026",
+        "publishedAt": "Mon, 19 Oct 2026 06:50:00 GMT",
+        "summary": "Running game still the sore spot on offense that must improve",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/pebtlzp7jvlqqlhfenqh.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers defeat Cowboys, 23-13",
         "url": "https://www.packers.com/news/in-game-updates-week-6-cowboys-2026",
@@ -82,36 +109,108 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/haliitzr3lrvqyipvqsp.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Unsung heroes helping Packers power through early adversity",
-        "url": "https://www.packers.com/news/unsung-heroes-helping-packers-power-through-early-adversity-oct-16-2026",
-        "publishedAt": "Fri, 16 Oct 2026 14:00:00 GMT",
-        "summary": "Green Bay has waded through injuries with depth this season",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/j0r9biz6vptroawa0r92.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: That's happening now",
-        "url": "https://www.packers.com/news/inbox-that-s-happening-now-oct-16-2026",
-        "publishedAt": "Fri, 16 Oct 2026 13:30:00 GMT",
-        "summary": "Perhaps those are coming",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hyst5imvslxwj2ghser3.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers-Cowboys Injury Report | Oct. 15, 2026",
-        "url": "https://www.packers.com/news/packers-cowboys-injury-report-oct-15-2026",
-        "publishedAt": "Thu, 15 Oct 2026 20:59:26 GMT",
-        "summary": "",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hxs2qd9h7mxezogogh6h.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
+      {
+        "title": "Bills Mafia road fans surprised, confused Josh Allen on Keon Coleman TD",
+        "url": "https://www.espn.com/nfl/story/_/id/50216042/josh-allen-bills-fan-alligient-stadium",
+        "publishedAt": "2026-10-19T13:02:00Z",
+        "summary": "Josh Allen's theatrical touchdown pass to Keon Coleman left him wondering who had the dominant fanbase at Allegiant Stadium.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732686_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Stafford? McVay? What's the biggest reason for the Rams' struggles?",
+        "url": "https://www.espn.com/video/clip/_/id/50217750/stafford-mcvay-biggest-reason-rams-struggles",
+        "publishedAt": "2026-10-19T12:57:10Z",
+        "summary": "Stafford? McVay? What's the biggest reason for the Rams' struggles?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1019/ss_20261019_084710220_3702786/ss_20261019_084710220_3702786.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rex Ryan: Dak looked 'rattled' in Cowboys' loss to Packers",
+        "url": "https://www.espn.com/video/clip/_/id/50217683/dak-looked-rattled-cowboys-loss-packers",
+        "publishedAt": "2026-10-19T12:35:55Z",
+        "summary": "Rex Ryan: Dak looked 'rattled' in Cowboys' loss to Packers",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1019/ss_20261019_082901539_3702781/ss_20261019_082901539_3702781.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "What has gone wrong for the 2-4 Rams after 'superteam' hype? Can they fix it?",
+        "url": "https://www.espn.com/nfl/story/_/id/50211303/week-6-los-angeles-rams-disappointment-superteam-barnwell",
+        "publishedAt": "2026-10-19T13:28:42Z",
+        "summary": "The Rams lost again Sunday and sank to last in the NFC West. They have fallen way short of high expectations. Where were we all so wrong, and will they improve?",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732735_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bears' Kyler Gordon returns with vengeance, answers critics",
+        "url": "https://www.espn.com/nfl/story/_/id/50212900/chicago-bears-kyler-gordon-future-injuries-critics",
+        "publishedAt": "2026-10-19T12:55:36Z",
+        "summary": "In his season debut, Gordon was a huge factor in Chicago's win Sunday after battling through various injuries.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732751_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Is Commanders coach Dan Quinn's job in jeopardy after tie with Giants?",
+        "url": "https://www.espn.com/nfl/story/_/id/50215436/commanders-tie-dan-quinn-job-status-jayden-daniels",
+        "publishedAt": "2026-10-19T10:00:01Z",
+        "summary": "Questions swirl Washington following last Sunday's embarrassing tie with the Giants. Where will they go from here?",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732772_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+        "publishedAt": "2026-10-19T10:00:01Z",
+        "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+        "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How 49ers QB Brock Purdy mastered the art of layering passes over defenders",
+        "url": "https://www.espn.com/nfl/story/_/id/50189530/san-francisco-49ers-brock-purdy-layering-football",
+        "publishedAt": "2026-10-19T10:00:01Z",
+        "summary": "Purdy is terrific at layering the football -- fitting it perfectly between the second and third levels of the defense. And it's a big reason why he's playing at an MVP level this season.",
+        "image": "https://a.espncdn.com/photo/2026/1015/nfl_brock-purdy_3x2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+        "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+        "publishedAt": "2026-10-19T10:00:00Z",
+        "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+        "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Brian Schottenheimer: Cowboys offense 'a little bit one-sided,' needs balance",
+        "url": "https://www.espn.com/nfl/story/_/id/50216409/cowboys-left-searching-answers-offense-woeful-showing-vs-packers",
+        "publishedAt": "2026-10-19T07:35:12Z",
+        "summary": "A talent-rich offense that is completely healthy has scored only 29 points in the past two games, leaving the Cowboys searching for answers everywhere.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732800_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+        "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
+        "publishedAt": "2026-10-19T04:46:54Z",
+        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
       {
         "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
@@ -120,110 +219,29 @@
         "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
-        "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-10-19T04:37:37Z",
-        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-19T04:07:08Z",
-        "summary": "A look at the leading fantasy scorers through Sunday Night Football.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jordan Love, Green Bay's defense lead the way in Packers' 23-13 victory over Cowboys",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873007",
-        "publishedAt": "2026-10-19T04:03:32Z",
-        "summary": "— Jordan Love threw a touchdown pass and also scored on a 1-yard keeper and the Green Bay Packers held Dallas’ high-powered offense in check and beat the Cowboys 23-13 in a penalty-filled game Sunday night.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873007.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Packers use timely turnovers, third-down conversions to beat struggling Cowboys",
-        "url": "https://www.espn.com/nfl/story/_/id/50190741/packers-beat-cowboys-sunday-night-football-jordan-love",
-        "publishedAt": "2026-10-19T04:22:04Z",
-        "summary": "The Packers used timely third-down conversions and a few big defensive plays to topple a scuffling Cowboys squad.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732733_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Packers dismantle Cowboys on SNF",
-        "url": "https://www.espn.com/video/clip/_/id/50216129/packers-dismantle-cowboys-snf",
-        "publishedAt": "2026-10-19T03:47:01Z",
-        "summary": "Packers dismantle Cowboys on SNF ",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/03659021-50c0-4f5b-b8eb-0adc238c9e1c/03659021-50c0-4f5b-b8eb-0adc238c9e1c.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sunday's top plays from around the NFL",
-        "url": "https://www.espn.com/video/clip/_/id/50216041/sunday-top-plays-nfl",
-        "publishedAt": "2026-10-19T03:18:48Z",
-        "summary": "Sunday's top plays from around the NFL",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/c63f65d6-0795-4a74-86c2-72763530db43/c63f65d6-0795-4a74-86c2-72763530db43.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Harbaugh: Chargers 'not scoring enough points'",
-        "url": "https://www.espn.com/video/clip/_/id/50216006/chargers-not-scoring-enough-points",
-        "publishedAt": "2026-10-19T03:11:17Z",
-        "summary": "Harbaugh: Chargers 'not scoring enough points'",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/ss_20261018_230306187_3702657/ss_20261018_230306187_3702657.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady",
-        "url": "https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins",
-        "publishedAt": "2026-10-19T03:38:02Z",
-        "summary": "Quarterback Patrick Mahomes earned his 100th win with the Chiefs in his 131st regular-season start Sunday, tying Tom Brady for the fewest games needed to reach 100 career wins.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732784_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Kicker Chad Ryland accounts for all of Cardinals' points in upset of Rams",
-        "url": "https://www.espn.com/nfl/story/_/id/50215919/cardinals-chad-ryland-kicks-6-fgs-18-points-vs-rams",
-        "publishedAt": "2026-10-19T03:24:40Z",
-        "summary": "Chad Ryland kicked six field goals, including a game-winning 43-yarder as time expired, to lift Arizona to an 18-16 win over the Rams.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732769_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Harbaugh mum on McDaniel, says Chargers need 'to address everything'",
-        "url": "https://www.espn.com/nfl/story/_/id/50215829/harbaugh-mum-mcdaniel-chargers-need-address-everything",
-        "publishedAt": "2026-10-19T03:47:51Z",
-        "summary": "Jim Harbaugh said his Chargers will \"have to address everything, and especially offensively\" after another dismal performance in a 22-6 loss to the Chiefs.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732767_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
-        "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams",
-        "publishedAt": "2026-10-19T03:00:12Z",
-        "summary": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
       {
-        "title": "Packers-Cowboys Final Score: Green Bay defense dominates Dallas in 23-13 victory",
+        "title": "Green Bay Packers News: Defense is impressing thanks to Gannon’s aggressiveness",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88335/green-bay-packers-news-defense-is-impressing-thanks-to-gannons-aggressiveness",
+        "publishedAt": "2026-10-19T09:00:00-04:00",
+        "summary": "Happy Monday, Wisconsin sports fans! The Milwaukee Brewers will open up the World Series on Friday (yes, that’s a true statement) and the Green Bay Packers just beat the Chicago Bears and Dallas Cowboys convincingly in back-to-back weeks. What a time it is to be alive. Although the Packers’ defense got to feast on Chicago’s [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296464957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Week 6 Snap Counts: Who played against the Dallas Cowboys?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/88312/packers-week-6-snap-counts-who-played-against-the-dallas-cowboys",
+        "publishedAt": "2026-10-19T02:13:18-04:00",
+        "summary": "There were a lot of moving parts on the Green Bay Packers’ roster this week, as the team placed three contributors on the injured reserve. Who stepped in their place against the Dallas Cowboys? Let’s take a position-by-position look at who was on the field for the Packers on offense and defense in the team’s [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300882933.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Cowboys Final Score: Green Bay defense dominates Dallas on ‘Sunday Night Football’",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88303/packers-cowboys-final-score-green-bay-defense-dominates-dallas-in-23-13-victory",
         "publishedAt": "2026-10-18T23:52:58-04:00",
         "summary": "The Dallas Cowboys came into Lambeau Field on Sunday Night Football with a high-powered offense. Dak Prescott and company led the offense in many drive-based statistics, including the percentage of offensive drives ending in a score, plays per drive, and yards per drive. Against Jonathan Gannon’s aggressive Green Bay Packers defense, the Cowboys managed just [&#8230;]",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-17T10:00:00-04:00",
         "summary": "What a difference a week makes. Heading into last Sunday’s game against the Chicago Bears, Green Bay Packers fans were still pretty down about their team. Despite a win over the Tampa Bay Buccaneers the week before, Cheeseheads still overwhelmingly expected the team to finish under .500 in the division and confidence in the team’s [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-631235484.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Draft: College Football Week 7 Discussion",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/88254/college-football-week-7-discussion",
-        "publishedAt": "2026-10-17T06:00:00-04:00",
-        "summary": "The college football season is starting to take shape, now that some teams have played around half of their games, and the same is true about the upcoming 2027 NFL Draft class. Who are the big prospects playing in Saturday’s big game? We have you covered. Below are the projected top-100 selections, per the consensus [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2250904705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "ESPN: Josh Jacobs has spoken to the NFL in their investigation",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88248/espn-josh-jacobs-has-spoken-to-the-nfl-in-their-investigation",
-        "publishedAt": "2026-10-16T20:19:28-04:00",
-        "summary": "According to ESPN’s Jeremy Fowler, the NFL has had a discussion with Green Bay Packers running back Josh Jacobs, which is an important piece of information now that he’s been reinstated by the league and removed from the commisioner exempt list. Here is Fowler’s relevant quote on the subject and the corresponding video, which touches [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280733104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
