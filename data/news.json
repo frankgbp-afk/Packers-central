@@ -1,13 +1,40 @@
 {
-  "updatedAt": "2026-10-18T23:19:29.263Z",
+  "updatedAt": "2026-10-19T04:50:42.456Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers defeat Cowboys, 23-13",
+        "url": "https://www.packers.com/news/in-game-updates-week-6-cowboys-2026",
+        "publishedAt": "Mon, 19 Oct 2026 03:00:00 GMT",
+        "summary": "Green Bay wins third straight to improve to 4-2",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/tzxtkwemep7bqtpbppnb.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers salute U.S. Army Veteran Kristi Lyons for 'Operation Fan Mail'",
+        "url": "https://www.packers.com/news/packers-salute-u-s-army-veteran-kristi-lyons-for-operation-fan-mail-week-6-2026",
+        "publishedAt": "Mon, 19 Oct 2026 00:20:00 GMT",
+        "summary": "Packers, Network Health honored Lyons during Sunday’s game against the Cowboys",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/miovcvvhc9jdele9fjnk.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "CB Brandon Cisse active for Green Bay | Packers-Cowboys inactives",
         "url": "https://www.packers.com/news/packers-cowboys-week-6-inactives-oct-18-2026",
         "publishedAt": "Sun, 18 Oct 2026 22:50:00 GMT",
         "summary": "DT Anthony Campbell also back in action for Packers",
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/iqdgn1yovbguurci83xs.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Live Chat: Packers vs. Cowboys | Week 6",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-cowboys-week-6-2026",
+        "publishedAt": "Sun, 18 Oct 2026 20:00:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. Dallas Cowboys game with live updates from Lambeau Field.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/suyemmm2cafmajaijc5w.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -82,146 +109,137 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hxs2qd9h7mxezogogh6h.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Lambeau Field ready for Sunday's Packers vs. Cancer game, presented by UW Health | Carbone Cancer Center",
-        "url": "https://www.packers.com/news/lambeau-field-ready-for-sunday-s-packers-vs-cancer-game-presented-by-uw-health-carbone-cancer-center-week-6-2026",
-        "publishedAt": "Thu, 15 Oct 2026 20:55:00 GMT",
-        "summary": "Packers-Cowboys matchup to honor those who have battled cancer",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/uk0d06hskukrnxesv5j7.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers welcoming Will Blackmon, Marco Rivera as featured alumni this week",
-        "url": "https://www.packers.com/news/packers-welcoming-will-blackmon-marco-rivera-as-featured-alumni-this-week-oct-15-2026",
-        "publishedAt": "Thu, 15 Oct 2026 19:37:29 GMT",
-        "summary": "Former players to greet fans near Lambeau Field on Saturday and Sunday",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/chvo5m0khb2fe2pkn1na.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Nick Whalen of Mauston High School named Green Bay Packers High School Coach of the Week",
-        "url": "https://www.packers.com/news/nick-whalen-of-mauston-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-15-2026",
-        "publishedAt": "Thu, 15 Oct 2026 17:01:56 GMT",
-        "summary": "Whalen has helped lead a remarkable turnaround, guiding Mauston to a 5-3 record after a 0-9 finish in his first season",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/u5yqcr47nq4c3odxxwke.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-        "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-        "publishedAt": "2026-10-18T23:14:22Z",
-        "summary": "The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
-        "image": "https://a.espncdn.com/photo/2026/0909/nfl_rodgers-final-season_16x9.jpg",
+        "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+        "publishedAt": "2026-10-19T04:17:26Z",
+        "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732737_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Week 6 winners and losers: Lawrence, Nabers impress; Robinson, Henry disappoint",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50213364/nfl-week-6-fantasy-football-winners-losers-injuries-rankings-more",
-        "publishedAt": "2026-10-18T23:11:41Z",
-        "summary": "Malik Nabers, Trevor Lawrence and Tyler Shough came up big in Week 6, while Bijan Robinson and Derrick Henry underwhelmed.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732651_1296x729_16-9.jpg",
+        "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+        "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
+        "publishedAt": "2026-10-19T04:37:37Z",
+        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732703_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Panthers' Tremble admits TD taunt was payback for 'suplex' by Eagles' DeJean",
-        "url": "https://www.espn.com/nfl/story/_/id/50213950/panthers-te-tremble-admits-td-taunt-dejean-was-payback",
-        "publishedAt": "2026-10-18T23:02:20Z",
-        "summary": "Panthers TE Tommy Tremble apologized for costing his team a penalty after he taunted DB Cooper DeJean, saying it was retaliation for an earlier personal foul.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732670_600x400_3-2.jpg",
+        "title": "Fantasy football buzz: Week 6 scoring leaders through Sunday Night Football",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-19T04:07:08Z",
+        "summary": "A look at the leading fantasy scorers through Sunday Night Football.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732593_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "How to bet Cowboys-Packers: Analysis, tips and top prop plays",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50179851/nfl-week-6-odds-betting-tips-picks-cowboys-packers",
-        "publishedAt": "2026-10-18T22:33:17Z",
-        "summary": "Odds, bets and analysis to help you bet Dallas Cowboys-Green Bay Packers on \"Sunday Night Football.\"",
-        "image": "https://a.espncdn.com/photo/2026/1016/r1731718_1296x729_16-9.jpg",
+        "title": "Jordan Love, Green Bay's defense lead the way in Packers' 23-13 victory over Cowboys",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873007",
+        "publishedAt": "2026-10-19T04:03:32Z",
+        "summary": "— Jordan Love threw a touchdown pass and also scored on a 1-yard keeper and the Green Bay Packers held Dallas’ high-powered offense in check and beat the Cowboys 23-13 in a penalty-filled game Sunday night.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873007.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Patriots' A.J. Brown has career-high 3 dropped passes in return from injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50213864/patriots-aj-brown-career-high-3-drops-return-injury",
-        "publishedAt": "2026-10-18T23:04:29Z",
-        "summary": "Patriots receiver A.J. Brown, coming off a right high ankle sprain that sidelined him four weeks, had a shaky return to action Sunday, dropping a career-high three passes in the team's win over the Jets",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732664_600x400_3-2.jpg",
+        "title": "Packers use timely turnovers, third-down conversions to beat struggling Cowboys",
+        "url": "https://www.espn.com/nfl/story/_/id/50190741/packers-beat-cowboys-sunday-night-football-jordan-love",
+        "publishedAt": "2026-10-19T04:22:04Z",
+        "summary": "The Packers used timely third-down conversions and a few big defensive plays to topple a scuffling Cowboys squad.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732733_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ethan Evans' heroics for Rams short-lived in loss to Cards",
-        "url": "https://www.espn.com/nfl/story/_/id/50213862/blake-grupe-exits-rams-debut-early-due-knee-injury",
-        "publishedAt": "2026-10-18T23:17:50Z",
-        "summary": "In his first game since replacing Harrison Mevis, Blake Grupe left because of a knee injury and didn't return. Punter Ethan Evans hit a go-ahead PAT late.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732662_600x600_1-1.jpg",
+        "title": "Packers dismantle Cowboys on SNF",
+        "url": "https://www.espn.com/video/clip/_/id/50216129/packers-dismantle-cowboys-snf",
+        "publishedAt": "2026-10-19T03:47:01Z",
+        "summary": "Packers dismantle Cowboys on SNF ",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/03659021-50c0-4f5b-b8eb-0adc238c9e1c/03659021-50c0-4f5b-b8eb-0adc238c9e1c.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jeffery Simmons' halftime message, play help Titans stun Colts, get 1st win",
-        "url": "https://www.espn.com/nfl/story/_/id/50213831/jeffery-simmons-half-speech-play-buoy-titans-1st-win",
-        "publishedAt": "2026-10-18T23:15:37Z",
-        "summary": "Robert Saleh said it was Jeffery Simmons' play and halftime actions that inspired the Titans to their first win of the season.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732658_1296x729_16-9.jpg",
+        "title": "Sunday's top plays from around the NFL",
+        "url": "https://www.espn.com/video/clip/_/id/50216041/sunday-top-plays-nfl",
+        "publishedAt": "2026-10-19T03:18:48Z",
+        "summary": "Sunday's top plays from around the NFL",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1019/c63f65d6-0795-4a74-86c2-72763530db43/c63f65d6-0795-4a74-86c2-72763530db43.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Derrick Henry takes blame as fumbling woes costly for Ravens",
-        "url": "https://www.espn.com/nfl/story/_/id/50213686/derrick-henry-takes-blame-fumbling-woes-costly-ravens",
-        "publishedAt": "2026-10-18T22:57:55Z",
-        "summary": "Derrick Henry's fumble in the fourth quarter led to Cleveland's only touchdown drive of the game.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732622_600x600_1-1.jpg",
+        "title": "Harbaugh: Chargers 'not scoring enough points'",
+        "url": "https://www.espn.com/video/clip/_/id/50216006/chargers-not-scoring-enough-points",
+        "publishedAt": "2026-10-19T03:11:17Z",
+        "summary": "Harbaugh: Chargers 'not scoring enough points'",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/ss_20261018_230306187_3702657/ss_20261018_230306187_3702657.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jerry Jeudy, amid trade buzz, has clutch catch in Browns' win, gets game ball",
-        "url": "https://www.espn.com/nfl/story/_/id/50213675/browns-jerry-jeudy-gets-game-ball-clutch-catch-win",
-        "publishedAt": "2026-10-18T22:52:19Z",
-        "summary": "Browns wide receiver Jerry Jeudy had a clutch catch in Cleveland's game-winning drive Sunday, earning a game ball from coach Todd Monken.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732623_1296x729_16-9.jpg",
+        "title": "Chiefs' Patrick Mahomes earns 100th win in 131st start, tying Tom Brady",
+        "url": "https://www.espn.com/nfl/story/_/id/50215969/chiefs-patrick-mahomes-ties-tom-brady-fastest-100-career-wins",
+        "publishedAt": "2026-10-19T03:38:02Z",
+        "summary": "Quarterback Patrick Mahomes earned his 100th win with the Chiefs in his 131st regular-season start Sunday, tying Tom Brady for the fewest games needed to reach 100 career wins.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732784_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills CB Gardner-Johnson ejected after apparent spitting incident",
-        "url": "https://www.espn.com/nfl/story/_/id/50213664/bills-cb-gardner-johnson-tossed-apparent-spit-incident",
-        "publishedAt": "2026-10-18T22:29:59Z",
-        "summary": "With his team leading 13-10 at the time, Buffalo Bills safety C.J. Gardner-Johnson was ejected from Sunday's game against Las Vegas following an altercation in the final minute of the first half, when he appeared to spit in the Raiders' direction.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732647_600x600_1-1.jpg",
+        "title": "Kicker Chad Ryland accounts for all of Cardinals' points in upset of Rams",
+        "url": "https://www.espn.com/nfl/story/_/id/50215919/cardinals-chad-ryland-kicks-6-fgs-18-points-vs-rams",
+        "publishedAt": "2026-10-19T03:24:40Z",
+        "summary": "Chad Ryland kicked six field goals, including a game-winning 43-yarder as time expired, to lift Arizona to an 18-16 win over the Rams.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732769_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "How should fantasy managers view Bhayshul Tuen moving forward?",
-        "url": "https://www.espn.com/video/clip/_/id/50213660/how-fantasy-managers-view-bhayshul-tuen-moving-forward",
-        "publishedAt": "2026-10-18T22:06:32Z",
-        "summary": "How should fantasy managers view Bhayshul Tuen moving forward?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_fantasy_tuten/dm_261018_fantasy_tuten.jpg",
+        "title": "Harbaugh mum on McDaniel, says Chargers need 'to address everything'",
+        "url": "https://www.espn.com/nfl/story/_/id/50215829/harbaugh-mum-mcdaniel-chargers-need-address-everything",
+        "publishedAt": "2026-10-19T03:47:51Z",
+        "summary": "Jim Harbaugh said his Chargers will \"have to address everything, and especially offensively\" after another dismal performance in a 22-6 loss to the Chiefs.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732767_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers' Aaron Rodgers throws two TDs to tie Peyton Manning on all-time list",
-        "url": "https://www.espn.com/nfl/story/_/id/50213488/aaron-rodgers-ties-peyton-manning-all-td-pass-list",
-        "publishedAt": "2026-10-18T22:16:00Z",
-        "summary": "Aaron Rodgers tied Peyton Manning on the all-time passing touchdown list with 539 in the Steelers' overtime victory.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732638_1296x729_16-9.jpg",
+        "title": "Judging overreactions to NFL Week 6: Regretting Daniel Jones, A.J. Brown deals?",
+        "url": "https://www.espn.com/nfl/story/_/id/50211304/week-6-overreactions-2026-graziano-aj-brown-jones-rams",
+        "publishedAt": "2026-10-19T03:00:12Z",
+        "summary": "Did the Colts severely misfire by re-signing Jones? What about the Patriots with the A.J. Brown trade? We're judging overreactions to Sunday's games.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732628_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers-Cowboys Final Score: Green Bay defense dominates Dallas in 23-13 victory",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88303/packers-cowboys-final-score-green-bay-defense-dominates-dallas-in-23-13-victory",
+        "publishedAt": "2026-10-18T23:52:58-04:00",
+        "summary": "The Dallas Cowboys came into Lambeau Field on Sunday Night Football with a high-powered offense. Dak Prescott and company led the offense in many drive-based statistics, including the percentage of offensive drives ending in a score, plays per drive, and yards per drive. Against Jonathan Gannon’s aggressive Green Bay Packers defense, the Cowboys managed just [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300881862.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Cowboys Week 6 Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88167/packers-vs-cowboys-week-6-game-discussion",
+        "publishedAt": "2026-10-18T19:19:27-04:00",
+        "summary": "Sunday Night Football is here. The Green Bay Packers’ first of two SNF games in the 2026 season has arrived as they host the Dallas Cowboys at Lambeau Field tonight. Will this game live up to last year’s prime time matchup, which saw the teams battle to a 40-40 tie at AT&#38;T Stadium? Join us [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2228255207.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers announce Week 6 inactives vs. the Cowboys",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88292/packers-announce-week-6-inactives-vs-the-cowboys",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-16T20:19:28-04:00",
         "summary": "According to ESPN’s Jeremy Fowler, the NFL has had a discussion with Green Bay Packers running back Josh Jacobs, which is an important piece of information now that he’s been reinstated by the league and removed from the commisioner exempt list. Here is Fowler’s relevant quote on the subject and the corresponding video, which touches [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280733104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "How the Packers&#8217; defense is pressuring into interceptions",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88196/how-the-packers-defense-is-pressuring-into-interceptions",
-        "publishedAt": "2026-10-16T18:44:33-04:00",
-        "summary": "The Green Bay Packers defense is climbing out of the bottom of the NFL’s worst defenses after a lopsided Week 3 loss to the Falcons, turning in a five-turnover performance in Week 5. They ranked 26th in EPA per play after Week 3 and now rank 14th after Week 5. While their run defense EPA [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300084933.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Green Bay rules out 4 vs. Dallas Cowboys",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88224/packers-injury-report-green-bay-rules-out-4-vs-dallas-cowboys",
-        "publishedAt": "2026-10-16T16:35:31-04:00",
-        "summary": "The Green Bay Packers ruled out defensive lineman Jonathan Ford (calf), defensive lineman Javon Hargrave (Achilles), receiver Skyy Moore (ankle) and cornerback Benjamin St-Juste (hamstring) on Friday. None of these players will suit up against the Dallas Cowboys on Sunday, and the Packers will likely need to make roster moves to backfill for these injured [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296336910.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }

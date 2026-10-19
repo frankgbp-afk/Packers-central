@@ -185,11 +185,11 @@
       "network": "NBC",
       "venue": "Lambeau Field",
       "kickoff": "2026-10-19T00:20:00.000Z",
-      "status": "live",
-      "statusDetail": "15:00 - 4th",
-      "packersScore": null,
-      "opponentScore": null,
-      "result": null,
+      "status": "final",
+      "statusDetail": "Final",
+      "packersScore": 23,
+      "opponentScore": 13,
+      "result": "W",
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873007"
     },
     {
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-19T02:48:41.376Z"
+  "updatedAt": "2026-10-19T04:50:42.129Z"
 }
