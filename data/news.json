@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-19T20:37:26.253Z",
+  "updatedAt": "2026-10-20T00:25:08.856Z",
   "sources": {
     "packers": [
+      {
+        "title": "Lambeau Field set to host annual 'Spooktacular' event Saturday",
+        "url": "https://www.packers.com/news/lambeau-field-set-to-host-annual-spooktacular-event-saturday-oct-24-2026",
+        "publishedAt": "Mon, 19 Oct 2026 22:22:40 GMT",
+        "summary": "Event will feature interactive stage entertainment and activities for children",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xygznrflwj8emjdupmq6.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers RB Josh Jacobs to get full week of practice, game status TBD",
+        "url": "https://www.packers.com/news/packers-rb-josh-jacobs-to-get-full-week-of-practice-game-status-tbd-oct-19-2026",
+        "publishedAt": "Mon, 19 Oct 2026 21:22:38 GMT",
+        "summary": "But edge rusher Micah Parsons isn’t returning to field yet",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/d0wm78y1nygdotfsd1dn.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Long TD drive to open game made history for Packers",
         "url": "https://www.packers.com/news/long-td-drive-to-open-game-made-history-for-packers-week-6-2026",
@@ -91,27 +109,90 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/iqdgn1yovbguurci83xs.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Live Chat: Packers vs. Cowboys | Week 6",
-        "url": "https://www.packers.com/news/live-chat-packers-vs-cowboys-week-6-2026",
-        "publishedAt": "Sun, 18 Oct 2026 20:00:00 GMT",
-        "summary": "Follow the Green Bay Packers vs. Dallas Cowboys game with live updates from Lambeau Field.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/suyemmm2cafmajaijc5w.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers vs. Cowboys | How to watch, stream & listen | Week 6",
-        "url": "https://www.packers.com/news/packers-vs-cowboys-how-to-watch-stream-listen-week-6-2026",
-        "publishedAt": "Sun, 18 Oct 2026 14:00:00 GMT",
-        "summary": "Green Bay Packers vs. Dallas Cowboys channel listing, radio & streaming options",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/brboecu2muqttlmzmkaa.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
+      {
+        "title": "Stephen Jones says Brian Schottenheimer has full support of Cowboys' ownership",
+        "url": "https://www.espn.com/nfl/story/_/id/50222284/brian-schottenheimer-full-support-cowboys-ownership",
+        "publishedAt": "2026-10-20T00:19:07Z",
+        "summary": "Brian Schottenheimer has the full support of Cowboys ownership, Stephen Jones said Monday on 105.3 The Fan in Dallas.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733157_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers WR Mike Evans reps Bay Area with Curry jersey, leads NFL Week 6's arrivals",
+        "url": "https://www.espn.com/nfl/story/_/id/50193542/nfl-week-6-fashionable-arrivals",
+        "publishedAt": "2026-10-19T23:19:59Z",
+        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733150_608x342_16-9.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football buzz: How Davante Adams injury affects Rams",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-19T22:03:38Z",
+        "summary": "What should fantasy managers do with Davante Adams set to miss the next 6-10 weeks?",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733109_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Packers' Josh Jacobs to practice Wednesday, may play Sunday",
+        "url": "https://www.espn.com/nfl/story/_/id/50221818/packers-josh-jacobs-practice-wednesday-play-sunday",
+        "publishedAt": "2026-10-20T00:23:59Z",
+        "summary": "Running back Josh Jacobs missed Green Bay's first six games while on the NFL's commissioner exempt list.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733122_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Dan Orlovsky: Rams have to add another WR after losing Davante Adams",
+        "url": "https://www.espn.com/video/clip/_/id/50221678/rams-add-another-wr-losing-davante-adams",
+        "publishedAt": "2026-10-19T21:41:35Z",
+        "summary": "Dan Orlovsky: Rams have to add another WR after losing Davante Adams",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1019/ss_20261019_172302239_37031751054/ss_20261019_172302239_37031751054.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rams suffer several major injuries, including to WR Adams, who's out 6-10 weeks",
+        "url": "https://www.espn.com/nfl/story/_/id/50221426/rams-lose-star-wr-davante-adams-6-10-weeks-mcvay-says",
+        "publishedAt": "2026-10-19T23:53:56Z",
+        "summary": "Rams wideout Davante Adams ruptured a hamstring in Sunday's loss to the Cardinals, and he will be sidelined for six to 10 weeks, coach Sean McVay announced.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733108_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots place WR Romeo Doubs (shoulder) on IR",
+        "url": "https://www.espn.com/nfl/story/_/id/50221307/patriots-place-romeo-doubs-shoulder-ir",
+        "publishedAt": "2026-10-19T21:16:48Z",
+        "summary": "The Patriots have placed Romeo Doubs on IR.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732538_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "John Harbaugh: Giants 'honing in on' QB decision for Sunday vs. Texans",
+        "url": "https://www.espn.com/nfl/story/_/id/50221241/john-harbaugh-giants-honing-qb-decision-week-7",
+        "publishedAt": "2026-10-19T21:23:58Z",
+        "summary": "The Giants are \"honing in on\" a decision on who will start at quarterback for Sunday's game against the Texans, coach John Harbaugh said Monday.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733096_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Commanders place starting RB Jacory Croskey-Merritt (groin) on IR",
+        "url": "https://www.espn.com/nfl/story/_/id/50221053/commanders-place-rb-jacory-croskey-merritt-groin-ir",
+        "publishedAt": "2026-10-19T20:50:47Z",
+        "summary": "The Washington Commanders placed running back Jacory Croskey-Merritt on injured reserve, sidelining their starting back for at least four games.",
+        "image": "https://a.espncdn.com/photo/2026/1008/r1727688_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
       {
         "title": "Texans WR Tank Dell to play Sunday in 1st game since major 2024 knee injury",
         "url": "https://www.espn.com/nfl/story/_/id/50220990/texans-tank-dell-play-sunday-1st-game-knee-injury",
@@ -133,95 +214,41 @@
       {
         "title": "Rams place kicker Blake Grupe on IR due to knee injury",
         "url": "https://www.espn.com/nfl/story/_/id/50220866/rams-place-kicker-blake-grupe-ir-due-knee-injury",
-        "publishedAt": "2026-10-19T20:08:08Z",
+        "publishedAt": "2026-10-19T21:18:20Z",
         "summary": "The Rams have placed kicker Blake Grupe on injured reserve after he injured his right knee in the team's Week 6 loss to the Cardinals.",
         "image": "https://a.espncdn.com/photo/2026/1018/r1732662_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Colts to stick with Daniel Jones at quarterback vs. Vikings",
-        "url": "https://www.espn.com/nfl/story/_/id/50220744/colts-stick-daniel-jones-quarterback-vs-vikings",
-        "publishedAt": "2026-10-19T20:12:07Z",
-        "summary": "Daniel Jones will remain the Indianapolis Colts' starting quarterback when they travel to play the Minnesota Vikings in Week 7, coach Shane Steichen said.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732628_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL suspends Bills' C.J. Gardner-Johnson for one game for spitting",
-        "url": "https://www.espn.com/nfl/story/_/id/50220546/nfl-suspends-cj-gardner-johnson-one-game-spitting",
-        "publishedAt": "2026-10-19T19:50:20Z",
-        "summary": "The NFL has suspended Bills safety C.J. Gardner-Johnson for one game after cameras captured him spitting toward Raiders players on Sunday.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732718_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles QB Jalen Hurts' blood clot diagnosis explained",
-        "url": "https://www.espn.com/nfl/story/_/id/50219637/jalen-hurts-eagles-blood-clot",
-        "publishedAt": "2026-10-19T19:50:20Z",
-        "summary": "ESPN spoke with a medical professional for a better understanding of causes, treatments and outlook for those with blood clots.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732959_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Can the Saints carry their winning momentum into Paris?",
-        "url": "https://www.espn.com/nfl/story/_/id/50220069/can-new-orleans-saints-carry-winning-momentum-paris",
-        "publishedAt": "2026-10-19T18:56:13Z",
-        "summary": "After New Orleans snapped its three-game losing streak, the team's focus quickly turns to Week 7 in France.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1733014_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Mayfield to practice this week but Buccaneers to prep as if Daniels will play",
-        "url": "https://www.espn.com/nfl/story/_/id/50219961/mayfield-practice-buccaneers-prep-daniels-play",
-        "publishedAt": "2026-10-19T18:14:12Z",
-        "summary": "Baker Mayfield will return to practice Wednesday for the Buccaneers, but the team will prepare as if Jalon Daniels will start at QB, coach Todd Bowles said.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732993_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "What does firing GM Ballard mean for Colts coach Steichen?",
-        "url": "https://www.espn.com/nfl/story/_/id/50218623/colts-fire-gm-chris-ballard-shane-steichen",
-        "publishedAt": "2026-10-19T20:10:33Z",
-        "summary": "Carlie Irsay-Gordon made a big change Monday, but is it the first of many as the trade deadline nears?",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732938_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sean Payton: Broncos not considering benching Bo Nix amid offense's struggles",
-        "url": "https://www.espn.com/nfl/story/_/id/50219761/broncos-not-considering-benching-qb-bo-nix-sean-payton-says",
-        "publishedAt": "2026-10-19T18:22:21Z",
-        "summary": "The Broncos are not considering benching quarterback Bo Nix as the team struggles on offense, coach Sean Payton said Monday.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732982_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets' Aaron Glenn backs Frank Reich despite team's struggles to score points",
-        "url": "https://www.espn.com/nfl/story/_/id/50219601/jets-aaron-glenn-backs-frank-reich-amid-scoring-struggles",
-        "publishedAt": "2026-10-19T18:01:07Z",
-        "summary": "Jets coach Aaron Glenn backed offensive coordinator Frank Reich on Monday despite his team's struggles on offense this season.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732967_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Pat McAfee reflects on state of Colts after firing of GM",
-        "url": "https://www.espn.com/video/clip/_/id/50219420/pat-mcafee-reflects-state-colts-firing-gm",
-        "publishedAt": "2026-10-19T16:54:32Z",
-        "summary": "Pat McAfee reflects on state of Colts after firing of GM",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1019/ss_20261019_123654904_3702938772/ss_20261019_123654904_3702938772.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Josh Jacobs will practice with the Packers this week; Micah Parsons won’t",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88386/josh-jacobs-will-practice-with-the-packers-this-week-micah-parsons-wont",
+        "publishedAt": "2026-10-19T18:41:23-04:00",
+        "summary": "Green Bay Packers head coach Matt LaFleur announced during his Monday press conference that the team will have running back Josh Jacobs in practice this week, but that edge defender Micah Parsons will not be practicing, another sign that Parsons has yet to be medically cleared by the training staff. According to LaFleur, Jacobs has [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2292183128.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers work out former 1st-round pick Mazi Smith",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88387/green-bay-packers-work-out-former-1st-round-pick-mazi-smith",
+        "publishedAt": "2026-10-19T17:36:54-04:00",
+        "summary": "According to the NFL’s transaction wire, the Green Bay Packers worked out defensive lineman Mazi Smith on Monday. Smith is a former first-round pick who was taken 26th overall by the Dallas Cowboys back in the 2023 draft and has played in 43 games (20 starts) in the NFL, including one game for the Miami [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2242458093.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers By The Numbers: Stats from the Week 6 win over the Cowboys",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88314/packers-by-the-numbers-stats-from-the-week-6-win-over-the-cowboys",
+        "publishedAt": "2026-10-19T16:29:27-04:00",
+        "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers’ most recent game, courtesy of SumerSports. Today we’re looking at the 23-13 victory over the Dallas Cowboys in Week 6. Offense The Packers have switching up their personnel groupings quite a bit on a game-by-game basis, which [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300401898.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "How bad is Marshawn Lloyd, historically speaking?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88354/how-bad-is-marshawn-lloyd-historically-speaking",
@@ -282,33 +309,6 @@
         "publishedAt": "2026-10-18T23:52:58-04:00",
         "summary": "The Dallas Cowboys came into Lambeau Field on Sunday Night Football with a high-powered offense. Dak Prescott and company led the offense in many drive-based statistics, including the percentage of offensive drives ending in a score, plays per drive, and yards per drive. Against Jonathan Gannon’s aggressive Green Bay Packers defense, the Cowboys managed just [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300881862.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Cowboys Week 6 Game Discussion",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88167/packers-vs-cowboys-week-6-game-discussion",
-        "publishedAt": "2026-10-18T19:19:27-04:00",
-        "summary": "Sunday Night Football is here. The Green Bay Packers’ first of two SNF games in the 2026 season has arrived as they host the Dallas Cowboys at Lambeau Field tonight. Will this game live up to last year’s prime time matchup, which saw the teams battle to a 40-40 tie at AT&#38;T Stadium? Join us [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2228255207.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers announce Week 6 inactives vs. the Cowboys",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88292/packers-announce-week-6-inactives-vs-the-cowboys",
-        "publishedAt": "2026-10-18T18:59:59-04:00",
-        "summary": "The Green Bay Packers announced on Sunday that, along with cornerback Benjamin St-Juste, who was already ruled out with an injury, the team has ruled out three offensive linemen against the Dallas Cowboys in Week 6: Jager Burton, Aaron Banks and Donovan Jennings. These moves were expected, as the Packers needed to scratch three more [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300546343.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Cowboys, Week 6: Game time, how to watch, odds, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88161/packers-vs-cowboys-week-6-game-time-how-to-watch-odds-more",
-        "publishedAt": "2026-10-18T06:00:00-04:00",
-        "summary": "Get ready to wait all day for Sunday night. The Green Bay Packers host the Dallas Cowboys on Sunday Night Football this evening in a game that will take place about a year and three weeks after the two teams met in prime time on NBC for their most recent matchup. That game was a [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-1441270768.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
