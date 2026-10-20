@@ -81,9 +81,17 @@
   ],
   "articles": [
     {
+      "title": "Lions getting key contributors back",
+      "url": "https://www.espn.com/video/clip/_/id/50230994/lions-getting-key-contributors-back",
+      "publishedAt": "2026-10-20T20:07:14Z",
+      "summary": "Eric Woodyard breaks down the Lions' plans for Brian Branch and Cade Mays.",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_Lions/dm_261020_Lions.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
       "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "publishedAt": "2026-10-20T18:45:30Z",
+      "publishedAt": "2026-10-20T19:28:49Z",
       "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
       "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
       "source": "ESPN"
@@ -119,15 +127,7 @@
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
       "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
       "source": "ESPN"
-    },
-    {
-      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "publishedAt": "2026-10-19T10:00:01Z",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-20T19:20:40.587Z"
+  "updatedAt": "2026-10-20T21:58:36.681Z"
 }
