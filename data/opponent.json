@@ -23,7 +23,7 @@
       "scoringOffense": 32.8,
       "scoringDefense": 29.6,
       "offenseRank": 2,
-      "defenseRank": 29
+      "defenseRank": 30
     },
     "packers": {
       "id": "9",
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-19T23:59:59.748Z"
+  "updatedAt": "2026-10-20T04:42:21.125Z"
 }
