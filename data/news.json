@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-21T11:58:58.781Z",
+  "updatedAt": "2026-10-21T17:19:04.183Z",
   "sources": {
     "packers": [
+      {
+        "title": "Mike's Mid-Week Chat | Oct. 21, 2026",
+        "url": "https://www.packers.com/news/mike-s-mid-week-chat-oct-21-2026",
+        "publishedAt": "Wed, 21 Oct 2026 18:00:00 GMT",
+        "summary": "Editor Mike Spofford will be answering fan questions on Wednesday, Oct. 21, at 1 p.m. CT.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/akdclmhp9pbskojiglaj.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: There's a huge team component",
+        "url": "https://www.packers.com/news/inbox-there-s-a-huge-team-component-oct-21-2026",
+        "publishedAt": "Wed, 21 Oct 2026 13:30:00 GMT",
+        "summary": "Pass protection will be paramount in this game",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yyizdoyheudek9qbrah7.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Lions | How to watch, stream & listen | Week 7",
         "url": "https://www.packers.com/news/packers-vs-lions-how-to-watch-stream-listen-week-7-2026",
@@ -91,137 +109,128 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/gy7zsefvksx9styg9qgz.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: He'll be better for what happened",
-        "url": "https://www.packers.com/news/inbox-he-ll-be-better-for-what-happened-oct-19-2026",
-        "publishedAt": "Mon, 19 Oct 2026 15:30:00 GMT",
-        "summary": "It’s a tough position to play",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/y3jxh0kvj5kyk2lz8s95.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Titletown offering savings on skating and tubing daily and season passes through presale",
-        "url": "https://www.packers.com/news/titletown-offering-savings-on-skating-and-tubing-daily-and-season-passes-through-presale-2026",
-        "publishedAt": "Mon, 19 Oct 2026 15:25:00 GMT",
-        "summary": "Presale open through the end of October; prices will increase beginning Nov. 1",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ynpo6szayouogxphbkug.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "NFL Week 7 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-        "url": "https://www.espn.com/nfl/story/_/id/50228657/week-7-buzz-fantasy-predictions-graziano-fowler-2026",
-        "publishedAt": "2026-10-21T11:39:25Z",
-        "summary": "Will the Seahawks stick with Sam Darnold past this season? Could Vita Vea get trade interest? What's next for the NFC East teams? And could the Colts make more changes?",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1733851_608x342_16-9.jpg",
+        "title": "Goodell says NFL welcomes investigation into Eagles QB Hurts' medical care",
+        "url": "https://www.espn.com/nfl/story/_/id/50239029/roger-goodell-nfl-welcomes-probe-hurts-medical-care",
+        "publishedAt": "2026-10-21T17:13:43Z",
+        "summary": "NFL commissioner Roger Goodell said Wednesday that the league welcomes an investigation into the Eagles' handling of Jalen Hurts' blood clots.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1733985_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2027 NFL mock draft: Yates' early predictions for top 10 picks, QB landing spots",
-        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50229467/2027-nfl-mock-draft-yates-top-10-picks-predictions-qbs",
-        "publishedAt": "2026-10-21T10:25:44Z",
-        "summary": "We're two months into the college football season, and Field Yates is projecting which prospects could go in the top 10 picks of the 2027 NFL draft -- including three QBs.",
-        "image": "https://a.espncdn.com/photo/2026/1020/r1733666_608x342_16-9.jpg",
+        "title": "Jordan Rodgers: J.J. McCarthy gives Giants the best opportunity to win",
+        "url": "https://www.espn.com/video/clip/_/id/50239027/jj-mccarthy-gives-giants-best-opportunity-win",
+        "publishedAt": "2026-10-21T16:47:04Z",
+        "summary": "Jordan Rodgers: J.J. McCarthy gives Giants the best opportunity to win",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_122833809_3704677755/ss_20261021_122833809_3704677755.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cowboys' season looks bleak but schedule offers some hope",
-        "url": "https://www.espn.com/nfl/story/_/id/50229188/dallas-cowboys-dak-prescott-season-looks-bleak",
-        "publishedAt": "2026-10-21T10:00:05Z",
-        "summary": "Cowboys players and coaches are focused on a stretch of games versus teams that are struggling just like them.",
-        "image": "https://a.espncdn.com/photo/2026/1020/r1733668_608x342_16-9.jpg",
+        "title": "Why the Bills have been historically good, and bad, through six weeks",
+        "url": "https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye",
+        "publishedAt": "2026-10-21T16:43:11Z",
+        "summary": "As Buffalo heads into its Week 7 bye, quarterback Josh Allen and the offense have thrived, while the defense has not.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1733966_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "The case for (and against) the Colts keeping Shane Steichen",
-        "url": "https://www.espn.com/nfl/story/_/id/50229437/colts-shane-steichen-daniel-jones-anthony-richardson",
-        "publishedAt": "2026-10-21T10:00:00Z",
-        "summary": "With GM Chris Ballard gone, can Steichen avoid following him out the door?",
-        "image": "https://a.espncdn.com/photo/2026/1020/r1733458_1296x729_16-9.jpg",
+        "title": "Daniel Dopp: Isaiah Likely can be started with confidence week in and week out",
+        "url": "https://www.espn.com/video/clip/_/id/50238754/isaiah-likely-started-confidence-week-week-out",
+        "publishedAt": "2026-10-21T16:00:58Z",
+        "summary": "Daniel Dopp: Isaiah Likely can be started with confidence week in and week out",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_ffp_likely/dm_261021_ffp_likely.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
-        "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded",
-        "publishedAt": "2026-10-21T01:17:48Z",
-        "summary": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing reporters in a media availability.",
-        "image": "https://a.espncdn.com/photo/2026/1020/r1733690_600x600_1-1.jpg",
+        "title": "Source: Giants turning to J.J. McCarthy as QB1 this week against Texans",
+        "url": "https://www.espn.com/nfl/story/_/id/50238746/giants-start-jj-mccarthy-qb-week",
+        "publishedAt": "2026-10-21T16:48:42Z",
+        "summary": "The Giants plan to start J.J. McCarthy at quarterback this week against the Houston Texans, a source told ESPN's Jeremy Fowler on Wednesday.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1733976_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
-        "url": "https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries",
-        "publishedAt": "2026-10-21T10:34:25Z",
-        "summary": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
-        "image": "https://a.espncdn.com/photo/2026/0916/r1717334_600x400_3-2.jpg",
+        "title": "Daniel Dopp: Jared Goff locked in as a top-10 fantasy QB in Week 7",
+        "url": "https://www.espn.com/video/clip/_/id/50238711/jared-goff-locked-top-10-fantasy-qb-week-7",
+        "publishedAt": "2026-10-21T15:53:59Z",
+        "summary": "Daniel Dopp: Jared Goff locked in as a top-10 fantasy QB in Week 7",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_fantasy_goff/dm_261021_fantasy_goff.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-        "url": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football",
-        "publishedAt": "2026-10-20T21:45:43Z",
-        "summary": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg",
+        "title": "Daniel Dopp confident in Jonathan Taylor despite tough matchup in Week 7",
+        "url": "https://www.espn.com/video/clip/_/id/50238538/daniel-dopp-confident-jonathan-taylor-tough-matchup-week-7",
+        "publishedAt": "2026-10-21T15:46:19Z",
+        "summary": "Daniel Dopp confident in Jonathan Taylor despite tough matchup in Week 7",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_FFP_TAYLOR706/dm_261021_FFP_TAYLOR706.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-        "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play",
-        "publishedAt": "2026-10-20T22:12:12Z",
-        "summary": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-        "image": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg",
+        "title": "Fantasy football buzz: Are TEs more productive on National Tight Ends Day?",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-21T15:52:01Z",
+        "summary": "Does it seem like tight ends score more fantasy points on their holiday? We tell you whether it's real or not.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1733968_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Rams signing free agent kicker Brandon McManus",
-        "url": "https://www.espn.com/nfl/story/_/id/50231705/sources-rams-signing-free-agent-kicker-brandon-mcmanus",
-        "publishedAt": "2026-10-21T10:28:49Z",
-        "summary": "The Rams, after releasing Harrison Mevis and an injury to Blake Grupe, are signing free agent kicker Brandon McManus, sources told NFL Network.",
-        "image": "https://a.espncdn.com/photo/2024/1016/r1401561_1296x729_16-9.jpg",
+        "title": "Are the Bears genuine Super Bowl contenders?",
+        "url": "https://www.espn.com/video/clip/_/id/50238528/are-bears-genuine-super-bowl-contenders",
+        "publishedAt": "2026-10-21T15:47:11Z",
+        "summary": "Are the Bears genuine Super Bowl contenders?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_113713086_3704636702/ss_20261021_113713086_3704636702.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cam Heyward details Steelers' preparation for Paris game",
-        "url": "https://www.espn.com/video/clip/_/id/50231436/cam-heyward-details-steelers-preparation-paris-game",
-        "publishedAt": "2026-10-20T21:00:58Z",
-        "summary": "Cam Heyward details Steelers' preparation for Paris game",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/ss_20261020_163721696_3703870/ss_20261020_163721696_3703870.jpg",
+        "title": "Titans' Robert Saleh defends Jordan Elliott: Gun incident was not 'criminal act'",
+        "url": "https://www.espn.com/nfl/story/_/id/50238315/source-jordan-elliott-attempted-retrieve-gun-car",
+        "publishedAt": "2026-10-21T17:10:41Z",
+        "summary": "Titans coach Robert Saleh defended Jordan Elliott's character and said that last week's gun-related incident was \"a call for help more than a criminal act.\"",
+        "image": "https://a.espncdn.com/photo/2026/1020/r1733401_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
-        "url": "https://www.espn.com/nfl/story/_/id/50230816/reports-nfl-punish-eagles-jalen-hurts-situation",
-        "publishedAt": "2026-10-21T01:14:22Z",
-        "summary": "The NFL will not punish the Eagles for how they handled the process surrounding quarterback Jalen Hurts being cleared to play Week 5 against the Jaguars, according to multiple reports.",
-        "image": "https://a.espncdn.com/photo/2026/1011/r1729145_1296x729_16-9.jpg",
+        "title": "Dopp, Clay face off on Nabers vs. Lamb as a better fantasy option in Week 7",
+        "url": "https://www.espn.com/video/clip/_/id/50238190/dopp-clay-face-nabers-vs-lamb-better-fantasy-option-week-7",
+        "publishedAt": "2026-10-21T15:15:49Z",
+        "summary": "Dopp, Clay face off on Nabers vs. Lamb as a better fantasy option in Week 7",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_105721295_3704610/ss_20261021_105721295_3704610.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL to increase security in Paris for Steelers-Saints game",
-        "url": "https://www.espn.com/nfl/story/_/id/50230791/nfl-increase-security-paris-steelers-saints-game",
-        "publishedAt": "2026-10-20T20:41:33Z",
-        "summary": "The NFL said security will be heightened for the game in Paris between the Steelers and Saints after civil unrest engulfed the French capital last weekend.",
-        "image": "https://a.espncdn.com/photo/2025/0116/r1439249_1296x729_16-9.jpg",
+        "title": "Is Jonathan Taylor or Javonte Williams a better fantasy play in Week 7?",
+        "url": "https://www.espn.com/video/clip/_/id/50238185/is-jonathan-taylor-javonte-williams-better-fantasy-play-week-7",
+        "publishedAt": "2026-10-21T15:09:16Z",
+        "summary": "Is Jonathan Taylor or Javonte Williams a better fantasy play in Week 7?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_105552446_3704609/ss_20261021_105552446_3704609.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers vs. Lions Week 7 TV Broadcast Map",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88478/packers-vs-lions-week-7-tv-broadcast-map",
+        "publishedAt": "2026-10-21T09:45:00-04:00",
+        "summary": "When the Green Bay Packers and Detroit Lions meet up for their first of two 2026 regular season matchups on Sunday afternoon, nearly every media market in the United States will get to see the game on local television. These two teams have combined for five playoff appearances in the past three years, and both [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2248316194.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Jordan Love’s interception against the Cowboys wasn’t his fault",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88464/jordan-loves-interception-against-the-cowboys-wasnt-his-fault",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-10-19T17:36:54-04:00",
         "summary": "According to the NFL’s transaction wire, the Green Bay Packers worked out defensive lineman Mazi Smith on Monday. Smith is a former first-round pick who was taken 26th overall by the Dallas Cowboys back in the 2023 draft and has played in 43 games (20 starts) in the NFL, including one game for the Miami [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2242458093.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers By The Numbers: Stats from the Week 6 win over the Cowboys",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88314/packers-by-the-numbers-stats-from-the-week-6-win-over-the-cowboys",
-        "publishedAt": "2026-10-19T16:29:27-04:00",
-        "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers’ most recent game, courtesy of SumerSports. Today we’re looking at the 23-13 victory over the Dallas Cowboys in Week 6. Offense The Packers have switching up their personnel groupings quite a bit on a game-by-game basis, which [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300401898.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
