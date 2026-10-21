@@ -1,13 +1,31 @@
 {
-  "updatedAt": "2026-10-21T17:19:04.183Z",
+  "updatedAt": "2026-10-21T21:47:53.728Z",
   "sources": {
     "packers": [
       {
-        "title": "Mike's Mid-Week Chat | Oct. 21, 2026",
-        "url": "https://www.packers.com/news/mike-s-mid-week-chat-oct-21-2026",
-        "publishedAt": "Wed, 21 Oct 2026 18:00:00 GMT",
-        "summary": "Editor Mike Spofford will be answering fan questions on Wednesday, Oct. 21, at 1 p.m. CT.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/akdclmhp9pbskojiglaj.png",
+        "title": "Derrik Maye of Peshtigo High School named Green Bay Packers High School Coach of the Week",
+        "url": "https://www.packers.com/news/derrik-maye-of-peshtigo-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-21-2026",
+        "publishedAt": "Wed, 21 Oct 2026 20:24:36 GMT",
+        "summary": "Maye has the Bulldogs ready for Level 1 of the WIAA Playoffs and is seeking their first playoff win since 2009",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/da9pbuufnezftlbs2mwi.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers-Lions Injury Report | Oct. 21, 2026",
+        "url": "https://www.packers.com/news/packers-lions-injury-report-oct-21-2026",
+        "publishedAt": "Wed, 21 Oct 2026 20:13:56 GMT",
+        "summary": "",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/vxlrj0nqn274fteub2ce.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Mike's Mid-Week Chat: How big is this division game?",
+        "url": "https://www.packers.com/news/mike-s-mid-week-chat-how-big-is-this-division-game-oct-21-2026",
+        "publishedAt": "Wed, 21 Oct 2026 19:00:00 GMT",
+        "summary": "Editor Mike Spofford answered fan questions in his live chat",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yauzh0onm4tbnyncectd.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -91,137 +109,128 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/d0wm78y1nygdotfsd1dn.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Long TD drive to open game made history for Packers",
-        "url": "https://www.packers.com/news/long-td-drive-to-open-game-made-history-for-packers-week-6-2026",
-        "publishedAt": "Mon, 19 Oct 2026 19:30:00 GMT",
-        "summary": "Last of four third-down conversions found the end zone",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/kauefa9g7la3yj675emm.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers Everywhere set to host free pep rally, presented by Thrivent in New Orleans",
-        "url": "https://www.packers.com/news/packers-everywhere-set-to-host-free-pep-rally-presented-by-thrivent-in-new-orleans-dec-5-2026",
-        "publishedAt": "Mon, 19 Oct 2026 18:19:36 GMT",
-        "summary": "Fans can pre-register for the event by signing up for Packers Pass",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/gy7zsefvksx9styg9qgz.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Goodell says NFL welcomes investigation into Eagles QB Hurts' medical care",
-        "url": "https://www.espn.com/nfl/story/_/id/50239029/roger-goodell-nfl-welcomes-probe-hurts-medical-care",
-        "publishedAt": "2026-10-21T17:13:43Z",
-        "summary": "NFL commissioner Roger Goodell said Wednesday that the league welcomes an investigation into the Eagles' handling of Jalen Hurts' blood clots.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1733985_1296x729_16-9.jpg",
+        "title": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals",
+        "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7",
+        "publishedAt": "2026-10-21T20:54:38Z",
+        "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734143_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jordan Rodgers: J.J. McCarthy gives Giants the best opportunity to win",
-        "url": "https://www.espn.com/video/clip/_/id/50239027/jj-mccarthy-gives-giants-best-opportunity-win",
-        "publishedAt": "2026-10-21T16:47:04Z",
-        "summary": "Jordan Rodgers: J.J. McCarthy gives Giants the best opportunity to win",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_122833809_3704677755/ss_20261021_122833809_3704677755.jpg",
+        "title": "Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs",
+        "url": "https://www.espn.com/nfl/story/_/id/50241322/panthers-jaelan-phillips-set-miss-week-7-game-vs-buccaneers-hamstring-injury",
+        "publishedAt": "2026-10-21T20:57:34Z",
+        "summary": "Panthers coach Dave Canales said the team is preparing to host the Buccaneers on Sunday without top outside linebacker Jaelan Phillips.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734149_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why the Bills have been historically good, and bad, through six weeks",
-        "url": "https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye",
-        "publishedAt": "2026-10-21T16:43:11Z",
-        "summary": "As Buffalo heads into its Week 7 bye, quarterback Josh Allen and the offense have thrived, while the defense has not.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1733966_608x342_16-9.jpg",
+        "title": "Bears RB Kyle Monangai (toe, thumb) out Thursday vs. Patriots",
+        "url": "https://www.espn.com/nfl/story/_/id/50240756/bears-rb-kyle-monangai-toe-thumb-thursday-vs-patriots",
+        "publishedAt": "2026-10-21T20:07:47Z",
+        "summary": "The Bears have ruled RB Kyle Monangai out for Thursday night's matchup against the Patriots with lingering toe and thumb injuries.",
+        "image": "https://a.espncdn.com/photo/2025/0509/r1490464_576x324_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Daniel Dopp: Isaiah Likely can be started with confidence week in and week out",
-        "url": "https://www.espn.com/video/clip/_/id/50238754/isaiah-likely-started-confidence-week-week-out",
-        "publishedAt": "2026-10-21T16:00:58Z",
-        "summary": "Daniel Dopp: Isaiah Likely can be started with confidence week in and week out",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_ffp_likely/dm_261021_ffp_likely.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Giants turning to J.J. McCarthy as QB1 this week against Texans",
-        "url": "https://www.espn.com/nfl/story/_/id/50238746/giants-start-jj-mccarthy-qb-week",
-        "publishedAt": "2026-10-21T16:48:42Z",
-        "summary": "The Giants plan to start J.J. McCarthy at quarterback this week against the Houston Texans, a source told ESPN's Jeremy Fowler on Wednesday.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1733976_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Daniel Dopp: Jared Goff locked in as a top-10 fantasy QB in Week 7",
-        "url": "https://www.espn.com/video/clip/_/id/50238711/jared-goff-locked-top-10-fantasy-qb-week-7",
-        "publishedAt": "2026-10-21T15:53:59Z",
-        "summary": "Daniel Dopp: Jared Goff locked in as a top-10 fantasy QB in Week 7",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_fantasy_goff/dm_261021_fantasy_goff.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Daniel Dopp confident in Jonathan Taylor despite tough matchup in Week 7",
-        "url": "https://www.espn.com/video/clip/_/id/50238538/daniel-dopp-confident-jonathan-taylor-tough-matchup-week-7",
-        "publishedAt": "2026-10-21T15:46:19Z",
-        "summary": "Daniel Dopp confident in Jonathan Taylor despite tough matchup in Week 7",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_FFP_TAYLOR706/dm_261021_FFP_TAYLOR706.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Are TEs more productive on National Tight Ends Day?",
+        "title": "Fantasy football buzz: What to expect from J.J. McCarthy in first Giants start",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-21T15:52:01Z",
-        "summary": "Does it seem like tight ends score more fantasy points on their holiday? We tell you whether it's real or not.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1733968_1296x729_16-9.jpg",
+        "publishedAt": "2026-10-21T20:39:41Z",
+        "summary": "Just a few weeks after trading for the 2024 first-rounder, the Giants will start him against the Texans.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734058_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Are the Bears genuine Super Bowl contenders?",
-        "url": "https://www.espn.com/video/clip/_/id/50238528/are-bears-genuine-super-bowl-contenders",
-        "publishedAt": "2026-10-21T15:47:11Z",
-        "summary": "Are the Bears genuine Super Bowl contenders?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_113713086_3704636702/ss_20261021_113713086_3704636702.jpg",
+        "title": "Garrett Wilson's Week 7 fantasy preview",
+        "url": "https://www.espn.com/video/clip/_/id/50240482/garrett-wilson-week-7-fantasy-preview",
+        "publishedAt": "2026-10-21T19:31:22Z",
+        "summary": "Garrett Wilson's Week 7 fantasy preview",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_152429692_3704793/ss_20261021_152429692_3704793.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Titans' Robert Saleh defends Jordan Elliott: Gun incident was not 'criminal act'",
-        "url": "https://www.espn.com/nfl/story/_/id/50238315/source-jordan-elliott-attempted-retrieve-gun-car",
-        "publishedAt": "2026-10-21T17:10:41Z",
-        "summary": "Titans coach Robert Saleh defended Jordan Elliott's character and said that last week's gun-related incident was \"a call for help more than a criminal act.\"",
-        "image": "https://a.espncdn.com/photo/2026/1020/r1733401_1296x729_16-9.jpg",
+        "title": "AJ Barner's Week 7 fantasy preview",
+        "url": "https://www.espn.com/video/clip/_/id/50240355/aj-barner-week-7-fantasy-preview",
+        "publishedAt": "2026-10-21T19:13:55Z",
+        "summary": "AJ Barner's Week 7 fantasy preview",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_151012528_3704780/ss_20261021_151012528_3704780.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Dopp, Clay face off on Nabers vs. Lamb as a better fantasy option in Week 7",
-        "url": "https://www.espn.com/video/clip/_/id/50238190/dopp-clay-face-nabers-vs-lamb-better-fantasy-option-week-7",
-        "publishedAt": "2026-10-21T15:15:49Z",
-        "summary": "Dopp, Clay face off on Nabers vs. Lamb as a better fantasy option in Week 7",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_105721295_3704610/ss_20261021_105721295_3704610.jpg",
+        "title": "Chiefs mourn Allen Bailey after former NFL player found dead at age 37",
+        "url": "https://www.espn.com/nfl/story/_/id/50240343/allen-bailey-former-nfl-player-found-dead-age-37",
+        "publishedAt": "2026-10-21T19:19:34Z",
+        "summary": "Allen Bailey, a former NFL player who spent the majority of his 10-year career with the Chiefs, has died at age 37.",
+        "image": "https://a.espncdn.com/photo/2019/0214/r501870_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Is Jonathan Taylor or Javonte Williams a better fantasy play in Week 7?",
-        "url": "https://www.espn.com/video/clip/_/id/50238185/is-jonathan-taylor-javonte-williams-better-fantasy-play-week-7",
-        "publishedAt": "2026-10-21T15:09:16Z",
-        "summary": "Is Jonathan Taylor or Javonte Williams a better fantasy play in Week 7?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_105552446_3704609/ss_20261021_105552446_3704609.jpg",
+        "title": "Raheem Morris is back in Atlanta -- and he's bringing his surging 49ers defense",
+        "url": "https://www.espn.com/nfl/story/_/id/50238009/san-francisco-49ers-raheem-morris-atlanta-falcons-return",
+        "publishedAt": "2026-10-21T19:03:26Z",
+        "summary": "Raheem Morris is returning to Atlanta for the first time since being fired as head coach. And his tenure as the 49ers' defensive coordinator is off to an amazing start.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1733921_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL survivor power rankings: Why this is the week to use Texans, Jets",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50240051/nfl-survivor-week-7-survivor-pool-strategy-advice-picks",
+        "publishedAt": "2026-10-21T19:09:19Z",
+        "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top five options for Week 7.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734038_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots' Alijah Vera-Tucker, Ben Brown ruled out vs. Bears",
+        "url": "https://www.espn.com/nfl/story/_/id/50240235/patriots-alijah-vera-tucker-ben-brown-ruled-vs-bears",
+        "publishedAt": "2026-10-21T19:56:08Z",
+        "summary": "The Patriots will be without starting guards Alijah Vera-Tucker and Ben Brown for Thursday's game against the Bears due to injuries, coach Mike Vrabel said.",
+        "image": "https://a.espncdn.com/photo/2020/0116/r653204_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "It's Drake Maye versus Caleb Williams as the New England Patriots visit the Chicago Bears",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873010",
+        "publishedAt": "2026-10-21T18:37:11Z",
+        "summary": "— Caleb Williams and Drake Maye have known each other for years. They were part of the same draft class, and they grew up going to the same football camps.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873010.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sam LaPorta not feeling contract 'love' from Lions ahead of 2027 free agency",
+        "url": "https://www.espn.com/nfl/story/_/id/50240100/sam-laporta-extension-not-feeling-love-lions",
+        "publishedAt": "2026-10-21T19:22:14Z",
+        "summary": "Tight end Sam LaPorta, who will be a free agent after the season, expressed some frustration that the Lions are \"not showing the love\" and indicated he would be OK with playing elsewhere in 2027.",
+        "image": "https://a.espncdn.com/photo/2026/1007/r1727531_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Green Bay Packers news: Rookies answering the call",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88488/green-bay-packers-news-rookies-answering-the-call",
+        "publishedAt": "2026-10-21T13:36:25-04:00",
+        "summary": "The Packers’ defense showed itself to be a bit better than just a unit that beats up on bad quarterbacks on Sunday. What, exactly, Dak Prescott is as a player at this point is open to debate and discussion, but I think most people would agree he’s still a pretty good player — better than [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300885222.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers vs. Lions Week 7 TV Broadcast Map",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88478/packers-vs-lions-week-7-tv-broadcast-map",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-10-19T18:41:23-04:00",
         "summary": "Green Bay Packers head coach Matt LaFleur announced during his Monday press conference that the team will have running back Josh Jacobs in practice this week, but that edge defender Micah Parsons will not be practicing, another sign that Parsons has yet to be medically cleared by the training staff. According to LaFleur, Jacobs has [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2292183128.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers work out former 1st-round pick Mazi Smith",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88387/green-bay-packers-work-out-former-1st-round-pick-mazi-smith",
-        "publishedAt": "2026-10-19T17:36:54-04:00",
-        "summary": "According to the NFL’s transaction wire, the Green Bay Packers worked out defensive lineman Mazi Smith on Monday. Smith is a former first-round pick who was taken 26th overall by the Dallas Cowboys back in the 2023 draft and has played in 43 games (20 starts) in the NFL, including one game for the Miami [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2242458093.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
