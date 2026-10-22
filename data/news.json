@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-21T21:47:53.728Z",
+  "updatedAt": "2026-10-22T04:58:39.741Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers RB Josh Jacobs discusses his return to the field",
+        "url": "https://www.packers.com/news/packers-rb-josh-jacobs-discusses-his-return-to-the-field-oct-21-2026",
+        "publishedAt": "Thu, 22 Oct 2026 00:22:02 GMT",
+        "summary": "Playing status for Sunday in Detroit still up in the air",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fi6lyurkxojrp3bscru6.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Derrik Maye of Peshtigo High School named Green Bay Packers High School Coach of the Week",
         "url": "https://www.packers.com/news/derrik-maye-of-peshtigo-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-21-2026",
@@ -100,128 +109,137 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xygznrflwj8emjdupmq6.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers RB Josh Jacobs to get full week of practice, game status TBD",
-        "url": "https://www.packers.com/news/packers-rb-josh-jacobs-to-get-full-week-of-practice-game-status-tbd-oct-19-2026",
-        "publishedAt": "Mon, 19 Oct 2026 21:22:38 GMT",
-        "summary": "But edge rusher Micah Parsons isn’t returning to field yet",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/d0wm78y1nygdotfsd1dn.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals",
-        "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7",
-        "publishedAt": "2026-10-21T20:54:38Z",
-        "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1734143_1296x729_16-9.jpg",
+        "title": "Will Matthew Stafford's fantasy production dip without Davante Adams?",
+        "url": "https://www.espn.com/video/clip/_/id/50244306/will-matthew-stafford-fantasy-production-dip-davante-adams",
+        "publishedAt": "2026-10-22T04:55:45Z",
+        "summary": "Will Matthew Stafford's fantasy production dip without Davante Adams?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_224330124_3705432/ss_20261021_224330124_3705432.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs",
-        "url": "https://www.espn.com/nfl/story/_/id/50241322/panthers-jaelan-phillips-set-miss-week-7-game-vs-buccaneers-hamstring-injury",
-        "publishedAt": "2026-10-21T20:57:34Z",
-        "summary": "Panthers coach Dave Canales said the team is preparing to host the Buccaneers on Sunday without top outside linebacker Jaelan Phillips.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1734149_600x400_3-2.jpg",
+        "title": "Why Tristan H. Cockcroft likes the Jets defense in Week 7",
+        "url": "https://www.espn.com/video/clip/_/id/50244017/why-tristan-h-cockcroft-likes-jets-defense-week-7",
+        "publishedAt": "2026-10-22T02:14:21Z",
+        "summary": "Why Tristan H. Cockcroft likes the Jets defense in Week 7",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_221058889_3705362/ss_20261021_221058889_3705362.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bears RB Kyle Monangai (toe, thumb) out Thursday vs. Patriots",
-        "url": "https://www.espn.com/nfl/story/_/id/50240756/bears-rb-kyle-monangai-toe-thumb-thursday-vs-patriots",
-        "publishedAt": "2026-10-21T20:07:47Z",
-        "summary": "The Bears have ruled RB Kyle Monangai out for Thursday night's matchup against the Patriots with lingering toe and thumb injuries.",
-        "image": "https://a.espncdn.com/photo/2025/0509/r1490464_576x324_16-9.jpg",
+        "title": "Report: $250K fines for Sirianni, Vrabel, Glenn temporarily on hold",
+        "url": "https://www.espn.com/nfl/story/_/id/50244013/sirianni-vrabel-glenn-fined-250k-ref-conduct",
+        "publishedAt": "2026-10-22T04:45:46Z",
+        "summary": "Nick Sirianni was fined $250,000 for conduct toward officials, a source said, confirming an SI report that noted Mike Vrabel and Aaron Glenn were similarly fined.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730799_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: What to expect from J.J. McCarthy in first Giants start",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-21T20:39:41Z",
-        "summary": "Just a few weeks after trading for the 2024 first-rounder, the Giants will start him against the Texans.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1734058_1296x729_16-9.jpg",
+        "title": "Why fantasy managers should start Bucs' Josiah Trotter and Jacob Parrish in IDP leagues",
+        "url": "https://www.espn.com/video/clip/_/id/50243816/why-bucs-josiah-trotter-jacob-parrish-start-idp-leagues",
+        "publishedAt": "2026-10-22T01:59:47Z",
+        "summary": "Why Bucs' Josiah Trotter and Jacob Parrish should start in IDP leagues",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_214510034_3705308/ss_20261021_214510034_3705308.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Garrett Wilson's Week 7 fantasy preview",
-        "url": "https://www.espn.com/video/clip/_/id/50240482/garrett-wilson-week-7-fantasy-preview",
-        "publishedAt": "2026-10-21T19:31:22Z",
-        "summary": "Garrett Wilson's Week 7 fantasy preview",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_152429692_3704793/ss_20261021_152429692_3704793.jpg",
+        "title": "Senators fans booing Tkachuk reminiscent of previous unpleasant sports returns",
+        "url": "https://www.espn.com/nhl/story/_/id/28118392/athletes-faced-wrath-jilted-fans",
+        "publishedAt": "2026-10-22T00:14:15Z",
+        "summary": "Brady Tkachuk isn't the first notable sports figure to be met with jeers by fans of his prior team.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734174_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "AJ Barner's Week 7 fantasy preview",
-        "url": "https://www.espn.com/video/clip/_/id/50240355/aj-barner-week-7-fantasy-preview",
-        "publishedAt": "2026-10-21T19:13:55Z",
-        "summary": "AJ Barner's Week 7 fantasy preview",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/ss_20261021_151012528_3704780/ss_20261021_151012528_3704780.jpg",
+        "title": "Bucs QB Jalon Daniels swaps jerseys with idol, Steelers QB Aaron Rodgers",
+        "url": "https://www.espn.com/nfl/story/_/id/50242155/bucs-jalon-daniels-jersey-idol-steelers-aaron-rodgers",
+        "publishedAt": "2026-10-21T23:52:18Z",
+        "summary": "Following Pittsburgh's 26-19 overtime victory, Jalon Daniels left with a keepsake from his idol, Aaron Rodgers.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734243_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Chiefs mourn Allen Bailey after former NFL player found dead at age 37",
-        "url": "https://www.espn.com/nfl/story/_/id/50240343/allen-bailey-former-nfl-player-found-dead-age-37",
-        "publishedAt": "2026-10-21T19:19:34Z",
-        "summary": "Allen Bailey, a former NFL player who spent the majority of his 10-year career with the Chiefs, has died at age 37.",
-        "image": "https://a.espncdn.com/photo/2019/0214/r501870_1296x729_16-9.jpg",
+        "title": "Packers' Josh Jacobs says he is trying to learn from 'mistake,' move forward",
+        "url": "https://www.espn.com/nfl/story/_/id/50242627/green-bay-packers-josh-jacobs-first-comments-arrest",
+        "publishedAt": "2026-10-22T00:55:35Z",
+        "summary": "Josh Jacobs, in his first comments since his arrest in May following an incident with a woman at his home, said he is trying to move forward from the \"mistake.\"",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733122_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Raheem Morris is back in Atlanta -- and he's bringing his surging 49ers defense",
-        "url": "https://www.espn.com/nfl/story/_/id/50238009/san-francisco-49ers-raheem-morris-atlanta-falcons-return",
-        "publishedAt": "2026-10-21T19:03:26Z",
-        "summary": "Raheem Morris is returning to Atlanta for the first time since being fired as head coach. And his tenure as the 49ers' defensive coordinator is off to an amazing start.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1733921_608x342_16-9.jpg",
+        "title": "Cornell Green, 5-time Pro Bowl DB on Cowboys' Doomsday Defense, dies at 86",
+        "url": "https://www.espn.com/nfl/story/_/id/50242602/cornell-green-five-pro-bowl-db-cowboys-dies-86",
+        "publishedAt": "2026-10-22T01:41:38Z",
+        "summary": "Cornell Green, who never missed a game in 13 seasons while playing for the Cowboys from 1962-74, died at age 86.",
+        "image": "https://a.espncdn.com/photo/2026/1022/r1734262_1296x1296_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL survivor power rankings: Why this is the week to use Texans, Jets",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50240051/nfl-survivor-week-7-survivor-pool-strategy-advice-picks",
-        "publishedAt": "2026-10-21T19:09:19Z",
-        "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top five options for Week 7.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1734038_1296x729_16-9.jpg",
+        "title": "Kansas City Chiefs WR Xavier Worthy thriving in expanded role as Seahawks loom",
+        "url": "https://www.espn.com/nfl/story/_/id/50241533/chiefs-wr-xavier-worthy-expanded-role-offense",
+        "publishedAt": "2026-10-22T00:03:44Z",
+        "summary": "The Chiefs will likely need similar improved play -- or even better -- from Worthy in Sunday's showdown vs. Seattle.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734229_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Patriots' Alijah Vera-Tucker, Ben Brown ruled out vs. Bears",
-        "url": "https://www.espn.com/nfl/story/_/id/50240235/patriots-alijah-vera-tucker-ben-brown-ruled-vs-bears",
-        "publishedAt": "2026-10-21T19:56:08Z",
-        "summary": "The Patriots will be without starting guards Alijah Vera-Tucker and Ben Brown for Thursday's game against the Bears due to injuries, coach Mike Vrabel said.",
-        "image": "https://a.espncdn.com/photo/2020/0116/r653204_1296x729_16-9.jpg",
+        "title": "Broncos OLB Jonathon Cooper on absence due to arrests: 'No excuses'",
+        "url": "https://www.espn.com/nfl/story/_/id/50242318/broncos-olb-cooper-absence-due-arrests-no-excuses",
+        "publishedAt": "2026-10-22T00:14:12Z",
+        "summary": "Broncos OLB Jonathon Cooper, now off the exempt list following two arrests on domestic violence charges in June, said he holds himself accountable.",
+        "image": "https://a.espncdn.com/photo/2026/0608/r1669833_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "It's Drake Maye versus Caleb Williams as the New England Patriots visit the Chicago Bears",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873010",
-        "publishedAt": "2026-10-21T18:37:11Z",
-        "summary": "— Caleb Williams and Drake Maye have known each other for years. They were part of the same draft class, and they grew up going to the same football camps.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873010.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Texans' Tank Dell says he won't fear being hit in return Sunday against Giants",
+        "url": "https://www.espn.com/nfl/story/_/id/50242240/texans-tank-dell-fear-being-hit-sunday-giants",
+        "publishedAt": "2026-10-21T23:17:11Z",
+        "summary": "Texans WR Tank Dell said he is \"ready to get tackled\" on Sunday when he returns for his first game since suffering a gruesome knee injury in December 2024.",
+        "image": "https://a.espncdn.com/photo/2026/0720/r1691855_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sam LaPorta not feeling contract 'love' from Lions ahead of 2027 free agency",
-        "url": "https://www.espn.com/nfl/story/_/id/50240100/sam-laporta-extension-not-feeling-love-lions",
-        "publishedAt": "2026-10-21T19:22:14Z",
-        "summary": "Tight end Sam LaPorta, who will be a free agent after the season, expressed some frustration that the Lions are \"not showing the love\" and indicated he would be OK with playing elsewhere in 2027.",
-        "image": "https://a.espncdn.com/photo/2026/1007/r1727531_1296x729_16-9.jpg",
+        "title": "2027 NFL draft rankings: Jordan Reid's top 50 prospects, scouting reports",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50068479/2027-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
+        "publishedAt": "2026-10-21T22:59:15Z",
+        "summary": "Jordan Reid unveils his debut rankings for the 2027 NFL draft class with 50 players -- including six quarterbacks and an elite wide receiver prospect.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734169_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Matt LaFleur, Josh Jacobs speak after running back’s reinstatement",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88504/matt-lafleur-josh-jacobs-speak-after-running-backs-reinstatement",
+        "publishedAt": "2026-10-21T18:35:32-04:00",
+        "summary": "Wednesday marked the first day that Green Bay Packers running back Josh Jacobs was able to practice with the Packers since training camp, following his placement on the NFL’s commissioner exempt list for a domestic violence incident that led to Jacobs pleading no contest to charges of battery and criminal damage to property. Jacobs still [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280741287.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Injury Report: Jordan Love has a back injury, but it’s not serious",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88500/packers-injury-report-jordan-love-has-a-back-injury-but-its-not-serious",
+        "publishedAt": "2026-10-21T17:52:22-04:00",
+        "summary": "The Green Bay Packers held a walkthrough on Wednesday, so they didn’t have a full practice by any means, but the only player who was estimated to be a non-participant on their injury report today was receiver Bo Melton (back), who was able to finish the game in Week 6 against the Dallas Cowboys. The [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300395598.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers news: Rookies answering the call",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88488/green-bay-packers-news-rookies-answering-the-call",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-20T13:01:18-04:00",
         "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. We’ve got 5 we’re looking at this week. Trey Smack made all 5 kicks (2 extra points, 3 field goals), but how did the operation look? Let’s start with the snap location for the holder, Daniel Whelan: Kick 1: Extra [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Packers battling penalty onslaught",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88414/green-bay-packers-news-packers-battling-penalty-onslaught",
-        "publishedAt": "2026-10-20T10:15:06-04:00",
-        "summary": "I’m of two minds when it comes to talking about the refs and penalties and everything that goes into officiating a professional football game. On the one hand, officiating an NFL game is a massively complex undertaking. Have you read the NFL rulebook? Have you tried? A page turner it is not. The section for [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-84052532.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Josh Jacobs will practice with the Packers this week; Micah Parsons won’t",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88386/josh-jacobs-will-practice-with-the-packers-this-week-micah-parsons-wont",
-        "publishedAt": "2026-10-19T18:41:23-04:00",
-        "summary": "Green Bay Packers head coach Matt LaFleur announced during his Monday press conference that the team will have running back Josh Jacobs in practice this week, but that edge defender Micah Parsons will not be practicing, another sign that Parsons has yet to be medically cleared by the training staff. According to LaFleur, Jacobs has [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2292183128.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
