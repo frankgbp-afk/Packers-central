@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-23T17:14:31.836Z",
+  "updatedAt": "2026-10-23T21:29:11.521Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers rule out Zaire Franklin, list four questionable vs. Lions | Week 7 Injury Report",
+        "url": "https://www.packers.com/news/packers-rule-out-zaire-franklin-list-four-questionable-vs-lions-week-7-injury-report",
+        "publishedAt": "Fri, 23 Oct 2026 20:08:47 GMT",
+        "summary": "Veteran linebacker won’t play Sunday after suffering injury at Thursday’s practice",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/pzhaeptsw255jg24jjux.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "'Chasing infinity' drives Christian Watson & Matthew Golden",
         "url": "https://www.packers.com/news/chasing-infinity-drives-christian-watson-matthew-golden-oct-23-2026",
@@ -100,128 +109,137 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yyizdoyheudek9qbrah7.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers vs. Lions | How to watch, stream & listen | Week 7",
-        "url": "https://www.packers.com/news/packers-vs-lions-how-to-watch-stream-listen-week-7-2026",
-        "publishedAt": "Tue, 20 Oct 2026 21:51:47 GMT",
-        "summary": "Green Bay Packers vs. Detroit Lions channel listing, radio & streaming options",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ez8vhjotya45uw6unyb0.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Lions' Dan Campbell downplays Sam LaPorta's contract comments",
-        "url": "https://www.espn.com/nfl/story/_/id/50258967/lions-dan-campbell-downplays-sam-laporta-contract-comments",
-        "publishedAt": "2026-10-23T17:11:14Z",
-        "summary": "Lions coach Dan Campbell is downplaying comments made by Sam LaPorta about the tight end's displeasure with where contract talks stand with the organization.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1735060_1296x729_16-9.jpg",
+        "title": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return",
+        "url": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
+        "publishedAt": "2026-10-23T21:26:21Z",
+        "summary": "49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons.",
+        "image": "https://a.espncdn.com/photo/2026/1020/r1733220_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Roger Goodell says NFL targeting Tokyo game in 2027 or 2028",
-        "url": "https://www.espn.com/nfl/story/_/id/50258811/roger-goodell-says-nfl-targeting-tokyo-game-2027-2028",
-        "publishedAt": "2026-10-23T16:39:55Z",
-        "summary": "NFL commissioner Roger Goodell reiterated his goal to hold a regular-season game in Tokyo and said he thinks it could happen in 2027 or 2028.",
-        "image": "https://a.espncdn.com/photo/2026/0526/r1663965_1296x729_16-9.jpg",
+        "title": "Cowboys say still time to turn things around after 2-4 start",
+        "url": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
+        "publishedAt": "2026-10-23T21:15:56Z",
+        "summary": "Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start.",
+        "image": "https://a.espncdn.com/photo/2025/0105/r1434865_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills' Sam Franklin wins appeal; suspension for spitting reduced to fine",
-        "url": "https://www.espn.com/nfl/story/_/id/50258709/bills-franklin-wins-appeal-suspension-spitting-overturned",
-        "publishedAt": "2026-10-23T17:01:44Z",
-        "summary": "Bills safety and special teams captain Sam Franklin Jr., has won his appeal to overturn the one-game suspension for supposedly spitting at an opponent in the win over the Raiders.",
-        "image": "https://a.espncdn.com/photo/2026/1021/r1733893_600x400_3-2.jpg",
+        "title": "Lamar Jackson 'heading in the right direction' but unsure of return",
+        "url": "https://www.espn.com/video/clip/_/id/50260393/lamar-jackson-heading-right-direction-unsure-return",
+        "publishedAt": "2026-10-23T20:54:53Z",
+        "summary": "Lamar Jackson 'heading in the right direction' but unsure of return",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_165132257_3707198/ss_20261023_165132257_3707198.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Packers linebacker Zaire Franklin out Sunday with shin injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50258680/packers-linebacker-zaire-franklin-sunday-shin-injury",
-        "publishedAt": "2026-10-23T17:03:26Z",
-        "summary": "Packers linebacker Zaire Franklin will miss Sunday's game against the Lions with a shin injury.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732713_600x400_3-2.png",
+        "title": "Bets for National Tight Ends Day: Props and picks for Sunday's games",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50221073/nfl-week-7-odds-tight-ends-betting-props-preview",
+        "publishedAt": "2026-10-23T21:20:18Z",
+        "summary": "In recognition of National Tight Ends Day, we thought we'd share our favorite bets for the versatile playmakers.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733099_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Where to watch NFL Paris game: Steelers vs. Saints",
-        "url": "https://www.espn.com/nfl/story/_/id/50249185/watch-2026-nfl-paris-game-steelers-vs-saints",
-        "publishedAt": "2026-10-23T16:19:14Z",
-        "summary": "The NFL takes a trip to France.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/ss_20261020_163721696_3703870/ss_20261020_163721696_3703870.jpg",
+        "title": "Ravens' Lamar Jackson (high ankle sprain) unsure if he'll play",
+        "url": "https://www.espn.com/nfl/story/_/id/50260001/ravens-lamar-jackson-high-ankle-sprain-unsure-play",
+        "publishedAt": "2026-10-23T20:55:19Z",
+        "summary": "Ravens quarterback Lamar Jackson said he's dealing with a high ankle sprain and is unsure if he'll play this week against the Bengals, but is \"heading in the right direction\" after missing the past two games.",
+        "image": "https://a.espncdn.com/photo/2026/1023/r1735152_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jets WR Adonai Mitchell to play, RB Breece Hall questionable vs. Dolphins",
-        "url": "https://www.espn.com/nfl/story/_/id/50258482/jets-wr-mitchell-play-rb-hall-questionable-vs-dolphins",
-        "publishedAt": "2026-10-23T15:56:55Z",
-        "summary": "Jets WR Adonai Mitchell, sidelined four games with a finger injury that required a surgical procedure, practiced all week and will play against the Dolphins.",
-        "image": "https://a.espncdn.com/photo/2026/0927/r1722438_600x400_3-2.jpg",
+        "title": "Browns RBs Quinshon Judkins, Dylan Sampson expected to play",
+        "url": "https://www.espn.com/nfl/story/_/id/50259999/browns-rbs-quinshon-judkins-dylan-sampson-expected-play",
+        "publishedAt": "2026-10-23T20:19:54Z",
+        "summary": "The Browns' top two running backs, Quinshon Judkins and Dylan Sampson, are expected to play against the Titans after being sidelined with injuries.",
+        "image": "https://a.espncdn.com/photo/2026/0717/r1690551_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Mike Clay torn on making Emeka Egbuka a lineup lock in Week 7",
-        "url": "https://www.espn.com/video/clip/_/id/50258259/mike-clay-torn-making-emeka-egbuka-lineup-lock-week-7",
-        "publishedAt": "2026-10-23T15:21:51Z",
-        "summary": "Mike Clay torn on making Emeka Egbuka a lineup lock in Week 7",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_111054079_3706758/ss_20261023_111054079_3706758.jpg",
+        "title": "Bears TE Cole Kmet out for season after knee injury vs. Patriots",
+        "url": "https://www.espn.com/nfl/story/_/id/50259989/bears-te-cole-kmet-season-knee-injury-vs-pats",
+        "publishedAt": "2026-10-23T20:33:18Z",
+        "summary": "Bears tight end Cole Kmet will miss the remainder of the 2026 season after he suffered a serious right knee injury during Chicago's 30-24 win over New England.",
+        "image": "https://a.espncdn.com/photo/2026/1023/r1734885_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Yates details why J.J. McCarthy is an intriguing player to stash",
-        "url": "https://www.espn.com/video/clip/_/id/50258233/yates-details-why-jj-mccarthy-intriguing-player-stash",
-        "publishedAt": "2026-10-23T15:23:25Z",
-        "summary": "Yates details why J.J. McCarthy is an intriguing player to stash",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_110328499_3706755/ss_20261023_110328499_3706755.jpg",
+        "title": "Falcons' viral stripes will appear down center of helmets",
+        "url": "https://www.espn.com/nfl/story/_/id/50259857/falcons-throwback-logo-include-viral-stripe-pattern",
+        "publishedAt": "2026-10-23T21:18:40Z",
+        "summary": "A vertical stripe pattern that the Falcons used in a social media post will appear down the middle of the team's throwback helmets. The stripes drew significant online backlash as some saw similarity to Nazi Germany imagery.",
+        "image": "https://a.espncdn.com/photo/2022/0602/r1020343_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why fantasy managers shouldn't give up on Jaylen Waddle just yet",
-        "url": "https://www.espn.com/video/clip/_/id/50258185/why-fantasy-managers-give-jaylen-waddle-just-yet",
-        "publishedAt": "2026-10-23T15:23:25Z",
-        "summary": "Why fantasy managers shouldn't give up on Jaylen Waddle just yet",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_105654800_3706749/ss_20261023_105654800_3706749.jpg",
+        "title": "Cam Skattebo set to return to Giants RB mix after being 'taught a lesson'",
+        "url": "https://www.espn.com/nfl/story/_/id/50259856/cam-skattebo-set-return-giants-rb-mix",
+        "publishedAt": "2026-10-23T21:13:54Z",
+        "summary": "After zero carries in Week 6, Cam Skattebo says he took a step back to evaluate and correct, and Giants' coach says he should return to the running back mix vs. the Texans.",
+        "image": "https://a.espncdn.com/photo/2026/1022/r1734581_3_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Is Drake Maye a top-5 fantasy QB?",
-        "url": "https://www.espn.com/video/clip/_/id/50258107/is-drake-maye-top-5-fantasy-qb",
-        "publishedAt": "2026-10-23T16:03:33Z",
-        "summary": "Is Drake Maye a top-5 fantasy QB?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_104049072_3706734/ss_20261023_104049072_3706734.jpg",
+        "title": "Fantasy football buzz: Caleb Williams shows he is all the way back in TNF win",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-23T19:00:20Z",
+        "summary": "Caleb Williams did something no other Bears quarterback had done since 1962 as he led Chicago to a TNF win.",
+        "image": "https://a.espncdn.com/photo/2026/1023/r1734955_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football flex and superflex rankings for Week 7",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-        "publishedAt": "2026-10-23T14:38:56Z",
-        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-        "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg",
+        "title": "Rams WR Puka Nacua misses practice, questionable vs. Raiders with calf injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50259748/rams-wr-puka-nacua-questionable-vs-raiders-calf-injury",
+        "publishedAt": "2026-10-23T19:17:30Z",
+        "summary": "Rams wide receiver Puka Nacua (calf) will not practice Friday and is questionable to play Sunday against the Raiders, coach Sean McVay said.",
+        "image": "https://a.espncdn.com/photo/2026/1005/r1726225_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings Week 7: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-10-23T14:38:29Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg",
+        "title": "NFL Week 7 betting odds: Lines and totals for every game",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals",
+        "publishedAt": "2026-10-23T18:45:06Z",
+        "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732906_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Injury Report: Franklin out, 4 questionable vs. Lions",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88624/packers-injury-report-franklin-out-4-questionable-vs-lions",
+        "publishedAt": "2026-10-23T16:56:21-04:00",
+        "summary": "The big injury news out of Green Bay today: Head coach Matt LaFleur said linebacker Zaire Franklin, who was on the injury report Thursday with a shin issue, will miss Week 7 against the Detroit Lions. With Edgerrin Cooper, the team’s starting Will linebacker, already out, losing Franklin means both of the Packers’ linebackers against [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296336753.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "NFL predictions: Packers and Lions should light up the Ford Field scoreboard",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/88535/packers-vs-lions-predictions-week-7-picks",
+        "publishedAt": "2026-10-23T16:00:00-04:00",
+        "summary": "For a second straight week, the Green Bay Packers are playing in a game where the over/under on total points is set at 52.5. Last week, the team’s matchup with the Dallas Cowboys at Lambeau Field stayed well under the total, thanks in large part to an excellent effort by Jonathan Gannon’s defense. This week, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2248204150.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers linebacker Zaire Franklin ruled out for Sunday",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88597/packers-linebacker-zaire-franklin-ruled-out-for-sunday",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-22T12:56:29-04:00",
         "summary": "The road was always going to be tough. The Green Bay Packers entered this season with one of the hardest schedules in the league. Fast forward 6 games and the team has actually positioned themselves fairly well despite some early stumbles. But the margin for error will shrink considerably over the second half of the [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2187990154.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Where on Earth was Brandon Cisse going?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88510/where-on-earth-was-brandon-cisse-going",
-        "publishedAt": "2026-10-22T08:40:00-04:00",
-        "summary": "What on earth. Where on earth. How on earth. Why on earth. It may not technically be the worst interception return in the history of football, but Brandon Cisse’s run on Sunday night against the Dallas Cowboys must have one of the worst ratios of distance covered to yardage gained. The Green Bay Packers’ rookie [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301192195.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Matt LaFleur, Josh Jacobs speak after running back’s reinstatement",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88504/matt-lafleur-josh-jacobs-speak-after-running-backs-reinstatement",
-        "publishedAt": "2026-10-21T18:35:32-04:00",
-        "summary": "Wednesday marked the first day that Green Bay Packers running back Josh Jacobs was able to practice with the Packers since training camp, following his placement on the NFL’s commissioner exempt list for a domestic violence incident that led to Jacobs pleading no contest to charges of battery and criminal damage to property. Jacobs still [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280741287.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
