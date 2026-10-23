@@ -21,18 +21,18 @@
       "packers": false
     },
     {
+      "team": "Bears",
+      "wins": 5,
+      "losses": 2,
+      "ties": 0,
+      "packers": false
+    },
+    {
       "team": "Packers",
       "wins": 4,
       "losses": 2,
       "ties": 0,
       "packers": true
-    },
-    {
-      "team": "Bears",
-      "wins": 4,
-      "losses": 2,
-      "ties": 0,
-      "packers": false
     },
     {
       "team": "Lions",
@@ -42,5 +42,5 @@
       "packers": false
     }
   ],
-  "updatedAt": "2026-10-22T20:13:20.602Z"
+  "updatedAt": "2026-10-23T04:59:44.166Z"
 }
