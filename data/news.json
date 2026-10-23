@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-23T11:47:13.782Z",
+  "updatedAt": "2026-10-23T17:14:31.836Z",
   "sources": {
     "packers": [
+      {
+        "title": "'Chasing infinity' drives Christian Watson & Matthew Golden",
+        "url": "https://www.packers.com/news/chasing-infinity-drives-christian-watson-matthew-golden-oct-23-2026",
+        "publishedAt": "Fri, 23 Oct 2026 14:29:06 GMT",
+        "summary": "Packers receivers off to historic start to 2026 season",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ma80i6wo4u6biqaewcpn.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: Success needs to prove it can travel",
+        "url": "https://www.packers.com/news/inbox-success-needs-to-prove-it-can-travel-oct-23-2026",
+        "publishedAt": "Fri, 23 Oct 2026 13:30:00 GMT",
+        "summary": "There’s a lot to be said for that",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/lluek51fbmrszq51dvm2.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers, USA Football award fall grants to youth football leagues",
         "url": "https://www.packers.com/news/packers-usa-football-award-fall-grants-to-youth-football-leagues-oct-22-2026",
@@ -91,137 +109,146 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ez8vhjotya45uw6unyb0.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers announce roster moves | Oct. 20, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-oct-20-2026",
-        "publishedAt": "Tue, 20 Oct 2026 20:45:26 GMT",
-        "summary": "Green Bay signs DT Mazi Smith to the practice squad; releases RB Damon Bankston",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/splcpbl1ihe98vzudgqi.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers cross the lake to face Detroit",
-        "url": "https://www.packers.com/news/packers-cross-the-lake-to-face-detroit-week-7-2026",
-        "publishedAt": "Tue, 20 Oct 2026 20:22:32 GMT",
-        "summary": "Green Bay has scored 28-plus points in each of the last three contests at Ford Field",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/twwkifkilwgskifvqzyf.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Sources: Jaguars LT Harrison out for season after surgery reveals torn ACL",
-        "url": "https://www.espn.com/nfl/story/_/id/50256842/sources-jaguars-lt-anton-harrison-season-torn-acl",
-        "publishedAt": "2026-10-23T11:44:15Z",
-        "summary": "Jaguars left tackle Anton Harrison will miss the rest of the season because of a torn ACL in his right knee, league sources told NFL Network's Ian Rapoport.",
-        "image": "https://a.espncdn.com/photo/2025/1007/r1556978_600x400_3-2.jpg",
+        "title": "Lions' Dan Campbell downplays Sam LaPorta's contract comments",
+        "url": "https://www.espn.com/nfl/story/_/id/50258967/lions-dan-campbell-downplays-sam-laporta-contract-comments",
+        "publishedAt": "2026-10-23T17:11:14Z",
+        "summary": "Lions coach Dan Campbell is downplaying comments made by Sam LaPorta about the tight end's displeasure with where contract talks stand with the organization.",
+        "image": "https://a.espncdn.com/photo/2026/1023/r1735060_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football: Live Week 7 Q&A with our expert, noon ET",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49965396/fantasy-football-start-sit-lineup-advice-week",
-        "publishedAt": "2026-10-23T11:14:34Z",
-        "summary": "ESPN fantasy football expert Eric Moody is here to answer your pressing questions live from noon to 1 p.m. ET.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1734942_576x324_16-9.jpg",
+        "title": "Roger Goodell says NFL targeting Tokyo game in 2027 or 2028",
+        "url": "https://www.espn.com/nfl/story/_/id/50258811/roger-goodell-says-nfl-targeting-tokyo-game-2027-2028",
+        "publishedAt": "2026-10-23T16:39:55Z",
+        "summary": "NFL commissioner Roger Goodell reiterated his goal to hold a regular-season game in Tokyo and said he thinks it could happen in 2027 or 2028.",
+        "image": "https://a.espncdn.com/photo/2026/0526/r1663965_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Betting buzz: Sportsbooks, bettors join the National Tight Ends Day frenzy",
-        "url": "https://www.espn.com/espn/betting/story/_/id/49466506/nfl-betting-buzz-odds-updates-line-moves-spreads",
-        "publishedAt": "2026-10-23T10:43:27Z",
-        "summary": "On the fourth Sunday of every October since 2018, bettors and books alike celebrate National Tight Ends Day.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734712_1296x729_16-9.jpg",
+        "title": "Bills' Sam Franklin wins appeal; suspension for spitting reduced to fine",
+        "url": "https://www.espn.com/nfl/story/_/id/50258709/bills-franklin-wins-appeal-suspension-spitting-overturned",
+        "publishedAt": "2026-10-23T17:01:44Z",
+        "summary": "Bills safety and special teams captain Sam Franklin Jr., has won his appeal to overturn the one-game suspension for supposedly spitting at an opponent in the win over the Raiders.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1733893_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What to know for Week 7: Start Stroud, one WR to trade for and one to trade away",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50250199/fantasy-football-start-sit-decisions-week-7",
-        "publishedAt": "2026-10-23T11:39:01Z",
-        "summary": "Faced with some tough start/sit decisions ahead of Week 7? Adam Rank has you covered at every position.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734589_1296x729_16-9.jpg",
+        "title": "Packers linebacker Zaire Franklin out Sunday with shin injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50258680/packers-linebacker-zaire-franklin-sunday-shin-injury",
+        "publishedAt": "2026-10-23T17:03:26Z",
+        "summary": "Packers linebacker Zaire Franklin will miss Sunday's game against the Lions with a shin injury.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732713_600x400_3-2.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football last-minute pickups: Cooper Jr., Rodgers among top options",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50249469/fantasy-football-streamers-last-minute-pickups-week-7",
-        "publishedAt": "2026-10-23T10:40:14Z",
-        "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734606_1296x729_16-9.jpg",
+        "title": "Where to watch NFL Paris game: Steelers vs. Saints",
+        "url": "https://www.espn.com/nfl/story/_/id/50249185/watch-2026-nfl-paris-game-steelers-vs-saints",
+        "publishedAt": "2026-10-23T16:19:14Z",
+        "summary": "The NFL takes a trip to France.",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/ss_20261020_163721696_3703870/ss_20261020_163721696_3703870.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Don't be surprised if ... Rodgers is a top-12 QB, Skattebo rebounds",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50249570/fantasy-football-start-sit-sleepers-breakouts-week-7",
-        "publishedAt": "2026-10-23T10:39:11Z",
-        "summary": "Don't be surprised if Aaron Rodgers' strong play continues and Cam Skattebo bounces back in Week 7.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734581_3_1296x729_16-9.jpg",
+        "title": "Jets WR Adonai Mitchell to play, RB Breece Hall questionable vs. Dolphins",
+        "url": "https://www.espn.com/nfl/story/_/id/50258482/jets-wr-mitchell-play-rb-hall-questionable-vs-dolphins",
+        "publishedAt": "2026-10-23T15:56:55Z",
+        "summary": "Jets WR Adonai Mitchell, sidelined four games with a finger injury that required a surgical procedure, practiced all week and will play against the Dolphins.",
+        "image": "https://a.espncdn.com/photo/2026/0927/r1722438_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers' Aaron Rodgers backs NFL on holding Paris game despite recent unrest",
-        "url": "https://www.espn.com/nfl/story/_/id/50256507/steelers-rodgers-backs-nfl-paris-game-recent-unrest",
-        "publishedAt": "2026-10-23T11:08:49Z",
-        "summary": "Steelers quarterback Aaron Rodgers on Friday expressed confidence in the NFL to make security decisions around staging a game in Paris amid recent civil unrest in the city.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1734941_600x400_3-2.jpg",
+        "title": "Mike Clay torn on making Emeka Egbuka a lineup lock in Week 7",
+        "url": "https://www.espn.com/video/clip/_/id/50258259/mike-clay-torn-making-emeka-egbuka-lineup-lock-week-7",
+        "publishedAt": "2026-10-23T15:21:51Z",
+        "summary": "Mike Clay torn on making Emeka Egbuka a lineup lock in Week 7",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_111054079_3706758/ss_20261023_111054079_3706758.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What's led to Titans' recent success? Under center",
-        "url": "https://www.espn.com/nfl/story/_/id/50251843/tennessee-titans-center-success",
-        "publishedAt": "2026-10-23T10:00:10Z",
-        "summary": "Titans run the ball better from under center, so why not put it into practice more?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_Titans_working_through_Alontae_Taylor_situation/dm_261021_Titans_working_through_Alontae_Taylor_situation.jpg",
+        "title": "Yates details why J.J. McCarthy is an intriguing player to stash",
+        "url": "https://www.espn.com/video/clip/_/id/50258233/yates-details-why-jj-mccarthy-intriguing-player-stash",
+        "publishedAt": "2026-10-23T15:23:25Z",
+        "summary": "Yates details why J.J. McCarthy is an intriguing player to stash",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_110328499_3706755/ss_20261023_110328499_3706755.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Inside Marvin Harrison Jr.s' exit from the Cardinals",
-        "url": "https://www.espn.com/nfl/story/_/id/50249407/marvin-harrison-jr-cardinals-texans",
-        "publishedAt": "2026-10-23T10:00:00Z",
-        "summary": "Harrison never reached his potential in Arizona, but all sides are hoping for a fresh start moving forward.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734545_1296x729_16-9.jpg",
+        "title": "Why fantasy managers shouldn't give up on Jaylen Waddle just yet",
+        "url": "https://www.espn.com/video/clip/_/id/50258185/why-fantasy-managers-give-jaylen-waddle-just-yet",
+        "publishedAt": "2026-10-23T15:23:25Z",
+        "summary": "Why fantasy managers shouldn't give up on Jaylen Waddle just yet",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_105654800_3706749/ss_20261023_105654800_3706749.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What's wrong with Bo Nix? Exploring the Broncos QB's struggles, long-term status",
-        "url": "https://www.espn.com/nfl/story/_/id/50250196/quarterback-bo-nix-struggles-broncos-long-term-questions",
-        "publishedAt": "2026-10-23T10:00:00Z",
-        "summary": "The Broncos are winning, but Nix is dealing with the roughest stretch of his career. Why is he struggling -- and is he still Denver's long-term QB?",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734591_608x342_16-9.jpg",
+        "title": "Is Drake Maye a top-5 fantasy QB?",
+        "url": "https://www.espn.com/video/clip/_/id/50258107/is-drake-maye-top-5-fantasy-qb",
+        "publishedAt": "2026-10-23T16:03:33Z",
+        "summary": "Is Drake Maye a top-5 fantasy QB?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_104049072_3706734/ss_20261023_104049072_3706734.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?",
-        "url": "https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker",
-        "publishedAt": "2026-10-23T10:58:00Z",
-        "summary": "While the Seahawks' run game is struggling, the Super Bowl MVP is on a historic pace for the Chiefs this season.",
-        "image": "https://a.espncdn.com/photo/2026/1021/nfl_walker_16x9.jpg",
+        "title": "Fantasy football flex and superflex rankings for Week 7",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-10-23T14:38:56Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+        "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 7 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-        "url": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
-        "publishedAt": "2026-10-23T11:19:54Z",
-        "summary": "Cowboys at Eagles? Bengals at Ravens? The Steelers and Saints in Paris? There are 13 more games in Week 7, and we have picks, predictions and more for all of them.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734277_608x342_16-9.jpg",
+        "title": "Fantasy football rankings Week 7: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-10-23T14:38:29Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers linebacker Zaire Franklin ruled out for Sunday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88597/packers-linebacker-zaire-franklin-ruled-out-for-sunday",
+        "publishedAt": "2026-10-23T12:17:32-04:00",
+        "summary": "The Packers will be without linebacker Zaire Franklin for Sunday’s game against the Detroit Lions. He’s been ruled out after taking a knee to the shin during practice. Franklin’s absence leaves the Packers perilously thin at linebacker, where they were already missing the services of Edgerrin Cooper. Now they’ll have to lean on Isaiah McDuffie [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299208862.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Matthew Golden is outpacing other 2025 first round picks",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88571/matthew-golden-is-outpacing-other-2025-first-round-picks",
+        "publishedAt": "2026-10-23T10:02:57-04:00",
+        "summary": "Nobody seems to think Matthew Golden is a bust anymore. After an admittedly uninspiring rookie season, Golden has bounced back in impressive fashion this year. With 30 catches and 501 yards, he has not only surpassed his 2025 output totals, his 2026 yardage is better than any wide receiver taken ahead of him in the [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300401749.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Pass rush should determine Sunday’s winner",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88563/green-bay-packers-news-pass-rush-should-determine-sundays-winner",
+        "publishedAt": "2026-10-23T08:51:23-04:00",
+        "summary": "When the Green Bay Packers and Detroit Lions meet on Sunday afternoon, it will be the first time that the two teams have played since last Thanksgiving. Much has changed since that day, when the Packers won 31-24, but in one sense, nothing has changed at all. Since that game, Micah Parsons suffered a torn [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2233697104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "The Lions’ heavy offense will stretch the Packers’ thin defensive line",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88555/the-lions-heavy-offense-will-stretch-the-packers-thin-defensive-line",
@@ -282,33 +309,6 @@
         "publishedAt": "2026-10-21T18:35:32-04:00",
         "summary": "Wednesday marked the first day that Green Bay Packers running back Josh Jacobs was able to practice with the Packers since training camp, following his placement on the NFL’s commissioner exempt list for a domestic violence incident that led to Jacobs pleading no contest to charges of battery and criminal damage to property. Jacobs still [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2280741287.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Jordan Love has a back injury, but it’s not serious",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88500/packers-injury-report-jordan-love-has-a-back-injury-but-its-not-serious",
-        "publishedAt": "2026-10-21T17:52:22-04:00",
-        "summary": "The Green Bay Packers held a walkthrough on Wednesday, so they didn’t have a full practice by any means, but the only player who was estimated to be a non-participant on their injury report today was receiver Bo Melton (back), who was able to finish the game in Week 6 against the Dallas Cowboys. The [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300395598.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers news: Rookies answering the call",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88488/green-bay-packers-news-rookies-answering-the-call",
-        "publishedAt": "2026-10-21T13:36:25-04:00",
-        "summary": "The Packers’ defense showed itself to be a bit better than just a unit that beats up on bad quarterbacks on Sunday. What, exactly, Dak Prescott is as a player at this point is open to debate and discussion, but I think most people would agree he’s still a pretty good player — better than [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300885222.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Lions Week 7 TV Broadcast Map",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88478/packers-vs-lions-week-7-tv-broadcast-map",
-        "publishedAt": "2026-10-21T09:45:00-04:00",
-        "summary": "When the Green Bay Packers and Detroit Lions meet up for their first of two 2026 regular season matchups on Sunday afternoon, nearly every media market in the United States will get to see the game on local television. These two teams have combined for five playoff appearances in the past three years, and both [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2248316194.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
