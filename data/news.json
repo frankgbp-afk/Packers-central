@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-24T11:12:21.199Z",
+  "updatedAt": "2026-10-24T16:02:14.389Z",
   "sources": {
     "packers": [
+      {
+        "title": "Another Packers-Lions shootout in Detroit? Maybe, maybe not",
+        "url": "https://www.packers.com/news/another-packers-lions-shootout-in-detroit-maybe-maybe-not-oct-24-2026",
+        "publishedAt": "Sat, 24 Oct 2026 14:00:00 GMT",
+        "summary": "Offenses flying high, but defenses have their strengths",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ynursmepwofk3bl05vbe.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: This is what Ty'Ron Hopper has been preparing for",
+        "url": "https://www.packers.com/news/inbox-this-is-what-ty-ron-hopper-has-been-preparing-for-oct-24-2026",
+        "publishedAt": "Sat, 24 Oct 2026 13:00:00 GMT",
+        "summary": "The Packers don’t have to be perfect Sunday, but they must be stout",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/lyrrej1b720pf1envvaz.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers rule out Zaire Franklin, list four questionable vs. Lions | Week 7 Injury Report",
         "url": "https://www.packers.com/news/packers-rule-out-zaire-franklin-list-four-questionable-vs-lions-week-7-injury-report",
@@ -91,137 +109,137 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/vxlrj0nqn274fteub2ce.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Mike's Mid-Week Chat: How big is this division game?",
-        "url": "https://www.packers.com/news/mike-s-mid-week-chat-how-big-is-this-division-game-oct-21-2026",
-        "publishedAt": "Wed, 21 Oct 2026 19:00:00 GMT",
-        "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yauzh0onm4tbnyncectd.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: There's a huge team component",
-        "url": "https://www.packers.com/news/inbox-there-s-a-huge-team-component-oct-21-2026",
-        "publishedAt": "Wed, 21 Oct 2026 13:30:00 GMT",
-        "summary": "Pass protection will be paramount in this game",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yyizdoyheudek9qbrah7.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "NFL House in Paris closes ahead of street protests in French capital",
-        "url": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
-        "publishedAt": "2026-10-24T11:06:31Z",
-        "summary": "PARIS -- The NFL closed its \"NFL House\" in Paris on Saturday as the city braced for street protests with a heavy police presence and storefronts boarded up.",
-        "image": "https://a.espncdn.com/photo/2026/1024/r1735362_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-        "url": "https://www.espn.com/nfl/story/_/id/50249972/week-7-predictions-upsets-fantasy-sleepers-stats-2026",
-        "publishedAt": "2026-10-24T10:00:03Z",
-        "summary": "Touchdowns for Tucker Kraft and Germie Bernard? Cardinals pull another upset? Revenge game for Trey Hendrickson? Let's predict 15 things for Week 7.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734631_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Will Niners have edge with ex-Falcons coach facing Penix?",
-        "url": "https://www.espn.com/nfl/story/_/id/50253343/atlanta-falcons-san-francisco-49er-raheem-morris",
-        "publishedAt": "2026-10-24T10:00:21Z",
-        "summary": "With all of the familiarity between Morris and the Falcons, Sunday's game should come down to execution.",
-        "image": "https://a.espncdn.com/photo/2025/0716/r1519899_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fernando Mendoza is embracing being Raiders' latest Hispanic QB",
-        "url": "https://www.espn.com/nfl/story/_/id/50253768/raiders-qb-fernando-mendoza-hispanic-plunkett-flores",
-        "publishedAt": "2026-10-24T10:00:13Z",
-        "summary": "The rookie's next chapter is inspired by the legacies of a Hispanic coach, QB and a Raiders' fan base embracing the culture.",
-        "image": "https://a.espncdn.com/photo/2026/1019/fernando-machado-fc-16x9_608x342.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Inside the silent messages Boye Mafe sends every game day",
-        "url": "https://www.espn.com/nfl/story/_/id/50258881/cincinnati-bengals-boye-mafe-sign-language",
-        "publishedAt": "2026-10-24T10:00:12Z",
-        "summary": "The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1735047_1238x697_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "David Andrews' blood clot diagnosis illuminates what's going on with Jalen Hurts",
-        "url": "https://www.espn.com/nfl/story/_/id/50257261/patriots-david-andrews-blood-clots-eagles-jalen-hurts",
-        "publishedAt": "2026-10-23T17:41:35Z",
-        "summary": "The former NFL center tells ESPN about his experience as it might provide a window into the Eagles QB's situation.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1734994_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
-        "url": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
-        "publishedAt": "2026-10-24T02:03:23Z",
-        "summary": "Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
-        "image": "https://a.espncdn.com/photo/2026/1024/r1735280_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
         "title": "Fantasy playbook: NFL Week 7 Shadow Reports, lineup locks and projected scores",
         "url": "https://www.espn.com/fantasy/football/story/_/id/50228155/fantasy-playbook-projections-lineup-locks-week-7-shadow",
-        "publishedAt": "2026-10-24T00:11:30Z",
+        "publishedAt": "2026-10-24T15:54:31Z",
         "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
         "image": "https://a.espncdn.com/photo/2026/1022/r1734466_576x324_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Boye Mafe's proud of his culture",
-        "url": "https://www.espn.com/video/clip/_/id/50261478/boye-mafe-proud-culture",
-        "publishedAt": "2026-10-23T23:33:53Z",
-        "summary": "Ben Baby details how Boye Mafe honors his culture when he's on the field.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_Boye_Mafes_proud_of_his_culture/dm_261023_Boye_Mafes_proud_of_his_culture.jpg",
+        "title": "Fantasy football flex and superflex rankings for Week 7",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-10-24T15:36:57Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+        "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining",
-        "url": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
-        "publishedAt": "2026-10-24T01:24:21Z",
-        "summary": "The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
-        "image": "https://a.espncdn.com/photo/2024/1213/r1427623_600x400_3-2.jpg",
+        "title": "Fantasy football rankings Week 7: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-10-24T15:35:23Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks rule out RB Zach Charbonnet vs. Chiefs",
-        "url": "https://www.espn.com/nfl/story/_/id/50261029/seahawks-rule-rb-zach-charbonnet-vs-chiefs",
-        "publishedAt": "2026-10-23T22:41:56Z",
-        "summary": "RB Zach Charbonnet's season debut will have to wait at least one more week as the Seahawks have ruled him out for Sunday's game against the Chiefs.",
-        "image": "https://a.espncdn.com/photo/2026/0904/r1711367_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings for Week 7: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-10-24T15:34:59Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Giants LB Tremaine Edmunds (chest) out for year, source says",
-        "url": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
-        "publishedAt": "2026-10-23T23:55:25Z",
-        "summary": "Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wears the green dot to make the calls on defense.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1735221_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings for Week 7: D/ST",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+        "publishedAt": "2026-10-24T15:34:10Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 7: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+        "publishedAt": "2026-10-24T15:34:34Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 7: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-10-24T15:33:27Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 7: Quarterback",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+        "publishedAt": "2026-10-24T15:33:45Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 7: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-10-24T15:33:05Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football rankings for Week 7: IDP",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+        "publishedAt": "2026-10-24T15:32:18Z",
+        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots must improve turnover differential if they want to win, other notes",
+        "url": "https://www.espn.com/nfl/story/_/id/50262387/new-england-patriots-week-7-loss-notebook",
+        "publishedAt": "2026-10-24T15:32:24Z",
+        "summary": "It's one of Mike Vrabel's four pillars of the team identity -- and New England is struggling with it after losing to the Bears on Thursday.",
+        "image": "https://a.espncdn.com/photo/2026/1024/r1735295_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL House in Paris closes ahead of street protests in French capital",
+        "url": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
+        "publishedAt": "2026-10-24T12:21:04Z",
+        "summary": "The NFL closed its \"NFL House\" in Paris as the city braced for street protests with a heavy police presence and storefronts boarded up.",
+        "image": "https://a.espncdn.com/photo/2026/1024/r1735362_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "If Josh Jacobs performs only as expected, the Packers&#8217; rushing game will improve",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88619/if-josh-jacobs-performs-only-as-expected-the-packers-rushing-game-will-improve",
+        "publishedAt": "2026-10-24T11:00:00-04:00",
+        "summary": "All signs are pointing to Josh Jacobs returning to the lineup this weekend. Your mileage may vary on whether or not you think he should, based on the legal situation he faced this year and the still-looming question of whether or not a potentially damaging video will come out, but it seems inarguable that his [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2254410272.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "To survive Detroit shootout, Packers should look to Thanksgiving win",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88608/to-survive-detroit-shootout-packers-should-look-to-thanksgiving-win",
+        "publishedAt": "2026-10-24T09:00:00-04:00",
+        "summary": "It’s no secret the Packers game against the Detroit Lions on Sunday is likely to be a shootout. As a byproduct of their stellar offense and inability to slow anyone on defense, Detroit hasn’t played a low-scoring game all year. In every Lions game so far this season, both teams have scored at least 21 [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/06/gettyimages-2248761226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Draft: College Football Discussion, Week 8",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/88645/packers-draft-college-football-discussion-week-8",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-23T08:51:23-04:00",
         "summary": "When the Green Bay Packers and Detroit Lions meet on Sunday afternoon, it will be the first time that the two teams have played since last Thanksgiving. Much has changed since that day, when the Packers won 31-24, but in one sense, nothing has changed at all. Since that game, Micah Parsons suffered a torn [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2233697104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Lions’ heavy offense will stretch the Packers’ thin defensive line",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88555/the-lions-heavy-offense-will-stretch-the-packers-thin-defensive-line",
-        "publishedAt": "2026-10-22T20:10:18-04:00",
-        "summary": "You’ve heard this phrase a lot in the NFL over the last decade: Nickel is the new base. In some ways that’s true, but it’s really more like “nickel is the new base, when the opposing offense wants it to be.” Most NFL teams still match their defensive personnel to what opposing offenses throw out [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299085725.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers work out punters on Thursday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88547/packers-work-out-punters-on-thursday",
-        "publishedAt": "2026-10-22T17:24:31-04:00",
-        "summary": "The Green Bay Packers made an interesting move on Thursday, as they brought in two punters for tryouts. Generally, the Packers only bring in visitors on Mondays or Tuesdays, which made this Thursday set of tryouts stick out. Punter Daniel Whelan also isn’t injured, according to the Packers’ most recent injury report, which makes this [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2233576387.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
