@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T21:29:11.521Z",
+  "updatedAt": "2026-10-24T04:44:57.868Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,72 @@
     ],
     "espn": [
       {
+        "title": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
+        "url": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
+        "publishedAt": "2026-10-24T02:03:23Z",
+        "summary": "Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
+        "image": "https://a.espncdn.com/photo/2026/1024/r1735280_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy playbook: NFL Week 7 Shadow Reports, lineup locks and projected scores",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50228155/fantasy-playbook-projections-lineup-locks-week-7-shadow",
+        "publishedAt": "2026-10-24T00:11:30Z",
+        "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
+        "image": "https://a.espncdn.com/photo/2026/1022/r1734466_576x324_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Boye Mafe's proud of his culture",
+        "url": "https://www.espn.com/video/clip/_/id/50261478/boye-mafe-proud-culture",
+        "publishedAt": "2026-10-23T23:33:53Z",
+        "summary": "Ben Baby details how Boye Mafe honors his culture when he's on the field.",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_Boye_Mafes_proud_of_his_culture/dm_261023_Boye_Mafes_proud_of_his_culture.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining",
+        "url": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
+        "publishedAt": "2026-10-24T01:24:21Z",
+        "summary": "The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
+        "image": "https://a.espncdn.com/photo/2024/1213/r1427623_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks rule out RB Zach Charbonnet vs. Chiefs",
+        "url": "https://www.espn.com/nfl/story/_/id/50261029/seahawks-rule-rb-zach-charbonnet-vs-chiefs",
+        "publishedAt": "2026-10-23T22:41:56Z",
+        "summary": "RB Zach Charbonnet's season debut will have to wait at least one more week as the Seahawks have ruled him out for Sunday's game against the Chiefs.",
+        "image": "https://a.espncdn.com/photo/2026/0904/r1711367_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Giants LB Tremaine Edmunds (chest) out for year, source says",
+        "url": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
+        "publishedAt": "2026-10-23T23:55:25Z",
+        "summary": "Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wears the green dot to make the calls on defense.",
+        "image": "https://a.espncdn.com/photo/2026/1023/r1735221_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football buzz: Caleb Williams shows he is all the way back in TNF win",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-23T21:38:40Z",
+        "summary": "Caleb Williams did something no other Bears quarterback had done since 1962 as he led Chicago to a TNF win.",
+        "image": "https://a.espncdn.com/photo/2026/1023/r1734955_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return",
         "url": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
-        "publishedAt": "2026-10-23T21:26:21Z",
+        "publishedAt": "2026-10-24T01:07:00Z",
         "summary": "49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons.",
         "image": "https://a.espncdn.com/photo/2026/1020/r1733220_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -124,7 +187,7 @@
       {
         "title": "Cowboys say still time to turn things around after 2-4 start",
         "url": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
-        "publishedAt": "2026-10-23T21:15:56Z",
+        "publishedAt": "2026-10-24T00:10:08Z",
         "summary": "Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start.",
         "image": "https://a.espncdn.com/photo/2025/0105/r1434865_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -156,72 +219,27 @@
         "image": "https://a.espncdn.com/photo/2026/1023/r1735152_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Browns RBs Quinshon Judkins, Dylan Sampson expected to play",
-        "url": "https://www.espn.com/nfl/story/_/id/50259999/browns-rbs-quinshon-judkins-dylan-sampson-expected-play",
-        "publishedAt": "2026-10-23T20:19:54Z",
-        "summary": "The Browns' top two running backs, Quinshon Judkins and Dylan Sampson, are expected to play against the Titans after being sidelined with injuries.",
-        "image": "https://a.espncdn.com/photo/2026/0717/r1690551_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears TE Cole Kmet out for season after knee injury vs. Patriots",
-        "url": "https://www.espn.com/nfl/story/_/id/50259989/bears-te-cole-kmet-season-knee-injury-vs-pats",
-        "publishedAt": "2026-10-23T20:33:18Z",
-        "summary": "Bears tight end Cole Kmet will miss the remainder of the 2026 season after he suffered a serious right knee injury during Chicago's 30-24 win over New England.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1734885_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Falcons' viral stripes will appear down center of helmets",
-        "url": "https://www.espn.com/nfl/story/_/id/50259857/falcons-throwback-logo-include-viral-stripe-pattern",
-        "publishedAt": "2026-10-23T21:18:40Z",
-        "summary": "A vertical stripe pattern that the Falcons used in a social media post will appear down the middle of the team's throwback helmets. The stripes drew significant online backlash as some saw similarity to Nazi Germany imagery.",
-        "image": "https://a.espncdn.com/photo/2022/0602/r1020343_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cam Skattebo set to return to Giants RB mix after being 'taught a lesson'",
-        "url": "https://www.espn.com/nfl/story/_/id/50259856/cam-skattebo-set-return-giants-rb-mix",
-        "publishedAt": "2026-10-23T21:13:54Z",
-        "summary": "After zero carries in Week 6, Cam Skattebo says he took a step back to evaluate and correct, and Giants' coach says he should return to the running back mix vs. the Texans.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734581_3_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Caleb Williams shows he is all the way back in TNF win",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-23T19:00:20Z",
-        "summary": "Caleb Williams did something no other Bears quarterback had done since 1962 as he led Chicago to a TNF win.",
-        "image": "https://a.espncdn.com/photo/2026/1023/r1734955_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams WR Puka Nacua misses practice, questionable vs. Raiders with calf injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50259748/rams-wr-puka-nacua-questionable-vs-raiders-calf-injury",
-        "publishedAt": "2026-10-23T19:17:30Z",
-        "summary": "Rams wide receiver Puka Nacua (calf) will not practice Friday and is questionable to play Sunday against the Raiders, coach Sean McVay said.",
-        "image": "https://a.espncdn.com/photo/2026/1005/r1726225_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 7 betting odds: Lines and totals for every game",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50179373/2026-nfl-week-7-schedule-odds-point-spreads-totals",
-        "publishedAt": "2026-10-23T18:45:06Z",
-        "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 7.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732906_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers&#8217; simple pressure disguise creates chaos for the Cowboys",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88606/packers-simple-pressure-disguise-creates-chaos-for-the-cowboys",
+        "publishedAt": "2026-10-23T17:52:57-04:00",
+        "summary": "In the last article, we broke down Evan Williams&#8217; interception against the Dallas Cowboys. That play set the tone, but it was only the opening chapter of a long night for Dak Prescott. By halftime, Green Bay led 17-0, and Prescott had been picked off twice. The second interception wasn&#8217;t a product of disguise so [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/vc64fvfduern8203llax.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "How the Packers scheme an interception",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88585/how-the-packers-scheme-an-interception",
+        "publishedAt": "2026-10-23T17:50:48-04:00",
+        "summary": "After giving up 35 points in their Week 3 meltdown against the Atlanta Falcons, the Green Bay Packers have allowed just 34 points combined over the three games since. Defensive coordinator Jonathan Gannon’s disguises are a big reason why. On Sunday night against the Dallas Cowboys, he had quarterback Dak Prescott in a blender, forcing [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300881889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Injury Report: Franklin out, 4 questionable vs. Lions",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88624/packers-injury-report-franklin-out-4-questionable-vs-lions",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-22T17:03:24-04:00",
         "summary": "In the pre-practice press conference, Green Bay Packers head coach Matt LaFleur wouldn’t commit one way or another on whether tight end Luke Musgrave, who has spent the entire regular season on the physically unable to perform list with a neck injury, will come back this season. Here was LaFleur’s full quote on whether Musgrave [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2254814835.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Let’s talk about Wisconsin game day beer",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88538/lets-talk-about-wisconsin-game-day-beer",
-        "publishedAt": "2026-10-22T16:40:00-04:00",
-        "summary": "Earlier this week we published a series of game day guides which provide recommendations for activities in and around NFL stadia. I wrote the section for Green Bay, and I hope it’s helpful to anyone traveling to Lambeau for a game, but there is one specific thing I wish I’d spent a bit more time [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/reuters-tagreuters.com2023newsml_MT1USATODAY213903281534894282.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: The Packers’ path is getting steeper",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88526/green-bay-packers-news-the-packers-path-is-getting-steeper",
-        "publishedAt": "2026-10-22T12:56:29-04:00",
-        "summary": "The road was always going to be tough. The Green Bay Packers entered this season with one of the hardest schedules in the league. Fast forward 6 games and the team has actually positioned themselves fairly well despite some early stumbles. But the margin for error will shrink considerably over the second half of the [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2187990154.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
