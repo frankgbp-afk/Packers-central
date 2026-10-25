@@ -81,19 +81,19 @@
   ],
   "articles": [
     {
+      "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
+      "publishedAt": "2026-10-25T19:10:23Z",
+      "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736019_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
       "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
       "publishedAt": "2026-10-25T16:34:16Z",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "image": "https://a.espncdn.com/photo/2026/1025/r1735940_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-      "publishedAt": "2026-10-25T16:22:31Z",
-      "summary": "Check here for Sunday's top moments, starting with Aaron Rodgers, Jaylen Warren, Tyler Shough and Alvin Kamara in France.",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735904_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-25T16:37:30.896Z"
+  "updatedAt": "2026-10-25T19:16:23.878Z"
 }
