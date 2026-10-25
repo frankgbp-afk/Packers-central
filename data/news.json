@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-25T16:30:42.614Z",
+  "updatedAt": "2026-10-25T20:56:22.836Z",
   "sources": {
     "packers": [
+      {
+        "title": "Live Chat: Packers vs. Lions | Week 7",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-lions-week-7-2026",
+        "publishedAt": "Mon, 26 Oct 2026 00:00:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. Detroit Lions game with live updates from Ford Field.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yqqy8gfqjnhjuifoqoi1.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "G Aaron Banks active for Green Bay | Packers-Lions inactives",
+        "url": "https://www.packers.com/news/packers-lions-week-7-inactives-oct-25-2026",
+        "publishedAt": "Sun, 25 Oct 2026 18:55:00 GMT",
+        "summary": "G Kevin Zeitler won't play in Detroit",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/cdg3iv9isj8lgzbgjijy.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Lions | How to watch, stream & listen | Week 7",
         "url": "https://www.packers.com/news/packers-vs-lions-how-to-watch-stream-listen-week-7-2026",
@@ -91,137 +109,128 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/a7gas0xavstgxpo6ynb8.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: These games count as two in the Packers' eyes",
-        "url": "https://www.packers.com/news/inbox-these-games-count-as-two-in-the-packers-eyes-oct-22-2026",
-        "publishedAt": "Thu, 22 Oct 2026 13:30:00 GMT",
-        "summary": "It’s on everyone to collectively raise their game",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rzr1x5kscvs6gnu4oitl.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers RB Josh Jacobs discusses his return to the field",
-        "url": "https://www.packers.com/news/packers-rb-josh-jacobs-discusses-his-return-to-the-field-oct-21-2026",
-        "publishedAt": "Thu, 22 Oct 2026 00:22:02 GMT",
-        "summary": "Playing status for Sunday in Detroit still up in the air",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fi6lyurkxojrp3bscru6.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
+        "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
+        "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
+        "publishedAt": "2026-10-25T20:52:55Z",
+        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
+        "image": "https://a.espncdn.com/photo/2026/1025/r1736044_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Singletary's 30-yard run in OT gives Giants 27-21 win over Texans",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873016",
+        "publishedAt": "2026-10-25T20:45:02Z",
+        "summary": "— Devin Singletary’s 30-yard touchdown run in overtime lifted the New York Giants to a 27-21 win over the Houston Texans on Sunday.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873016.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Adam Rank is starting Bucky Irving every week",
+        "url": "https://www.espn.com/video/clip/_/id/50280305/why-adam-rank-starting-bucky-irving-every-week",
+        "publishedAt": "2026-10-25T20:43:25Z",
+        "summary": "Adam Rank: Bucky Irving one of the most disrespected players in fantasy",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_fantasy_buckyirving/dm_261025_fantasy_buckyirving.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50280298/cincinnati-bengals-vs-baltimore-ravens-game-highlights",
+        "publishedAt": "2026-10-25T20:54:30Z",
+        "summary": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/d2a4e266-f6db-4584-bcc1-a61bdef8ce67/d2a4e266-f6db-4584-bcc1-a61bdef8ce67.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Deshaun Watson leads another game-winning drive as the Browns beat the Titans 27-24",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873013",
+        "publishedAt": "2026-10-25T20:35:47Z",
+        "summary": "— Deshaun Watson led his fifth game-winning drive in the fourth quarter this season, connecting with Harold Fannin Jr. on a 36-yard catch-and run that set up Andre Szmyt's 32-yard field goal...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873013.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "New York Giants vs. Houston Texans: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50280213/game-highlights",
+        "publishedAt": "2026-10-25T20:41:07Z",
+        "summary": "New York Giants vs. Houston Texans: Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/0d47d46c-a6a9-4481-a18d-5cab550d3de5/0d47d46c-a6a9-4481-a18d-5cab550d3de5.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Malik Willis sparks Dolphins' first win, holding off a late Jets rally 28-25",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873015",
+        "publishedAt": "2026-10-25T20:25:47Z",
+        "summary": "— Malik Willis threw two touchdown passes and ran for a score, leading the Miami Dolphins to their first win of the season with a 28-25 victory over the New York Jets on Sunday.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873015.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football buzz: Week 7 scoring leaders through Sunday's early games",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-10-25T20:40:01Z",
+        "summary": "A closer look at the Week 7 scoring leaders through Sunday's early games.",
+        "image": "https://a.espncdn.com/photo/2026/1025/r1736075_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Michael Penix Jr. throws 3 TD passes, Falcons force 4 turnovers to give 49ers first loss, 29-20",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873017",
+        "publishedAt": "2026-10-25T20:22:47Z",
+        "summary": "— Michael Penix Jr. threw three touchdown passes, Atlanta scored 13 points off four turnovers and the Falcons handed the San Francisco 49ers their first loss, 29-20 on Sunday.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873017.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "San Francisco 49ers vs. Atlanta Falcons: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50280050/game-highlights",
+        "publishedAt": "2026-10-25T20:25:18Z",
+        "summary": "San Francisco 49ers vs. Atlanta Falcons: Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1025/4cb4b353-bc8a-4ac4-bbb1-ea09d4313692/4cb4b353-bc8a-4ac4-bbb1-ea09d4313692.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Vikings defense clamps down on Daniel Jones and the Colts for a 16-10 victory to stay undefeated",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873014",
+        "publishedAt": "2026-10-25T20:16:53Z",
+        "summary": "— Harrison Smith capped another dominant performance by Minnesota's defense with the game-sealing interception, and the Vikings overcame another sluggish start to stay unbeaten with a 16-10...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873014.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-10-25T16:22:31Z",
-        "summary": "Check here for Sunday's top moments, starting with Aaron Rodgers, Jaylen Warren, Tyler Shough and Alvin Kamara in France.",
-        "image": "https://a.espncdn.com/photo/2026/1025/r1735904_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL depth charts for all 32 teams for 2026 season",
-        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-        "publishedAt": "2026-10-25T16:21:45Z",
-        "summary": "Here are the latest NFL depth charts for all 32 teams.",
-        "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
-        "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
-        "publishedAt": "2026-10-25T16:22:20Z",
-        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-        "image": "https://a.espncdn.com/photo/2026/1025/r1735940_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL, NFLPA handling joint review of Jalen Hurts' blood clot diagnosis",
-        "url": "https://www.espn.com/nfl/story/_/id/50276432/nfl-nflpa-handling-joint-review-jalen-hurts-diagnosis",
-        "publishedAt": "2026-10-25T14:14:37Z",
-        "summary": "The NFL and NFL Players Association are working together to review the handling of Jalen Hurts' blood clot diagnosis.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732959_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football flex and superflex rankings for Week 7",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-        "publishedAt": "2026-10-25T12:44:52Z",
-        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-        "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Peyton Manning not expected to be candidate for Colts' vacant GM job",
-        "url": "https://www.espn.com/nfl/story/_/id/50267058/sources-peyton-manning-not-candidate-colts-gm-job",
-        "publishedAt": "2026-10-25T13:20:50Z",
-        "summary": "The Colts have not approached Peyton Manning about their vacant GM job nor would the ex-QB be expected to be interested in the position, according to sources.",
-        "image": "https://a.espncdn.com/photo/2026/1024/r1735483_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings Week 7: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-10-25T12:23:08Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 7: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-10-25T12:22:49Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 7: D/ST",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-        "publishedAt": "2026-10-25T12:22:10Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 7: Running back",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-        "publishedAt": "2026-10-25T12:22:33Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 7: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-10-25T12:21:24Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 7: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-10-25T12:21:48Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
+        "publishedAt": "2026-10-25T20:17:07Z",
+        "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
+        "image": "https://a.espncdn.com/photo/2026/1025/r1736070_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers vs. Lions Week 7 Live Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88580/packers-vs-lions-week-7-live-game-discussion",
+        "publishedAt": "2026-10-25T16:15:00-04:00",
+        "summary": "It’s time for another huge NFC North rivalry game as the Green Bay Packers take on the Detroit Lions this afternoon at Ford Field. The two teams currently sit in 3rd and 4th place in the division standings but either team is right in the thick of the race with a win today. The Minnesota [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/11/gettyimages-1799580327.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers vs. Lions, Week 7: Game time, how to watch, odds, &#038; more",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88575/packers-vs-lions-week-7-game-time-how-to-watch-odds-more",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-10-23T17:50:48-04:00",
         "summary": "After giving up 35 points in their Week 3 meltdown against the Atlanta Falcons, the Green Bay Packers have allowed just 34 points combined over the three games since. Defensive coordinator Jonathan Gannon’s disguises are a big reason why. On Sunday night against the Dallas Cowboys, he had quarterback Dak Prescott in a blender, forcing [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2300881889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Franklin out, 4 questionable vs. Lions",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88624/packers-injury-report-franklin-out-4-questionable-vs-lions",
-        "publishedAt": "2026-10-23T16:56:21-04:00",
-        "summary": "The big injury news out of Green Bay today: Head coach Matt LaFleur said linebacker Zaire Franklin, who was on the injury report Thursday with a shin issue, will miss Week 7 against the Detroit Lions. With Edgerrin Cooper, the team’s starting Will linebacker, already out, losing Franklin means both of the Packers’ linebackers against [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296336753.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }

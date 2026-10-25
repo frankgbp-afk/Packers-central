@@ -206,8 +206,8 @@
       "network": "FOX",
       "venue": "Ford Field",
       "kickoff": "2026-10-25T20:25:00.000Z",
-      "status": "scheduled",
-      "statusDetail": "10/25 - 4:25 PM EDT",
+      "status": "live",
+      "statusDetail": "0:58 - 1st",
       "packersScore": null,
       "opponentScore": null,
       "result": null,
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-25T19:16:23.554Z"
+  "updatedAt": "2026-10-25T20:56:22.523Z"
 }

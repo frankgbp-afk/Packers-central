@@ -15,7 +15,7 @@
   "standings": [
     {
       "team": "Vikings",
-      "wins": 5,
+      "wins": 6,
       "losses": 0,
       "ties": 0,
       "packers": false
@@ -42,5 +42,5 @@
       "packers": false
     }
   ],
-  "updatedAt": "2026-10-25T19:16:23.555Z"
+  "updatedAt": "2026-10-25T20:56:22.524Z"
 }
