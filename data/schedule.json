@@ -207,9 +207,9 @@
       "venue": "Ford Field",
       "kickoff": "2026-10-25T20:25:00.000Z",
       "status": "live",
-      "statusDetail": "0:58 - 1st",
-      "packersScore": null,
-      "opponentScore": null,
+      "statusDetail": "Halftime",
+      "packersScore": 7,
+      "opponentScore": 10,
       "result": null,
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873020"
     },
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-25T20:56:22.523Z"
+  "updatedAt": "2026-10-25T21:56:06.068Z"
 }
