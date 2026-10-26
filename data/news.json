@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-10-26T13:14:01.340Z",
+  "updatedAt": "2026-10-26T20:34:19.652Z",
   "sources": {
     "packers": [
+      {
+        "title": "5 things to know about Packers OL Mekhi Becton Sr.",
+        "url": "https://www.packers.com/news/5-things-to-know-about-packers-ol-mekhi-becton-sr-oct-26-2026",
+        "publishedAt": "Mon, 26 Oct 2026 20:26:33 GMT",
+        "summary": "Former first-round pick has switched from tackle to guard, now with fourth NFL team",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qnkmpk5flkrnuk4lldm4.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers sign G Mekhi Becton Sr. to active roster",
+        "url": "https://www.packers.com/news/packers-sign-g-mekhi-becton-sr-to-active-roster-oct-26-2026",
+        "publishedAt": "Mon, 26 Oct 2026 20:00:00 GMT",
+        "summary": "Green Bay places C/G Jacob Monk on injured reserve",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/par07y43hhdcvhmybyep.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: Talk about tough duty",
+        "url": "https://www.packers.com/news/inbox-talk-about-tough-duty-oct-26-2026",
+        "publishedAt": "Mon, 26 Oct 2026 13:30:00 GMT",
+        "summary": "He might’ve returned it a long way",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xzvl37tlyfo1aujvcwtz.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Game recap: 5 takeaways from Packers' loss to Lions",
         "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-lions-week-7-2026",
@@ -82,146 +109,173 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/splcpbl1ihe98vzudgqi.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: This is what Ty'Ron Hopper has been preparing for",
-        "url": "https://www.packers.com/news/inbox-this-is-what-ty-ron-hopper-has-been-preparing-for-oct-24-2026",
-        "publishedAt": "Sat, 24 Oct 2026 13:00:00 GMT",
-        "summary": "The Packers don’t have to be perfect Sunday, but they must be stout",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/lyrrej1b720pf1envvaz.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers rule out Zaire Franklin, list four questionable vs. Lions | Week 7 Injury Report",
-        "url": "https://www.packers.com/news/packers-rule-out-zaire-franklin-list-four-questionable-vs-lions-week-7-injury-report",
-        "publishedAt": "Fri, 23 Oct 2026 20:08:47 GMT",
-        "summary": "Veteran linebacker won’t play Sunday after suffering injury at Thursday’s practice",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/pzhaeptsw255jg24jjux.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "'Chasing infinity' drives Christian Watson & Matthew Golden",
-        "url": "https://www.packers.com/news/chasing-infinity-drives-christian-watson-matthew-golden-oct-23-2026",
-        "publishedAt": "Fri, 23 Oct 2026 14:29:06 GMT",
-        "summary": "Packers receivers off to historic start to 2026 season",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ma80i6wo4u6biqaewcpn.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Does Jared Goff belong in the MVP conversation?",
-        "url": "https://www.espn.com/video/clip/_/id/50286669/does-jared-goff-belong-mvp-conversation",
-        "publishedAt": "2026-10-26T12:48:08Z",
-        "summary": "Does Jared Goff belong in the MVP conversation? ",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/ss_20261026_084241434_3711999526/ss_20261026_084241434_3711999526.jpg",
+        "title": "Kirk Cousins to remain Raiders' starting QB vs. Jets, Klint Kubiak says",
+        "url": "https://www.espn.com/nfl/story/_/id/50289866/kirk-cousins-remain-raiders-starting-qb-klint-kubiak-says",
+        "publishedAt": "2026-10-26T20:12:51Z",
+        "summary": "Kirk Cousins will remain the Raiders' starting quarterback for Sunday's game against the Jets, coach Klint Kubiak announced Monday.",
+        "image": "https://a.espncdn.com/photo/2026/1026/r1736629_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Do the Chiefs need to trade for a WR to fix their offense?",
-        "url": "https://www.espn.com/video/clip/_/id/50286665/do-chiefs-need-trade-wr-fix-their-offense",
-        "publishedAt": "2026-10-26T13:01:51Z",
-        "summary": "Do the Chiefs need to trade for a WR to fix their offense?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/ss_20261026_083939006_3711998/ss_20261026_083939006_3711998.jpg",
+        "title": "Vikings RB Jones avoids serious knee injury, day-to-day",
+        "url": "https://www.espn.com/nfl/story/_/id/50289047/vikings-rb-jones-avoids-serious-knee-injury-day-day",
+        "publishedAt": "2026-10-26T18:52:49Z",
+        "summary": "Vikings running back Aaron Jones Sr. avoided a serious knee injury Sunday and is considered day-to-day, coach Kevin O'Connell confirmed Monday.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734233_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sizing up NFL Week 7: Time to trust the Giants? Start Mendoza? Worry about Henry?",
-        "url": "https://www.espn.com/nfl/story/_/id/50278093/week-7-barnwell-vikings-texans-giants-jets-raiders-ravens",
-        "publishedAt": "2026-10-26T12:40:25Z",
-        "summary": "Let's make sense of six takeaways from Sunday and spin them forward. Just how good is the Vikings' defense? What's wrong with the Ravens' run game? Are the Giants legit?",
-        "image": "https://a.espncdn.com/photo/2026/1026/r1736268_1296x729_16-9.jpg",
+        "title": "Source: Seahawks LT Charles Cross has high ankle sprain, likely to miss time",
+        "url": "https://www.espn.com/nfl/story/_/id/50288850/source-seahawks-lt-charles-cross-high-ankle-sprain",
+        "publishedAt": "2026-10-26T18:12:57Z",
+        "summary": "Seahawks left tackle Charles Cross suffered a high ankle sprain and is expected to miss time, a source told NFL Network's Ian Rapoport.",
+        "image": "https://a.espncdn.com/photo/2026/1026/r1736564_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Which NFL teams are undefeated this season?",
-        "url": "https://www.espn.com/nfl/story/_/id/50166789/nfl-teams-undefeated-2026-season",
-        "publishedAt": "2026-10-26T11:30:58Z",
-        "summary": "This team has yet to lose a game in the 2026 NFL season.",
-        "image": "https://a.espncdn.com/photo/2026/0928/r1723185_608x342_16-9.jpg",
+        "title": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+        "publishedAt": "2026-10-26T19:39:56Z",
+        "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+        "image": "https://a.espncdn.com/photo/2026/1026/r1736551_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-        "publishedAt": "2026-10-26T10:00:11Z",
-        "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-        "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+        "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+        "url": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+        "publishedAt": "2026-10-26T19:12:50Z",
+        "summary": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+        "image": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-        "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-        "publishedAt": "2026-10-26T10:06:53Z",
-        "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-        "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg",
+        "title": "Early bets for NFL Week 8: Two games we're jumping on before potential odds changes",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50250601/nfl-week-8-betting-odds-props-early-picks-predictions",
+        "publishedAt": "2026-10-26T18:53:42Z",
+        "summary": "Which Week 8 lines offered immediate value once odds came out? Here are the early bets we like.",
+        "image": "https://a.espncdn.com/photo/2026/1026/r1736364_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaxon Smith-Njigba has 150 receiving yards, TD in Seahawks' win vs. Chiefs",
-        "url": "https://www.espn.com/nfl/story/_/id/50285418/jaxon-smith-njigba-stars-seahawks-deal-chiefs-first-loss",
-        "publishedAt": "2026-10-26T12:07:09Z",
-        "summary": "Jaxon Smith-Njigba wasn't the main story heading into Sunday night's Chiefs-Seahawks matchup -- but he emerged as the game's biggest star, continuing his own historic start by catching nine passes for 150 yards and a touchdown in Seattle's 20-3 win.",
-        "image": "https://a.espncdn.com/photo/2026/1026/r1736376_600x400_3-2.jpg",
+        "title": "Schefter sees Colts dealing players at trade deadline",
+        "url": "https://www.espn.com/video/clip/_/id/50288619/schefter-sees-colts-dealing-players-trade-deadline",
+        "publishedAt": "2026-10-26T17:28:06Z",
+        "summary": "Schefter sees Colts dealing players at trade deadline",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/ss_20261026_132010795_3712159804/ss_20261026_132010795_3712159804.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks contain Chiefs' Kenneth Walker III in RB's return to Seattle",
-        "url": "https://www.espn.com/nfl/story/_/id/50285364/seahawks-limit-chiefs-rb-kenneth-walker-iii-seattle-return",
-        "publishedAt": "2026-10-26T12:09:36Z",
-        "summary": "Chiefs running back Kenneth Walker III had his worst game of the season in his return to Seattle on Sunday night.",
-        "image": "https://a.espncdn.com/photo/2026/1026/r1736373_600x400_3-2.jpg",
+        "title": "Browns balance relishing close wins, lamenting slow starts",
+        "url": "https://www.espn.com/nfl/story/_/id/50288083/cleveland-browns-balance-close-wins-slow-starts-week-7",
+        "publishedAt": "2026-10-26T18:34:24Z",
+        "summary": "Despite a \"complete game\" by Deshaun Watson, offensive struggles are still lingering for the AFC North-leading Browns.",
+        "image": "https://a.espncdn.com/photo/2026/1025/r1736064_576x324_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaxon Smith-Njigba, stifling defense help Seahawks hand Chiefs first loss",
-        "url": "https://www.espn.com/nfl/story/_/id/50252989/seahawks-beat-chiefs-sunday-night-football-smith-njigba",
-        "publishedAt": "2026-10-26T04:27:47Z",
-        "summary": "Seattle's bread and butter from its Super Bowl championship season -- Jaxon Smith-Njigba and defense -- was too much for the Chiefs.",
-        "image": "https://a.espncdn.com/photo/2026/1026/r1736317_608x342_16-9.jpg",
+        "title": "Matthew Stafford: Win vs. Raiders a step in the right direction for us",
+        "url": "https://www.espn.com/video/clip/_/id/50288404/win-vs-raiders-step-right-direction-us",
+        "publishedAt": "2026-10-26T17:39:55Z",
+        "summary": "Matthew Stafford: Win vs. Raiders a step in the right direction for us",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/ss_20261026_125129029_3712144/ss_20261026_125129029_3712144.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
-        "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-10-26T04:29:51Z",
-        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-        "image": "https://a.espncdn.com/photo/2026/1026/r1736250_608x342_16-9.jpg",
+        "title": "Can Lamar Jackson solve the Ravens' historic identity crisis?",
+        "url": "https://www.espn.com/nfl/story/_/id/50286278/can-lamar-jackson-solve-ravens-historic-identity-crisis",
+        "publishedAt": "2026-10-26T15:49:00Z",
+        "summary": "The Ravens are the NFL's best team in the first half, outscoring teams by 65 points. But they are the worst team in the second half, getting outscored by 70 points.",
+        "image": "https://a.espncdn.com/photo/2026/1026/r1736407_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Week 7 winners and losers: Pollard, Burrow lead the way; Walker III, Purdy struggle",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50280888/nfl-week-7-fantasy-football-winners-losers-injuries-rankings-more",
-        "publishedAt": "2026-10-26T05:18:09Z",
-        "summary": "Tony Pollard, Joe Burrow and Zay Flowers came up big in Week 7, while Brock Purdy, Derrick Henry and Kenneth Walker III all had quiet days.",
-        "image": "https://a.espncdn.com/photo/2026/1025/r1736146_2_1296x729_16-9.jpg",
+        "title": "It's time for a Week 7 fantasy football recap",
+        "url": "https://www.espn.com/video/clip/_/id/50288028/week-7-fantasy-football-recap",
+        "publishedAt": "2026-10-26T15:49:07Z",
+        "summary": "It's time for a Week 7 fantasy football recap",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_fantasy_week7_recap/dm_261026_fantasy_week7_recap.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: Week 7 scoring leaders through 'Sunday Night Football'",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-10-26T03:57:50Z",
-        "summary": "A closer look at the Week 7 scoring leaders through Sunday's 4 p.m. ET games.",
-        "image": "https://a.espncdn.com/photo/2026/1025/r1736075_1296x729_16-9.jpg",
+        "title": "Aaron Glenn says Garrett Wilson's outburst 'overblown,' defends Jets' offense",
+        "url": "https://www.espn.com/nfl/story/_/id/50287902/aaron-glenn-says-talked-garrett-wilson-outburst",
+        "publishedAt": "2026-10-26T18:08:25Z",
+        "summary": "Commenting for the first time on Garrett Wilson's sideline outburst during Sunday's loss to Miami, Jets coach Aaron Glenn said it was \"overblown\" by the media.",
+        "image": "https://a.espncdn.com/photo/2026/1026/r1736526_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers bring up Mekhi Becton to the active roster, Jacob Monk to IR",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88760/packers-bring-up-mekhi-becton-to-the-active-roster-jacob-monk-to-ir",
+        "publishedAt": "2026-10-26T16:20:08-04:00",
+        "summary": "The Green Bay Packers announced on Monday that the team has placed offensive lineman Jacob Monk (quad) on the injured reserve, and that the Packers have replaced his roster spot with the call-up of Mekhi Becton, who was previously on the practice squad. Interestingly, Green Bay did not move center Sean Rhyan, who is reportedly [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2240984437.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers kicker Trey Smack adds two more misses to uninspiring start",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88758/packers-kicker-trey-smack-adds-two-more-misses-to-uninspiring-start",
+        "publishedAt": "2026-10-26T15:18:00-04:00",
+        "summary": "Among many other reasons, the Packers lost to the Detroit Lions on Sunday because they couldn’t put two short field goals through the uprights. 2026 draft pick Trey Smack missed outright from 26 yards, then had a 35-yard attempt blocked on the Packers’ final drive. In a game the Packers lost 20-17, you don’t have [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301994730.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers vs. Panthers odds: Opening lines for Week 8 matchup",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/88679/packers-vs-panthers-odds-week-8-opening-lines-point-spread-total",
+        "publishedAt": "2026-10-26T10:30:00-04:00",
+        "summary": "In Week 7, the Green Bay Packers and Carolina Panthers both had disappointing losses, but they came in very different ways. The Packers fell on a last-second field goal on Sunday, losing 20-17 to the Detroit Lions in a game where everyone — but particularly the refs and the Packers themselves — deserve blame. Even [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2244240906.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Injury Updates: Sean Rhyan, Zaire Franklin likely to miss time",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/88743/packers-injury-updates-sean-rhyan-zaire-franklin-likely-to-miss-time",
+        "publishedAt": "2026-10-26T10:15:00-04:00",
+        "summary": "The Green Bay Packers got some unpleasant news on the injury front on Monday morning following the team’s 20-17 loss to the Detroit Lions in Week 7. Two starters, one in the middle of each of the offense and defense, are likely to miss more time with injuries, though neither one is expected to be [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296349566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Winners and Losers: Week 7 vs. the Lions",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88685/packers-winners-and-losers-week-7-vs-the-lions",
+        "publishedAt": "2026-10-26T10:00:00-04:00",
+        "summary": "The Green Bay Packers are officially 4-3 after a frustrating last-second 20-17 loss to the division rival Detroit Lions. The offense continued to suffer from another case of the dropsies, Jordan Love lost two more offensive linemen, and the refs…the refs! Let’s dive into this weekend’s winners and losers. Winner: Jordan Love QB Jordan Love [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301570981.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Plenty of blame to go around for loss to Lions",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88732/green-bay-packers-news-plenty-of-blame-to-go-around-for-loss-to-lions",
+        "publishedAt": "2026-10-26T09:15:00-04:00",
+        "summary": "Blame the referees. Blame the kicker. Blame the drops. The Green Bay Packers can find a way to put blame on every single person who went out between the lines at Ford Field for their 20-17 loss to the Detroit Lions on Sunday. That includes both teams and the cohort of referees, all of whom [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301566383.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers By The Numbers: Stats from the Week 7 loss to the Lions",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88710/packers-by-the-numbers-stats-from-the-week-7-loss-to-the-lions",
@@ -255,60 +309,6 @@
         "publishedAt": "2026-10-25T20:04:15-04:00",
         "summary": "In his post-game press conference on Sunday after the Green Bay Packers’ last-second loss to the Detroit Lions, Packers head coach Matt LaFleur said Trey Smack will be Green Bay’s kicker moving forward, so don’t expect the team to move off the rookie this week. As a reminder, the Packers play their second Thursday Night Football game [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301994730.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Lions Final Score: Green Bay squanders chances in 20-17 loss",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88686/packers-vs-lions-final-score-green-bay-squanders-chances-in-20-17-loss",
-        "publishedAt": "2026-10-25T19:39:59-04:00",
-        "summary": "It&#8217;s tough to win a football game when you&#8217;re not only competing against an opposing team, but also the referees. Yet again, officiating has become a major talking point for the Green Bay Packers. On Sunday afternoon in Detroit, the Packers were flagged multiple times in the second half, drawing inexplicable penalties that whole seeing [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301980556.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Lions Week 7 Live Game Discussion",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88580/packers-vs-lions-week-7-live-game-discussion",
-        "publishedAt": "2026-10-25T16:15:00-04:00",
-        "summary": "It’s time for another huge NFC North rivalry game as the Green Bay Packers take on the Detroit Lions this afternoon at Ford Field. The two teams currently sit in 3rd and 4th place in the division standings but either team is right in the thick of the race with a win today. The Minnesota [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/11/gettyimages-1799580327.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Lions, Week 7: Game time, how to watch, odds, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88575/packers-vs-lions-week-7-game-time-how-to-watch-odds-more",
-        "publishedAt": "2026-10-25T07:00:00-04:00",
-        "summary": "It’s nearly time for the Green Bay Packers to kick off against the one remaining NFC North rival team that they have not yet played in the 2026 season: the Detroit Lions. Green Bay travels to Detroit today to face the Lions and complete their first spin through the division after going 1-1 in their [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/02/gettyimages-2248316066.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers at Lions, Week 7: Opponent Preview",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88661/packers-at-lions-week-7-opponent-preview",
-        "publishedAt": "2026-10-24T17:41:41-04:00",
-        "summary": "The Green Bay Packers (4-2) bring a three-game win streak into Detroit (3-2), with the Lions coming off their bye. The Lions have one of the NFL&#8217;s best offenses and one of its worst defenses. They score 32.8 points per game and allow 29.6, and the Over has hit in all five of their games. [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2249087539.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers activate Josh Jacobs, make 4 moves ahead of Lions matchup",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88665/packers-activate-josh-jacobs-make-4-moves-ahead-of-lions-matchup",
-        "publishedAt": "2026-10-24T17:30:42-04:00",
-        "summary": "The Green Bay Packers entered Saturday with just a 50-man active roster, but they made use of all three of those extra roster spots. The Packers announced on Saturday that the team has activated running back Josh Jacobs, who Green Bay could have kept for an extra week with an exemption without activating him for [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/07/gettyimages-2280733148.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers fan survey says Christian Watson will finish 2026 as top receiver",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/88569/packers-fan-survey-says-christian-watson-will-finish-2026-as-top-receiver",
-        "publishedAt": "2026-10-24T14:36:11-04:00",
-        "summary": "Matthew Golden, drops aside, is on a hot streak. He has hit the century mark in receiving yardage in two straight games and has nearly closed the gap on Christian Watson for the team lead in receiving yards. Watson still has a slight edge, but both players are over 500 yards on the season, making [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/05/gettyimages-2247970608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
