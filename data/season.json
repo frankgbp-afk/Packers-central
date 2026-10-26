@@ -3,14 +3,14 @@
   "source": "ESPN NFL",
   "regularSeason": {
     "wins": 4,
-    "losses": 2,
+    "losses": 3,
     "ties": 0,
     "divisionWins": 1,
-    "divisionLosses": 1,
+    "divisionLosses": 2,
     "divisionTies": 0,
-    "pointsFor": 127,
-    "pointsAgainst": 125,
-    "streak": "W3"
+    "pointsFor": 144,
+    "pointsAgainst": 145,
+    "streak": "L1"
   },
   "standings": [
     {
@@ -28,19 +28,19 @@
       "packers": false
     },
     {
-      "team": "Packers",
+      "team": "Lions",
       "wins": 4,
       "losses": 2,
       "ties": 0,
-      "packers": true
+      "packers": false
     },
     {
-      "team": "Lions",
-      "wins": 3,
-      "losses": 2,
+      "team": "Packers",
+      "wins": 4,
+      "losses": 3,
       "ties": 0,
-      "packers": false
+      "packers": true
     }
   ],
-  "updatedAt": "2026-10-25T20:56:22.524Z"
+  "updatedAt": "2026-10-26T00:17:12.631Z"
 }

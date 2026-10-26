@@ -206,11 +206,11 @@
       "network": "FOX",
       "venue": "Ford Field",
       "kickoff": "2026-10-25T20:25:00.000Z",
-      "status": "live",
-      "statusDetail": "2:20 - 4th",
-      "packersScore": null,
-      "opponentScore": null,
-      "result": null,
+      "status": "final",
+      "statusDetail": "Final",
+      "packersScore": 17,
+      "opponentScore": 20,
+      "result": "L",
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873020"
     },
     {
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-25T23:19:36.148Z"
+  "updatedAt": "2026-10-26T00:17:12.630Z"
 }
