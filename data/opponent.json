@@ -81,14 +81,6 @@
   ],
   "articles": [
     {
-      "title": "Panthers shuffling offensive line",
-      "url": "https://www.espn.com/video/clip/_/id/50292187/panthers-shuffling-offensive-line",
-      "publishedAt": "2026-10-27T00:21:12Z",
-      "summary": "Mike Kaye reports on the latest with Taylor Moton's leg injury.",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1026/dm_261026_16x9_Panthers_IA/dm_261026_16x9_Panthers_IA.jpg",
-      "source": "ESPN"
-    },
-    {
       "title": "Panthers RT Taylor Moton to undergo season-ending ankle surgery",
       "url": "https://www.espn.com/nfl/story/_/id/50291280/panthers-taylor-moton-season-ending-ankle-surgery",
       "publishedAt": "2026-10-26T23:27:47Z",
@@ -127,7 +119,15 @@
       "summary": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 8.",
       "image": "https://a.espncdn.com/photo/2026/1026/r1736362_608x342_16-9.jpg",
       "source": "ESPN"
+    },
+    {
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "publishedAt": "2026-10-26T10:00:11Z",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-10-27T00:31:57.238Z"
+  "updatedAt": "2026-10-27T00:58:01.373Z"
 }
