@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:21:22.195Z",
+  "updatedAt": "2026-10-28T05:51:44.069Z",
   "sources": {
     "packers": [
       {
@@ -113,10 +113,37 @@
     ],
     "espn": [
       {
+        "title": "Buckner, Nelson trades signal Colts' rebuild underway",
+        "url": "https://www.espn.com/nfl/story/_/id/50302002/colts-deforest-buckner-quenton-nelson-jonathan-taylor",
+        "publishedAt": "2026-10-28T00:38:48Z",
+        "summary": "DeForest Buckner and Quenton Nelson are headed to contending teams. Could Jonathan Taylor be next?",
+        "image": "https://a.espncdn.com/photo/2026/1027/r1737244_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Matt LaFleur isn't ruling out imminent practice return for Micah Parsons",
+        "url": "https://www.espn.com/nfl/story/_/id/50302347/matt-lafleur-hints-possible-practice-return-micah-parsons",
+        "publishedAt": "2026-10-28T00:10:22Z",
+        "summary": "Green Bay Packers edge rusher Micah Parsons might finally be back on the practice field next week, more than 10 months after he underwent surgery on his left knee.",
+        "image": "https://a.espncdn.com/photo/2026/0224/r1619547_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL trade deadline grades: DeForest Buckner, Quenton Nelson dealt by Colts, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+        "publishedAt": "2026-10-28T00:41:52Z",
+        "summary": "Does Buckner make the 49ers Super Bowl hopefuls? Will Quenton Nelson upgrade the Seahawks' O-line? We're grading NFL trades ahead of November's deadline.",
+        "image": "https://a.espncdn.com/photo/2026/1027/r1737239_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Montez Sweat returns to Bears following 'devastating' 2-game suspension",
         "url": "https://www.espn.com/nfl/story/_/id/50301493/montez-sweat-back-bears-devastating-2-game-suspension",
-        "publishedAt": "2026-10-27T21:53:25Z",
-        "summary": "Bears DE Montez Sweat is back with the team following his 'devastating' two-game suspension violating the NFL's performance enhancing substances policy.",
+        "publishedAt": "2026-10-27T22:29:20Z",
+        "summary": "Bears DE Montez Sweat is back with the team following his \"devastating\" two-game suspension violating the NFL's performance enhancing substances policy.",
         "image": "https://a.espncdn.com/photo/2026/1027/r1737206_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -142,16 +169,16 @@
       {
         "title": "2026 NFL trade deadline updates: DeForest Buckner, Quenton Nelson on the move",
         "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-        "publishedAt": "2026-10-27T21:05:18Z",
+        "publishedAt": "2026-10-27T22:53:53Z",
         "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Colts dealing Quenton Nelson and DeForest Buckner.",
-        "image": "https://a.espncdn.com/photo/2026/1027/r1737162_608x342_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1027/r1737047_2_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Colts trade DT DeForest Buckner to 49ers in another major move",
         "url": "https://www.espn.com/nfl/story/_/id/50301125/colts-trade-de-deforest-buckner-49ers",
-        "publishedAt": "2026-10-27T21:55:43Z",
+        "publishedAt": "2026-10-28T00:06:09Z",
         "summary": "The Colts have traded DeForest Buckner to the Colts for a 2027 fourth-round pick.",
         "image": "https://a.espncdn.com/photo/2026/1027/r1737191_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -192,36 +219,18 @@
         "image": "https://a.espncdn.com/photo/2025/0102/r1433853_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football 2026 offensive depth charts",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
-        "publishedAt": "2026-10-27T19:26:09Z",
-        "summary": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-        "image": "https://a.espncdn.com/photo/2026/0121/r1603677_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 expected fantasy points against (xFPA) by position",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49869463/2026-fantasy-football-expected-points-xfpa-position-qb-rb-wr-te",
-        "publishedAt": "2026-10-27T19:24:23Z",
-        "summary": "Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why did Seahawks trade for Quenton Nelson? Are the Colts just getting started?",
-        "url": "https://www.espn.com/nfl/story/_/id/50299293/nfl-trade-seahawks-quenton-nelson-colts-deadline",
-        "publishedAt": "2026-10-27T21:29:32Z",
-        "summary": "The Seahawks acquired an All-Pro guard two weeks before the deadline. What does this mean for them and the Colts?",
-        "image": "https://a.espncdn.com/photo/2026/1027/r1737055_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Injury Report: LaFleur hopes Matthew Golden plays on Thursday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88843/packers-injury-report-lafleur-hopes-matthew-golden-plays-on-thursday",
+        "publishedAt": "2026-10-27T19:04:09-04:00",
+        "summary": "The Green Bay Packers are in an interesting position in terms of their injury report, because the team can mostly handle the issues they are suffering with just their internal options on the 53-man active roster. There are a couple of exceptions to that rule, which we’ll go over in this piece, and head coach [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302149008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Remembering a Random Packers Game: The Carolina Panthers",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-history/88829/remembering-a-random-packers-game-the-carolina-panthers",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-10-26T10:30:00-04:00",
         "summary": "In Week 7, the Green Bay Packers and Carolina Panthers both had disappointing losses, but they came in very different ways. The Packers fell on a last-second field goal on Sunday, losing 20-17 to the Detroit Lions in a game where everyone — but particularly the refs and the Packers themselves — deserve blame. Even [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2244240906.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Updates: Sean Rhyan, Zaire Franklin likely to miss time",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/88743/packers-injury-updates-sean-rhyan-zaire-franklin-likely-to-miss-time",
-        "publishedAt": "2026-10-26T10:15:00-04:00",
-        "summary": "The Green Bay Packers got some unpleasant news on the injury front on Monday morning following the team’s 20-17 loss to the Detroit Lions in Week 7. Two starters, one in the middle of each of the offense and defense, are likely to miss more time with injuries, though neither one is expected to be [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296349566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
