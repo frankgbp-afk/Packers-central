@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:01:43.082Z",
+  "updatedAt": "2026-10-29T10:07:51.680Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,36 @@
     ],
     "espn": [
       {
+        "title": "Why Vikings' astronomical 70% blitz rate isn't a gimmick",
+        "url": "https://www.espn.com/nfl/story/_/id/50306991/vikings-astronomical-blitz-rate-brian-flores-sack",
+        "publishedAt": "2026-10-29T10:00:13Z",
+        "summary": "Minnesota blitzed Indianapolis 85% of the time Sunday, as they redefine what a 'normal' pass rush can be in the NFL.",
+        "image": "https://a.espncdn.com/photo/2026/1028/r1737461_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Panthers' consistency starts in the trenches, rests with DC Ejiro Evero",
+        "url": "https://www.espn.com/nfl/story/_/id/50308348/carolina-panthers-consistency-packers-week-8-tnf-evero",
+        "publishedAt": "2026-10-29T10:00:12Z",
+        "summary": "From offensive line woes to a troubled run defense, Carolina (3-3) faces its problems entering Thursday night's game at Green Bay.",
+        "image": "https://a.espncdn.com/photo/2026/1028/r1737684_3_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Micah Parsons' ACL recovery is taking longer than Patrick Mahomes'",
+        "url": "https://www.espn.com/nfl/story/_/id/50307555/packers-micah-parsons-return-acl-patrick-mahomes",
+        "publishedAt": "2026-10-29T10:00:06Z",
+        "summary": "They were injured the same day, but while Mahomes was ready for Week 1, Parsons has yet to practice.",
+        "image": "https://a.espncdn.com/photo/2026/1028/r1737483_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Cardinals' Budda Baker hopes to stay with Arizona at trade deadline",
         "url": "https://www.espn.com/nfl/story/_/id/50312624/cardinals-budda-baker-stay-arizona-trade-deadline",
-        "publishedAt": "2026-10-29T00:53:42Z",
+        "publishedAt": "2026-10-29T01:30:56Z",
         "summary": "Budda Baker hopes that when the trade deadline passes, he'll still be in Arizona.",
         "image": "https://a.espncdn.com/photo/2025/0822/r1535214_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -190,33 +217,6 @@
         "publishedAt": "2026-10-29T00:32:37Z",
         "summary": "An estimated 75% of ex-NFL players who died between 2008 and 2023 had CTE, the neurodegenerative brain disease tied to high-impact sports, according to a new study.",
         "image": "https://a.espncdn.com/photo/2026/0904/260904_nfl_risk-of-cte_16x9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bears' Caleb Williams to continue wearing Caddix 'smart cleats' despite fine",
-        "url": "https://www.espn.com/nfl/story/_/id/50311661/bears-qb-caleb-williams-continue-wearing-caddix-cleats-fine",
-        "publishedAt": "2026-10-28T23:33:40Z",
-        "summary": "Bears quarterback Caleb Williams said Wednesday he will continue to sport the Caddix cleats he was fined $11,941 for wearing during Chicago's Week 6 win at Atlanta -- a fine that he has appealed, according to a source.",
-        "image": "https://a.espncdn.com/photo/2026/1028/r1737784_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ravens list Lamar Jackson as full participant in practice",
-        "url": "https://www.espn.com/nfl/story/_/id/50311435/ravens-list-lamar-jackson-full-participant-practice",
-        "publishedAt": "2026-10-28T22:57:41Z",
-        "summary": "Lamar Jackson was a full participant in Wednesday's practice for the Ravens.",
-        "image": "https://a.espncdn.com/photo/2026/0608/r1669912_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Texans put WR Jaylin Noel on IR with expected season-ending turf toe injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50311414/texans-put-wr-jaylin-noel-ir-turf-toe-injury",
-        "publishedAt": "2026-10-28T22:44:31Z",
-        "summary": "The Texans placed wide receiver Jaylin Noel on injured reserve; he is expected to miss the rest of the season with turf toe, a source confirmed.",
-        "image": "https://a.espncdn.com/photo/2026/1028/r1737752_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
