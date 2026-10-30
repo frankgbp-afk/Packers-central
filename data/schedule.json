@@ -227,11 +227,11 @@
       "network": "Prime Video",
       "venue": "Lambeau Field",
       "kickoff": "2026-10-30T00:15:00.000Z",
-      "status": "live",
-      "statusDetail": "6:28 - 2nd",
-      "packersScore": null,
-      "opponentScore": null,
-      "result": null,
+      "status": "final",
+      "statusDetail": "Final",
+      "packersScore": 27,
+      "opponentScore": 19,
+      "result": "W",
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873023"
     },
     {
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-30T01:20:40.152Z"
+  "updatedAt": "2026-10-30T07:25:02.745Z"
 }
