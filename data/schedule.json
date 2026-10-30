@@ -227,8 +227,8 @@
       "network": "Prime Video",
       "venue": "Lambeau Field",
       "kickoff": "2026-10-30T00:15:00.000Z",
-      "status": "scheduled",
-      "statusDetail": "10/29 - 8:15 PM EDT",
+      "status": "live",
+      "statusDetail": "11:20 - 2nd",
       "packersScore": null,
       "opponentScore": null,
       "result": null,
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-10-29T16:53:49.225Z"
+  "updatedAt": "2026-10-30T01:06:46.759Z"
 }
