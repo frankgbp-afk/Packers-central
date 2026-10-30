@@ -1,22 +1,40 @@
 {
-  "updatedAt": "2026-10-30T01:06:47.032Z",
+  "updatedAt": "2026-10-30T10:09:41.990Z",
   "sources": {
     "packers": [
       {
-        "title": "Live Chat: Packers vs. Panthers | Week 8",
-        "url": "https://www.packers.com/news/live-chat-packers-vs-panthers-week-8-2026",
-        "publishedAt": "Fri, 30 Oct 2026 04:00:00 GMT",
-        "summary": "Follow the Green Bay Packers vs. Carolina Panthers game with live updates from Lambeau Field.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fr5dws753jtmtwbor02d.png",
+        "title": "Game recap: 5 takeaways from Packers' victory over Panthers",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-panthers-week-8-2026",
+        "publishedAt": "Fri, 30 Oct 2026 06:40:00 GMT",
+        "summary": "Green Bay hits mini-bye at 5-3",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xaituhyekcf87j7ayfhz.png",
         "source": "Packers.com",
         "icon": "GB"
       },
       {
-        "title": "Packers lead Panthers 6-3 after first quarter",
+        "title": "Game notes: Christian Watson felt like WWE superstar upon dramatic return",
+        "url": "https://www.packers.com/news/game-notes-christian-watson-felt-like-wwe-superstar-upon-dramatic-return-week-8-2026",
+        "publishedAt": "Fri, 30 Oct 2026 06:35:08 GMT",
+        "summary": "Packers receiver plays through broken rib, Ty’Ron Hopper makes presence felt",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/axxk13dxurdfqms8fdxk.gif",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Rapid reaction: Packers struggle to finish strong without ground game",
+        "url": "https://www.packers.com/news/rapid-reaction-packers-struggle-to-finish-strong-without-ground-game-week-8-2026",
+        "publishedAt": "Fri, 30 Oct 2026 06:30:00 GMT",
+        "summary": "Offense still searching for answers in that phase",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/smdecy0oq6nohshydgan.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers defeat Panthers, 27-19",
         "url": "https://www.packers.com/news/in-game-updates-week-8-panthers-2026",
-        "publishedAt": "Fri, 30 Oct 2026 03:00:00 GMT",
-        "summary": "Jordan Love and Tucker Kraft connect on 12-yard touchdown pass",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qbrnvsbapo8uygr1ck10.png",
+        "publishedAt": "Fri, 30 Oct 2026 03:11:00 GMT",
+        "summary": "Defense racks up six sacks to hang on",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/jngd2zxg8ncg1lvqr3i5.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -35,6 +53,15 @@
         "publishedAt": "Thu, 29 Oct 2026 22:45:00 GMT",
         "summary": "DT Devonte Wyatt, CB Keisean Nixon also up for Thursday night game",
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/sg4dancx3makscaawatr.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Live Chat: Packers vs. Panthers | Week 8",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-panthers-week-8-2026",
+        "publishedAt": "Thu, 29 Oct 2026 20:30:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. Carolina Panthers game with live updates from Lambeau Field.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rdqs61is0u2tcoumlcs5.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -82,182 +109,119 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fx3z6i4fs8fybthmgohp.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Tim Serum of Osseo-Fairchild High School named Green Bay Packers High School Coach of the Week",
-        "url": "https://www.packers.com/news/tim-serum-of-osseo-fairchild-high-school-named-green-bay-packers-high-school-coach-of-the-week-oct-28-2026",
-        "publishedAt": "Wed, 28 Oct 2026 20:11:36 GMT",
-        "summary": "Serum has his team preparing for Level 2 of the Division 7 WIAA playoffs this week",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/y4miiznzsaffd5rpddov.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers list four questionable, rule out three vs. Panthers | Week 8 Injury Report",
-        "url": "https://www.packers.com/news/packers-list-four-questionable-rule-out-three-vs-panthers-week-8-injury-report",
-        "publishedAt": "Wed, 28 Oct 2026 18:59:07 GMT",
-        "summary": "WR Matthew Golden, DT Devonte Wyatt questionable for Thursday night",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/kg1yton5oxpgi3falsgj.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers CB Keisean Nixon 'plays the game with an edge'",
-        "url": "https://www.packers.com/news/packers-cb-keisean-nixon-plays-the-game-with-an-edge-oct-28-2026",
-        "publishedAt": "Wed, 28 Oct 2026 18:55:00 GMT",
-        "summary": "Key comments from Green Bay’s coordinators",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/lfczetyawwhbkatkmj1a.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
+        "title": "Answering 10 questions about Chiefs-Broncos showdown for first place in AFC West",
+        "url": "https://www.espn.com/nfl/story/_/id/50319759/kansas-city-chiefs-denver-broncos-afc-west-division-lead",
+        "publishedAt": "2026-10-30T10:00:10Z",
+        "summary": "Can the Broncos slow Kenneth Walker III? Can the Chiefs' pass rush fluster Bo Nix? Answering the biggest questions in Sunday's AFC West showdown.",
+        "image": "https://a.espncdn.com/photo/2026/1029/r1738300_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Has Tyler Guyton become the Cowboys' franchise left tackle?",
+        "url": "https://www.espn.com/nfl/story/_/id/50322739/dallas-cowboys-tyler-guyton-franchise-left-tackle",
+        "publishedAt": "2026-10-30T10:00:00Z",
+        "summary": "The 2024 first-round draft pick has gone to liability to strength in protecting quarterback Dak Prescott.",
+        "image": "https://a.espncdn.com/photo/2026/1029/r1738350_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50182998/2027-nfl-draft-rankings-kiper-big-board-top-prospects",
+        "publishedAt": "2026-10-30T10:00:01Z",
+        "summary": "Seven quarterbacks ranked in the top 25? This NFL draft class could be fun. Mel Kiper Jr. stacks the best players on the board as of late October.",
+        "image": "https://a.espncdn.com/photo/2026/1014/r1730858_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "When will the Raiders make Fernando Mendoza the starting QB?",
+        "url": "https://www.espn.com/nfl/story/_/id/50313034/las-vegas-raiders-fernando-mendoza-starter-kirk-cousins",
+        "publishedAt": "2026-10-30T10:00:10Z",
+        "summary": "Making the case for and against the Raiders switching to Fernando Mendoza as QB1.",
+        "image": "https://a.espncdn.com/photo/2026/1012/r1729739_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Packers' Josh Jacobs: TD celebration was ode to gospel song, not mocking arrest",
+        "url": "https://www.espn.com/nfl/story/_/id/50325876/packers-josh-jacobs-says-td-celebration-mocking-arrest",
+        "publishedAt": "2026-10-30T06:53:19Z",
+        "summary": "The Packers' Josh Jacobs said he was surprised his first-half TD celebration was perceived by some as mocking his May arrest, saying it was an ode to a gospel song.",
+        "image": "https://a.espncdn.com/photo/2026/1030/r1738467_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Panthers' Bryce Young says injured knee 'fine' after taking 6 sacks vs. Packers",
+        "url": "https://www.espn.com/nfl/story/_/id/50325742/panthers-bryce-young-says-knee-fine-loss-packers",
+        "publishedAt": "2026-10-30T06:22:07Z",
+        "summary": "Panthers quarterback Bryce Young was pressured on nearly half his dropbacks and was sacked six times, but said his injured knee was \"fine\" after a 27-19 loss to the Packers.",
+        "image": "https://a.espncdn.com/photo/2026/1030/r1738470_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Love throws 3 TD passes as the Packers beat the Panthers 27-19",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873023",
+        "publishedAt": "2026-10-30T05:00:47Z",
+        "summary": "— Jordan Love realizes the Green Bay Packers need to finish better.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873023.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Week 8 TNF Panthers at Packers: Highlights, key plays",
         "url": "https://www.espn.com/nfl/story/_/id/50322459/nfl-thursday-night-football-packers-panthers-jordan-love-bryce-young",
-        "publishedAt": "2026-10-30T00:40:02Z",
-        "summary": "Check out the biggest touchdowns and highlights as the Packers host the Panthers at Lambeau Field.",
+        "publishedAt": "2026-10-30T04:32:54Z",
+        "summary": "Check out the biggest touchdowns and highlights from the Packers' win over the Panthers at Lambeau Field.",
         "image": "https://a.espncdn.com/photo/2026/1029/r1738364_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Source: Bears quarterback Caleb Williams fined again for cleats",
-        "url": "https://www.espn.com/nfl/story/_/id/50323203/bears-quarterback-caleb-williams-fined-again-cleats",
-        "publishedAt": "2026-10-30T00:34:59Z",
-        "summary": "The NFL has fined Caleb Williams $23,882 for sporting Caddix cleats in Week 7, a source confirmed to ESPN on Thursday.",
-        "image": "https://a.espncdn.com/photo/2026/1028/r1737784_600x400_3-2.jpg",
+        "title": "Jordan Love, Packers take down Panthers on TNF",
+        "url": "https://www.espn.com/video/clip/_/id/50324935/jordan-love-packers-take-panthers-tnf",
+        "publishedAt": "2026-10-30T03:32:40Z",
+        "summary": "Jordan Love, Packers take down Panthers on TNF",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1030/2f584665-5093-483c-a072-37ace4c37cc2/2f584665-5093-483c-a072-37ace4c37cc2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
-        "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
-        "publishedAt": "2026-10-30T00:01:06Z",
-        "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
-        "image": "https://a.espncdn.com/photo/2026/1029/r1738357_2_608x342_16-9.jpg",
+        "title": "Fantasy football 10-team Knockout league rankings: The 140 players to draft",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+        "publishedAt": "2026-10-30T03:26:38Z",
+        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+        "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Quenton Nelson: Cherished time with Colts but excited to play for Seahawks",
-        "url": "https://www.espn.com/nfl/story/_/id/50322754/quenton-nelson-awesome-play-seahawks-colts-trade",
-        "publishedAt": "2026-10-29T23:40:19Z",
-        "summary": "Eight-time Pro Bowl guard Quenton Nelson expressed excitement over what he called \"a new opportunity\" with the Seahawks following eight-plus seasons with the Colts.",
-        "image": "https://a.espncdn.com/photo/2026/1027/r1737050_600x400_3-2.jpg",
+        "title": "Josh Jacobs scores twice as Packers dispatch Panthers",
+        "url": "https://www.espn.com/nfl/story/_/id/50322670/nfl-green-bay-packers-panthers-jordan-love-bryce-young",
+        "publishedAt": "2026-10-30T04:30:36Z",
+        "summary": "Carolina made a game of it late, but Green Bay held on for the Thursday night win.",
+        "image": "https://a.espncdn.com/photo/2026/1030/r1738426_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Commanders and Eagles head into 'Sunday Night Football' with season-defining matchup on deck",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873035",
-        "publishedAt": "2026-10-29T22:32:53Z",
-        "summary": "— The Washington Commanders and Philadelphia Eagles are each facing a...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873035.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vikings and Lions match up NFL's stingiest defense vs. high-scoring offense in NFC North showdown",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873030",
-        "publishedAt": "2026-10-29T22:23:00Z",
-        "summary": "— The Minnesota Vikings are the NFL's only unbeaten team thanks to their stingy defense and stellar special teams.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873030.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jeffery Simmons traded to Bears: Does dealing multiple first-round picks work?",
-        "url": "https://www.espn.com/nfl/story/_/id/50319184/jeffery-simmons-trade-two-first-round-picks-bears-titans",
-        "publishedAt": "2026-10-30T00:40:45Z",
-        "summary": "The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
-        "image": "https://a.espncdn.com/photo/2026/1029/r1738106_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams and Chargers share a city, not a rivalry as they head into their first meeting in 4 seasons",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873032",
-        "publishedAt": "2026-10-29T22:02:47Z",
-        "summary": "— Although the Los Angeles Rams and the Los Angeles Chargers share a stadium, they don't share a rivalry.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873032.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "AFC West lead at stake as Patrick Mahomes and Bo Nix grind through injury comebacks",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873033",
-        "publishedAt": "2026-10-29T21:44:47Z",
-        "summary": "— The AFC West lead is at stake Sunday as Patrick Mahomes and ",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873033.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Josh Allen looks to renew rivalry with Lamar Jackson as Bills host Ravens",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873026",
-        "publishedAt": "2026-10-29T21:39:47Z",
-        "summary": "— Josh Allen can appreciate how heated discussions can get over bar stools, on talk radio and social media over whether he or Lamar Jackson are the better quarterback.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873026.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jags' home winning streak against Indy is 'weird, quirky' and a long shot to end Sunday",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873028",
-        "publishedAt": "2026-10-29T21:31:47Z",
-        "summary": "— Jaguars left tackle Walker Little perfectly summed up Jacksonville's 11-game home winning streak against Indianapolis.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873028.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Falcons' Penix and Buccaneers' Mayfield aiming to help rebounding teams take control of NFC South",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873025",
-        "publishedAt": "2026-10-29T21:25:47Z",
-        "summary": "— Welcome to the NFC South, where inconsistency and seemingly disastrous starts to this season have not undermined the aspirations of the Atlanta Falcons and Tampa Bay Buccaneers.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873025.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Ben Johnson opens up about the early days of his coaching journey",
+        "url": "https://www.espn.com/video/clip/_/id/50324851/ben-johnson-opens-early-days-coaching-journey",
+        "publishedAt": "2026-10-30T03:27:54Z",
+        "summary": "Ben Johnson opens up about the early days of his coaching journey",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1029/ss_20261029_231731806_3716496/ss_20261029_231731806_3716496.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
-      {
-        "title": "Panthers at Packers, Week 8: Opponent Preview",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88913/panthers-at-packers-week-8-opponent-preview",
-        "publishedAt": "2026-10-29T14:30:00-04:00",
-        "summary": "Green Bay (4-3) comes off a 20-17 loss in Detroit and hosts Carolina (3-3) on a short week. The Panthers lead the NFC South but were blown out 43-13 at home by Tampa Bay on Sunday, and Bryce Young was pulled late in that game. Carolina&#8217;s offense has been reinvented under first-time play-caller Brad Idzik, [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2244665197.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Why the defense was unable to closeout the game in Detroit",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88884/packers-film-room-why-the-defense-was-unable-to-closeout-the-game-in-detroit",
-        "publishedAt": "2026-10-29T13:30:00-04:00",
-        "summary": "The Green Bay Packers’ defense made plenty of plays against the Detroit Lions on Sunday in Week 7. The unit recovered fumbles, stopped a fourth down in the red zone and had two interceptions in its hands. They still lost the game, however, because over and over they were looking at the wrong thing. The [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301986232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Rivals are making trades — will the Packers follow suit?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88923/green-bay-packers-news-rivals-are-making-trades-will-the-packers-follow-suit",
-        "publishedAt": "2026-10-29T12:50:16-04:00",
-        "summary": "The NFL trade deadline is November 10, and several NFC contenders aren&#8217;t content to stand pat. The Seattle Seahawks have acquired guard Quenton Nelson from Indianapolis. The San Francisco 49ers grabbed DT DeForest Buckner. Then there’s those pesky Chicago Bears, who as of this morning have moved to acquire DL Jeffery Simmons. It’s decision time [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2292838732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Panthers, Week 8: Game time, how to watch, odds, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/88875/packers-vs-panthers-week-8-game-time-how-to-watch-odds-more",
-        "publishedAt": "2026-10-29T06:00:00-04:00",
-        "summary": "The Green Bay Packers are hosting an NFC South team at Lambeau Field on Thursday Night Football. Does that sound familiar? It should, because it happened just five weeks ago as well, and it’s weird that it’s happening twice this season. The Packers are understandably hoping to avoid a repeat of the first of these [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2244666693.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
       {
         "title": "Packers Injury Report: Green Bay rules out 3 starters",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88879/packers-injury-report-green-bay-rules-out-3-starters",
@@ -309,6 +273,42 @@
         "publishedAt": "2026-10-27T16:54:45-04:00",
         "summary": "It’s underselling it a bit to say that the Green Bay Packers had a few missed opportunities this past weekend, but there were a couple big ones that stood out that I wanted to spend a bit of time with. I already looked at the field goal operation, so today we’re going to look at [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301985527.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Packers’ running game continues to struggle",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88816/green-bay-packers-news-packers-running-game-continues-to-struggle",
+        "publishedAt": "2026-10-27T09:59:40-04:00",
+        "summary": "The Packers cannot get their ground game in gear. They cannot run with MarShawn Lloyd. They cannot run with Chris Brooks. They cannot run with Pierre Strong. They cannot run with Kaleb Johnson, a healthy scratch this week despite the Packers giving up a draft pick for him. They can’t even run with Josh Jacobs, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301556109.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Injury Report: 7 to start the list on Monday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88794/packers-injury-report-7-to-start-the-list-on-monday",
+        "publishedAt": "2026-10-26T22:49:31-04:00",
+        "summary": "The Green Bay Packers did not have a practice on Monday, but the team did release a practice estimation due to their quick turnaround to prepare for their Thursday Night Football game against the Carolina Panthers. As of now, the Packers’ injury list has seven players, but remember this could be a very aggressive list, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296349569.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Long snapping on kicks in Week 7",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88779/packers-film-room-long-snapping-on-kicks-in-week-7",
+        "publishedAt": "2026-10-26T22:11:13-04:00",
+        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. We’ve got 6 we’re looking at this week. There were only 5 attempted kicks, but the initial field goal attempt went through the entire operation before getting waved off (the delay of game flag was thrown just after the snap [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Lions had a good game plan to limit Lukas Van Ness",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88766/the-lions-had-a-good-game-plan-to-limit-lukas-van-ness",
+        "publishedAt": "2026-10-26T18:11:27-04:00",
+        "summary": "The Green Bay Packers are dealing with several injuries in their front seven right now. The team is currently out its star edge rusher, Micah Parsons, and three interior defensive linemen are on the injured reserve (with Devonte Wyatt being limited due to injury). On top of that, both of the team’s starting linebackers, Zaire Franklin [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2296352090.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
