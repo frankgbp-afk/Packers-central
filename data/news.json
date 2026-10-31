@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-31T12:42:44.216Z",
+  "updatedAt": "2026-10-31T19:21:24.634Z",
   "sources": {
     "packers": [
+      {
+        "title": "Inbox: That night belonged to Wisconsin sports fans",
+        "url": "https://www.packers.com/news/inbox-that-night-belonged-to-wisconsin-sports-fans-oct-31-2026",
+        "publishedAt": "Sat, 31 Oct 2026 13:00:00 GMT",
+        "summary": "Christian Watson is cut from a different cloth",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/oyj5ejyabtefpiuial8n.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: The convergence of development and opportunity is on display",
         "url": "https://www.packers.com/news/inbox-the-convergence-of-development-and-opportunity-is-on-display-oct-30-2026",
@@ -100,18 +109,81 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/iua3xz3zthecgc72golp.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers have trends to fix vs. Panthers",
-        "url": "https://www.packers.com/news/packers-have-trends-to-fix-vs-panthers-oct-29-2026",
-        "publishedAt": "Thu, 29 Oct 2026 14:00:00 GMT",
-        "summary": "Track records on Thursday Night Football, in red zone, and with running game all need to change",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bytjqxjoaglu5hb8e9mb.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
+      {
+        "title": "NFL to review additional allegations against Packers RB Josh Jacobs",
+        "url": "https://www.espn.com/nfl/story/_/id/50338005/nfl-review-additional-allegations-packers-jacobs",
+        "publishedAt": "2026-10-31T19:10:14Z",
+        "summary": "The NFL said it will look into additional allegations of physical and verbal abuse by Packers RB Josh Jacobs that were revealed as part of a public records release from the Hobart/Lawrence Police Department.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1733122_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football Week 8 inactives: Chase to play; Brown, Henderson, Egbuka out",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50289130/fantasy-football-injuries-nfl-week-8-inactive-active",
+        "publishedAt": "2026-10-31T18:34:26Z",
+        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+        "image": "https://a.espncdn.com/photo/2026/1030/r1738639_576x324_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Patriots rule out A.J. Brown, TreVeyon Henderson vs. Dolphins",
+        "url": "https://www.espn.com/nfl/story/_/id/50337296/patriots-rule-aj-brown-treveyon-henderson-vs-dolphins",
+        "publishedAt": "2026-10-31T17:42:52Z",
+        "summary": "Patriots wide receiver A.J. Brown has been ruled out for Sunday's game against the Dolphins. In addition, No. 2 running back TreVeyon Henderson has been ruled out due to an illness.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732577_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Commanders DT Daron Payne suffered season-ending foot injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50336399/source-commanders-dt-payne-suffered-season-ending-foot-injury",
+        "publishedAt": "2026-10-31T15:46:37Z",
+        "summary": "Commanders defensive tackle Daron Payne suffered a season-ending Jones fracture in practice Friday, a source told ESPN's Adam Schefter.",
+        "image": "https://a.espncdn.com/photo/2026/1027/r1737127_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
+        "url": "https://www.espn.com/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real",
+        "publishedAt": "2026-10-31T14:44:08Z",
+        "summary": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/ss_20261031_103143252_3717901/ss_20261031_103143252_3717901.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL scouts favor Drew Mestemaker as first QB taken in draft",
+        "url": "https://www.espn.com/college-football/story/_/id/50335830/nfl-scouts-favor-drew-mestemaker-first-qb-taken-draft",
+        "publishedAt": "2026-10-31T16:18:43Z",
+        "summary": "In a midseason poll of 25 NFL scouts, Oklahoma State's Drew Mestemaker was the overwhelming choice to be the first quarterback selected in the 2027 NFL draft.",
+        "image": "https://a.espncdn.com/photo/2026/0912/r1715380_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Packers, Micah Parsons target return for Thanksgiving Eve game vs. Rams",
+        "url": "https://www.espn.com/nfl/story/_/id/50335391/sources-packers-micah-parsons-eye-thanksgiving-eve-return",
+        "publishedAt": "2026-10-31T13:28:28Z",
+        "summary": "The Packers and Micah Parsons are targeting the Thanksgiving Eve game against the Rams for his return to the field, sources told NFL Network.",
+        "image": "https://a.espncdn.com/photo/2026/1028/r1737483_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Appellate court revives 'Sunday Ticket' antitrust verdict against NFL",
+        "url": "https://www.espn.com/nfl/story/_/id/50335296/appeals-court-revives-sunday-ticket-verdict-nfl",
+        "publishedAt": "2026-10-31T13:49:42Z",
+        "summary": "A verdict in a class action lawsuit filed by \"Sunday Ticket\" subscribers claiming the NFL broke antitrust laws has been revived by a federal appeals court, more than two years after a $4.7 billion ruling against the league was reversed.",
+        "image": "https://a.espncdn.com/photo/2026/0320/r1631265_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
       {
         "title": "'No way' that Jets trade star WR Garrett Wilson before deadline, source says",
         "url": "https://www.espn.com/nfl/story/_/id/50331651/no-way-jets-trade-garrett-wilson-deadline-source-says",
@@ -124,7 +196,7 @@
       {
         "title": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams",
         "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
-        "publishedAt": "2026-10-31T12:07:22Z",
+        "publishedAt": "2026-10-31T15:08:29Z",
         "summary": "The Colts now are open to trading Jonathan Taylor, sources told ESPN and NFL Network, and multiple teams have reached out to Indianapolis.",
         "image": "https://a.espncdn.com/photo/2026/0914/r1716699_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -145,78 +217,6 @@
         "publishedAt": "2026-10-31T10:58:10Z",
         "summary": "Aaron Schatz ranked the worst 6-0 teams ever by DVOA and point differential. Where do the 2026 Vikings land, and what's next for them?",
         "image": "https://a.espncdn.com/photo/2026/1030/r1738633_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Joe Burrow's trust makes Tee Higgins level up for Bengals",
-        "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow",
-        "publishedAt": "2026-10-31T10:00:00Z",
-        "summary": "No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
-        "image": "https://a.espncdn.com/photo/2026/1026/r1736706_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Michael Penix Jr. shows he could be Atlanta's QB1",
-        "url": "https://www.espn.com/nfl/story/_/id/50321280/atlanta-falcons-michael-penix-future",
-        "publishedAt": "2026-10-31T10:00:02Z",
-        "summary": "Penix has been mostly above average after 17 games as an NFL starter, and that's really all Atlanta needs him to be.",
-        "image": "https://a.espncdn.com/photo/2026/1029/r1738240_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Will the Bills' defense stop them from winning a Super Bowl?",
-        "url": "https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau",
-        "publishedAt": "2026-10-31T10:24:11Z",
-        "summary": "Buffalo's defense ranks among the worst in several key statistical areas, including the third-most points allowed.",
-        "image": "https://a.espncdn.com/photo/2026/1028/r1737569_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Records show 3 other women accused Packers' Josh Jacobs of abuse after arrest",
-        "url": "https://www.espn.com/nfl/story/_/id/50333636/records-show-3-other-women-accused-packers-josh-jacobs-abuse",
-        "publishedAt": "2026-10-31T12:18:51Z",
-        "summary": "Three other women contacted police to detail allegations of abuse against Packers RB Josh Jacobs following his May arrest for an altercation with his then-girlfriend.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1733122_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings Week 8: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-10-31T02:55:43Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 8: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-10-31T02:55:06Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 8: Running back",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-        "publishedAt": "2026-10-31T02:55:25Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0927/r1722612_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 8: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-10-31T02:54:30Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711063_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
