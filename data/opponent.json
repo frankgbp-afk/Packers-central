@@ -22,7 +22,7 @@
       "pointsAgainst": 143,
       "scoringOffense": 22.9,
       "scoringDefense": 20.4,
-      "offenseRank": 19,
+      "offenseRank": 16,
       "defenseRank": 9
     },
     "packers": {
@@ -37,7 +37,7 @@
       "pointsAgainst": 164,
       "scoringOffense": 21.4,
       "scoringDefense": 20.5,
-      "offenseRank": 23,
+      "offenseRank": 22,
       "defenseRank": 11
     }
   },
@@ -81,6 +81,14 @@
   ],
   "articles": [
     {
+      "title": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+      "publishedAt": "2026-11-01T21:05:01Z",
+      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png",
+      "source": "ESPN"
+    },
+    {
       "title": "Ranking the top 10 trick plays in Super Bowl history",
       "url": "https://www.espn.com/nfl/story/_/id/50300237/top-10-super-bowl-trick-plays-history",
       "publishedAt": "2026-11-01T18:49:56Z",
@@ -94,14 +102,6 @@
       "publishedAt": "2026-11-01T18:46:44Z",
       "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
       "image": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "NFL Week 8's best arrivals, led by Vikings' Kyler Murray",
-      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
-      "publishedAt": "2026-11-01T17:05:43Z",
-      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739525_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-01T19:38:13.851Z"
+  "updatedAt": "2026-11-01T22:08:14.939Z"
 }
