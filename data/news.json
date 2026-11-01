@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:21:24.634Z",
+  "updatedAt": "2026-11-01T00:11:13.937Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,63 @@
     ],
     "espn": [
       {
+        "title": "Halloween 2026: Breaking down top athlete costumes from across the sports world",
+        "url": "https://www.espn.com/nba/story/_/id/50321862/halloween-athlete-costumes-2026",
+        "publishedAt": "2026-10-31T23:13:32Z",
+        "summary": "Athletes far and wide across the sports world showed off special costumes for Halloween.",
+        "image": "https://a.espncdn.com/photo/2026/1031/r1738784_1296x729_16-9.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Derwin James placed on injured reserve after hamstring rehab setback",
+        "url": "https://www.espn.com/nfl/story/_/id/50340504/chargers-safety-james-hamstring-placed-injured-reserve",
+        "publishedAt": "2026-10-31T23:17:53Z",
+        "summary": "The Chargers have placed safety Derwin James Jr. on injured reserve because of a hamstring injury.",
+        "image": "https://a.espncdn.com/photo/2026/1031/r1739168_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football last-minute pickups: Geno Smith, Ryan Flournoy are top options",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50319414/fantasy-football-streamers-last-minute-pickups-week-8",
+        "publishedAt": "2026-10-31T22:13:26Z",
+        "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
+        "image": "https://a.espncdn.com/photo/2026/1025/r1736055_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Zach Charbonnet, Jadarian Price have no game designations for Monday",
+        "url": "https://www.espn.com/nfl/story/_/id/50340383/seahawks-rbs-charbonnet-price-healthy-play-monday-night",
+        "publishedAt": "2026-10-31T23:05:04Z",
+        "summary": "Seahawks running backs Zach Charbonnet and Jadarian Price have no game designations, meaning both are healthy enough to play Monday night against the Bears.",
+        "image": "https://a.espncdn.com/photo/2026/1031/r1739146_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+        "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
+        "publishedAt": "2026-10-31T21:53:28Z",
+        "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+        "image": "https://a.espncdn.com/photo/2026/1028/16x9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "T'Vondre Sweat placed on injured reserve with knee injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50339066/tvondre-sweat-placed-injured-reserve-knee-injury",
+        "publishedAt": "2026-10-31T20:20:30Z",
+        "summary": "The Jets will be without T'Vondre Sweat for at least the next four games, as the starting nose tackle was placed on injured reserve Saturday with a knee sprain.",
+        "image": "https://a.espncdn.com/photo/2026/1031/r1739089_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "NFL to review additional allegations against Packers RB Josh Jacobs",
         "url": "https://www.espn.com/nfl/story/_/id/50338005/nfl-review-additional-allegations-packers-jacobs",
-        "publishedAt": "2026-10-31T19:10:14Z",
+        "publishedAt": "2026-10-31T19:31:38Z",
         "summary": "The NFL said it will look into additional allegations of physical and verbal abuse by Packers RB Josh Jacobs that were revealed as part of a public records release from the Hobart/Lawrence Police Department.",
         "image": "https://a.espncdn.com/photo/2026/1019/r1733122_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -133,7 +187,7 @@
       {
         "title": "Patriots rule out A.J. Brown, TreVeyon Henderson vs. Dolphins",
         "url": "https://www.espn.com/nfl/story/_/id/50337296/patriots-rule-aj-brown-treveyon-henderson-vs-dolphins",
-        "publishedAt": "2026-10-31T17:42:52Z",
+        "publishedAt": "2026-10-31T20:09:53Z",
         "summary": "Patriots wide receiver A.J. Brown has been ruled out for Sunday's game against the Dolphins. In addition, No. 2 running back TreVeyon Henderson has been ruled out due to an illness.",
         "image": "https://a.espncdn.com/photo/2026/1018/r1732577_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -142,7 +196,7 @@
       {
         "title": "Source: Commanders DT Daron Payne suffered season-ending foot injury",
         "url": "https://www.espn.com/nfl/story/_/id/50336399/source-commanders-dt-payne-suffered-season-ending-foot-injury",
-        "publishedAt": "2026-10-31T15:46:37Z",
+        "publishedAt": "2026-10-31T20:12:47Z",
         "summary": "Commanders defensive tackle Daron Payne suffered a season-ending Jones fracture in practice Friday, a source told ESPN's Adam Schefter.",
         "image": "https://a.espncdn.com/photo/2026/1027/r1737127_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -165,63 +219,27 @@
         "image": "https://a.espncdn.com/photo/2026/0912/r1715380_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Packers, Micah Parsons target return for Thanksgiving Eve game vs. Rams",
-        "url": "https://www.espn.com/nfl/story/_/id/50335391/sources-packers-micah-parsons-eye-thanksgiving-eve-return",
-        "publishedAt": "2026-10-31T13:28:28Z",
-        "summary": "The Packers and Micah Parsons are targeting the Thanksgiving Eve game against the Rams for his return to the field, sources told NFL Network.",
-        "image": "https://a.espncdn.com/photo/2026/1028/r1737483_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Appellate court revives 'Sunday Ticket' antitrust verdict against NFL",
-        "url": "https://www.espn.com/nfl/story/_/id/50335296/appeals-court-revives-sunday-ticket-verdict-nfl",
-        "publishedAt": "2026-10-31T13:49:42Z",
-        "summary": "A verdict in a class action lawsuit filed by \"Sunday Ticket\" subscribers claiming the NFL broke antitrust laws has been revived by a federal appeals court, more than two years after a $4.7 billion ruling against the league was reversed.",
-        "image": "https://a.espncdn.com/photo/2026/0320/r1631265_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "'No way' that Jets trade star WR Garrett Wilson before deadline, source says",
-        "url": "https://www.espn.com/nfl/story/_/id/50331651/no-way-jets-trade-garrett-wilson-deadline-source-says",
-        "publishedAt": "2026-10-31T12:33:18Z",
-        "summary": "The Jets are not expected to trade Garrett Wilson, sources told ESPN, despite increased speculation about the star wide receiver's future.",
-        "image": "https://a.espncdn.com/photo/2026/1025/r1736113_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams",
-        "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
-        "publishedAt": "2026-10-31T15:08:29Z",
-        "summary": "The Colts now are open to trading Jonathan Taylor, sources told ESPN and NFL Network, and multiple teams have reached out to Indianapolis.",
-        "image": "https://a.espncdn.com/photo/2026/0914/r1716699_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 8 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-        "url": "https://www.espn.com/nfl/story/_/id/50319868/week-8-predictions-upsets-fantasy-sleepers-stats-2026",
-        "publishedAt": "2026-10-31T10:57:35Z",
-        "summary": "Tough day coming for Derrick Henry? Browns pulling an upset over the Steelers? Fantasy potential for Geno Smith? Let's predict 15 things for Week 8.﻿",
-        "image": "https://a.espncdn.com/photo/2026/1029/r1738274_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Where the 2026 Vikings rank among worst 6-0 NFL teams ever",
-        "url": "https://www.espn.com/nfl/story/_/id/50329579/2026-minnesota-vikings-worst-undefeated-team-ever",
-        "publishedAt": "2026-10-31T10:58:10Z",
-        "summary": "Aaron Schatz ranked the worst 6-0 teams ever by DVOA and point differential. Where do the 2026 Vikings land, and what's next for them?",
-        "image": "https://a.espncdn.com/photo/2026/1030/r1738633_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "The Packers can’t run block",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88997/the-packers-cant-run-block",
+        "publishedAt": "2026-10-31T17:22:41-04:00",
+        "summary": "Stating the complete obvious, but the Green Bay Packers’ running game has reached a level of hopelessness that seems almost statistically impossible. Coming into Thursday night, the Carolina Panthers ranked a paltry 30th in EPA allowed per rush. If there was ever going to be any sort of “get right” game for the offensive line, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301680732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Long snapping on kicks in Week 8",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89003/packers-film-room-long-snapping-on-kicks-in-week-8",
+        "publishedAt": "2026-10-31T16:32:07-04:00",
+        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. We’ve got 4 this week, all of the extra point variety. Listen. Between you, me, the fencepost and our little stick figure friend, I started this article in the preseason because everyone seemed to have long-snapper takes and I wanted [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "More women have accused Josh Jacobs of abuse",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89032/more-women-have-accused-josh-jacobs-of-abuse",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-29T23:39:35-04:00",
         "summary": "If the Green Bay Packers had lost to fall to .500 on the season, they also would have fallen out of their playoff spot. With their home win on Thursday, they ensured they would stick in a playoff spot well into November. After moving to 5-3 overall and 4-3 in the NFC, the Packers can’t [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302618493.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers-Panthers Final Score: Pressure gets to Carolina’s Bryce Young",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/88949/packers-panthers-final-score-pressure-gets-to-carolinas-bryce-young",
-        "publishedAt": "2026-10-29T23:36:45-04:00",
-        "summary": "The Green Bay Packers are up to a 5-3 record after their Thursday Night Football win over the Carolina Panthers. The Packers won. The Milwaukee Brewers trotted around their new trophy. Kevin Harlan gave a speech at halftime on behalf of his father, who was added to the team’s ring of honor. It feels like [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302612272.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Christian Watson taken to hospital for chest injury",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88954/christian-watson-taken-to-hospital-for-chest-injury",
-        "publishedAt": "2026-10-29T21:30:23-04:00",
-        "summary": "Green Bay Packers receiver Christian Watson was able to walk off the field under his own power when he exited the game on Thursday Night Football against the Carolina Panthers, but it doesn’t look like he’ll return to the game. The Packers officially ruled him out with a chest injury, but the game broadcast said [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302611884.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
