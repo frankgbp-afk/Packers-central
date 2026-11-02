@@ -14,16 +14,16 @@
       "id": "17",
       "name": "New England Patriots",
       "abbreviation": "NE",
-      "games": 7,
-      "wins": 4,
+      "games": 8,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "pointsFor": 160,
-      "pointsAgainst": 143,
-      "scoringOffense": 22.9,
-      "scoringDefense": 20.4,
+      "pointsFor": 184,
+      "pointsAgainst": 162,
+      "scoringOffense": 23,
+      "scoringDefense": 20.3,
       "offenseRank": 16,
-      "defenseRank": 9
+      "defenseRank": 8
     },
     "packers": {
       "id": "9",
@@ -37,11 +37,20 @@
       "pointsAgainst": 164,
       "scoringOffense": 21.4,
       "scoringDefense": 20.5,
-      "offenseRank": 22,
-      "defenseRank": 11
+      "offenseRank": 23,
+      "defenseRank": 10
     }
   },
   "recentGames": [
+    {
+      "date": "2026-11-01T21:25Z",
+      "opponent": "Miami Dolphins",
+      "opponentAbbr": "MIA",
+      "homeAway": "AT",
+      "result": "W",
+      "pointsFor": 24,
+      "pointsAgainst": 19
+    },
     {
       "date": "2026-10-23T00:15Z",
       "opponent": "Chicago Bears",
@@ -68,32 +77,39 @@
       "result": "W",
       "pointsFor": 45,
       "pointsAgainst": 17
-    },
-    {
-      "date": "2026-10-04T17:00Z",
-      "opponent": "Buffalo Bills",
-      "opponentAbbr": "BUF",
-      "homeAway": "AT",
-      "result": "W",
-      "pointsFor": 29,
-      "pointsAgainst": 26
     }
   ],
   "articles": [
+    {
+      "title": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026",
+      "publishedAt": "2026-11-02T00:47:19Z",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739681_1296x729_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "Maye has 3 touchdowns as Patriots rally to beat Dolphins 24-19",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873034",
+      "publishedAt": "2026-11-02T00:41:47Z",
+      "summary": "— Drake Maye threw two touchdown passes and rushed for a score as the New England Patriots came back to beat the Miami Dolphins 24-19 on Sunday.",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873034.png?templateId=espn.applewatch.awayhome.1",
+      "source": "ESPN"
+    },
+    {
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-11-02T00:19:51Z",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "image": "https://a.espncdn.com/photo/2026/0928/nfl_data_viz_von_miller_cr_608x342.jpg",
+      "source": "ESPN"
+    },
     {
       "title": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
       "publishedAt": "2026-11-01T21:05:01Z",
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
       "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png",
-      "source": "ESPN"
-    },
-    {
-      "title": "Ranking the top 10 trick plays in Super Bowl history",
-      "url": "https://www.espn.com/nfl/story/_/id/50300237/top-10-super-bowl-trick-plays-history",
-      "publishedAt": "2026-11-01T18:49:56Z",
-      "summary": "Which trick plays cemented their legacies in the Super Bowl? We listed 10 that changed momentum or flat-out won championships.",
-      "image": "https://a.espncdn.com/photo/2026/1031/top_10_trick_plays_super_bowl_history_1296x729.png",
       "source": "ESPN"
     },
     {
@@ -111,23 +127,7 @@
       "summary": "Former Patriots player and current TV analyst Logan Ryan details what he thinks New England needs to improve on vs. Miami.",
       "image": "https://a.espncdn.com/photo/2026/1031/r1738926_608x342_16-9.jpg",
       "source": "ESPN"
-    },
-    {
-      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "publishedAt": "2026-10-31T21:53:28Z",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "image": "https://a.espncdn.com/photo/2026/1028/16x9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Patriots rule out A.J. Brown, TreVeyon Henderson vs. Dolphins",
-      "url": "https://www.espn.com/nfl/story/_/id/50337296/patriots-rule-aj-brown-treveyon-henderson-vs-dolphins",
-      "publishedAt": "2026-10-31T20:09:53Z",
-      "summary": "Patriots wide receiver A.J. Brown has been ruled out for Sunday's game against the Dolphins. In addition, No. 2 running back TreVeyon Henderson has been ruled out due to an illness.",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732577_600x400_3-2.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-01T22:08:14.939Z"
+  "updatedAt": "2026-11-02T02:28:04.884Z"
 }
