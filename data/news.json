@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:08:15.014Z",
+  "updatedAt": "2026-11-02T06:19:29.850Z",
   "sources": {
     "packers": [
       {
@@ -113,115 +113,133 @@
     ],
     "espn": [
       {
+        "title": "Top NFL plays from Week 8",
+        "url": "https://www.espn.com/video/clip/_/id/50355646/top-nfl-plays-week-8",
+        "publishedAt": "2026-11-02T05:57:55Z",
+        "summary": "Top NFL plays from Week 8",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/ss_20261101_235000001_3721792/ss_20261101_235000001_3721792.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
         "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-11-01T22:02:04Z",
+        "publishedAt": "2026-11-02T05:21:34Z",
         "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
-        "image": "https://a.espncdn.com/photo/2026/1101/r1739681_1296x729_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1739933_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Arizona Cardinals vs. Dallas Cowboys: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50351592/game-highlights",
-        "publishedAt": "2026-11-01T21:59:57Z",
-        "summary": "Arizona Cardinals vs. Dallas Cowboys: Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/1730bae3-9209-48cd-b6d4-6d64b648cafd/1730bae3-9209-48cd-b6d4-6d64b648cafd.jpg",
+        "title": "Jayden Daniels throws TD pass and Commanders shut out Eagles over final 3 quarters of 27-10 win",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873035",
+        "publishedAt": "2026-11-02T04:43:47Z",
+        "summary": "— Jayden Daniels threw for 217 yards and a touchdown, and the Washington Commanders shut out the Philadelphia Eagles over the final three quarters of a 27-10 victory on Sunday night.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873035.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football buzz: Week 8's leading scorers through Sunday's early games",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-11-01T21:57:46Z",
-        "summary": "Week 8's leading fantasy scorers through Sunday's early games.",
-        "image": "https://a.espncdn.com/photo/2026/1101/r1739701_1296x729_16-9.jpg",
+        "title": "Commanders dispatch Eagles 27-10 on SNF",
+        "url": "https://www.espn.com/video/clip/_/id/50355502/commanders-dispatch-eagles-27-10-snf",
+        "publishedAt": "2026-11-02T04:31:30Z",
+        "summary": "Commanders dispatch Eagles 27-10 on SNF",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1102/926ceceb-c2ae-4a72-86e8-b7d76879bbd7/926ceceb-c2ae-4a72-86e8-b7d76879bbd7.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jim Harbaugh backs Mike McDaniel, Justin Herbert despite Chargers' post-bye dud",
+        "url": "https://www.espn.com/nfl/story/_/id/50355492/chargers-jim-harbaugh-backs-mike-mcdaniel-justin-herbert",
+        "publishedAt": "2026-11-02T05:12:14Z",
+        "summary": "Jim Harbaugh continued to back both offensive coordinator Mike McDaniel and quarterback Justin Herbert after the Chargers' latest loss Sunday.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1739953_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Week 8 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/50347464/week-8-sunday-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-11-01T21:55:58Z",
+        "publishedAt": "2026-11-02T04:57:01Z",
         "summary": "Check here for Sunday's top moments and TDs as Josh Allen, Dak Prescott and Jonathan Taylor take the field.",
-        "image": "https://a.espncdn.com/photo/2026/1101/r1739713_608x342_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1739914_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Pittsburgh Steelers vs. Cleveland Browns Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50351556/pittsburgh-steelers-vs-cleveland-browns-game-highlights",
-        "publishedAt": "2026-11-01T22:00:44Z",
-        "summary": "Pittsburgh Steelers vs. Cleveland Browns Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/edb66ea3-ddb6-450a-b62a-7deaced0aa25/edb66ea3-ddb6-450a-b62a-7deaced0aa25.jpg",
+        "title": "Betting buzz: Cardinals lead charge for big underdogs yet again",
+        "url": "https://www.espn.com/espn/betting/story/_/id/49466506/nfl-betting-buzz-odds-updates-line-moves-spreads",
+        "publishedAt": "2026-11-02T04:26:08Z",
+        "summary": "Arizona is 4-0 ATS as a seven-point underdog and has three outright wins in that role, including Sunday's stunning comeback at Dallas.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1739944_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Chad Ryland kicks winning FG after PAT miss that forced OT as Cards get wild 33-30 win over Cowboys",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873024",
-        "publishedAt": "2026-11-01T21:52:47Z",
-        "summary": "— Chad Ryland kicked a winning 42-yard field goal in overtime after missing a PAT that would have won the game with 6 seconds left in regulation, and the Arizona Cardinals rallied for a wild 33-30 victory over the Dallas Cowboys on Sunday.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873024.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Broncos use last-second goal-line stand to hold off Chiefs",
+        "url": "https://www.espn.com/nfl/story/_/id/50355124/broncos-use-last-second-goal-line-stand-hold-chiefs",
+        "publishedAt": "2026-11-02T04:24:00Z",
+        "summary": "Kansas City and Patrick Mahomes got the ball to the Denver 4-yard line with 35 seconds to play but were held out of the end zone on five straight plays.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1739905_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Las Vegas Raiders vs. New York Jets: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50351513/game-highlights",
-        "publishedAt": "2026-11-01T22:01:09Z",
-        "summary": "Las Vegas Raiders vs. New York Jets: Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/9461c9ca-476c-4eb6-adcf-6e514e18b0cc/9461c9ca-476c-4eb6-adcf-6e514e18b0cc.jpg",
+        "title": "Jerry Jonens responds to Dallas OT loss: 'It's an indictment of the whole show'",
+        "url": "https://www.espn.com/video/clip/_/id/50355024/indictment-whole-show",
+        "publishedAt": "2026-11-02T05:28:59Z",
+        "summary": "Jerry Jonens responds to Dallas OT loss: 'It's an indictment of the whole show'",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/ss_20261101_221641822_3721705/ss_20261101_221641822_3721705.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Baltimore Ravens vs Buffalo Bills: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50351505/game-highlights",
-        "publishedAt": "2026-11-01T21:54:42Z",
-        "summary": "Baltimore Ravens vs Buffalo Bills: Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/7f7d8d1f-2300-46d7-8dc0-1c13f4effb1f/7f7d8d1f-2300-46d7-8dc0-1c13f4effb1f.jpg",
+        "title": "Why Tee Higgins is a top-15 fantasy option moving forward",
+        "url": "https://www.espn.com/video/clip/_/id/50354087/why-tee-higgins-top-15-fantasy-option-moving-forward",
+        "publishedAt": "2026-11-02T02:21:25Z",
+        "summary": "Why Tee Higgins is a top-15 fantasy option moving forward  ",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/ss_20261101_202653858_3721590/ss_20261101_202653858_3721590.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills surge in 2nd half in 36-10 win over Baltimore in outing Ravens lose Jackson, Huntley to injury",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873026",
-        "publishedAt": "2026-11-01T22:01:47Z",
-        "summary": "— Josh Allen threw two touchdown passes and scored another rushing, and the Buffalo Bills overcame a sloppy first half in a 36-10 win over Baltimore on Sunday in an outing the Ravens lost starting quarterback Lamar Jackson and his backup Tyler Huntley...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873026.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+        "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+        "publishedAt": "2026-11-02T01:38:07Z",
+        "summary": "The Pittsburgh passer is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+        "image": "https://a.espncdn.com/photo/2026/1026/r1736300_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Raiders rally past the Jets 38-33 as Kirk Cousins leads a comeback to snap a 4-game skid",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873029",
-        "publishedAt": "2026-11-01T21:40:47Z",
-        "summary": "— Kirk Cousins threw three touchdown passes, including a go-ahead 2-yard toss to Jalen Nailor in the fourth quarter, and ran for another score and the Las Vegas Raiders snapped a four-game skid with a 38-33 comeback victory over the New York Jets on...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873029.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Goff throws go-ahead touchdown pass to Williams and Lions beat Vikings 19-15 for their 1st loss",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873030",
-        "publishedAt": "2026-11-01T21:21:59Z",
-        "summary": "— Jared Goff threw a go-ahead, 7-yard touchdown pass to Jameson Williams with 4:35 left and the Detroit Lions beat the Minnesota Vikings 19-15 on...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873030.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jags make easy work of Colts with dominating win",
-        "url": "https://www.espn.com/video/clip/_/id/50351187/jags-make-easy-work-colts-dominating-win",
-        "publishedAt": "2026-11-01T21:20:27Z",
-        "summary": "Jags make easy work of Colts with dominating win",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1101/d45e6851-7859-4574-97a4-b43dabff0cb0/d45e6851-7859-4574-97a4-b43dabff0cb0.jpg",
+        "title": "Judging overreactions to NFL Week 8: Days numbered for Schottenheimer, Jackson?",
+        "url": "https://www.espn.com/nfl/story/_/id/50349514/week-8-overreactions-2026-graziano-schottenheimer-jackson",
+        "publishedAt": "2026-11-02T02:51:57Z",
+        "summary": "Changes coming in Dallas? Have we seen Lamar's final pass for the Ravens? Could the NFC North go four-for-four? Let's overreact to Sunday's games.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1739855_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Pro Football Blurry",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89048/pro-football-blurry",
+        "publishedAt": "2026-11-01T17:35:47-05:00",
+        "summary": "Pro Football Focus has always had a few understandable issues with subjectivity. Grades are not hard and fast metrics, and they can occasionally be wrong as a result; however, I do believe PFF’s goals were both honorable and valuable. It is incredibly difficult to separate out performances in football, as running backs are only as [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302755984.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Jordan Love throws 3 TDs",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89016/packers-film-room-jordan-love-throws-3-tds",
+        "publishedAt": "2026-11-01T17:15:57-05:00",
+        "summary": "While an interception is a black mark on the stat line, Green Bay Packers quarterback Jordan Love turned in a nice day. With no run game to speak of (their running backs carried the ball 25 times for 48 yards, a whopping 1.9 yards per carry), Love was the engine that kept the offense moving, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302108320.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "The Packers can’t run block",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88997/the-packers-cant-run-block",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-10-30T10:18:25-04:00",
         "summary": "The Green Bay Packers had a perfect opportunity to get their running game back on track on Thursday. They were facing the Carolina Panthers, who had just allowed 258 rushing yards to the Tampa Bay Buccaneers four days earlier, and they got them on a short week. Josh Jacobs was back — and although mileage [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302616002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Snap Counts, Week 8: It’s the Josh Jacobs show in Green Bay",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/88977/packers-snap-counts-week-8-its-the-josh-jacobs-show-in-green-bay",
-        "publishedAt": "2026-10-30T00:23:56-04:00",
-        "summary": "The Green Bay Packers made a couple of adjustments to their roster this week, starting with who they decided to activate for their 48-man game-day active list. Let’s go position-by-position through the Packers’ snap counts from their Week 8 win over the Carolina Panthers, noting where some things have changed with the team. Quarterback Running [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302617595.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFC Playoff Picture: Packers stay in Wild Card spot with win",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-nfl-playoffs/88967/nfc-playoff-picture-green-bay-packers-stay-in-wild-card-spot-with-win",
-        "publishedAt": "2026-10-29T23:39:35-04:00",
-        "summary": "If the Green Bay Packers had lost to fall to .500 on the season, they also would have fallen out of their playoff spot. With their home win on Thursday, they ensured they would stick in a playoff spot well into November. After moving to 5-3 overall and 4-3 in the NFC, the Packers can’t [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302618493.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
