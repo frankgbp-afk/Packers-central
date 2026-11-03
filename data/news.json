@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-02T19:33:46.391Z",
+  "updatedAt": "2026-11-03T02:56:41.310Z",
   "sources": {
     "packers": [
+      {
+        "title": "Matt LaFleur comments on Josh Jacobs, Micah Parsons",
+        "url": "https://www.packers.com/news/matt-lafleur-comments-on-josh-jacobs-micah-parsons-nov-2-2026",
+        "publishedAt": "Mon, 02 Nov 2026 21:47:22 GMT",
+        "summary": "Head coach discusses Packers’ offensive line as well",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/leh1ditlyfznox3daog2.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "WR Matthew Golden's TD gave Packers multi-score lead",
         "url": "https://www.packers.com/news/wr-matthew-goldens-td-gave-packers-multi-score-lead-week-8-2026",
@@ -100,128 +109,164 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/sg4dancx3makscaawatr.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Live Chat: Packers vs. Panthers | Week 8",
-        "url": "https://www.packers.com/news/live-chat-packers-vs-panthers-week-8-2026",
-        "publishedAt": "Thu, 29 Oct 2026 20:30:00 GMT",
-        "summary": "Follow the Green Bay Packers vs. Carolina Panthers game with live updates from Lambeau Field.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rdqs61is0u2tcoumlcs5.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Record-setting deal? Trade? A look at Lamar Jackson's cloudy future with Ravens",
-        "url": "https://www.espn.com/nfl/story/_/id/50359850/look-lamar-jackson-cloudy-future-baltimore-ravens",
-        "publishedAt": "2026-11-02T19:31:11Z",
-        "summary": "It's possible that Jackson's final snap with the Ravens ended with injury Sunday night.",
-        "image": "https://a.espncdn.com/photo/2026/1102/r1740144_1296x729_16-9.jpg",
+        "title": "Ravens QB Joe Fagnano (ankle) has chance to play Thursday, per Jesse Minter",
+        "url": "https://www.espn.com/nfl/story/_/id/50362530/ravens-qb-joe-fagnano-ankle-chance-play-thursday",
+        "publishedAt": "2026-11-03T01:22:16Z",
+        "summary": "Ravens quarterback Joe Fagnano is dealing with an ankle injury but has \"a chance\" to play Thursday night, coach Jesse Minter said.",
+        "image": "https://a.espncdn.com/photo/2026/1103/r1740289_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bengals defensive end Cashius Howell out indefinitely after wrist surgery",
-        "url": "https://www.espn.com/nfl/story/_/id/50360179/bengals-cashius-howell-indefinitely-wrist-surgery",
-        "publishedAt": "2026-11-02T19:24:15Z",
-        "summary": "Bengals defensive end Cashius Howell will be out indefinitely after having surgery to repair his right wrist, which he injured in Cincinnati's win against the Titans on Sunday.",
-        "image": "https://a.espncdn.com/photo/2026/1102/r1740153_1296x729_16-9.jpg",
+        "title": "The evolution of Seahawks All-Pro CB Devon Witherspoon",
+        "url": "https://www.espn.com/video/clip/_/id/50362402/the-evolution-seahawks-all-pro-cb-devon-witherspoon",
+        "publishedAt": "2026-11-03T00:36:29Z",
+        "summary": "The evolution of Seahawks All-Pro CB Devon Witherspoon",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_193033240_3722526/ss_20261102_193033240_3722526.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race",
-        "url": "https://www.espn.com/nfl/story/_/id/50359521/chiefs-fourth-quarter-collapse-broncos-afc-west-standings",
-        "publishedAt": "2026-11-02T19:10:05Z",
-        "summary": "Prior to Sunday's game, the Chiefs were 80-2 when leading by 10 or more in the fourth quarter under Patrick Mahomes.",
-        "image": "https://a.espncdn.com/photo/2026/1102/r1740138_608x342_16-9.jpg",
+        "title": "Falcons' James Pearce back from suspension, expected to play",
+        "url": "https://www.espn.com/nfl/story/_/id/50362043/falcons-james-pearce-back-suspension-expected-play",
+        "publishedAt": "2026-11-03T00:14:23Z",
+        "summary": "Pearce served an eight-game league suspension stemming from a February domestic violence arrest.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1740274_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
-        "url": "https://www.espn.com/video/clip/_/id/50359898/see-kirk-cousins-trade-option",
-        "publishedAt": "2026-11-02T18:57:47Z",
-        "summary": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_134704266_3722120/ss_20261102_134704266_3722120.jpg",
+        "title": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
+        "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+        "publishedAt": "2026-11-02T23:57:49Z",
+        "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
+        "image": "https://a.espncdn.com/photo/2026/1101/r1739714_2_608x342_16-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Is Chase Brown a buy-low candidate in fantasy?",
-        "url": "https://www.espn.com/video/clip/_/id/50359658/is-chase-brown-buy-low-candidate-fantasy",
-        "publishedAt": "2026-11-02T18:23:04Z",
-        "summary": "Is Chase Brown a buy-low candidate in fantasy?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_130843543_3722095802/ss_20261102_130843543_3722095802.jpg",
+        "title": "Harbaugh reached out on Simmons trade, says Giants 'open for any call'",
+        "url": "https://www.espn.com/nfl/story/_/id/50361915/harbaugh-reached-simmons-giants-open-call",
+        "publishedAt": "2026-11-03T00:20:19Z",
+        "summary": "John Harbaugh acknowledged calling Titans owner Amy Adams Strunk about the since-traded Jeffery Simmons with New York open for business ahead of the deadline.",
+        "image": "https://a.espncdn.com/photo/2026/0909/r1713902_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Mike Clay: It's hard to trust Dallas Goedert in fantasy",
-        "url": "https://www.espn.com/video/clip/_/id/50359611/hard-trust-dallas-goedert-fantasy",
-        "publishedAt": "2026-11-02T18:21:17Z",
-        "summary": "Mike Clay: It's hard to trust Dallas Goedert in fantasy",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_125322726_3722079799/ss_20261102_125322726_3722079799.jpg",
+        "title": "Myles Garrett will return to practice this week for Los Angeles Rams",
+        "url": "https://www.espn.com/nfl/story/_/id/50361646/garrett-return-practice-week-rams-mcvay-says",
+        "publishedAt": "2026-11-03T00:11:29Z",
+        "summary": "Los Angeles Rams star pass rusher Myles Garrett, who has been on injured reserve since having arthroscopic knee surgery in mid-September, will return to practice this week, coach Sean McVay told reporters Monday.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1740253_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL trade deadline updates: Jeffery Simmons, Quenton Nelson on the move",
-        "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-        "publishedAt": "2026-11-02T17:50:34Z",
-        "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a blockbuster sending Jeffery Simmons to Chicago.",
-        "image": "https://a.espncdn.com/photo/2025/1215/r1589666_608x342_16-9.jpg",
+        "title": "Cardinals' Mike LaFleur: Jeremiyah Love's injury to 'new portion' of his ankle",
+        "url": "https://www.espn.com/nfl/story/_/id/50361618/cardinals-lafleur-love-injury-new-portion-ankle",
+        "publishedAt": "2026-11-02T23:28:44Z",
+        "summary": "Cardinals rookie running back Jeremiyah Love suffered a new ankle injury in Sunday's win over the Cowboys, coach Mike LaFleur said.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1740255_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Source: Buccaneers pass rusher Yaya Diaby has Grade 2 MCL sprain",
-        "url": "https://www.espn.com/nfl/story/_/id/50359458/source-buccaneers-yaya-diaby-grade-2-mcl-sprain",
-        "publishedAt": "2026-11-02T18:24:01Z",
-        "summary": "Buccaneers outside linebacker Yaya Diaby suffered a Grade 2 MCL sprain in Sunday's 16-0 victory over the Falcons, a source told NFL Network's Ian Rapoport.",
-        "image": "https://a.espncdn.com/photo/2026/1102/r1740112_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Stephen A. proposes a Steelers reunion with George Pickens",
-        "url": "https://www.espn.com/video/clip/_/id/50359323/stephen-proposes-steelers-reunion-george-pickens",
-        "publishedAt": "2026-11-02T17:09:06Z",
-        "summary": "Stephen A. proposes a Steelers reunion with George Pickens",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_120148528_3722034/ss_20261102_120148528_3722034.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9",
-        "publishedAt": "2026-11-02T17:39:03Z",
-        "summary": "The top available players worth adding to your roster or streaming in standard or deeper leagues",
-        "image": "https://a.espncdn.com/photo/2026/1102/r1740088_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football buzz: Lamar Jackson's injury and who got the ball in Week 8",
+        "title": "Fantasy buzz: Minshew takes over in AZ; Charbonnet, Price return; Jackson on IR",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-11-02T17:37:26Z",
-        "summary": "All the takeaways from Sunday's slate of games and the fantasy fallout you need to know.",
-        "image": "https://a.espncdn.com/photo/2026/1102/r1740085_576x324_16-9.jpg",
+        "publishedAt": "2026-11-02T22:32:24Z",
+        "summary": "A closer look at the impact of Gardner Minshew II taking over as the Cardinals starting quarterback.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1740232_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football 10-team Knockout league rankings: The 140 players to draft",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-        "publishedAt": "2026-11-02T16:37:30Z",
-        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg",
+        "title": "NFL depth charts for all 32 teams for 2026 season",
+        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+        "publishedAt": "2026-11-02T21:49:39Z",
+        "summary": "Here are the latest NFL depth charts for all 32 teams.",
+        "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Nick Sirianni not making changes at OC or QB despite Eagles' losing streak",
+        "url": "https://www.espn.com/nfl/story/_/id/50361174/sirianni-no-changes-oc-qb-eagles-six-game-skid",
+        "publishedAt": "2026-11-03T00:15:03Z",
+        "summary": "Eagles coach Nick Sirianni said Monday that he is not making a change at offensive coordinator or quarterback amid his team's six-game losing streak.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1740218_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Dolphins' blown lead another lesson in a season full of them",
+        "url": "https://www.espn.com/nfl/story/_/id/50360735/miami-dolphins-blow-lead-vs-patriots-improving",
+        "publishedAt": "2026-11-02T21:47:45Z",
+        "summary": "The Dolphins are hoping to learn another lesson from the Patiots: It takes from kickoff until the final whistle.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1740204_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cardinals name Gardner Minshew as starter, move Jacoby Brissett to QB3",
+        "url": "https://www.espn.com/nfl/story/_/id/50361163/cardinals-move-forward-gardner-minshew-starting-qb",
+        "publishedAt": "2026-11-02T23:48:09Z",
+        "summary": "The Cardinals named Gardner Minshew as the team's new starting QB while moving Jacoby Brissett below rookie Carson Beck on the depth chart.",
+        "image": "https://a.espncdn.com/photo/2026/1101/r1739737_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers sign QB Cam Miller",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89125/packers-sign-qb-cam-miller",
+        "publishedAt": "2026-11-02T17:41:13-05:00",
+        "summary": "ESPN’s Jeremy Fowler is reporting that the Green Bay Packers have signed quarterback Cam Miller to their practice squad. The Packers had two openings on their practice squad coming into the week, so the team doesn’t need to make any corresponding roster move to execute this deal. With that being said, Green Bay already had [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2292507789.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Roster: Green Bay works out 5 on Monday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89118/packers-roster-green-bay-works-out-5-on-monday",
+        "publishedAt": "2026-11-02T17:29:49-05:00",
+        "summary": "The Green Bay Packers worked out a group of edge rushers on Monday, an interesting decision considering the team has two available roster spots on its practice squad at the moment. Worth noting: Green Bay has worked out 43 players since the cutdown deadline, and only one of them — an international player from Australia [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2171355525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "How will the Packers manage their IR designations?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88810/how-will-the-packers-manage-their-ir-designations",
+        "publishedAt": "2026-11-02T16:58:29-05:00",
+        "summary": "Each NFL team can use eight activations from the injured reserve in the regular season, with two more in the postseason if teams qualify, per league rules. How the Green Bay Packers manage these returns could define their season down the stretch, as they may have to pick and choose who comes back if they [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2254741234.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Zaire Franklin could be back for Week 9",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89114/zaire-franklin-could-be-back-for-week-9",
+        "publishedAt": "2026-11-02T16:41:29-05:00",
+        "summary": "In his Monday press conference, Green Bay Packers head coach Matt LaFleur stated that Mike linebacker Zaire Franklin, who has missed multiple games with a hairline fracture in his shin, could practice for the team in Week 9, as he’s “day to day right now.” The Packers have been down both of their starting off-ball [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Matt LaFleur says Packers will stick with running back Josh Jacobs",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89111/matt-lafleur-says-packers-will-stick-with-running-back-josh-jacobs",
+        "publishedAt": "2026-11-02T14:58:18-05:00",
+        "summary": "The Packers are addressing the still-unfolding Josh Jacobs situation by not saying much. During his Monday press availability, Matt LaFleur addressed the additional allegations of abuse levied by multiple women against the running back by saying he didn’t have much to say.&#160;&#160; “Obviously, we’re aware of the prior allegations on Josh and we’re going to [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302756771.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers News: Ty’Ron Hopper is having his moment",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89102/green-bay-packers-news-tyron-hopper-is-having-his-moment",
@@ -264,51 +309,6 @@
         "publishedAt": "2026-10-31T17:22:41-04:00",
         "summary": "Stating the complete obvious, but the Green Bay Packers’ running game has reached a level of hopelessness that seems almost statistically impossible. Coming into Thursday night, the Carolina Panthers ranked a paltry 30th in EPA allowed per rush. If there was ever going to be any sort of “get right” game for the offensive line, [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301680732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Long snapping on kicks in Week 8",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89003/packers-film-room-long-snapping-on-kicks-in-week-8",
-        "publishedAt": "2026-10-31T16:32:07-04:00",
-        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. We’ve got 4 this week, all of the extra point variety. Listen. Between you, me, the fencepost and our little stick figure friend, I started this article in the preseason because everyone seemed to have long-snapper takes and I wanted [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "More women have accused Josh Jacobs of abuse",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89032/more-women-have-accused-josh-jacobs-of-abuse",
-        "publishedAt": "2026-10-31T00:36:21-04:00",
-        "summary": "According to NBC 26, a second woman has accused Green Bay Packers running back Josh Jacobs of abuse, per new records. The woman reported the incident to police in June after Jacobs’ first investigation — which ended with him pleading no contest to abuse and criminal damage to property charges — made news, but stated [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302109716.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers By The Numbers: Stats from the Week 8 win over the Panthers",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88984/packers-by-the-numbers-stats-from-the-week-8-win-over-the-panthers",
-        "publishedAt": "2026-10-30T18:57:55-04:00",
-        "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers’ most recent game, courtesy of SumerSports. Today we’re looking at the 27-19 win over the Carolina Panthers in Week 8. First things first: it’s the first time in history the Packers have won a game directly following [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30222236385838349.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Winners and Losers: Week 8 vs. the Panthers",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88946/packers-winners-and-losers-week-8-vs-the-panthers",
-        "publishedAt": "2026-10-30T18:10:20-04:00",
-        "summary": "On a short week after a disappointing loss, the Green Bay Packers bounced back, defeating the Carolina Panthers on Thursday Night Football, 27-19. Heading into this week, the Packers are sitting in last place in the NFC North, but are still very much in the thick of the Wild Card battle as a member of [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302612123.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ running game can’t close out Panthers in win",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89013/packers-running-game-cant-close-out-panthers-in-win",
-        "publishedAt": "2026-10-30T11:54:21-04:00",
-        "summary": "The Packers had two chances to end the game against the Carolina Panthers and couldn’t close out either opportunity. The first came after the Panthers scored a touchdown (but missed the two-point conversion) to narrow the Packers’ lead to eight points. They kicked the ball back to the Packers with just over 5:30 to go [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302617595.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
