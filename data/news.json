@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-04T19:50:58.113Z",
+  "updatedAt": "2026-11-05T01:29:37.660Z",
   "sources": {
     "packers": [
+      {
+        "title": "Micah Parsons' return clears another hurdle",
+        "url": "https://www.packers.com/news/micah-parsons-return-clears-another-hurdle-nov-4-2026",
+        "publishedAt": "Wed, 04 Nov 2026 22:38:46 GMT",
+        "summary": "Packers’ All-Pro edge rusher back at practice, eyeing season’s stretch run",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/svxbx3yzknzwjjz54x1c.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers QB Jordan Love named FedEx Air and Ground Player of Week 8",
+        "url": "https://www.packers.com/news/packers-qb-jordan-love-named-fedex-air-and-ground-player-of-week-8-2026",
+        "publishedAt": "Wed, 04 Nov 2026 22:02:37 GMT",
+        "summary": "It’s the Green Bay quarterback’s second time winning the weekly award this season",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yktxf0ziosd42vxt8kb8.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Joel Nellis of Brookfield Central High School named Green Bay Packers High School Coach of the Week",
+        "url": "https://www.packers.com/news/joel-nellis-of-brookfield-central-high-school-named-green-bay-packers-high-school-coach-of-the-week-nov-4-2026",
+        "publishedAt": "Wed, 04 Nov 2026 22:00:00 GMT",
+        "summary": "Nellis has the Lancers preparing for Level 3 of the WIAA Division 2 playoffs this week",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bwbm81jeo0catvy0yssw.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers-Patriots Injury Report | Nov. 4, 2026",
+        "url": "https://www.packers.com/news/packers-patriots-injury-report-nov-4-2026",
+        "publishedAt": "Wed, 04 Nov 2026 21:55:25 GMT",
+        "summary": "",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/is7qhn5stxeicrjrhep3.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Mike's Mid-Week Chat: Can the Packers' defense keep this up?",
+        "url": "https://www.packers.com/news/mike-s-mid-week-chat-can-the-packers-defense-keep-this-up-nov-4-2026",
+        "publishedAt": "Wed, 04 Nov 2026 19:58:10 GMT",
+        "summary": "Editor Mike Spofford answered fan questions in his live chat",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/djeaddvuahfjsuat2wbc.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers, NFL Foundation, LISC Grassroots Field Grant Program award $100,000 to Milwaukee to support development of community football field",
         "url": "https://www.packers.com/news/packers-nfl-foundation-lisc-grassroots-field-grant-program-award-100-000-to-milwaukee-to-support-development-of-community-football-field-2026",
@@ -39,6 +84,15 @@
         "icon": "GB"
       },
       {
+        "title": "Packers seeking 29th FAN Hall of Fame honoree",
+        "url": "https://www.packers.com/news/packers-seeking-29th-fan-hall-of-fame-honoree-2026",
+        "publishedAt": "Wed, 04 Nov 2026 10:30:00 GMT",
+        "summary": "Nominations being accepted now through Nov. 30",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/vngxrxwzkgkaiinb0lt5.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
         "title": "Packers vs. Patriots | How to watch, stream & listen | Week 9",
         "url": "https://www.packers.com/news/packers-vs-patriots-how-to-watch-stream-listen-week-9-2026",
         "publishedAt": "Tue, 03 Nov 2026 22:47:07 GMT",
@@ -55,173 +109,146 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/lkhtnmfhego4byh04dlp.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers announce roster moves | Nov. 3, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-nov-3-2026",
-        "publishedAt": "Tue, 03 Nov 2026 21:00:00 GMT",
-        "summary": "Green Bay signs three players to practice squad",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/l4jwqjdgreksfe8nv1su.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers, WIAA announce October high school football officiating 'Crew of the Month'",
-        "url": "https://www.packers.com/news/packers-wiaa-announce-october-high-school-football-officiating-crew-of-the-month-2026",
-        "publishedAt": "Tue, 03 Nov 2026 20:55:00 GMT",
-        "summary": "Crew members were chosen for their demonstration of objectivity, fairness, and commitment as officials",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/gldxujivnwgpvqyvuxkt.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Ladies of Lambeau welcomes newborns with annual community initiative",
-        "url": "https://www.packers.com/news/ladies-of-lambeau-welcomes-newborns-with-annual-community-initiative-2026",
-        "publishedAt": "Tue, 03 Nov 2026 20:31:10 GMT",
-        "summary": "Christy Policy brings women of the Packers together to support vulnerable newborns and their families through “Welcome Baby Kits”",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/apc8lwukpmjj84cccyh8.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers, Fleet Farm to honor veterans and military members for 'Salute to Service' month throughout November",
-        "url": "https://www.packers.com/news/packers-fleet-farm-to-honor-veterans-and-military-members-for-salute-to-service-month-throughout-november-2026",
-        "publishedAt": "Tue, 03 Nov 2026 20:22:52 GMT",
-        "summary": "Fans invited to shop at Fleet Farm to help raise money for the Wisconsin Veterans Network’s efforts to support local veterans in need",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/pbgq7itlicactwvbszpg.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers WR Savion Williams is 'dynamic with the ball in his hands'",
-        "url": "https://www.packers.com/news/packers-wr-savion-williams-is-dynamic-with-the-ball-in-his-hands-nov-2-2026",
-        "publishedAt": "Tue, 03 Nov 2026 15:30:00 GMT",
-        "summary": "Key comments from Green Bay’s offensive assistants",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/va09rosgpl0gglakbi3q.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Die Packers bringen ein Stück Green Bay nach Bayern",
-        "url": "https://www.packers.com/news/die-packers-bringen-ein-stueck-green-bay-nach-bayern-2026",
-        "publishedAt": "Tue, 03 Nov 2026 15:26:29 GMT",
-        "summary": "Ein Blick hinter die Kulissen: Von der ersten Idee bis zur Umsetzung des internationalen Pop-up-Stores.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/db763euoeu7qzcnw8eiu.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Rich Eisen marvels at Giants-Eagles QB matchup in Week 9",
-        "url": "https://www.espn.com/video/clip/_/id/50381233/rich-eisen-marvels-giants-eagles-qb-matchup-week-9",
-        "publishedAt": "2026-11-04T19:45:57Z",
-        "summary": "Rich Eisen marvels at Giants-Eagles QB matchup in Week 9",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/ss_20261104_144032659_3724869/ss_20261104_144032659_3724869.jpg",
+        "title": "Fantasy football matchup rankings: Upgrade Brown, fade Jacobs, Moore",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50371800/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+        "publishedAt": "2026-11-04T15:53:37Z",
+        "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+        "image": "https://a.espncdn.com/photo/2026/1103/r1740711_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Wetzel: $17 billion Cowboys have a penny-pinching owner in Jerry Jones",
-        "url": "https://www.espn.com/nfl/story/_/id/50380574/dan-wetzel-dallas-cowboys-jerry-jones-owner-17-billion",
-        "publishedAt": "2026-11-04T19:31:04Z",
-        "summary": "The owner of the most valuable sports franchise insists there's no correlation between coaching salaries and winning. Let's pause for the skepticism.",
-        "image": "https://a.espncdn.com/photo/2026/1104/r1741100_608x342_16-9.jpg",
+        "title": "Ravens look to stabilize crumbling season with QB Jacoby Brissett",
+        "url": "https://www.espn.com/nfl/story/_/id/50381369/baltimore-ravens-crumbling-season-qb-jacoby-brissett",
+        "publishedAt": "2026-11-05T00:57:25Z",
+        "summary": "Given the veteran QB's recent track record, it remains to be seen whether Baltimore can truly salvage its season.",
+        "image": "https://a.espncdn.com/photo/2026/1104/r1741157_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy buzz: Watson, Wilson enter concussion protocol ahead of Week 9",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-11-04T19:34:13Z",
-        "summary": "How do the potential absences of Deshaun Watson and Garrett Wilson impact the players around them?",
-        "image": "https://a.espncdn.com/photo/2026/1104/r1741120_1296x729_16-9.jpg",
+        "title": "Saints' Jordyn Tyson returns to practice, listed as limited participant",
+        "url": "https://www.espn.com/nfl/story/_/id/50383380/saints-jordyn-tyson-first-practice-august-injury",
+        "publishedAt": "2026-11-05T00:54:48Z",
+        "summary": "New Orleans Saints rookie wide receiver Jordyn Tyson took a major step toward making his season debut Wednesday, returning to practice for the first time since injuring his right hamstring in a joint practice against the Jacksonville Jaguars on Aug. 13.",
+        "image": "https://a.espncdn.com/photo/2026/0818/r1703254_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "'The Pat McAfee Show' reacts to Darnold being ruled out vs. Arizona",
-        "url": "https://www.espn.com/video/clip/_/id/50380783/the-pat-mcafee-show-reacts-darnold-being-ruled-vs-arizona",
-        "publishedAt": "2026-11-04T19:15:57Z",
-        "summary": "'The Pat McAfee Show' reacts to Darnold being ruled out vs. Arizona",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/ss_20261104_140926923_3724841/ss_20261104_140926923_3724841.jpg",
+        "title": "Sources: Jalen Hurts makes appearance at Eagles facility",
+        "url": "https://www.espn.com/nfl/story/_/id/50383350/jalen-hurts-makes-appearance-eagles-facility",
+        "publishedAt": "2026-11-05T00:26:13Z",
+        "summary": "Sources said Wednesday was the first time some players had seen Jalen Hurts since he was put on injured reserve because of blood clots in his lungs.",
+        "image": "https://a.espncdn.com/photo/2026/0913/r1716029_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Slumping Eagles turn to Joe Milton as starting QB vs. Giants",
-        "url": "https://www.espn.com/nfl/story/_/id/50380724/sources-eagles-turn-joe-milton-starting-qb-vs-giants",
-        "publishedAt": "2026-11-04T19:27:08Z",
-        "summary": "The Eagles will turn to Joe Milton as their starting QB against the Giants, sources told NFL Network and ESPN.",
-        "image": "https://a.espncdn.com/photo/2025/0823/r1535492_1296x729_16-9.jpg",
+        "title": "RB Josh Jacobs not anticipating missing more time despite additional allegations",
+        "url": "https://www.espn.com/nfl/story/_/id/50383288/packers-josh-jacobs-not-worried-missing-more-games-additional-allegations",
+        "publishedAt": "2026-11-05T01:10:46Z",
+        "summary": "Packers running back Josh Jacobs said he's operating under the assumption that he won't have to sit out any more games than the six he already missed while on the NFL commissioner's exempt list despite the release of additional allegations against him.",
+        "image": "https://a.espncdn.com/photo/2026/1104/r1741296_2_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Coach: Seahawks QB Sam Darnold ruled out with quad injury, is week-to-week",
-        "url": "https://www.espn.com/nfl/story/_/id/50380713/seahawks-qb-sam-darnold-ruled-quad-injury",
-        "publishedAt": "2026-11-04T19:29:13Z",
-        "summary": "Seahawks quarterback Sam Darnold will miss Sunday's game against the Arizona Cardinals because of a quad injury, coach Mike Macdonald announced Wednesday.",
-        "image": "https://a.espncdn.com/photo/2026/1104/r1741106_1296x729_16-9.jpg",
+        "title": "NFL Week 9 betting odds: Lines and totals for every game",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals",
+        "publishedAt": "2026-11-04T23:13:21Z",
+        "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
+        "image": "https://a.espncdn.com/photo/2026/1102/r1740078_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Nick Sirianni has always felt support from Eagles owner Jeffrey Lurie",
-        "url": "https://www.espn.com/video/clip/_/id/50380711/nick-sirianni-always-felt-support-eagles-owner-jeffrey-lurie",
-        "publishedAt": "2026-11-04T19:03:51Z",
-        "summary": "Nick Sirianni has always felt support from Eagles owner Jeffrey Lurie",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/ss_20261104_140004926_3724835/ss_20261104_140004926_3724835.jpg",
+        "title": "Niners' Kyle Shanahan says Jauan Jennings told him he's 'happy' with Vikings",
+        "url": "https://www.espn.com/nfl/story/_/id/50382895/niners-shanahan-says-jennings-told-happy-vikings",
+        "publishedAt": "2026-11-05T00:01:04Z",
+        "summary": "Niners coach Kyle Shanahan said Jauan Jennings' decision not to return to San Francisco came after the two had a \"good talk\" via FaceTime.",
+        "image": "https://a.espncdn.com/photo/2026/1101/r1739639_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL survivor power rankings: Why this is the week to use Seahawks, Chiefs",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50380217/nfl-survivor-week-9-survivor-pool-strategy-advice-picks",
-        "publishedAt": "2026-11-04T19:10:16Z",
-        "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 9.",
-        "image": "https://a.espncdn.com/photo/2026/1104/r1741064_1296x729_16-9.jpg",
+        "title": "Rams CB Jaylen Watson needs season-ending shoulder surgery, Sean Mcvay says",
+        "url": "https://www.espn.com/nfl/story/_/id/50382837/rams-cb-jaylen-watson-needs-season-ending-shoulder-surgery",
+        "publishedAt": "2026-11-04T23:15:26Z",
+        "summary": "Rams cornerback Jaylen Watson will need shoulder surgery and be out for the rest of the season.",
+        "image": "https://a.espncdn.com/photo/2026/1104/r1741258_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Coach Nick Sirianni feels 'complete support' from Eagles owner Jeffrey Lurie",
-        "url": "https://www.espn.com/nfl/story/_/id/50380614/coach-sirianni-feels-complete-support-eagles-owner-lurie",
-        "publishedAt": "2026-11-04T19:23:57Z",
-        "summary": "Eagles coach Nick Sirianni says he feels \"complete support\" from team owner Jeffrey Lurie despite Philadelphia's current six-game losing streak.",
-        "image": "https://a.espncdn.com/photo/2026/1102/r1740218_600x400_3-2.jpg",
+        "title": "Quinnen Williams says Cowboys must 'execute,' over and over",
+        "url": "https://www.espn.com/nfl/story/_/id/50382806/quinnen-williams-says-cowboys-execute-over",
+        "publishedAt": "2026-11-04T22:42:10Z",
+        "summary": "When asked about issues on defense, the Cowboys' Quinnen Williams said the team needed to \"execute\" -- using a form of the word 32 times during an interview.",
+        "image": "https://a.espncdn.com/photo/2026/0702/r1683318_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Bowen has Luther Burden III as a mid-tier WR2 in Week 9",
-        "url": "https://www.espn.com/video/clip/_/id/50380591/why-bowen-luther-burden-iii-mid-tier-wr2-week-9",
-        "publishedAt": "2026-11-04T18:55:23Z",
-        "summary": "Why Bowen has Luther Burden III as a mid-tier WR2 in Week 9",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/ss_20261104_134904732_3724823/ss_20261104_134904732_3724823.jpg",
+        "title": "Packers open Micah Parsons' practice window; still mum on return",
+        "url": "https://www.espn.com/nfl/story/_/id/50382457/packers-open-parsons-practice-window-mum-return",
+        "publishedAt": "2026-11-04T23:30:02Z",
+        "summary": "The Packers opened Micha Parsons' 21-day window to practice while still on the PUP list, but the All-Pro edge avoided giving a firm return date.",
+        "image": "https://a.espncdn.com/photo/2026/1104/r1741229_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ravens are down to their No. 3 quarterback with the AFC South-leading Jaguars in town",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873037",
-        "publishedAt": "2026-11-04T18:09:35Z",
-        "summary": "— Joe Fagnano's NFL career is beginning with two games in five days. There's not a lot of time to stop and think.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873037.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Dan Campbell: Lions owe it to Jack Campbell to stay locked in",
+        "url": "https://www.espn.com/video/clip/_/id/50381900/lions-owe-jack-campbell-stay-locked-in",
+        "publishedAt": "2026-11-04T21:31:10Z",
+        "summary": "Dan Campbell: Lions owe it to Jack Campbell to stay locked in",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/ss_20261104_161344350_3724935/ss_20261104_161344350_3724935.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jets' Garrett Wilson in concussion protocol, Breece Hall trending toward return",
-        "url": "https://www.espn.com/nfl/story/_/id/50380113/jets-wr-wilson-protocol-rb-hall-trending-return",
-        "publishedAt": "2026-11-04T18:42:51Z",
-        "summary": "Jets wide receiver Garrett Wilson is in the concussion protocol, but running back Breece Hall is \"trending in the right direction\" toward returning.",
-        "image": "https://a.espncdn.com/photo/2026/1104/r1741058_1296x729_16-9.jpg",
+        "title": "Colts' Shane Steichen defends Jonathan Taylor usage, says RB will keep role",
+        "url": "https://www.espn.com/nfl/story/_/id/50381853/shane-steichen-defends-colts-jonathan-taylor-usage-trade",
+        "publishedAt": "2026-11-04T21:16:35Z",
+        "summary": "Jonathan Taylor will continue to play his usual role with the Colts despite being at the center of trade talks with multiple teams, Shane Steichen said.",
+        "image": "https://a.espncdn.com/photo/2026/1025/r1736160_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Micah Parsons talks injury, recovery and timeline",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89203/micah-parsons-talks-injury-recovery-and-timeline",
+        "publishedAt": "2026-11-04T19:17:02-05:00",
+        "summary": "The Green Bay Packers opened up edge defender Micah Parsons’ 21-day practice window on Wednesday, which allows him to practice with the team for up to three weeks before he’s eventually brought up to the active roster. That 21-day window overlaps with the Packers’ bye week in Week 11, which means that Parsons should be [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2297001671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The hits keep coming for wild-card hopefuls chasing the Packers",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89200/the-hits-keep-coming-for-wild-card-hopefuls-chasing-the-packers",
+        "publishedAt": "2026-11-04T17:09:59-05:00",
+        "summary": "Heading into Week 9, the Green Bay Packers—and the rest of the NFC North—would make the NFL playoffs if the season ended now. Per the league’s website, the NFL projects the Packers make the playoffs about half the time in simulations, with the Minnesota Vikings (81 percent), Chicago Bears (82 percent), and Detroit Lions (80 [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2258195632.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Injury Report: Micah Parsons and Chris Brooks practice",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89194/packers-injury-report-micah-parsons-and-chris-brooks-practice",
+        "publishedAt": "2026-11-04T16:55:30-05:00",
+        "summary": "The Green Bay Packers got back two key players back in practice on Wednesday, edge rusher Micah Parsons and running back Chris Brooks. Both opened up their 21-day practice windows, with the expectation that they’ll be added to the active roster down the line, potentially around the Packers’ Week 11 bye week. Parsons is on [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302606408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers News: Will the Packers be active at the trade deadline?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89179/green-bay-packers-news-will-the-packers-be-active-at-the-trade-deadline",
@@ -282,33 +309,6 @@
         "publishedAt": "2026-11-02T17:29:49-05:00",
         "summary": "The Green Bay Packers worked out a group of edge rushers on Monday, an interesting decision considering the team has two available roster spots on its practice squad at the moment. Worth noting: Green Bay has worked out 43 players since the cutdown deadline, and only one of them — an international player from Australia [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2171355525.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "How will the Packers manage their IR designations?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/88810/how-will-the-packers-manage-their-ir-designations",
-        "publishedAt": "2026-11-02T16:58:29-05:00",
-        "summary": "Each NFL team can use eight activations from the injured reserve in the regular season, with two more in the postseason if teams qualify, per league rules. How the Green Bay Packers manage these returns could define their season down the stretch, as they may have to pick and choose who comes back if they [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2254741234.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Zaire Franklin could be back for Week 9",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89114/zaire-franklin-could-be-back-for-week-9",
-        "publishedAt": "2026-11-02T16:41:29-05:00",
-        "summary": "In his Monday press conference, Green Bay Packers head coach Matt LaFleur stated that Mike linebacker Zaire Franklin, who has missed multiple games with a hairline fracture in his shin, could practice for the team in Week 9, as he’s “day to day right now.” The Packers have been down both of their starting off-ball [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Matt LaFleur says Packers will stick with running back Josh Jacobs",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89111/matt-lafleur-says-packers-will-stick-with-running-back-josh-jacobs",
-        "publishedAt": "2026-11-02T14:58:18-05:00",
-        "summary": "The Packers are addressing the still-unfolding Josh Jacobs situation by not saying much. During his Monday press availability, Matt LaFleur addressed the additional allegations of abuse levied by multiple women against the running back by saying he didn’t have much to say.&#160;&#160; “Obviously, we’re aware of the prior allegations on Josh and we’re going to [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302756771.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
