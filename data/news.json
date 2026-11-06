@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:36:12.065Z",
+  "updatedAt": "2026-11-06T11:02:33.123Z",
   "sources": {
     "packers": [
       {
@@ -113,11 +113,83 @@
     ],
     "espn": [
       {
+        "title": "Fantasy football 10-team Knockout league rankings: The 126 players to draft",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+        "publishedAt": "2026-11-06T07:46:11Z",
+        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+        "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ravens refuse to blame historic rut on loss of Lamar Jackson",
+        "url": "https://www.espn.com/nfl/story/_/id/50397437/ravens-refuse-blame-historic-rut-loss-lamar-jackson",
+        "publishedAt": "2026-11-06T07:39:46Z",
+        "summary": "The Ravens say one of the worst stretches in team history cannot be pinned on the loss of the injured Lamar Jackson.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1741910_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jaguars dominant again in blowout of Ravens, believe they can be 'way better'",
+        "url": "https://www.espn.com/nfl/story/_/id/50397312/jaguars-stay-hot-rout-ravens-feel-way-better",
+        "publishedAt": "2026-11-06T06:55:56Z",
+        "summary": "The Jaguars racked up their fourth win by 23 or more points this season in Thursday night's 33-10 rout of the Ravens and believe there's room to be even better.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1741911_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Jaguars-Ravens highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/50394179/best-plays-moments-touchdowns-more",
-        "publishedAt": "2026-11-06T01:13:55Z",
+        "publishedAt": "2026-11-06T04:27:13Z",
         "summary": "Here are the best plays from Jags-Ravens on Thursday Night Football.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732985_608x342_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1741887_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jaguars dominate Ravens in the rain on TNF",
+        "url": "https://www.espn.com/video/clip/_/id/50396514/jaguars-dominate-ravens-rain-tnf",
+        "publishedAt": "2026-11-06T04:23:38Z",
+        "summary": "Jaguars dominate Ravens in the rain on TNF",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1106/70aefe4e-ae80-444d-af7f-fd8ed3590fde/70aefe4e-ae80-444d-af7f-fd8ed3590fde.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jaguars thrash the depleted Ravens 33-10 for their 5th win in 6 games",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873037",
+        "publishedAt": "2026-11-06T05:37:34Z",
+        "summary": "— With their top two quarterbacks injured, the Baltimore Ravens were prepared to use any trick necessary in their attempt to keep the game competitive against Jacksonville. That included snapping the ball directly to Derrick Henry on quite a few...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873037.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Trevor Lawrence, Jags pull away from Joe Fagnano, Ravens on TNF",
+        "url": "https://www.espn.com/nfl/story/_/id/50395188/jaguars-ravens-thursday-night-football-joe-fagnano",
+        "publishedAt": "2026-11-06T05:01:47Z",
+        "summary": "The Jaguars never trailed in a comfortable win over the short-handed Ravens in Baltimore.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1741864_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bills have the NFL's most points. Vikings are the hardest to score on. Which side gives on Monday?",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873051",
+        "publishedAt": "2026-11-06T03:37:41Z",
+        "summary": "— The Buffalo Bills are back to playing their usual catch-us-if-you-can game this season under first-year coach Joe Brady, ",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873051.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Ravens' Derrick Henry moves into 7th place on NFL all-time rushing list",
+        "url": "https://www.espn.com/nfl/story/_/id/50395212/ravens-derrick-henry-now-7th-all-nfl-rushing",
+        "publishedAt": "2026-11-06T04:24:28Z",
+        "summary": "Derrick Henry passed LaDainian Tomlinson and moved into seventh on the NFL's all-time rushing list.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1741863_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -145,78 +217,6 @@
         "publishedAt": "2026-11-06T00:15:35Z",
         "summary": "— The Green Bay Packers and New England Patriots don’t...",
         "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873049.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jaguars' Bhayshul Tuten, Travon Walker will face Ravens on TNF",
-        "url": "https://www.espn.com/nfl/story/_/id/50393654/jaguars-bhayshul-tuten-travon-walker-active-vs-ravens",
-        "publishedAt": "2026-11-06T00:16:20Z",
-        "summary": "Jaguars running back Bhayshul Tuten and defensive end Travon Walker are active for Thursday night's game against the Baltimore Ravens.",
-        "image": "https://a.espncdn.com/photo/2026/1103/r1740494_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Commanders offensive line preparing for challenge from Rams defensive front",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873043",
-        "publishedAt": "2026-11-05T23:41:35Z",
-        "summary": "— The Los Angeles Rams ' defensive line can be a massive challenge for opposing offensive lines.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873043.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets' Breece Hall says he's ready to play, cites threats for social media exit",
-        "url": "https://www.espn.com/nfl/story/_/id/50393506/jets-breece-hall-return-chiefs-social-media-threats",
-        "publishedAt": "2026-11-06T00:10:29Z",
-        "summary": "Breece Hall proclaimed himself ready to play Sunday after missing five games with a quad injury -- a period in which he received hostile social media messages.",
-        "image": "https://a.espncdn.com/photo/2026/0508/r1655464_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Justin Jefferson high on Vikings' offensive potential, doesn't want to waste it",
-        "url": "https://www.espn.com/nfl/story/_/id/50393433/justin-jefferson-says-vikings-need-figure-offense",
-        "publishedAt": "2026-11-05T23:53:26Z",
-        "summary": "Speaking for the first time since his frustrations overflowed in Detroit, Justin Jefferson said of the Vikings' offense: \"We've got to figure out that answer and figure it out fast.\"",
-        "image": "https://a.espncdn.com/photo/2026/0908/r1713425_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dolphins host Lions with Hafley's team aiming for grit that Campbell has built in Detroit",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873042",
-        "publishedAt": "2026-11-05T23:23:35Z",
-        "summary": "— When Dan Campbell was hired as the Lions' head coach in 2021, he famously declared that Detroit would be a team that would “bite...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873042.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seahawks' Lock says elbow feeling 'better' ahead of start vs. Cardinals",
-        "url": "https://www.espn.com/nfl/story/_/id/50393350/seahawks-drew-lock-says-elbow-feeling-better-ahead-start-vs-cardinals",
-        "publishedAt": "2026-11-06T00:34:45Z",
-        "summary": "Seattle Seahawks backup quarterback Drew Lock, who's in line to start this week with Sam Darnold sidelined, says the elbow injury that made him inactive for the past two games is \"doing a lot better.\"",
-        "image": "https://a.espncdn.com/photo/2026/0910/r1714162_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cowboys laud mental health program put in place after Marshawn Kneeland's death",
-        "url": "https://www.espn.com/nfl/story/_/id/50393344/cowboys-laud-program-help-deal-mental-health-issues",
-        "publishedAt": "2026-11-06T00:18:14Z",
-        "summary": "With Friday marking one year since the death of Marshawn Kneeland, Cowboys players took time to reflect on the team's effort to deal with mental health issues.",
-        "image": "https://a.espncdn.com/photo/2025/1110/r1573729_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Former Cougars QB Minshew returns to Washington with Arizona to face the Seahawks",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873048",
-        "publishedAt": "2026-11-05T23:12:35Z",
-        "summary": "The Cardinals are looking for quarterback Gardner Minshew to recapture some of his Washington State magic on Sunday when Arizona visits the Seattle Seahawks.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873048.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
