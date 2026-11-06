@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-05T20:02:30.186Z",
+  "updatedAt": "2026-11-06T01:36:12.065Z",
   "sources": {
     "packers": [
+      {
+        "title": "Former Packers head coach Mike Holmgren considered for Canton again",
+        "url": "https://www.packers.com/news/former-packers-head-coach-mike-holmgren-considered-for-canton-again-nov-5-2026",
+        "publishedAt": "Thu, 05 Nov 2026 21:46:02 GMT",
+        "summary": "He’s one of five coach nominees for Pro Football Hall of Fame’s class of 2027",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fbymptb5g9zkgcq5dpvm.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers-Patriots Injury Report | Nov. 5, 2026",
+        "url": "https://www.packers.com/news/packers-patriots-injury-report-nov-5-2026",
+        "publishedAt": "Thu, 05 Nov 2026 21:36:50 GMT",
+        "summary": "",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/tu2uffcn7jo5lxbfouim.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "'Winter Jubilee Warm up' to kick off Titletown winter season Nov. 27-28",
+        "url": "https://www.packers.com/news/winter-jubilee-warm-up-to-kick-off-titletown-winter-season-nov-27-28-2026",
+        "publishedAt": "Thu, 05 Nov 2026 21:35:00 GMT",
+        "summary": "Winter Jubilee Light Show, free holiday activities to debut Nov. 27",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rsitdk5sfchyt9qyiq4w.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers to host first Wisconsin Girls Flag Football State Championship",
         "url": "https://www.packers.com/news/packers-to-host-first-wisconsin-girls-flag-football-state-championship-nov-5-2026",
@@ -82,146 +109,146 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/svxbx3yzknzwjjz54x1c.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers QB Jordan Love named FedEx Air and Ground Player of Week 8",
-        "url": "https://www.packers.com/news/packers-qb-jordan-love-named-fedex-air-and-ground-player-of-week-8-2026",
-        "publishedAt": "Wed, 04 Nov 2026 22:02:37 GMT",
-        "summary": "It’s the Green Bay quarterback’s second time winning the weekly award this season",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yktxf0ziosd42vxt8kb8.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Joel Nellis of Brookfield Central High School named Green Bay Packers High School Coach of the Week",
-        "url": "https://www.packers.com/news/joel-nellis-of-brookfield-central-high-school-named-green-bay-packers-high-school-coach-of-the-week-nov-4-2026",
-        "publishedAt": "Wed, 04 Nov 2026 22:00:00 GMT",
-        "summary": "Nellis has the Lancers preparing for Level 3 of the WIAA Division 2 playoffs this week",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bwbm81jeo0catvy0yssw.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers-Patriots Injury Report | Nov. 4, 2026",
-        "url": "https://www.packers.com/news/packers-patriots-injury-report-nov-4-2026",
-        "publishedAt": "Wed, 04 Nov 2026 21:55:25 GMT",
-        "summary": "",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/is7qhn5stxeicrjrhep3.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "The Chiefs welcome the Jets to Arrowhead Stadium on Sunday with both teams desperate for a win",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873045",
-        "publishedAt": "2026-11-05T19:17:36Z",
-        "summary": "— The Kansas City Chiefs started the season with five straight wins, nearly matching their total from all of last season, when their run of three consecutive Super Bowl appearances came crashing down with a forgettable six-win campaign.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873045.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Jaguars-Ravens highlights: Best plays, moments, touchdowns, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50394179/best-plays-moments-touchdowns-more",
+        "publishedAt": "2026-11-06T01:13:55Z",
+        "summary": "Here are the best plays from Jags-Ravens on Thursday Night Football.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732985_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873038",
-        "publishedAt": "2026-11-05T19:17:35Z",
-        "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873038.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Browns and Saints try to stay close to their division leaders as they meet in New Orleans",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873039",
+        "publishedAt": "2026-11-06T00:39:41Z",
+        "summary": "— The Cleveland Browns are two games above .500 but find themselves in third place in the AFC North and seeking a victory to keep pace with first-place Pittsburgh and second-place Cincinnati.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873039.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Will Week 9 be a bounce-back game for Bijan Robinson and fantasy managers?",
-        "url": "https://www.espn.com/video/clip/_/id/50390859/will-week-9-bounce-back-game-bijan-robinson-fantasy-managers",
-        "publishedAt": "2026-11-05T19:21:40Z",
-        "summary": "Will Week 9 be a bounce-back game for Bijan Robinson and fantasy managers?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/ss_20261105_140806305_3726217/ss_20261105_140806305_3726217.jpg",
+        "title": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
+        "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
+        "publishedAt": "2026-11-06T00:38:13Z",
+        "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1741830_608x342_16-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Field Yates makes a case to start Devin Singletary in Week 9",
-        "url": "https://www.espn.com/video/clip/_/id/50390824/field-yates-makes-case-start-devin-singletary-week-9",
-        "publishedAt": "2026-11-05T19:09:39Z",
-        "summary": "Field Yates makes a case to start Devin Singletary in Week 9",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/ss_20261105_140136873_3726212/ss_20261105_140136873_3726212.jpg",
+        "title": "Jordan Love, Drake Maye represent new era in Packers-Patriots matchup",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873049",
+        "publishedAt": "2026-11-06T00:15:35Z",
+        "summary": "— The Green Bay Packers and New England Patriots don’t...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873049.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Should Vikings stick with Wentz over Murray for rest of season?",
-        "url": "https://www.espn.com/video/clip/_/id/50390770/should-vikings-stick-wentz-murray-rest-season",
-        "publishedAt": "2026-11-05T18:50:16Z",
-        "summary": "Should Vikings stick with Wentz over Murray for rest of season?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/ss_20261105_134628802_3726200/ss_20261105_134628802_3726200.jpg",
+        "title": "Jaguars' Bhayshul Tuten, Travon Walker will face Ravens on TNF",
+        "url": "https://www.espn.com/nfl/story/_/id/50393654/jaguars-bhayshul-tuten-travon-walker-active-vs-ravens",
+        "publishedAt": "2026-11-06T00:16:20Z",
+        "summary": "Jaguars running back Bhayshul Tuten and defensive end Travon Walker are active for Thursday night's game against the Baltimore Ravens.",
+        "image": "https://a.espncdn.com/photo/2026/1103/r1740494_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Vikings to start QB Carson Wentz against Bills with Kyler Murray ruled out",
-        "url": "https://www.espn.com/nfl/story/_/id/50390732/vikings-start-qb-wentz-bills-murray-injured",
-        "publishedAt": "2026-11-05T19:39:45Z",
-        "summary": "Vikings quarterback Carson Wentz will start Monday night's game against the Buffalo Bills with Kyler Murray ruled out with a hamstring injury.",
-        "image": "https://a.espncdn.com/photo/2026/0916/r1717736_1296x729_16-9.jpg",
+        "title": "Commanders offensive line preparing for challenge from Rams defensive front",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873043",
+        "publishedAt": "2026-11-05T23:41:35Z",
+        "summary": "— The Los Angeles Rams ' defensive line can be a massive challenge for opposing offensive lines.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873043.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Daniel Dopp would bench Ollie Gordon II if he had the chance",
-        "url": "https://www.espn.com/video/clip/_/id/50390713/why-daniel-dopp-bench-ollie-gordon-ii-had-chance",
-        "publishedAt": "2026-11-05T19:08:33Z",
-        "summary": "Why Daniel Dopp would bench Ollie Gordon II if he had the chance",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/ss_20261105_132910978_3726186/ss_20261105_132910978_3726186.jpg",
+        "title": "Jets' Breece Hall says he's ready to play, cites threats for social media exit",
+        "url": "https://www.espn.com/nfl/story/_/id/50393506/jets-breece-hall-return-chiefs-social-media-threats",
+        "publishedAt": "2026-11-06T00:10:29Z",
+        "summary": "Breece Hall proclaimed himself ready to play Sunday after missing five games with a quad injury -- a period in which he received hostile social media messages.",
+        "image": "https://a.espncdn.com/photo/2026/0508/r1655464_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Dopp likes Dak Prescott for fantasy managers vs. Colts",
-        "url": "https://www.espn.com/video/clip/_/id/50390707/why-dopp-likes-dak-prescott-fantasy-managers-vs-colts",
-        "publishedAt": "2026-11-05T19:00:15Z",
-        "summary": "Why Dopp likes Dak Prescott for fantasy managers vs. Colts",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/ss_20261105_132704700_3726183/ss_20261105_132704700_3726183.jpg",
+        "title": "Justin Jefferson high on Vikings' offensive potential, doesn't want to waste it",
+        "url": "https://www.espn.com/nfl/story/_/id/50393433/justin-jefferson-says-vikings-need-figure-offense",
+        "publishedAt": "2026-11-05T23:53:26Z",
+        "summary": "Speaking for the first time since his frustrations overflowed in Detroit, Justin Jefferson said of the Vikings' offense: \"We've got to figure out that answer and figure it out fast.\"",
+        "image": "https://a.espncdn.com/photo/2026/0908/r1713425_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Is Tyler Warren a must-start TE for fantasy managers vs. Dallas?",
-        "url": "https://www.espn.com/video/clip/_/id/50390676/is-tyler-warren-start-te-fantasy-managers-vs-dallas",
-        "publishedAt": "2026-11-05T18:52:51Z",
-        "summary": "Is Tyler Warren a must-start TE for fantasy managers vs. Dallas?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/ss_20261105_132417174_3726178/ss_20261105_132417174_3726178.jpg",
+        "title": "Dolphins host Lions with Hafley's team aiming for grit that Campbell has built in Detroit",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873042",
+        "publishedAt": "2026-11-05T23:23:35Z",
+        "summary": "— When Dan Campbell was hired as the Lions' head coach in 2021, he famously declared that Detroit would be a team that would “bite...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873042.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy buzz: Vikings to start Wentz, but fantasy managers probably shouldn't",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-11-05T18:32:29Z",
-        "summary": "With the Vikings turning to Carson Wentz on Monday, how does that change the outlook for the team's WRs?",
-        "image": "https://a.espncdn.com/photo/2026/1105/r1741605_1296x729_16-9.jpg",
+        "title": "Seahawks' Lock says elbow feeling 'better' ahead of start vs. Cardinals",
+        "url": "https://www.espn.com/nfl/story/_/id/50393350/seahawks-drew-lock-says-elbow-feeling-better-ahead-start-vs-cardinals",
+        "publishedAt": "2026-11-06T00:34:45Z",
+        "summary": "Seattle Seahawks backup quarterback Drew Lock, who's in line to start this week with Sam Darnold sidelined, says the elbow injury that made him inactive for the past two games is \"doing a lot better.\"",
+        "image": "https://a.espncdn.com/photo/2026/0910/r1714162_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jonathan Taylor 'can't avoid' trade speculation as Colts go through talks",
-        "url": "https://www.espn.com/nfl/story/_/id/50390525/colts-rb-jonathan-taylor-awaits-resolution-trade-rumbling",
-        "publishedAt": "2026-11-05T18:42:31Z",
-        "summary": "Running back Jonathan Taylor, who is the subject of talks between the Colts and multiple teams ahead of the NFL trade deadline, said he's ready for some finality after weeks of speculation about his future.",
-        "image": "https://a.espncdn.com/photo/2026/1028/r1737542_1296x729_16-9.jpg",
+        "title": "Cowboys laud mental health program put in place after Marshawn Kneeland's death",
+        "url": "https://www.espn.com/nfl/story/_/id/50393344/cowboys-laud-program-help-deal-mental-health-issues",
+        "publishedAt": "2026-11-06T00:18:14Z",
+        "summary": "With Friday marking one year since the death of Marshawn Kneeland, Cowboys players took time to reflect on the team's effort to deal with mental health issues.",
+        "image": "https://a.espncdn.com/photo/2025/1110/r1573729_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jude Bellingham visits Atlanta Falcons training session",
-        "url": "https://www.espn.com/video/clip/_/id/50390519/jude-bellingham-visits-atlanta-falcons-training-session",
-        "publishedAt": "2026-11-05T18:01:50Z",
-        "summary": "Jude Bellingham visits Atlanta Falcons training session",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1105/dm_261105_Jude_Bellingham_visits_Atlanta_Falcons_training_session/dm_261105_Jude_Bellingham_visits_Atlanta_Falcons_training_session.jpg",
+        "title": "Former Cougars QB Minshew returns to Washington with Arizona to face the Seahawks",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873048",
+        "publishedAt": "2026-11-05T23:12:35Z",
+        "summary": "The Cardinals are looking for quarterback Gardner Minshew to recapture some of his Washington State magic on Sunday when Arizona visits the Seattle Seahawks.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873048.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Injury Report: Keisean Nixon, MarShawn Lloyd downgraded on Thursday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89235/packers-injury-report-keisean-nixon-marshawn-lloyd-downgraded-on-thursday",
+        "publishedAt": "2026-11-05T19:54:57-05:00",
+        "summary": "The Green Bay Packers held a padded practice inside the Don Hutson Center today, where they were a little more banged up than initially thought. After being a full participant on Wednesday with no injury status, running back MarShawn Lloyd appeared on the injury report on Thursday with a knee and was given “limited participant” [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302311695.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Drake Maye vs. Jordan Love: Which is the better quarterback?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89229/drake-maye-vs-jordan-love-which-is-the-better-quarterback",
+        "publishedAt": "2026-11-05T19:23:06-05:00",
+        "summary": "We here at Acme Packing Company are careful not to judge quarterbacks on raw counting statistics unless they suit our needs. For instance, we love Brett Favre’s longevity stats, yards, and touchdowns, but when it comes to interceptions, for all QBs with at least 2500 attempts, he’s 75th (out of 147). Not too shabby! But [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303028910.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers news: The Packers are asking Jordan Love to do something historically difficult",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89222/green-bay-packers-news-the-packers-are-asking-jordan-love-to-do-something-historically-difficult",
+        "publishedAt": "2026-11-05T16:12:23-05:00",
+        "summary": "Jordan Love is putting together one of the best seasons of his career. That’s good timing, because the Packers aren&#8217;t making things particularly easy on him. Through eight games, Love leads the NFL with 2,246 passing yards and has thrown 16 touchdowns. He&#8217;s on pace for a franchise-record 4,772 passing yards, potentially surpassing Aaron Rodgers&#8217; [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302108320.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "How Jonathan Gannon built a Top-5 Packers defense without Micah Parsons",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89145/jonathan-gannon-defensive-scheme-micah-parsons-tyron-hopper-evan-williams",
@@ -282,33 +309,6 @@
         "publishedAt": "2026-11-04T11:40:25-05:00",
         "summary": "We got one big early November Tuesday ordeal out of the way. Now the countdown is on for another one. The annual “will they/won’t they” dance that precedes the NFL trade deadline every year is in full swing, with various speculators wondering who the Packers should target and what, if anything, they should give up [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2292838732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Adam Stenavich explains the Kevin Zeitler situation",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89170/adam-stenavich-explains-the-kevin-zeitler-situation",
-        "publishedAt": "2026-11-03T18:46:20-05:00",
-        "summary": "The Green Bay Packers signed guard Kevin Zeitler, a former Wisconsin Badger and Pro Bowler, to a one-year, $4 million contract after the team’s poor start to the 2026 season. The team has since been able to protect quarterback Jordan Love better, but the run game hasn’t advanced much, and Zeitler has yet to take [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302754371.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: Will the team make a move before the trade deadline?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/89167/packers-discussion-will-the-team-make-a-move-before-the-trade-deadline",
-        "publishedAt": "2026-11-03T16:35:51-05:00",
-        "summary": "I’m going to create an open forum here so you guys can discuss trade deadline options and whether the team makes a move. Personally, I don’t think the team will do much because of their outlook for 2027 (they need picks, cheap contracts, and won’t have cap space), but I’ve been surprised before. As a [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303039691.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers QB Kedon Slovis poached; team shuffles practice squad",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89163/packers-qb-kedon-slovis-poached-team-shuffles-practice-squad",
-        "publishedAt": "2026-11-03T16:13:19-05:00",
-        "summary": "The Green Bay Packers had their practice squad quarterback, Kedon Slovis, poached by the Baltimore Ravens today, which explains why the team decided to sign quarterback Cam Miller. Slovis is guaranteed three weeks on the Ravens’ active roster, since he was poached by the team. The quarterback — who spent training camp for Matt LaFleur’s [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2292212122.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
