@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-06T11:02:33.123Z",
+  "updatedAt": "2026-11-06T19:29:09.754Z",
   "sources": {
     "packers": [
+      {
+        "title": "Award-winning Evan Williams, Brandon Cisse elevating Packers' defense",
+        "url": "https://www.packers.com/news/award-winning-evan-williams-brandon-cisse-elevating-packers-defense-nov-6-2026",
+        "publishedAt": "Fri, 06 Nov 2026 15:00:00 GMT",
+        "summary": "Defensive backs view October honors as reflection of surging unit",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/k8jeesinc3vrfmoytysc.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: Each guy has had his moments",
+        "url": "https://www.packers.com/news/inbox-each-guy-has-had-his-moments-nov-6-2026",
+        "publishedAt": "Fri, 06 Nov 2026 14:30:00 GMT",
+        "summary": "Do whatever it takes to win",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rz77ok00nruzovvrhdop.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Former Packers head coach Mike Holmgren considered for Canton again",
         "url": "https://www.packers.com/news/former-packers-head-coach-mike-holmgren-considered-for-canton-again-nov-5-2026",
@@ -91,137 +109,128 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qexdlhaxdn3pohgcchvo.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: 10 out of 10. Would recommend",
-        "url": "https://www.packers.com/news/inbox-10-out-of-10-would-recommend-nov-5-2026",
-        "publishedAt": "Thu, 05 Nov 2026 14:30:00 GMT",
-        "summary": "The Packers have a good thing going there",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/j3tvpk1mwvhudqmtxgk3.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Micah Parsons' return clears another hurdle",
-        "url": "https://www.packers.com/news/micah-parsons-return-clears-another-hurdle-nov-4-2026",
-        "publishedAt": "Wed, 04 Nov 2026 22:38:46 GMT",
-        "summary": "Packers’ All-Pro edge rusher back at practice, eyeing season’s stretch run",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/svxbx3yzknzwjjz54x1c.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Fantasy football 10-team Knockout league rankings: The 126 players to draft",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
-        "publishedAt": "2026-11-06T07:46:11Z",
-        "summary": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
-        "image": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg",
+        "title": "Joe Burrow makes time for art in Madrid ahead of Bengals-Falcons",
+        "url": "https://www.espn.com/nfl/story/_/id/50400935/joe-burrow-madrid-art-museum-bengals-falcons",
+        "publishedAt": "2026-11-06T19:05:40Z",
+        "summary": "While in Spain, the Bengals quarterback is finding time for one of his off-field interests: art.",
+        "image": "https://a.espncdn.com/photo/2026/0908/r1713218_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ravens refuse to blame historic rut on loss of Lamar Jackson",
-        "url": "https://www.espn.com/nfl/story/_/id/50397437/ravens-refuse-blame-historic-rut-loss-lamar-jackson",
-        "publishedAt": "2026-11-06T07:39:46Z",
-        "summary": "The Ravens say one of the worst stretches in team history cannot be pinned on the loss of the injured Lamar Jackson.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1741910_600x400_3-2.jpg",
+        "title": "3 ways Browns QB Shedeur Sanders can show growth vs. Saints",
+        "url": "https://www.espn.com/nfl/story/_/id/50399074/cleveland-browns-qb-shedeur-sanders-start-growth-saints",
+        "publishedAt": "2026-11-06T19:07:34Z",
+        "summary": "The opportunity is a big one as the second-year quarterback's first start of the season comes at a critical time.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1741957_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaguars dominant again in blowout of Ravens, believe they can be 'way better'",
-        "url": "https://www.espn.com/nfl/story/_/id/50397312/jaguars-stay-hot-rout-ravens-feel-way-better",
-        "publishedAt": "2026-11-06T06:55:56Z",
-        "summary": "The Jaguars racked up their fourth win by 23 or more points this season in Thursday night's 33-10 rout of the Ravens and believe there's room to be even better.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1741911_600x400_3-2.jpg",
+        "title": "Ian Rapoport gives an update on Myles Garrett's impending return",
+        "url": "https://www.espn.com/video/clip/_/id/50401034/ian-rapoport-gives-update-myles-garrett-impending-return",
+        "publishedAt": "2026-11-06T19:03:07Z",
+        "summary": "Ian Rapoport gives an update on Myles Garrett's impending return    ",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/ss_20261106_134719032_3727727837/ss_20261106_134719032_3727727837.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaguars-Ravens highlights: Best plays, moments, touchdowns, more",
-        "url": "https://www.espn.com/nfl/story/_/id/50394179/best-plays-moments-touchdowns-more",
-        "publishedAt": "2026-11-06T04:27:13Z",
-        "summary": "Here are the best plays from Jags-Ravens on Thursday Night Football.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1741887_608x342_16-9.jpg",
+        "title": "Cowboys' Jerry Jones says paying coaches never been an issue",
+        "url": "https://www.espn.com/nfl/story/_/id/50400964/cowboys-jerry-jones-says-paying-coaches-never-issue",
+        "publishedAt": "2026-11-06T19:08:28Z",
+        "summary": "Defending comments he made earlier in the week, Cowboys owner and GM Jerry Jones said it's \"ridiculous\" to think he would let money stop him from hiring a head coach.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1742068_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaguars dominate Ravens in the rain on TNF",
-        "url": "https://www.espn.com/video/clip/_/id/50396514/jaguars-dominate-ravens-rain-tnf",
-        "publishedAt": "2026-11-06T04:23:38Z",
-        "summary": "Jaguars dominate Ravens in the rain on TNF",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1106/70aefe4e-ae80-444d-af7f-fd8ed3590fde/70aefe4e-ae80-444d-af7f-fd8ed3590fde.jpg",
+        "title": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
+        "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
+        "publishedAt": "2026-11-06T18:56:40Z",
+        "summary": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
+        "image": "https://a.espncdn.com/photo/2026/0817/r1703091_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaguars thrash the depleted Ravens 33-10 for their 5th win in 6 games",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873037",
-        "publishedAt": "2026-11-06T05:37:34Z",
-        "summary": "— With their top two quarterbacks injured, the Baltimore Ravens were prepared to use any trick necessary in their attempt to keep the game competitive against Jacksonville. That included snapping the ball directly to Derrick Henry on quite a few...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873037.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Rams' Myles Garrett to be activated from injured reserve, play vs. Commanders",
+        "url": "https://www.espn.com/nfl/story/_/id/50400738/sources-rams-myles-garrett-track-return-vs-commanders",
+        "publishedAt": "2026-11-06T19:27:15Z",
+        "summary": "Rams star pass rusher Myles Garrett is on track to be activated from injured reserve ahead of Sunday's game at the Commanders.",
+        "image": "https://a.espncdn.com/photo/2026/0911/r1714767_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Trevor Lawrence, Jags pull away from Joe Fagnano, Ravens on TNF",
-        "url": "https://www.espn.com/nfl/story/_/id/50395188/jaguars-ravens-thursday-night-football-joe-fagnano",
-        "publishedAt": "2026-11-06T05:01:47Z",
-        "summary": "The Jaguars never trailed in a comfortable win over the short-handed Ravens in Baltimore.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1741864_608x342_16-9.jpg",
+        "title": "Former NFL WR Antonio Brown avoids jail time in 2025 shooting case in Miami",
+        "url": "https://www.espn.com/nfl/story/_/id/50400733/antonio-brown-pleads-guilty-lesser-charge-shooting-case",
+        "publishedAt": "2026-11-06T19:04:46Z",
+        "summary": "Former NFL star Antonio Brown was sentenced to three years' probation Friday after pleading guilty to a lesser charge of aggravated assault with a firearm stemming from a 2025 shooting in Miami.",
+        "image": "https://a.espncdn.com/photo/2021/1220/r953376_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bills have the NFL's most points. Vikings are the hardest to score on. Which side gives on Monday?",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873051",
-        "publishedAt": "2026-11-06T03:37:41Z",
-        "summary": "— The Buffalo Bills are back to playing their usual catch-us-if-you-can game this season under first-year coach Joe Brady, ",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873051.png?templateId=espn.applewatch.awayhome.1",
+        "title": "NFL trade deadline grades: Deals for Jacoby Brissett, Jeffery Simmons, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+        "publishedAt": "2026-11-06T18:25:11Z",
+        "summary": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1742051_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ravens' Derrick Henry moves into 7th place on NFL all-time rushing list",
-        "url": "https://www.espn.com/nfl/story/_/id/50395212/ravens-derrick-henry-now-7th-all-nfl-rushing",
-        "publishedAt": "2026-11-06T04:24:28Z",
-        "summary": "Derrick Henry passed LaDainian Tomlinson and moved into seventh on the NFL's all-time rushing list.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1741863_600x400_3-2.jpg",
+        "title": "Daniel Dopp's Week 9 DraftKings tournament lineup",
+        "url": "https://www.espn.com/video/clip/_/id/50400559/daniel-dopp-week-9-draftkings-tournament-lineup",
+        "publishedAt": "2026-11-06T17:26:56Z",
+        "summary": "Daniel Dopp's Week 9 DraftKings tournament lineup",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_ffp_dopp_on_dfs_lineup/dm_261106_ffp_dopp_on_dfs_lineup.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns and Saints try to stay close to their division leaders as they meet in New Orleans",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873039",
-        "publishedAt": "2026-11-06T00:39:41Z",
-        "summary": "— The Cleveland Browns are two games above .500 but find themselves in third place in the AFC North and seeking a victory to keep pace with first-place Pittsburgh and second-place Cincinnati.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873039.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
+        "publishedAt": "2026-11-06T17:50:08Z",
+        "summary": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
+        "image": "https://a.espncdn.com/photo/2026/1105/r1741668_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
-        "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-        "publishedAt": "2026-11-06T00:38:13Z",
-        "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1741830_608x342_16-9.png",
+        "title": "Dolphins to get rookie OL Kadyn Proctor back from concussion",
+        "url": "https://www.espn.com/nfl/story/_/id/50400507/dolphins-get-rookie-ol-kadyn-proctor-back-concussion",
+        "publishedAt": "2026-11-06T17:24:08Z",
+        "summary": "Dolphins left guard Kadyn Proctor has cleared concussion protocol and will play Sunday against the Lions, coach Jeff Hafley said.",
+        "image": "https://a.espncdn.com/photo/2026/1106/r1742046_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jordan Love, Drake Maye represent new era in Packers-Patriots matchup",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873049",
-        "publishedAt": "2026-11-06T00:15:35Z",
-        "summary": "— The Green Bay Packers and New England Patriots don’t...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873049.png?templateId=espn.applewatch.awayhome.1",
+        "title": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move",
+        "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+        "publishedAt": "2026-11-06T17:42:30Z",
+        "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including Jacoby Brissett to Baltimore.",
+        "image": "https://a.espncdn.com/photo/2026/0917/r1718044_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Desmond Howard, Reggie White and more highlight Packers’ best moments against Patriots",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/89249/desmond-howard-reggie-white-and-more-highlight-packers-best-moments-against-patriots",
+        "publishedAt": "2026-11-06T11:18:17-05:00",
+        "summary": "The New England Patriots are the epitome of what good ol’ Mike McCarthy would have called an “uncommon opponent.” They’ve been around for more than 50 years, but the Packers have only encountered them 13 times, and that counts their matchup in Super Bowl XXXI. But there’s still no shortage of big statistical performances on [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-455050992.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,74.652777777778",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Injury Report: Keisean Nixon, MarShawn Lloyd downgraded on Thursday",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89235/packers-injury-report-keisean-nixon-marshawn-lloyd-downgraded-on-thursday",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-11-04T16:55:30-05:00",
         "summary": "The Green Bay Packers got back two key players back in practice on Wednesday, edge rusher Micah Parsons and running back Chris Brooks. Both opened up their 21-day practice windows, with the expectation that they’ll be added to the active roster down the line, potentially around the Packers’ Week 11 bye week. Parsons is on [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302606408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Will the Packers be active at the trade deadline?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89179/green-bay-packers-news-will-the-packers-be-active-at-the-trade-deadline",
-        "publishedAt": "2026-11-04T11:40:25-05:00",
-        "summary": "We got one big early November Tuesday ordeal out of the way. Now the countdown is on for another one. The annual “will they/won’t they” dance that precedes the NFL trade deadline every year is in full swing, with various speculators wondering who the Packers should target and what, if anything, they should give up [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2292838732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
