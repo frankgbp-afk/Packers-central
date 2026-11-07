@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-07T17:45:52.098Z",
+  "updatedAt": "2026-11-07T21:56:52.030Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers announce roster move | Nov. 7, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-move-nov-7-2026",
+        "publishedAt": "Sat, 07 Nov 2026 19:10:00 GMT",
+        "summary": "Green Bay elevates TE Drake Dabney for gameday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bzy0aesvyzsawcydwgfk.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers' defense thriving on takeaways",
         "url": "https://www.packers.com/news/packers-defense-thriving-on-takeaways-nov-7-2026",
@@ -100,18 +109,63 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/skals3rlwc1ghfawbfoc.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers CB Brandon Cisse named NFL Defensive Rookie of the Month",
-        "url": "https://www.packers.com/news/packers-cb-brandon-cisse-named-nfl-defensive-rookie-of-the-month-oct-2026",
-        "publishedAt": "Thu, 05 Nov 2026 17:00:00 GMT",
-        "summary": "Second-round pick broke up seven passes in October",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/v1793898998/packers/wce7s38fh85ottjf5cpj.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
+      {
+        "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
+        "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
+        "publishedAt": "2026-11-07T21:46:20Z",
+        "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
+        "image": "https://a.espncdn.com/photo/2026/1107/r1742610_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+        "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
+        "publishedAt": "2026-11-07T21:45:52Z",
+        "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+        "image": "https://a.espncdn.com/photo/2026/1104/nfl-week-9-unis-16x9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Vikings WR Jauan Jennings on rebuffing return to 49ers: 'I love where I'm at'",
+        "url": "https://www.espn.com/nfl/story/_/id/50411320/jennings-rebuffing-return-49ers-love-where-at",
+        "publishedAt": "2026-11-07T21:25:23Z",
+        "summary": "Jauan Jennings said he rebuffed the chance to return to the 49ers via trade despite struggling to produce for the Vikings because \"I love where I'm at.\"",
+        "image": "https://a.espncdn.com/photo/2026/1107/r1742565_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Hall of Famer Jack Ham hospitalized after medical emergency",
+        "url": "https://www.espn.com/college-football/story/_/id/50410839/hall-famer-jack-ham-hospitalized-medical-emergency",
+        "publishedAt": "2026-11-07T20:42:21Z",
+        "summary": "Hall of Fame linebacker and Penn State radio analyst Jack Ham experienced a medical emergency Saturday in Seattle and is being treated at a hospital.",
+        "image": "https://a.espncdn.com/photo/2017/0408/r197865_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Saints activate WR Jordyn Tyson, LT Kelvin Banks, cut RB Kendre Miller",
+        "url": "https://www.espn.com/nfl/story/_/id/50410541/sources-saints-activate-wr-jordyn-tyson-lt-kelvin-banks",
+        "publishedAt": "2026-11-07T21:08:08Z",
+        "summary": "Saints rookie wide receiver Jordyn Tyson and left tackle Kelvin Banks Jr. have been activated from injured reserve ahead of Sunday's game against the Browns.",
+        "image": "https://a.espncdn.com/photo/2026/0817/r1703175_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Browns QB Deshaun Watson out of concussion protocol",
+        "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+        "publishedAt": "2026-11-07T19:18:22Z",
+        "summary": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "image": "https://a.espncdn.com/photo/2026/1002/r1724705_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
       {
         "title": "Fantasy football last-minute pickups: Kaelon Black and Malik Willis lead the way",
         "url": "https://www.espn.com/fantasy/football/story/_/id/50392079/fantasy-football-streamers-last-minute-pickups-week-9",
@@ -163,60 +217,6 @@
         "publishedAt": "2026-11-07T14:29:36Z",
         "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
         "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-11-07T14:28:15Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-11-07T14:28:53Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: D/ST",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-        "publishedAt": "2026-11-07T14:28:34Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/1027/r1736992_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: IDP",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-        "publishedAt": "2026-11-07T14:10:54Z",
-        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Colts among several NFL teams mulling trade offers as deadline looms",
-        "url": "https://www.espn.com/nfl/story/_/id/50403627/trade-talks-pick-nfl-tuesday-deadline-looming",
-        "publishedAt": "2026-11-07T17:06:46Z",
-        "summary": "Multiple teams have been engaged in serious trade discussions as Tuesday's NFL deadline approaches.",
-        "image": "https://a.espncdn.com/photo/2026/1105/r1741604_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Colts in Daniel Jones trade talks as multiple teams call about QB, sources say",
-        "url": "https://www.espn.com/nfl/story/_/id/50403440/sources-colts-engaged-daniel-jones-trade-talks",
-        "publishedAt": "2026-11-07T15:38:18Z",
-        "summary": "The Colts have engaged in trade discussions with multiple teams involving quarterback Daniel Jones, sources told NFL Network and ESPN.",
-        "image": "https://a.espncdn.com/photo/2026/1018/r1732628_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
