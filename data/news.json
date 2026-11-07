@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-07T10:22:49.339Z",
+  "updatedAt": "2026-11-07T17:45:52.098Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers' defense thriving on takeaways",
+        "url": "https://www.packers.com/news/packers-defense-thriving-on-takeaways-nov-7-2026",
+        "publishedAt": "Sat, 07 Nov 2026 15:00:00 GMT",
+        "summary": "Patriots QB Drake Maye has protected the ball much better of late",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fyll2h5tqfrhznjzkmnp.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Halfway point",
+        "url": "https://www.packers.com/news/halfway-point-nov-7-2026",
+        "publishedAt": "Sat, 07 Nov 2026 14:30:00 GMT",
+        "summary": "Policy’s Perspective is a monthly column written by President and CEO Ed Policy",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/algojynr7vygzq2c5i5a.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: They know what must be done",
+        "url": "https://www.packers.com/news/inbox-they-know-what-must-be-done-nov-7-2026",
+        "publishedAt": "Sat, 07 Nov 2026 14:00:00 GMT",
+        "summary": "Chris Brooks is an underrated part of this whole thing",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/b7uhgq2v6cmhmbzdbgvk.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers list three questionable, rule out five vs. Patriots | Week 9 Injury Report",
         "url": "https://www.packers.com/news/packers-list-three-questionable-rule-out-five-vs-patriots-week-9-injury-report",
@@ -82,146 +109,128 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/v1793898998/packers/wce7s38fh85ottjf5cpj.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Green Bay Packers, ifm Razorbacks Ravensburg announce flag football collaboration",
-        "url": "https://www.packers.com/news/green-bay-packers-ifm-razorbacks-ravensburg-announce-flag-football-collaboration-nov-5-2026",
-        "publishedAt": "Thu, 05 Nov 2026 16:55:00 GMT",
-        "summary": "\"Touchdown School\" program to grow American flag football in southern Germany",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qexdlhaxdn3pohgcchvo.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers nominate Lukas Van Ness for NFL Salute to Service Award",
-        "url": "https://www.packers.com/news/packers-nominate-lukas-van-ness-for-nfl-salute-to-service-award-2026",
-        "publishedAt": "Thu, 05 Nov 2026 16:45:00 GMT",
-        "summary": "Award recognizes NFL players, coaches, staff and alumni with proven track record of honoring and supporting military and veteran communities",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xx19rthav9ykcyqt7v1k.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Jordan Love's fast start has him on historic trajectory",
-        "url": "https://www.packers.com/news/jordan-love-s-fast-start-has-him-on-historic-trajectory-nov-5-2026",
-        "publishedAt": "Thu, 05 Nov 2026 15:00:00 GMT",
-        "summary": "Packers quarterback needs one more to reach 100 career passing TDs",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ahuvb9x8qlpxcps6jdww.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Fantasy football Week 9 inactives: Who's in and who's out?",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50357331/fantasy-football-injuries-nfl-week-9-inactive-active",
-        "publishedAt": "2026-11-07T01:26:17Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1742193_2_1296x729_16-9.jpg",
+        "title": "Fantasy football last-minute pickups: Kaelon Black and Malik Willis lead the way",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50392079/fantasy-football-streamers-last-minute-pickups-week-9",
+        "publishedAt": "2026-11-07T14:31:38Z",
+        "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
+        "image": "https://a.espncdn.com/photo/2026/1105/r1741710_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Brandon Aiyuk meets with 49ers, says he's healthy, 'looking to get reinstated'",
-        "url": "https://www.espn.com/nfl/story/_/id/50402899/brandon-aiyuk-meets-49ers-looking-get-reinstated",
-        "publishedAt": "2026-11-07T00:52:30Z",
-        "summary": "Brandon Aiyuk met with the Niners on Friday to begin hammering out a path toward a divorce that has been more than two years in the making.",
-        "image": "https://a.espncdn.com/photo/2026/1105/r1741725_600x400_3-2.jpg",
+        "title": "Fantasy football flex and superflex rankings for Week 9",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-11-07T14:30:13Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
+        "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out",
-        "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
-        "publishedAt": "2026-11-07T03:11:40Z",
-        "summary": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
-        "image": "https://a.espncdn.com/photo/2026/1103/r1740726_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings Week 9: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-11-07T14:30:30Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Nick Bosa back, Christian McCaffrey good to go for Niners",
-        "url": "https://www.espn.com/nfl/story/_/id/50402463/nick-bosa-back-christian-mccaffrey-good-go-niners",
-        "publishedAt": "2026-11-06T23:03:00Z",
-        "summary": "The 49ers will have a healthy Nick Bosa for the first time since Week 2, and running back Christian McCaffrey is good to go this week against the Raiders.",
-        "image": "https://a.espncdn.com/photo/2026/0701/r1682817_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings for Week 9: Tight end",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+        "publishedAt": "2026-11-07T14:29:16Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Giants' Cam Skattebo doubtful vs. Eagles; Malik Nabers 'full go'",
-        "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go",
-        "publishedAt": "2026-11-07T00:36:48Z",
-        "summary": "Giants running back Cam Skattebo is unlikely to play against the Eagles on Sunday, but receiver Malik Nabers is expected to be a \"full go\" without limitations.",
-        "image": "https://a.espncdn.com/photo/2026/1004/r1726061_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings for Week 9: Wide receiver",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+        "publishedAt": "2026-11-07T14:29:55Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jacoby Brissett brings hope but realistic expectations for spiraling Ravens",
-        "url": "https://www.espn.com/nfl/story/_/id/50401403/what-biggest-problems-facing-brissett-ravens",
-        "publishedAt": "2026-11-07T01:09:33Z",
-        "summary": "The Ravens know what they're getting in acquiring veteran journeyman QB, but does Jacoby Brissett know what he's in for?",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1742104_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings for Week 9: Running back",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+        "publishedAt": "2026-11-07T14:29:36Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Joe Burrow makes time for art in Madrid ahead of Bengals-Falcons",
-        "url": "https://www.espn.com/nfl/story/_/id/50400935/joe-burrow-madrid-art-museum-bengals-falcons",
-        "publishedAt": "2026-11-06T19:05:40Z",
-        "summary": "While in Spain, the Bengals quarterback is finding time for one of his off-field interests: art.",
-        "image": "https://a.espncdn.com/photo/2026/0908/r1713218_608x342_16-9.jpg",
+        "title": "Fantasy football rankings for Week 9: Kicker",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+        "publishedAt": "2026-11-07T14:28:15Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "3 ways Browns QB Shedeur Sanders can show growth vs. Saints",
-        "url": "https://www.espn.com/nfl/story/_/id/50399074/cleveland-browns-qb-shedeur-sanders-start-growth-saints",
-        "publishedAt": "2026-11-06T19:07:34Z",
-        "summary": "The opportunity is a big one as the second-year quarterback's first start of the season comes at a critical time.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1741957_608x342_16-9.jpg",
+        "title": "Fantasy football rankings for Week 9: Quarterback",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+        "publishedAt": "2026-11-07T14:28:53Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ian Rapoport gives an update on Myles Garrett's impending return",
-        "url": "https://www.espn.com/video/clip/_/id/50401034/ian-rapoport-gives-update-myles-garrett-impending-return",
-        "publishedAt": "2026-11-06T19:03:07Z",
-        "summary": "Ian Rapoport gives an update on Myles Garrett's impending return    ",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/ss_20261106_134719032_3727727837/ss_20261106_134719032_3727727837.jpg",
+        "title": "Fantasy football rankings for Week 9: D/ST",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+        "publishedAt": "2026-11-07T14:28:34Z",
+        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+        "image": "https://a.espncdn.com/photo/2026/1027/r1736992_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cowboys' Jerry Jones says paying coaches never been an issue",
-        "url": "https://www.espn.com/nfl/story/_/id/50400964/cowboys-jerry-jones-says-paying-coaches-never-issue",
-        "publishedAt": "2026-11-06T19:08:28Z",
-        "summary": "Defending comments he made earlier in the week, Cowboys owner and GM Jerry Jones said it's \"ridiculous\" to think he would let money stop him from hiring a head coach.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1742068_1296x729_16-9.jpg",
+        "title": "Fantasy football rankings for Week 9: IDP",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+        "publishedAt": "2026-11-07T14:10:54Z",
+        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+        "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
-        "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
-        "publishedAt": "2026-11-06T18:56:40Z",
-        "summary": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
-        "image": "https://a.espncdn.com/photo/2026/0817/r1703091_600x400_3-2.jpg",
+        "title": "Sources: Colts among several NFL teams mulling trade offers as deadline looms",
+        "url": "https://www.espn.com/nfl/story/_/id/50403627/trade-talks-pick-nfl-tuesday-deadline-looming",
+        "publishedAt": "2026-11-07T17:06:46Z",
+        "summary": "Multiple teams have been engaged in serious trade discussions as Tuesday's NFL deadline approaches.",
+        "image": "https://a.espncdn.com/photo/2026/1105/r1741604_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams' Myles Garrett to be activated from injured reserve, play vs. Commanders",
-        "url": "https://www.espn.com/nfl/story/_/id/50400738/sources-rams-myles-garrett-track-return-vs-commanders",
-        "publishedAt": "2026-11-06T22:24:26Z",
-        "summary": "Rams star pass rusher Myles Garrett is on track to be activated from injured reserve ahead of Sunday's game at the Commanders.",
-        "image": "https://a.espncdn.com/photo/2026/0911/r1714767_1296x729_16-9.jpg",
+        "title": "Colts in Daniel Jones trade talks as multiple teams call about QB, sources say",
+        "url": "https://www.espn.com/nfl/story/_/id/50403440/sources-colts-engaged-daniel-jones-trade-talks",
+        "publishedAt": "2026-11-07T15:38:18Z",
+        "summary": "The Colts have engaged in trade discussions with multiple teams involving quarterback Daniel Jones, sources told NFL Network and ESPN.",
+        "image": "https://a.espncdn.com/photo/2026/1018/r1732628_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Draft: College Football Discussion, Week 10",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/89269/packers-draft-college-football-discussion-week-10",
+        "publishedAt": "2026-11-07T05:25:00-05:00",
+        "summary": "This is the best weekend of college football action so far this year, as there are eight head-to-head matchups between playoff-relevant teams. Real football with real stakes, the opposite of what the AFC is going to put forward for the second half of the season. What are the big games on Saturday? Chat with us [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2233108843.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Injury Report: 5 are out vs. the Patriots on Sunday",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/89265/packers-injury-report-5-are-out-vs-the-patriots-on-sunday",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-11-05T08:00:00-05:00",
         "summary": "Last week, the Carolina Panthers sat in split-safety coverages against the Green Bay Packers, forcing the team to run the football or take checkdown passes routinely — just like their matchup in 2025. While this didn’t stop the Packers’ offense, which still had a 100-yard receiver in Christian Watson despite his in-game trip to the [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303370914.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: Who should start on Green Bay’s offensive line?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/89207/packers-discussion-who-should-start-on-green-bays-offensive-line",
-        "publishedAt": "2026-11-05T06:35:00-05:00",
-        "summary": "Obviously, the Green Bay Packers’ offensive line right now is not great, especially in the run game. If you haven’t been watching games and need a glimpse into what the Packers have been producing this year with their line, take a look at this graph, which uses Pro Football Focus’ data and shows how poorly [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2299465438.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
