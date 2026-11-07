@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-06T19:29:09.754Z",
+  "updatedAt": "2026-11-07T00:57:56.961Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers list three questionable, rule out five vs. Patriots | Week 9 Injury Report",
+        "url": "https://www.packers.com/news/packers-list-three-questionable-rule-out-five-vs-patriots-week-9-injury-report",
+        "publishedAt": "Fri, 06 Nov 2026 20:34:11 GMT",
+        "summary": "CB Keisean Nixon, two running backs questionable for Sunday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/h4trlqpr8mnnr630tevf.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Award-winning Evan Williams, Brandon Cisse elevating Packers' defense",
         "url": "https://www.packers.com/news/award-winning-evan-williams-brandon-cisse-elevating-packers-defense-nov-6-2026",
@@ -100,18 +109,45 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ahuvb9x8qlpxcps6jdww.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Green Bay Packers und Ifm Razorbacks Ravensburg geben zusammenarbeit im flag football bekannt",
-        "url": "https://www.packers.com/news/green-bay-packers-und-ifm-razorbacks-ravensburg-geben-zusammenarbeit-im-flag-football-bekannt-2026",
-        "publishedAt": "Thu, 05 Nov 2026 15:00:00 GMT",
-        "summary": "Mit dem Programm „Touchdown School“ soll Flag Football in Süddeutschland weiter gefördert werden.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qexdlhaxdn3pohgcchvo.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
+      {
+        "title": "Brandon Aiyuk meets with 49ers, says he's healthy, 'looking to get reinstated'",
+        "url": "https://www.espn.com/nfl/story/_/id/50402899/brandon-aiyuk-meets-49ers-looking-get-reinstated",
+        "publishedAt": "2026-11-07T00:52:30Z",
+        "summary": "Brandon Aiyuk met with the Niners on Friday to begin hammering out a path toward a divorce that has been more than two years in the making.",
+        "image": "https://a.espncdn.com/photo/2026/1105/r1741725_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out",
+        "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
+        "publishedAt": "2026-11-07T00:24:17Z",
+        "summary": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
+        "image": "https://a.espncdn.com/photo/2026/1103/r1740726_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Nick Bosa back, Christian McCaffrey good to go for Niners",
+        "url": "https://www.espn.com/nfl/story/_/id/50402463/nick-bosa-back-christian-mccaffrey-good-go-niners",
+        "publishedAt": "2026-11-06T23:03:00Z",
+        "summary": "The 49ers will have a healthy Nick Bosa for the first time since Week 2, and running back Christian McCaffrey is good to go this week against the Raiders.",
+        "image": "https://a.espncdn.com/photo/2026/0701/r1682817_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Giants' Cam Skattebo doubtful vs. Eagles; Malik Nabers 'full go'",
+        "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go",
+        "publishedAt": "2026-11-07T00:36:48Z",
+        "summary": "Giants running back Cam Skattebo is unlikely to play against the Eagles on Sunday, but receiver Malik Nabers is expected to be a \"full go\" without limitations.",
+        "image": "https://a.espncdn.com/photo/2026/1004/r1726061_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
       {
         "title": "Joe Burrow makes time for art in Madrid ahead of Bengals-Falcons",
         "url": "https://www.espn.com/nfl/story/_/id/50400935/joe-burrow-madrid-art-museum-bengals-falcons",
@@ -160,7 +196,7 @@
       {
         "title": "Rams' Myles Garrett to be activated from injured reserve, play vs. Commanders",
         "url": "https://www.espn.com/nfl/story/_/id/50400738/sources-rams-myles-garrett-track-return-vs-commanders",
-        "publishedAt": "2026-11-06T19:27:15Z",
+        "publishedAt": "2026-11-06T22:24:26Z",
         "summary": "Rams star pass rusher Myles Garrett is on track to be activated from injured reserve ahead of Sunday's game at the Commanders.",
         "image": "https://a.espncdn.com/photo/2026/0911/r1714767_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -183,45 +219,36 @@
         "image": "https://a.espncdn.com/photo/2026/1106/r1742051_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Daniel Dopp's Week 9 DraftKings tournament lineup",
-        "url": "https://www.espn.com/video/clip/_/id/50400559/daniel-dopp-week-9-draftkings-tournament-lineup",
-        "publishedAt": "2026-11-06T17:26:56Z",
-        "summary": "Daniel Dopp's Week 9 DraftKings tournament lineup",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_ffp_dopp_on_dfs_lineup/dm_261106_ffp_dopp_on_dfs_lineup.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
-        "publishedAt": "2026-11-06T17:50:08Z",
-        "summary": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
-        "image": "https://a.espncdn.com/photo/2026/1105/r1741668_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Dolphins to get rookie OL Kadyn Proctor back from concussion",
-        "url": "https://www.espn.com/nfl/story/_/id/50400507/dolphins-get-rookie-ol-kadyn-proctor-back-concussion",
-        "publishedAt": "2026-11-06T17:24:08Z",
-        "summary": "Dolphins left guard Kadyn Proctor has cleared concussion protocol and will play Sunday against the Lions, coach Jeff Hafley said.",
-        "image": "https://a.espncdn.com/photo/2026/1106/r1742046_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move",
-        "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-        "publishedAt": "2026-11-06T17:42:30Z",
-        "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including Jacoby Brissett to Baltimore.",
-        "image": "https://a.espncdn.com/photo/2026/0917/r1718044_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Injury Report: 5 are out vs. the Patriots on Sunday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/89265/packers-injury-report-5-are-out-vs-the-patriots-on-sunday",
+        "publishedAt": "2026-11-06T16:03:07-05:00",
+        "summary": "The Green Bay Packers have announced their initial game statuses for Sunday’s action against the New England Patriots, following a week of practice. Five players have already been ruled out: tight end Josh Whyle (concussion), offensive lineman Travis Glover (knee), offensive lineman Sean Rhyan (ankle), linebacker Zaire Franklin (shin), and edge defender Micah Parsons (knee). [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2296997617.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "NFL Draft: Many 4th-year seniors are expected to return to college",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/89262/nfl-draft-many-4th-year-seniors-are-expected-to-return-to-college",
+        "publishedAt": "2026-11-06T15:40:16-05:00",
+        "summary": "The Athletic’s Dane Brugler has reported that NFL scouts “are preparing” for a high number of fourth-year seniors to return to college football in 2027, which will impact the 2027 NFL Draft. This is part of the inevitable evolution of the college landscape, as the NCAA decided to allow for “five-for-five” this past offseason. Five-for-five [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2211389881.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Packers still plagued by missed opportunities",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89253/green-bay-packers-news-packers-still-plagued-by-missed-opportunities",
+        "publishedAt": "2026-11-06T14:31:47-05:00",
+        "summary": "The Green Bay Packers don&#8217;t appear to have a problem finding open receivers. Receivers catching the ball, however, is unfortunately a problem. We’ve seen the stat six hundred times already, but here it is once more for posterity: Through eight games, Green Bay has recorded 23 dropped passes, eight more than any other NFL team. [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302257150.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Desmond Howard, Reggie White and more highlight Packers’ best moments against Patriots",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-history/89249/desmond-howard-reggie-white-and-more-highlight-packers-best-moments-against-patriots",
@@ -282,33 +309,6 @@
         "publishedAt": "2026-11-05T06:35:00-05:00",
         "summary": "Obviously, the Green Bay Packers’ offensive line right now is not great, especially in the run game. If you haven’t been watching games and need a glimpse into what the Packers have been producing this year with their line, take a look at this graph, which uses Pro Football Focus’ data and shows how poorly [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2299465438.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Micah Parsons talks injury, recovery and timeline",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89203/micah-parsons-talks-injury-recovery-and-timeline",
-        "publishedAt": "2026-11-04T19:17:02-05:00",
-        "summary": "The Green Bay Packers opened up edge defender Micah Parsons’ 21-day practice window on Wednesday, which allows him to practice with the team for up to three weeks before he’s eventually brought up to the active roster. That 21-day window overlaps with the Packers’ bye week in Week 11, which means that Parsons should be [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2297001671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The hits keep coming for wild-card hopefuls chasing the Packers",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89200/the-hits-keep-coming-for-wild-card-hopefuls-chasing-the-packers",
-        "publishedAt": "2026-11-04T17:09:59-05:00",
-        "summary": "Heading into Week 9, the Green Bay Packers—and the rest of the NFC North—would make the NFL playoffs if the season ended now. Per the league’s website, the NFL projects the Packers make the playoffs about half the time in simulations, with the Minnesota Vikings (81 percent), Chicago Bears (82 percent), and Detroit Lions (80 [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2258195632.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Micah Parsons and Chris Brooks practice",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89194/packers-injury-report-micah-parsons-and-chris-brooks-practice",
-        "publishedAt": "2026-11-04T16:55:30-05:00",
-        "summary": "The Green Bay Packers got back two key players back in practice on Wednesday, edge rusher Micah Parsons and running back Chris Brooks. Both opened up their 21-day practice windows, with the expectation that they’ll be added to the active roster down the line, potentially around the Packers’ Week 11 bye week. Parsons is on [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302606408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
