@@ -1,22 +1,31 @@
 {
-  "updatedAt": "2026-11-08T13:37:11.941Z",
+  "updatedAt": "2026-11-08T19:44:22.443Z",
   "sources": {
     "packers": [
       {
-        "title": "Packers announce roster move | Nov. 7, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-move-nov-7-2026",
-        "publishedAt": "Sat, 07 Nov 2026 19:10:00 GMT",
-        "summary": "Green Bay elevates TE Drake Dabney for gameday",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bzy0aesvyzsawcydwgfk.png",
+        "title": "Packers vs. Patriots | How to watch, stream & listen | Week 9",
+        "url": "https://www.packers.com/news/packers-vs-patriots-how-to-watch-stream-listen-week-9-2026",
+        "publishedAt": "Sun, 08 Nov 2026 15:40:00 GMT",
+        "summary": "Green Bay Packers vs. New England Patriots channel listing, radio & streaming options",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bwdsp4s112ibp8xryh0y.png",
         "source": "Packers.com",
         "icon": "GB"
       },
       {
         "title": "Packers' defense thriving on takeaways",
         "url": "https://www.packers.com/news/packers-defense-thriving-on-takeaways-nov-7-2026",
-        "publishedAt": "Sat, 07 Nov 2026 15:00:00 GMT",
+        "publishedAt": "Sun, 08 Nov 2026 15:30:00 GMT",
         "summary": "Patriots QB Drake Maye has protected the ball much better of late",
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fyll2h5tqfrhznjzkmnp.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers announce roster move | Nov. 7, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-move-nov-7-2026",
+        "publishedAt": "Sat, 07 Nov 2026 19:10:00 GMT",
+        "summary": "Green Bay elevates TE Drake Dabney for gameday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bzy0aesvyzsawcydwgfk.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -100,123 +109,114 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/zf7u37niyealohjofeqf.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers S Evan Williams named NFC Defensive Player of the Month",
-        "url": "https://www.packers.com/news/packers-s-evan-williams-named-nfc-defensive-player-of-the-month-oct-2026",
-        "publishedAt": "Thu, 05 Nov 2026 17:01:00 GMT",
-        "summary": "Third-year pro filled up stat sheet during five October games",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/skals3rlwc1ghfawbfoc.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Fantasy football flex and superflex rankings for Week 9",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-        "publishedAt": "2026-11-08T13:22:09Z",
-        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
-        "image": "https://a.espncdn.com/photo/2026/0902/r1710593_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings Week 9: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-11-08T13:20:53Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-11-08T13:20:34Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Tight end",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-        "publishedAt": "2026-11-08T13:19:37Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-11-08T13:19:18Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: D/ST",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-        "publishedAt": "2026-11-08T13:19:57Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/1027/r1736992_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-11-08T13:18:58Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: IDP",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-        "publishedAt": "2026-11-08T13:18:22Z",
-        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
         "title": "Fantasy football Week 9 inactives: Who's in and who's out?",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50357331/fantasy-football-injuries-nfl-week-9-inactive-active",
-        "publishedAt": "2026-11-08T13:25:57Z",
+        "publishedAt": "2026-11-08T19:34:47Z",
         "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
         "image": "https://a.espncdn.com/photo/2026/1106/r1742193_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Lamar Jackson told Ravens teammates he plans to return this season",
-        "url": "https://www.espn.com/nfl/story/_/id/50407561/sources-lamar-jackson-told-ravens-plans-return-26",
-        "publishedAt": "2026-11-08T13:18:17Z",
-        "summary": "Lamar Jackson told his Ravens teammates that he plans to return later this season, sources told NFL Network.",
-        "image": "https://a.espncdn.com/photo/2026/1101/r1739767_1296x729_16-9.jpg",
+        "title": "Why Adam Rank can't drop Kyle Pitts just yet in fantasy",
+        "url": "https://www.espn.com/video/clip/_/id/50422850/why-adam-rank-drop-kyle-pitts-just-yet-fantasy",
+        "publishedAt": "2026-11-08T19:16:17Z",
+        "summary": "Why Adam Rank can't drop Kyle Pitts just yet in fantasy",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_fantasy_kylepitts/dm_261108_fantasy_kylepitts.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Seahawks' Sam Darnold in jeopardy of missing Week 10 game vs. Raiders",
-        "url": "https://www.espn.com/nfl/story/_/id/50400897/sources-seahawks-sam-darnold-danger-missing-week-10",
-        "publishedAt": "2026-11-08T13:33:54Z",
-        "summary": "Seahawks QB Sam Darnold, who is out Sunday against the Cardinals, also is in danger of missing Seattle's Week 10 game against the Raiders, sources told ESPN.",
-        "image": "https://a.espncdn.com/photo/2026/1103/r1740370_1296x729_16-9.jpg",
+        "title": "What Adam Rank loves from Bijan Robinson's fantasy performance vs. Bengals",
+        "url": "https://www.espn.com/video/clip/_/id/50422832/what-adam-rank-loves-bijan-robinson-fantasy-performance-vs-bengals",
+        "publishedAt": "2026-11-08T19:11:57Z",
+        "summary": "What Adam Rank loves from Bijan Robinson's fantasy performance vs. Bengals",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_fantasy_bijan/dm_261108_fantasy_bijan.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Can fantasy managers trust Chase Brown?",
+        "url": "https://www.espn.com/video/clip/_/id/50422793/can-fantasy-managers-trust-chase-brown",
+        "publishedAt": "2026-11-08T19:05:58Z",
+        "summary": "Can fantasy managers trust Chase Brown?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_fantasy_chasebrown/dm_261108_fantasy_chasebrown.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Eric Moody: Joe Burrow, Ja'Marr Chase are matchup-proof in fantasy",
+        "url": "https://www.espn.com/video/clip/_/id/50422661/joe-burrow-jamarr-chase-matchup-proof-fantasy",
+        "publishedAt": "2026-11-08T18:50:01Z",
+        "summary": "Eric Moody: Joe Burrow, Ja'Marr Chase are matchup-proof in fantasy",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_fantasy_burrow_chase/dm_261108_fantasy_burrow_chase.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-11-08T13:22:52Z",
+        "publishedAt": "2026-11-08T18:47:57Z",
         "summary": "Check here for Sunday's top moments, TDs and analysis.",
-        "image": "https://a.espncdn.com/photo/2026/1108/r1742887_1296x729_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1108/r1743098_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Burrow powers Bengals past the Falcons in Madrid for their 4th straight win",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873038",
+        "publishedAt": "2026-11-08T19:21:34Z",
+        "summary": "— Joe Burrow threw for three touchdowns and rushed for another and the Cincinnati Bengals' offense kept rolling to defeat the Atlanta Falcons 34-17 in Madrid on Sunday for their fourth straight win.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873038.png?templateId=espn.applewatch.awayhome.1",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move",
+        "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+        "publishedAt": "2026-11-08T18:10:06Z",
+        "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including Jacoby Brissett to Baltimore.",
+        "image": "https://a.espncdn.com/photo/2026/0917/r1718044_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Bengals' Burrow, Chase, Higgins add Spanish flair to TD celebrations in Madrid",
+        "url": "https://www.espn.com/nfl/story/_/id/50421721/cincinnati-bengals-real-madrid-spain-touchdown-celebrations",
+        "publishedAt": "2026-11-08T18:19:56Z",
+        "summary": "The Bengals' first-half lead called for celebrations inspired by being in Spain.",
+        "image": "https://a.espncdn.com/photo/2026/1108/r1743046_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cincinnati Bengals vs. Atlanta Falcons: Game Highlights",
+        "url": "https://www.espn.com/video/clip/_/id/50421706/game-highlights",
+        "publishedAt": "2026-11-08T18:39:45Z",
+        "summary": "Cincinnati Bengals vs. Atlanta Falcons: Game Highlights",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1108/d226eb2e-95da-4536-a93e-8d336f0879fa/d226eb2e-95da-4536-a93e-8d336f0879fa.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
+        "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026",
+        "publishedAt": "2026-11-08T18:24:31Z",
+        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
+        "image": "https://a.espncdn.com/photo/2026/1108/r1742997_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft questions, latest intel, risers, CFB standouts",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects",
+        "publishedAt": "2026-11-08T17:43:10Z",
+        "summary": "How did CFB Week 10 shake up the quarterback class? CJ Carr and LaNorris Sellers rising? Here's our weekly draft spin, including top standouts.",
+        "image": "https://a.espncdn.com/photo/2026/1108/r1742947_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
