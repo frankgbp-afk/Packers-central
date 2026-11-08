@@ -81,11 +81,19 @@
   ],
   "articles": [
     {
-      "title": "NFL Week 9 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "url": "https://www.espn.com/nfl/story/_/id/50381724/week-9-picks-predictions-schedule-fantasy-odds-2026",
-      "publishedAt": "2026-11-07T02:39:52Z",
-      "summary": "Bills vs. Vikings? Drake Maye vs. Jordan Love? The NFL in Madrid? There are 14 more games in Week 9, and we have picks, predictions and more for all of them.",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1741717_2_608x342_16-9.jpg",
+      "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
+      "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
+      "publishedAt": "2026-11-07T22:36:17Z",
+      "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame on Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
+      "image": "https://a.espncdn.com/photo/2026/1107/r1742610_600x400_3-2.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
+      "publishedAt": "2026-11-07T21:45:52Z",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "image": "https://a.espncdn.com/photo/2026/1104/nfl-week-9-unis-16x9.jpg",
       "source": "ESPN"
     },
     {
@@ -113,14 +121,6 @@
       "source": "ESPN"
     },
     {
-      "title": "Regrading 2025 NFL deadline trades: How Gardner, Williams deals look right now",
-      "url": "https://www.espn.com/nfl/story/_/id/50359560/regrading-deals-2025-nfl-trade-deadline-williams-gardner",
-      "publishedAt": "2026-11-06T14:31:29Z",
-      "summary": "How do the Sauce Gardner and Quinnen Williams blockbuster trades look one year later? What about the Jakobi Meyers, Rashid Shaheed and Jaelan Phillips deals?",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741593_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
       "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
       "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
       "publishedAt": "2026-11-06T13:28:42Z",
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-07T21:56:51.983Z"
+  "updatedAt": "2026-11-08T01:24:16.553Z"
 }
