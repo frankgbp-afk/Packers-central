@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:56:52.030Z",
+  "updatedAt": "2026-11-08T06:14:20.579Z",
   "sources": {
     "packers": [
       {
@@ -113,20 +113,38 @@
     ],
     "espn": [
       {
-        "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
-        "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
-        "publishedAt": "2026-11-07T21:46:20Z",
-        "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
-        "image": "https://a.espncdn.com/photo/2026/1107/r1742610_600x400_3-2.jpg",
+        "title": "Venables lauds Witten after Sooners shine in Oklahoma playcaller's debut",
+        "url": "https://www.espn.com/college-football/story/_/id/50417320/venables-lauds-witten-sooners-shine-play-caller-debut",
+        "publishedAt": "2026-11-08T05:52:02Z",
+        "summary": "In his debut as Oklahoma's offensive playcaller, Jason Witten, a former NFL tight end who coached high school in Texas last year, engineered an impressive Sooners attack that throttled No. 25 Florida in a 23-7 victory Saturday to push them to 5-4.",
+        "image": "https://a.espncdn.com/photo/2026/1108/r1742833_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
+        "publishedAt": "2026-11-08T05:45:40Z",
+        "summary": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
+        "image": "https://a.espncdn.com/photo/2026/1105/r1741668_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
         "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-        "publishedAt": "2026-11-07T21:45:52Z",
+        "publishedAt": "2026-11-08T02:18:40Z",
         "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
         "image": "https://a.espncdn.com/photo/2026/1104/nfl-week-9-unis-16x9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
+        "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
+        "publishedAt": "2026-11-07T22:36:17Z",
+        "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame on Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
+        "image": "https://a.espncdn.com/photo/2026/1107/r1742610_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
@@ -140,10 +158,10 @@
         "icon": "ESPN"
       },
       {
-        "title": "Hall of Famer Jack Ham hospitalized after medical emergency",
+        "title": "Hall of Famer Jack Ham hospitalized, in stable condition after medical emergency",
         "url": "https://www.espn.com/college-football/story/_/id/50410839/hall-famer-jack-ham-hospitalized-medical-emergency",
-        "publishedAt": "2026-11-07T20:42:21Z",
-        "summary": "Hall of Fame linebacker and Penn State radio analyst Jack Ham experienced a medical emergency Saturday in Seattle and is being treated at a hospital.",
+        "publishedAt": "2026-11-08T01:55:42Z",
+        "summary": "Hall of Fame linebacker and Penn State radio analyst Jack Ham experienced a medical emergency Saturday in Seattle and was in stable condition.",
         "image": "https://a.espncdn.com/photo/2017/0408/r197865_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
@@ -201,27 +219,18 @@
         "image": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-11-07T14:29:55Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 9: Running back",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-        "publishedAt": "2026-11-07T14:29:36Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "What the Packers’ roster could look like vs. the Patriots",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/89276/what-the-packers-roster-could-look-like-vs-the-patriots",
+        "publishedAt": "2026-11-07T17:37:11-05:00",
+        "summary": "The Green Bay Packers only made one roster move on Saturday, bringing up practice squad tight end Drake Dabney to the game-day roster for action against the New England Patriots. As always, the moves that the Packers make, and don’t make, give us hints at what the roster is expected to look like on Sunday. [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302235326.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Draft: College Football Discussion, Week 10",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/89269/packers-draft-college-football-discussion-week-10",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-11-05T14:02:21-05:00",
         "summary": "If you’re reading this, you obviously know that on Aug. 28, 2025, the Green Bay Packers traded defensive tackle Kenny Clark, and first-round picks in 2026 and 2027, to the Dallas Cowboys for the services of transcendent edge-rusher Micah Parsons. And when the 2025 season began, it appeared to foster a major improvement in Jeff [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY296875252046934340.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers-Patriots Preview: Christian Gonzalez defines New England’s defense",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89210/packers-patriots-preview-christian-gonzalez-defines-new-englands-defense",
-        "publishedAt": "2026-11-05T08:00:00-05:00",
-        "summary": "Last week, the Carolina Panthers sat in split-safety coverages against the Green Bay Packers, forcing the team to run the football or take checkdown passes routinely — just like their matchup in 2025. While this didn’t stop the Packers’ offense, which still had a 100-yard receiver in Christian Watson despite his in-game trip to the [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303370914.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
