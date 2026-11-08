@@ -248,10 +248,10 @@
       "network": "FOX",
       "venue": "Gillette Stadium",
       "kickoff": "2026-11-08T21:25:00.000Z",
-      "status": "scheduled",
-      "statusDetail": "11/8 - 4:25 PM EST",
-      "packersScore": null,
-      "opponentScore": null,
+      "status": "live",
+      "statusDetail": "Halftime",
+      "packersScore": 24,
+      "opponentScore": 14,
       "result": null,
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873049"
     },
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-11-08T19:39:52.294Z"
+  "updatedAt": "2026-11-08T23:14:35.009Z"
 }

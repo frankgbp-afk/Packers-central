@@ -29,7 +29,7 @@
     },
     {
       "team": "Lions",
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0,
       "packers": false
@@ -42,5 +42,5 @@
       "packers": true
     }
   ],
-  "updatedAt": "2026-11-08T19:39:52.295Z"
+  "updatedAt": "2026-11-08T23:14:35.010Z"
 }
