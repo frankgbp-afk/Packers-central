@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-09T00:58:07.909Z",
+  "updatedAt": "2026-11-09T11:44:49.948Z",
   "sources": {
     "packers": [
+      {
+        "title": "Game recap: 5 takeaways from Packers' victory over Patriots",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-patriots-week-9-2026",
+        "publishedAt": "Mon, 09 Nov 2026 03:10:00 GMT",
+        "summary": "Green Bay’s passing game dominates at New England",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/nadfgw0jteayvyeijcot.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Game notes: Packers turned big takeaways into explosive plays",
+        "url": "https://www.packers.com/news/game-notes-packers-turned-big-takeaways-into-explosive-plays-week-9-2026",
+        "publishedAt": "Mon, 09 Nov 2026 03:05:00 GMT",
+        "summary": "Matthew Golden and Christian Watson notch career days, Kaleb Johnson sparks run game",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/tmtvtiziqicqe2cnsl3b.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Rapid reaction: Jordan Love hears M-V-P chants",
+        "url": "https://www.packers.com/news/rapid-reaction-jordan-love-hears-m-v-p-chants-week-9-2026",
+        "publishedAt": "Mon, 09 Nov 2026 03:00:00 GMT",
+        "summary": "Packers QB launches candidacy with tour de force performance vs. Patriots",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/r2zjtkers4vrraaffql9.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers defeat Patriots, 45-27",
         "url": "https://www.packers.com/news/in-game-updates-week-9-patriots-2026",
@@ -82,146 +109,173 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/h4trlqpr8mnnr630tevf.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Award-winning Evan Williams, Brandon Cisse elevating Packers' defense",
-        "url": "https://www.packers.com/news/award-winning-evan-williams-brandon-cisse-elevating-packers-defense-nov-6-2026",
-        "publishedAt": "Fri, 06 Nov 2026 15:00:00 GMT",
-        "summary": "Defensive backs view October honors as reflection of surging unit",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/k8jeesinc3vrfmoytysc.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: Each guy has had his moments",
-        "url": "https://www.packers.com/news/inbox-each-guy-has-had-his-moments-nov-6-2026",
-        "publishedAt": "Fri, 06 Nov 2026 14:30:00 GMT",
-        "summary": "Do whatever it takes to win",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rz77ok00nruzovvrhdop.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Former Packers head coach Mike Holmgren considered for Canton again",
-        "url": "https://www.packers.com/news/former-packers-head-coach-mike-holmgren-considered-for-canton-again-nov-5-2026",
-        "publishedAt": "Thu, 05 Nov 2026 21:46:02 GMT",
-        "summary": "He’s one of five coach nominees for Pro Football Hall of Fame’s class of 2027",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fbymptb5g9zkgcq5dpvm.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
+        "title": "Joe Burrow reaching new heights as Bengals face big test",
+        "url": "https://www.espn.com/nfl/story/_/id/50427816/bengals-joe-burrow-steelers-afc-north",
+        "publishedAt": "2026-11-09T11:00:10Z",
+        "summary": "Burrow led the Bengals to their fourth straight win, and AFC North rival Pittsburgh is on deck.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743384_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Inside Justin Jefferson's miraculous catch for Vikings versus Bills in 2022",
+        "url": "https://www.espn.com/nfl/story/_/id/50408415/vikings-justin-jefferson-miraculous-catch-bills-2022",
+        "publishedAt": "2026-11-09T11:00:01Z",
+        "summary": "In 2022 against the Bills, Jefferson leaped up and came down with one of \"the greatest catches of all time.\"",
+        "image": "https://a.espncdn.com/photo/2026/1104/r1741091_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+        "publishedAt": "2026-11-09T11:00:04Z",
+        "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+        "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+        "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+        "publishedAt": "2026-11-09T11:00:03Z",
+        "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+        "image": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Caleb Williams unfazed by 4 interceptions as Bears pull out win vs. Bucs",
+        "url": "https://www.espn.com/nfl/story/_/id/50430415/caleb-williams-4-interceptions-bears-win-buccaneers",
+        "publishedAt": "2026-11-09T08:35:30Z",
+        "summary": "Caleb Williams refused to let his four interceptions rattle his confidence as he put the Bears in position to beat the Buccaneers on a walk-off field goal.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743455_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Titans WR Calvin Ridley involved in incident at Nashville airport",
+        "url": "https://www.espn.com/nfl/story/_/id/50429795/titans-wr-ridley-involved-incident-nashville-airport",
+        "publishedAt": "2026-11-09T05:52:42Z",
+        "summary": "Titans WR Calvin Ridley was involved in an incident at Nashville International Airport over the weekend, details of which have not been released.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743450_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
         "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
-        "publishedAt": "2026-11-09T00:55:43Z",
+        "publishedAt": "2026-11-09T05:55:59Z",
         "summary": "Check here for Sunday's top moments, TDs and analysis.",
         "image": "https://a.espncdn.com/photo/2026/1108/r1743279_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Multi-drop game in Colts' loss irks WR Josh Downs as trade deadline looms",
-        "url": "https://www.espn.com/nfl/story/_/id/50427666/multi-drop-game-irks-colts-wr-downs-trade-deadline-nears",
-        "publishedAt": "2026-11-09T00:49:04Z",
-        "summary": "",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743374_600x600_1-1.jpg",
+        "title": "Giants' Malik Nabers takes issue with Greg Olsen, Fox for comments during game",
+        "url": "https://www.espn.com/nfl/story/_/id/50429684/giants-malik-nabers-takes-issue-fox-telecast",
+        "publishedAt": "2026-11-09T09:07:54Z",
+        "summary": "Malik Nabers took issue with Fox play-by-play man Joe Davis and analyst Greg Olsen for criticizing his body language during the Giants' win Sunday.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743447_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
         "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-11-09T00:47:01Z",
+        "publishedAt": "2026-11-09T05:58:13Z",
         "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743347_608x342_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743441_1296x518_5-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Judging overreactions to NFL Week 9 -- and what they mean for the trade deadline",
-        "url": "https://www.espn.com/nfl/story/_/id/50422026/week-9-overreactions-2026-graziano-trade-deadline-bengals-cowboys",
-        "publishedAt": "2026-11-09T00:55:26Z",
-        "summary": "Is it time for the Bengals to make a push? Should the Giants aggressively go after a RB? Will the WR market go wild? We're overreacting to Sunday's games.",
-        "image": "https://a.espncdn.com/photo/2026/1108/r1743269_608x342_16-9.jpg",
+        "title": "Williams connects with Loveland to set up Santos' winning field goal as Bears edge Buccaneers 27-24",
+        "url": "http://www.espn.com/nfl/recap?gameId=401873050",
+        "publishedAt": "2026-11-09T06:47:34Z",
+        "summary": "— Caleb Williams and the Chicago Bears played one of their worst games of the season — and won.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873050.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "C.J. Stroud tosses 5 TD passes as Texans rout winless Chargers 44-22. LA finally scores a TD",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873046",
-        "publishedAt": "2026-11-09T00:44:35Z",
-        "summary": "— C.J. Stroud threw five touchdown passes, including a pair of season-best 63-yarders to Tank Dell and Kayshon Boutte, and the Houston Texans routed the winless Chargers 44-22 on Sunday and sent Los Angeles to its eighth straight defeat in front of...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873046.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Fantasy buzz: Week 9 scoring leaders through Sunday's games",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "publishedAt": "2026-11-09T04:52:49Z",
+        "summary": "Kenneth Walker III led Sunday's fantasy scorers, and Jordan Love and the Packers receivers had a field day.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743377_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "AJ Barner has a TD catch and runs for a score in Seahawks' 17-3 win over Cardinals",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873048",
-        "publishedAt": "2026-11-09T00:39:35Z",
-        "summary": "— AJ Barner caught a touchdown pass and ran for a score, and the Seattle Seahawks beat the Arizona Cardinals 17-3 on Sunday without starting quarterback Sam Darnold.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873048.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Arizona Cardinals vs. Seattle Seahawks: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50427474/game-highlights",
-        "publishedAt": "2026-11-09T00:37:40Z",
-        "summary": "Arizona Cardinals vs. Seattle Seahawks: Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1109/9a787b2d-e60e-4efb-a495-ab44b0f96bf9/9a787b2d-e60e-4efb-a495-ab44b0f96bf9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 9 arrivals: Caleb Williams rocks Supreme mascot zip-up before 'SNF'",
-        "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-        "publishedAt": "2026-11-09T00:31:42Z",
-        "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743361_2_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers cruise past Raiders 38-17",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873047",
-        "publishedAt": "2026-11-09T00:29:36Z",
-        "summary": "— Brock Purdy threw two touchdown passes and ran for another TD and the San Francisco 49ers had five takeaways in the second half to beat the Las Vegas Raiders 38-17 on Sunday.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873047.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Who are the winningest NFL coaches of all time?",
-        "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-        "publishedAt": "2026-11-09T00:26:53Z",
-        "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-        "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "49ers move to 7-1 after 38-17 win over the Raiders",
-        "url": "https://www.espn.com/video/clip/_/id/50427403/49ers-move-7-1-38-17-win-raiders",
-        "publishedAt": "2026-11-09T00:27:24Z",
-        "summary": "49ers move to 7-1 after 38-17 win over the Raiders",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1109/5946032b-9571-440e-beb6-21016ae589a3/5946032b-9571-440e-beb6-21016ae589a3.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Coach Nick Sirianni not ruling out staff changes after Eagles' 7th straight loss",
-        "url": "https://www.espn.com/nfl/story/_/id/50427398/sirianni-not-ruling-changes-eagles-7th-straight-loss",
-        "publishedAt": "2026-11-09T00:41:55Z",
-        "summary": "Nick Sirianni did not rule out the possibility of staff changes at the bye as he looks to find answers to what's ailing the Eagles, losers of seven in a row.",
-        "image": "https://a.espncdn.com/photo/2026/1108/r1743335_1296x729_16-9.jpg",
+        "title": "Bears survive, take down Bucs with walk-off field goal",
+        "url": "https://www.espn.com/video/clip/_/id/50429568/bears-survive-take-bucs-walk-field-goal",
+        "publishedAt": "2026-11-09T05:02:12Z",
+        "summary": "Bears survive, take down Bucs with walk-off field goal",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1109/2c6e187c-b15c-41f5-830a-f4794adc0f3f/2c6e187c-b15c-41f5-830a-f4794adc0f3f.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers vs. Vikings Odds: Opening line for Week 10 matchup",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/89363/packers-vs-vikings-odds-opening-line-for-week-10-matchup",
+        "publishedAt": "2026-11-09T01:40:41-05:00",
+        "summary": "The Green Bay Packers (6-3) are set to be three-point favorites over the Minnesota Vikings (6-1) in Week 10, according to FanDuel’s numbers. That number comes with a little juice at -120, and the Packers are -178 favorites, which comes with an implied probability of 64 percent. If you had said this a few weeks [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2294658487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "NFL Trade Deadline: Which picks can the Packers trade?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89356/nfl-trade-deadline-which-picks-can-the-packers-trade",
+        "publishedAt": "2026-11-09T01:26:07-05:00",
+        "summary": "No matter who you want at the NFL trade deadline, which is on Tuesday, getting that player — be it a running back, offensive lineman or defensive lineman — likely involves trading a draft pick in the 2027 class. Which of the Green Bay Packers’ draft picks are tradable? Let’s break it down for you. [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/08/gettyimages-1494893369.jpg?quality=90&#038;strip=all&#038;crop=9.8,0,90.2,80.799699995312",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Snap Counts, Week 9: Green Bay shakes up the offensive line",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/89346/packers-snap-counts-week-9-green-bay-shakes-up-the-offensive-line",
+        "publishedAt": "2026-11-08T21:03:22-05:00",
+        "summary": "The Green Bay Packers broke the 100-yard rushing mark on Sunday against the New England Patriots, in part because they changed up both their backfield and their offensive line. Will those changes stick moving forward? That hasn’t been determined yet. Let’s get into how this Packers team looked different than in the past in our [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303772107.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Winners and Losers: Week 9 vs. the Patriots",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89289/packers-winners-and-losers-week-9-vs-the-patriots",
+        "publishedAt": "2026-11-08T20:31:31-05:00",
+        "summary": "The Green Bay Packers traveled to face off against the New England Patriots on Sunday afternoon, and they were in control the entire time. With a commanding 45-27 win over the reigning AFC champions, the Packers find themselves 6-3 after 9 weeks of play. Let’s dive in and take a look at what worked this [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304183659.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers RB Josh Jacobs fractured his finger",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89317/packers-rb-josh-jacobs-fractured-his-finger",
+        "publishedAt": "2026-11-08T20:15:11-05:00",
+        "summary": "Green Bay Packers running back Josh Jacobs fractured his finger against the New England Patriots, according to head coach Matt LaFleur. In his post-game press conference, LaFleur stated, “Hopefully, we can do something to allow him to go out there.” Notably, Jacobs was ruled questionable with a hand injury mid-game, but he was never officially [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302756771.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Patriots Final Score: Christian Watson, Matthew Golden too much for Christian Gonzalez",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/89295/packers-patriots-final-score-christian-watson-matthew-golden-too-much-for-christian-gonzalez",
+        "publishedAt": "2026-11-08T19:50:08-05:00",
+        "summary": "Whenever a backup quarterback finishes the game for you, either something really good or really bad happened. Thankfully, in Green Bay’s case, it was good news on Sunday. The Packers dominated the New England Patriots through turnovers and their passing game, to the point that backup quarterback Tyrod Taylor entered midway through the fourth quarter [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304200181.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "NFC Playoff Picture: Packers stick in Wild Card with dominant win over Patriots",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-nfl-playoffs/89297/nfc-playoff-picture-green-bay-packers-stick-in-wild-card-with-dominant-win-over-patriots",
@@ -255,60 +309,6 @@
         "publishedAt": "2026-11-07T17:37:11-05:00",
         "summary": "The Green Bay Packers only made one roster move on Saturday, bringing up practice squad tight end Drake Dabney to the game-day roster for action against the New England Patriots. As always, the moves that the Packers make, and don’t make, give us hints at what the roster is expected to look like on Sunday. [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302235326.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Draft: College Football Discussion, Week 10",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/89269/packers-draft-college-football-discussion-week-10",
-        "publishedAt": "2026-11-07T05:25:00-05:00",
-        "summary": "This is the best weekend of college football action so far this year, as there are eight head-to-head matchups between playoff-relevant teams. Real football with real stakes, the opposite of what the AFC is going to put forward for the second half of the season. What are the big games on Saturday? Chat with us [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2233108843.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: 5 are out vs. the Patriots on Sunday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/89265/packers-injury-report-5-are-out-vs-the-patriots-on-sunday",
-        "publishedAt": "2026-11-06T16:03:07-05:00",
-        "summary": "The Green Bay Packers have announced their initial game statuses for Sunday’s action against the New England Patriots, following a week of practice. Five players have already been ruled out: tight end Josh Whyle (concussion), offensive lineman Travis Glover (knee), offensive lineman Sean Rhyan (ankle), linebacker Zaire Franklin (shin), and edge defender Micah Parsons (knee). [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2296997617.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL Draft: Many 4th-year seniors are expected to return to college",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/89262/nfl-draft-many-4th-year-seniors-are-expected-to-return-to-college",
-        "publishedAt": "2026-11-06T15:40:16-05:00",
-        "summary": "The Athletic’s Dane Brugler has reported that NFL scouts “are preparing” for a high number of fourth-year seniors to return to college football in 2027, which will impact the 2027 NFL Draft. This is part of the inevitable evolution of the college landscape, as the NCAA decided to allow for “five-for-five” this past offseason. Five-for-five [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2211389881.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Packers still plagued by missed opportunities",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89253/green-bay-packers-news-packers-still-plagued-by-missed-opportunities",
-        "publishedAt": "2026-11-06T14:31:47-05:00",
-        "summary": "The Green Bay Packers don&#8217;t appear to have a problem finding open receivers. Receivers catching the ball, however, is unfortunately a problem. We’ve seen the stat six hundred times already, but here it is once more for posterity: Through eight games, Green Bay has recorded 23 dropped passes, eight more than any other NFL team. [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302257150.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Desmond Howard, Reggie White and more highlight Packers’ best moments against Patriots",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/89249/desmond-howard-reggie-white-and-more-highlight-packers-best-moments-against-patriots",
-        "publishedAt": "2026-11-06T11:18:17-05:00",
-        "summary": "The New England Patriots are the epitome of what good ol’ Mike McCarthy would have called an “uncommon opponent.” They’ve been around for more than 50 years, but the Packers have only encountered them 13 times, and that counts their matchup in Super Bowl XXXI. But there’s still no shortage of big statistical performances on [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-455050992.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,74.652777777778",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Keisean Nixon, MarShawn Lloyd downgraded on Thursday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89235/packers-injury-report-keisean-nixon-marshawn-lloyd-downgraded-on-thursday",
-        "publishedAt": "2026-11-05T19:54:57-05:00",
-        "summary": "The Green Bay Packers held a padded practice inside the Don Hutson Center today, where they were a little more banged up than initially thought. After being a full participant on Wednesday with no injury status, running back MarShawn Lloyd appeared on the injury report on Thursday with a knee and was given “limited participant” [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2302311695.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
