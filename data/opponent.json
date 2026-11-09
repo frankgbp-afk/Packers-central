@@ -1,82 +1,82 @@
 {
   "season": 2026,
-  "opponentId": "17",
-  "opponent": "New England Patriots",
-  "opponentAbbr": "NE",
-  "gameId": "401873049",
-  "week": "WK 9",
-  "kickoff": "2026-11-08T21:25:00.000Z",
+  "opponentId": "16",
+  "opponent": "Minnesota Vikings",
+  "opponentAbbr": "MIN",
+  "gameId": "401873060",
+  "week": "WK 10",
+  "kickoff": "2026-11-15T18:00:00.000Z",
   "statsSource": "ESPN NFL standings (regular season)",
   "scoringBasis": "Points per game (regular season). Scoring defense: opponent points allowed per game; lower is better.",
   "hasLeagueRanks": true,
   "teams": {
     "opponent": {
-      "id": "17",
-      "name": "New England Patriots",
-      "abbreviation": "NE",
-      "games": 8,
-      "wins": 5,
-      "losses": 3,
+      "id": "16",
+      "name": "Minnesota Vikings",
+      "abbreviation": "MIN",
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
       "ties": 0,
-      "pointsFor": 184,
-      "pointsAgainst": 162,
-      "scoringOffense": 23,
-      "scoringDefense": 20.3,
-      "offenseRank": 15,
-      "defenseRank": 10
+      "pointsFor": 140,
+      "pointsAgainst": 93,
+      "scoringOffense": 20,
+      "scoringDefense": 13.3,
+      "offenseRank": 26,
+      "defenseRank": 1
     },
     "packers": {
       "id": "9",
       "name": "Green Bay Packers",
       "abbreviation": "GB",
-      "games": 8,
-      "wins": 5,
+      "games": 9,
+      "wins": 6,
       "losses": 3,
       "ties": 0,
-      "pointsFor": 171,
-      "pointsAgainst": 164,
-      "scoringOffense": 21.4,
-      "scoringDefense": 20.5,
-      "offenseRank": 22,
+      "pointsFor": 216,
+      "pointsAgainst": 191,
+      "scoringOffense": 24,
+      "scoringDefense": 21.2,
+      "offenseRank": 12,
       "defenseRank": 11
     }
   },
   "recentGames": [
     {
-      "date": "2026-11-01T21:25Z",
-      "opponent": "Miami Dolphins",
-      "opponentAbbr": "MIA",
-      "homeAway": "AT",
-      "result": "W",
-      "pointsFor": 24,
-      "pointsAgainst": 19
-    },
-    {
-      "date": "2026-10-23T00:15Z",
-      "opponent": "Chicago Bears",
-      "opponentAbbr": "CHI",
+      "date": "2026-11-01T18:00Z",
+      "opponent": "Detroit Lions",
+      "opponentAbbr": "DET",
       "homeAway": "AT",
       "result": "L",
-      "pointsFor": 24,
-      "pointsAgainst": 30
+      "pointsFor": 15,
+      "pointsAgainst": 19
     },
     {
-      "date": "2026-10-18T17:00Z",
-      "opponent": "New York Jets",
-      "opponentAbbr": "NYJ",
+      "date": "2026-10-25T17:00Z",
+      "opponent": "Indianapolis Colts",
+      "opponentAbbr": "IND",
       "homeAway": "VS",
       "result": "W",
-      "pointsFor": 26,
-      "pointsAgainst": 19
+      "pointsFor": 16,
+      "pointsAgainst": 10
     },
     {
       "date": "2026-10-11T17:00Z",
-      "opponent": "Las Vegas Raiders",
-      "opponentAbbr": "LV",
+      "opponent": "New Orleans Saints",
+      "opponentAbbr": "NO",
+      "homeAway": "AT",
+      "result": "W",
+      "pointsFor": 23,
+      "pointsAgainst": 13
+    },
+    {
+      "date": "2026-10-04T20:05Z",
+      "opponent": "Miami Dolphins",
+      "opponentAbbr": "MIA",
       "homeAway": "VS",
       "result": "W",
-      "pointsFor": 45,
-      "pointsAgainst": 17
+      "pointsFor": 15,
+      "pointsAgainst": 10
     }
   ],
   "articles": [
@@ -113,21 +113,21 @@
       "source": "ESPN"
     },
     {
-      "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
-      "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
-      "publishedAt": "2026-11-08T12:21:37Z",
-      "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame on Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742610_600x400_3-2.jpg",
+      "title": "J.J. McCarthy wowing Giants after initial concerns over QB's 'maturity,' VP says",
+      "url": "https://www.espn.com/nfl/story/_/id/50419727/jj-mccarthy-wowing-giants-concerns-maturity",
+      "publishedAt": "2026-11-08T14:23:10Z",
+      "summary": "Chris Mara said the Giants were concerned by J.J. McCarthy's maturity before the 2024 draft but says the QB has impressed his new team \"on and off the field.\"",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1736134_2_1296x729_16-9.jpg",
       "source": "ESPN"
     },
     {
-      "title": "Weekly Patriots notes: What New England could do at the trade deadline, intel",
-      "url": "https://www.espn.com/nfl/story/_/id/50401769/new-england-patriots-notebook-week-9-trade-deadline-plans",
-      "publishedAt": "2026-11-08T11:00:01Z",
-      "summary": "The Patriots will upgrade if they can before Tuesday's deadline, but it might be quiet. In fact, New England could even trade away someone like Christian Barmore.",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742235_608x342_16-9.jpg",
+      "title": "Vikings' QB situation starting to take shape",
+      "url": "https://www.espn.com/video/clip/_/id/50413783/vikings-qb-situation-starting-take-shape",
+      "publishedAt": "2026-11-07T23:38:06Z",
+      "summary": "Kevin Seifert on the Vikings' QB situation ahead of the trade deadline.",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1107/dm_261107_IA_Vikings_16x9/dm_261107_IA_Vikings_16x9.jpg",
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-08T23:14:35.221Z"
+  "updatedAt": "2026-11-09T00:58:07.861Z"
 }
