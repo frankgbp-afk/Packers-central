@@ -14,16 +14,16 @@
   },
   "standings": [
     {
-      "team": "Vikings",
-      "wins": 6,
-      "losses": 1,
+      "team": "Bears",
+      "wins": 7,
+      "losses": 2,
       "ties": 0,
       "packers": false
     },
     {
-      "team": "Bears",
+      "team": "Vikings",
       "wins": 6,
-      "losses": 2,
+      "losses": 1,
       "ties": 0,
       "packers": false
     },
@@ -42,5 +42,5 @@
       "packers": true
     }
   ],
-  "updatedAt": "2026-11-09T00:58:07.240Z"
+  "updatedAt": "2026-11-09T10:29:59.257Z"
 }
