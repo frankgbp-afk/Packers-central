@@ -21,14 +21,14 @@
       "packers": false
     },
     {
-      "team": "Vikings",
+      "team": "Lions",
       "wins": 6,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
       "packers": false
     },
     {
-      "team": "Lions",
+      "team": "Vikings",
       "wins": 6,
       "losses": 2,
       "ties": 0,
@@ -42,5 +42,5 @@
       "packers": true
     }
   ],
-  "updatedAt": "2026-11-10T03:29:55.058Z"
+  "updatedAt": "2026-11-10T07:27:06.209Z"
 }

@@ -14,15 +14,15 @@
       "id": "16",
       "name": "Minnesota Vikings",
       "abbreviation": "MIN",
-      "games": 7,
+      "games": 8,
       "wins": 6,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "pointsFor": 140,
-      "pointsAgainst": 93,
-      "scoringOffense": 20,
-      "scoringDefense": 13.3,
-      "offenseRank": 26,
+      "pointsFor": 146,
+      "pointsAgainst": 116,
+      "scoringOffense": 18.3,
+      "scoringDefense": 14.5,
+      "offenseRank": 27,
       "defenseRank": 1
     },
     "packers": {
@@ -42,6 +42,15 @@
     }
   },
   "recentGames": [
+    {
+      "date": "2026-11-10T01:15Z",
+      "opponent": "Buffalo Bills",
+      "opponentAbbr": "BUF",
+      "homeAway": "VS",
+      "result": "L",
+      "pointsFor": 6,
+      "pointsAgainst": 23
+    },
     {
       "date": "2026-11-01T18:00Z",
       "opponent": "Detroit Lions",
@@ -68,18 +77,41 @@
       "result": "W",
       "pointsFor": 23,
       "pointsAgainst": 13
-    },
-    {
-      "date": "2026-10-04T20:05Z",
-      "opponent": "Miami Dolphins",
-      "opponentAbbr": "MIA",
-      "homeAway": "VS",
-      "result": "W",
-      "pointsFor": 15,
-      "pointsAgainst": 10
     }
   ],
   "articles": [
+    {
+      "title": "Vikings left at QB crossroads after Carson Wentz's poor MNF showing vs. Bills",
+      "url": "https://www.espn.com/nfl/story/_/id/50440119/vikings-kevin-oconnell-defers-qb-trade-question-gm-poor-mnf-outing-carson-wentz",
+      "publishedAt": "2026-11-10T07:15:24Z",
+      "summary": "After a historically poor performance by Carson Wentz on Monday night, Vikings coach Kevin O'Connell was asked whether the team might trade for a QB ahead of Tuesday's deadline. He deferred the question to GM Nolan Teasley.",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1743880_600x400_3-2.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "Josh Allen and the Bills move to 7-1 with a 23-6 win over the sputtering Vikings",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873051",
+      "publishedAt": "2026-11-10T06:12:35Z",
+      "summary": "— The Buffalo Bills knew they weren't bound for many style points or likely to reach their league-leading scoring average against Minnesota's relentlessly...",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873051.png?templateId=espn.applewatch.awayhome.1",
+      "source": "ESPN"
+    },
+    {
+      "title": "Josh Allen leads Bills to win over tough Vikings defense",
+      "url": "https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf",
+      "publishedAt": "2026-11-10T05:09:21Z",
+      "summary": "The Vikings kept Allen in check for much of the game, but he helped the Bills earn a low-scoring victory.",
+      "image": "https://a.espncdn.com/photo/2026/1110/r1743848_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
+      "url": "https://www.espn.com/video/clip/_/id/50439406/josh-allen-bills-outlast-vikings-23-6-mnf",
+      "publishedAt": "2026-11-10T05:01:02Z",
+      "summary": "Josh Allen, Bills outlast Vikings 23-6 on MNF",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/5ce99b5aa87e4f47b74b320ecaf4f8e70/5ce99b5aa87e4f47b74b320ecaf4f8e70.jpg",
+      "source": "ESPN"
+    },
     {
       "title": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
       "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
@@ -89,45 +121,13 @@
       "source": "ESPN"
     },
     {
-      "title": "How Aaron Jones Sr. helped this military veteran",
-      "url": "https://www.espn.com/video/clip/_/id/50433036/how-aaron-jones-sr-helped-military-veteran",
-      "publishedAt": "2026-11-10T00:43:34Z",
-      "summary": "How Aaron Jones Sr. helped this military veteran",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1109/dm_261109_aaron_jones_mncd_feature/dm_261109_aaron_jones_mncd_feature.jpg",
-      "source": "ESPN"
-    },
-    {
       "title": "NFL trade deadline grades: Deals for Jordan Davis, Jessie Bates III, Andre Cisco",
       "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
       "publishedAt": "2026-11-09T23:51:42Z",
       "summary": "The Jaguars are making a move, but did they massively overpay for Davis? What about Jessie Bates III? Let's evaluate 12 trades before the deadline.",
       "image": "https://a.espncdn.com/photo/2026/1109/r1743721_608x342_16-9.jpg",
       "source": "ESPN"
-    },
-    {
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "publishedAt": "2026-11-09T17:14:01Z",
-      "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1741948_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
-      "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo",
-      "publishedAt": "2026-11-09T16:55:50Z",
-      "summary": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
-      "image": "https://a.espncdn.com/photo/2026/1104/nfl_peanut_punch_cr_16x9_608x342.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "NFL Week 10 betting odds: Lines and totals for every game",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals",
-      "publishedAt": "2026-11-09T14:34:46Z",
-      "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 10.",
-      "image": "https://a.espncdn.com/photo/2026/1109/r1743451_2_1296x729_16-9.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-10T03:29:55.248Z"
+  "updatedAt": "2026-11-10T07:27:06.469Z"
 }
