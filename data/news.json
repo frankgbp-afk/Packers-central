@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-11T06:38:15.702Z",
+  "updatedAt": "2026-11-11T17:14:05.186Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers QB Jordan Love named NFC Offensive Player of the Week",
+        "url": "https://www.packers.com/news/packers-qb-jordan-love-named-nfc-offensive-player-of-the-week-9-2026",
+        "publishedAt": "Wed, 11 Nov 2026 17:00:00 GMT",
+        "summary": "Green Bay quarterback threw for 372 yards, three TDs in win over Patriots",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/txqvkhxi01cfr4clnj7b.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Mike's Mid-Week Chat | Nov. 11, 2026",
+        "url": "https://www.packers.com/news/mike-s-mid-week-chat-nov-11-2026",
+        "publishedAt": "Wed, 11 Nov 2026 16:55:00 GMT",
+        "summary": "Editor Mike Spofford will be answering fan questions on Wednesday, Nov. 11, at 1 p.m. CT.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/y8y2lkjii9dcekpfrlfm.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: He would've been a much bigger story",
+        "url": "https://www.packers.com/news/inbox-he-would-ve-been-a-much-bigger-story-nov-11-2026",
+        "publishedAt": "Wed, 11 Nov 2026 14:30:00 GMT",
+        "summary": "There’s reason to believe in this team",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/jtiilbk0npwwzesawwgu.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Vikings | How to watch, stream & listen | Week 10",
         "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-10-2026",
@@ -82,161 +109,188 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/wofzwiculddgpq2v8bkl.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Vote for Jordan Love for FedEx Air Player of Week 9",
-        "url": "https://www.packers.com/news/vote-for-jordan-love-for-fedex-air-player-of-week-9-2026",
-        "publishedAt": "Mon, 09 Nov 2026 16:58:10 GMT",
-        "summary": "Packers quarterback threw for 372 yards, three TDs in win over Patriots",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/vmlmu9xdypfqjnixlpsc.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: This unit is crazy fun to watch",
-        "url": "https://www.packers.com/news/inbox-this-unit-is-crazy-fun-to-watch-nov-9-2026",
-        "publishedAt": "Mon, 09 Nov 2026 14:30:00 GMT",
-        "summary": "You just never know in this league",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/v1794236118/packers/iiwkp2t67hecbkv8f9ko.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Game recap: 5 takeaways from Packers' victory over Patriots",
-        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-patriots-week-9-2026",
-        "publishedAt": "Mon, 09 Nov 2026 03:10:00 GMT",
-        "summary": "Green Bay’s passing game dominates at New England",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/nadfgw0jteayvyeijcot.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Why Giants' trade attempts 'just didn't happen'",
-        "url": "https://www.espn.com/video/clip/_/id/50450311/why-giants-trade-attempts-just-happen",
-        "publishedAt": "2026-11-11T04:59:42Z",
-        "summary": "Jordan Raanan explains how steep asking prices for Jonathan Taylor and Bijan Robinson kept the Giants from making a move before the trade deadline.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_giantstradedud/dm_261110_giantstradedud.jpg",
+        "title": "Sources: Giants called Falcons to ask about Bijan Robinson before trade deadline",
+        "url": "https://www.espn.com/nfl/story/_/id/50453373/sources-giants-eyed-bijan-robinson-trade-deadline",
+        "publishedAt": "2026-11-11T16:33:25Z",
+        "summary": "The Giants made a call to the Falcons before the NFL trade deadline inquiring about star running back Bijan Robinson, multiple sources told ESPN.",
+        "image": "https://a.espncdn.com/photo/2026/1015/r1731346_2_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day",
-        "url": "https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement",
-        "publishedAt": "2026-11-11T02:17:21Z",
-        "summary": "The couple shared the news on a busy trade deadline day that also brought receiver Josh Downs to Kansas City.",
-        "image": "https://a.espncdn.com/photo/2026/1019/r1732784_608x342_16-9.jpg",
+        "title": "Kincaid vs. Pitts: Dopp and Clay differ on their preferred Week 10 TE",
+        "url": "https://www.espn.com/video/clip/_/id/50453359/dopp-clay-differ-their-preferred-week-10-te",
+        "publishedAt": "2026-11-11T16:12:56Z",
+        "summary": "Kincaid vs. Pitts: Dopp and Clay differ on their preferred Week 10 TE  ",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_105626270_3736702/ss_20261111_105626270_3736702.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
-        "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
-        "publishedAt": "2026-11-11T01:45:03Z",
-        "summary": "No. 1 pick Fernando Mendoza was officially named the Raiders' starting quarterback Tuesday after the team traded Kirk Cousins to the Vikings.",
-        "image": "https://a.espncdn.com/photo/2026/1111/r1744278_600x400_3-2.jpg",
+        "title": "Should Justin Jefferson be ranked higher than Chris Olave in Week 10?",
+        "url": "https://www.espn.com/video/clip/_/id/50453345/should-justin-jefferson-ranked-higher-chris-olave-week-10",
+        "publishedAt": "2026-11-11T16:27:51Z",
+        "summary": "Should Justin Jefferson be ranked higher than Chris Olave in Week 10?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_105455157_3736700/ss_20261111_105455157_3736700.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Get ready for Chargers vs. Ravens on Monday Night Football",
-        "url": "https://www.espn.com/video/clip/_/id/50447694/get-ready-chargers-vs-ravens-monday-night-football",
-        "publishedAt": "2026-11-11T01:06:12Z",
-        "summary": "Get ready for Chargers vs. Ravens on Monday Night Football",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_chargers_ravens/dm_261110_chargers_ravens.jpg",
+        "title": "Should managers start Geno Smith over Jordan Love? Dopp and Clay debate",
+        "url": "https://www.espn.com/video/clip/_/id/50453337/should-managers-start-geno-smith-jordan-love-dopp-clay-debate",
+        "publishedAt": "2026-11-11T16:05:48Z",
+        "summary": "Should managers start Geno Smith over Jordan Love? Dopp and Clay debate",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_105241846_3736696/ss_20261111_105241846_3736696.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "What the Kirk Cousins trade means for the Vikings and the Raiders",
-        "url": "https://www.espn.com/nfl/story/_/id/50444528/kirk-cousins-trade-minnesota-vikings-las-vegas-raiders",
-        "publishedAt": "2026-11-10T23:19:32Z",
-        "summary": "We answered big questions surrounding the trade of quarterback Kirk Cousins from the Raiders to the Vikings.",
-        "image": "https://a.espncdn.com/photo/2026/1110/r1744100_608x342_16-9.jpg",
+        "title": "Mark Andrews' Week 10 fantasy outlook",
+        "url": "https://www.espn.com/video/clip/_/id/50453200/mark-andrews-week-10-fantasy-outlook",
+        "publishedAt": "2026-11-11T15:44:06Z",
+        "summary": "Mark Andrews' Week 10 fantasy outlook",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_103340410_3736681/ss_20261111_103340410_3736681.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF",
-        "url": "https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif",
-        "publishedAt": "2026-11-10T23:17:29Z",
-        "summary": "A moment from Vince Carter's retirement ceremony helped Downs sum up his feelings about joining Kansas City.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743374_608x342_16-9.jpg",
+        "title": "Stephen A. has some words for Kevin O'Connell after Vikings trade for Kirk Cousins",
+        "url": "https://www.espn.com/video/clip/_/id/50453097/stephen-some-words-kevin-oconnell-vikings-trade-kirk-cousins",
+        "publishedAt": "2026-11-11T15:45:53Z",
+        "summary": "Stephen A. has some words for Kevin O'Connell after Vikings trade for Kirk Cousins",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_102055953_3736672627/ss_20261111_102055953_3736672627.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football consistency ratings: 2024 to 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49954186/fantasy-football-rankings-consistency-ratings-start-sit-value",
-        "publishedAt": "2026-11-10T23:05:02Z",
-        "summary": "The consistency ratings weigh both how consistent and how start-worthy players have been from 2024 to 2026.",
-        "image": "https://a.espncdn.com/photo/2026/0923/r1720966_1296x729_16-9.jpg",
+        "title": "Fantasy football: Prep for Week 11 'Bye-mageddon' by stashing these players now",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50445909/fantasy-football-bye-week-replacements-byemageddon",
+        "publishedAt": "2026-11-11T15:26:26Z",
+        "summary": "Stash these players ahead of Week 11, when six NFL teams' worth of fantasy football stars will be on bye.",
+        "image": "https://a.espncdn.com/photo/2026/1110/r1744176_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football consistency ratings for 2026",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50119375/2026-fantasy-football-rankings-start-sit",
-        "publishedAt": "2026-11-10T23:01:20Z",
-        "summary": "The consistency ratings weigh how consistent, as well as how start-worthy, players have been in ESPN fantasy football leagues in 2026.",
-        "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg",
+        "title": "Why Jeff Saturday has 'no hope' for the Cowboys",
+        "url": "https://www.espn.com/video/clip/_/id/50452857/why-jeff-saturday-no-hope-cowboys",
+        "publishedAt": "2026-11-11T14:59:50Z",
+        "summary": "Why Jeff Saturday has 'no hope' for the Cowboys",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_095210577_3736659/ss_20261111_095210577_3736659.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
-        "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
-        "publishedAt": "2026-11-10T23:27:48Z",
-        "summary": "Colts RB Jonathan Taylor and QB Daniel Jones were the subject of trade overtures in recent days and weeks but were not traded before Tuesday's trade deadline.",
-        "image": "https://a.espncdn.com/photo/2026/1110/r1744232_1296x729_16-9.jpg",
+        "title": "Quinshon Judkins' Week 10 fantasy outlook",
+        "url": "https://www.espn.com/video/clip/_/id/50452849/quinshon-judkins-week-10-fantasy-outlook",
+        "publishedAt": "2026-11-11T15:04:34Z",
+        "summary": "Quinshon Judkins' Week 10 fantasy outlook",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_094959665_3736656/ss_20261111_094959665_3736656.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
-        "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-        "publishedAt": "2026-11-11T02:53:07Z",
-        "summary": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-        "image": "https://a.espncdn.com/photo/2026/1110/r1744131_608x342_16-9.jpg",
+        "title": "Matthew Stafford's Week 10 fantasy outlook",
+        "url": "https://www.espn.com/video/clip/_/id/50452748/matthew-stafford-week-10-fantasy-outlook",
+        "publishedAt": "2026-11-11T14:37:37Z",
+        "summary": "Matthew Stafford's Week 10 fantasy outlook",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_092855294_3736645/ss_20261111_092855294_3736645.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football free agent pickups: Mendoza, Douglas, Estime among top options",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50431710/fantasy-football-waivers-free-agent-pickups-nfl-week-10",
-        "publishedAt": "2026-11-11T00:02:05Z",
-        "summary": "Eric Karabell lists the top available players in most leagues, including the No. 1 pick in the draft.",
-        "image": "https://a.espncdn.com/photo/2026/1110/r1744252_1296x729_16-9.jpg",
+        "title": "Was it the right move for the Raiders to name Mendoza QB1 after Cousins trade?",
+        "url": "https://www.espn.com/video/clip/_/id/50452689/was-right-move-raiders-name-mendoza-qb1-cousins-trade",
+        "publishedAt": "2026-11-11T14:30:07Z",
+        "summary": "Was it the right move for the Raiders to name Mendoza QB1 after Cousins trade?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_091621528_3736635559/ss_20261111_091621528_3736635559.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2026 NFL trade deadline updates: Kirk Cousins, Josh Downs on the move",
-        "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-        "publishedAt": "2026-11-11T02:46:38Z",
-        "summary": "We're officially past the NFL trade deadline. We followed the action on 18 in-season deals, including six on Tuesday.",
-        "image": "https://a.espncdn.com/photo/2026/1110/r1744149_608x342_16-9.jpg",
+        "title": "Christian Watson's Week 10 fantasy outlook",
+        "url": "https://www.espn.com/video/clip/_/id/50452660/christian-watson-week-10-fantasy-outlook",
+        "publishedAt": "2026-11-11T14:19:39Z",
+        "summary": "Christian Watson's Week 10 fantasy outlook",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_091059547_3736632/ss_20261111_091059547_3736632.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
-        "title": "Packers work out quarterbacks and tight ends",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89434/packers-work-out-quarterbacks-and-tight-ends",
-        "publishedAt": "2026-11-09T17:24:34-05:00",
-        "summary": "On Monday, the Green Bay Packers worked out six players, all either quarterbacks or tight ends. Currently, the team does not have an open roster spot on the active roster, but they do on the practice squad. In theory, they have space to add, at least until running back Chris Brooks and edge defender Micah [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2292317205.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Green Bay Packers News: Packers stand pat at trade deadline",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89532/green-bay-packers-news-packers-stand-pat-at-trade-deadline",
+        "publishedAt": "2026-11-11T10:15:50-05:00",
+        "summary": "The Packers, more or less as expected, didn’t do anything at this year’s edition of the NFL trade deadline. Reportedly, it wasn’t for lack of trying. The Packers apparently had an offer on the table for Indianapolis Colts defensive lineman Grover Stewart, but the Colts dragged their feet and the Packers moved on, content to [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301680732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Malik Willis going on IR can cost the Packers a round in the 2027 draft",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89524/malik-willis-going-on-ir-can-cost-the-packers-a-round-in-the-2027-draft",
+        "publishedAt": "2026-11-11T06:00:00-05:00",
+        "summary": "The NFL’s compensatory pick formula is a little complicated, but to boil it down: Players are awarded points for their average salary over the life of the contract that they signed in free agency and receive playing-time bonuses based on the percentage of snaps they play during the regular season. If you lose players worth [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304160382.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Packers defense picks off Drake Maye 3 times",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89466/packers-film-room-packers-defense-picks-off-drake-maye-3-times",
+        "publishedAt": "2026-11-10T23:02:56-05:00",
+        "summary": "The Green Bay Packers stomped the New England Patriots this past weekend. Jordan Love was dealing, but so was the Packers defense. They picked off Drake Maye three times, and they started quickly, intercepting his first pass of the game. Play 1: 2nd &#38; 9, 14:32 remaining in the 1st quarter The Patriots come out [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303757655.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
         "title": "NFL Deadline Trade Tracker: Who&#8217;s Moving in 2026?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89414/nfl-deadline-trade-tracker-whos-moving-in-2026",
-        "publishedAt": "2026-11-09T16:59:49-05:00",
+        "publishedAt": "2026-11-10T14:40:35-05:00",
         "summary": "Many moves are expected over the next two days, whether or not they happen. To try to cut through the fat and keep everything contained, we’re going to launch a tracker to give you all the news from the trade deadline. Follow along and voice your opinion on these moves in the comments section, if [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302185860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-1763499697.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Jordan Love lights up the Patriots",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89455/packers-film-room-jordan-love-lights-up-the-patriots",
+        "publishedAt": "2026-11-10T14:34:42-05:00",
+        "summary": "Another week, another three-TD performance from Green Bay Packers quarterback Jordan Love. Ho-hum. Let’s break them down. Play 1: 3rd &#38; 5, 8:03 remaining in the 1st quarter Packers are in 11 personnel (1 RB, 1 TE, 3 WR) at the 5-yard line. They originally start in a split-backfield set, with Tucker Kraft [85] aligned [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304303815.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Week 10 Power Ranking Round Up: Packers surge up rankings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-power-rankings/89476/week-10-power-ranking-round-up-packers-surge-up-rankings",
+        "publishedAt": "2026-11-10T14:18:37-05:00",
+        "summary": "Just like that, Week 9 is in the books, and the Green Bay Packers rolled to a 45-27 win over the reigning AFC champion New England Patriots. Despite a very ugly start to the 2026 season, Green Bay finds itself with a 6-3 record, and actually trending upward. The national media has noticed the Packers’ [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303772107.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Packers prep for NFL trade deadline",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89472/green-bay-packers-news-packers-prep-for-nfl-trade-deadline",
+        "publishedAt": "2026-11-10T08:47:07-05:00",
+        "summary": "Welcome to NFL Trade Deadline day! All trades need to be finalized by 4 p.m. Eastern time today as teams try to make the last-minute moves they think they need to become contenders or stockpile future assets. We’ve already seen quite a few moves leading up to the deadline with a few big-name players arriving [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2300415498.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers work out quarterbacks and tight ends",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89434/packers-work-out-quarterbacks-and-tight-ends",
+        "publishedAt": "2026-11-09T17:24:34-05:00",
+        "summary": "On Monday, the Green Bay Packers worked out six players, all either quarterbacks or tight ends. Currently, the team does not have an open roster spot on the active roster, but they do on the practice squad. In theory, they have space to add, at least until running back Chris Brooks and edge defender Micah [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2292317205.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -255,60 +309,6 @@
         "publishedAt": "2026-11-09T16:14:11-05:00",
         "summary": "Green Bay Packers running back Josh Jacobs dropped out early against the New England Patriots due to a broken ring finger on his right hand, which got caught on a facemask. Now, CBS Sports’ Matt Zenitz is reporting that Jacobs will have surgery and can miss up to three weeks — which thankfully includes the [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303755854.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The NFL’s Other Credibility Problem: Replays",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89419/the-nfls-other-credibility-problem-replays",
-        "publishedAt": "2026-11-09T14:05:21-05:00",
-        "summary": "It’s been a rough year for NFL officiating, as penalties are way up in frequency and, as a result, calls are still having a major impact on games. This has been discussed to death; however, I wanted to raise the additional issue of the NFL’s broadcast partners’ complicity. Yesterday, late in the Packers-Patriots game, when [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304199845.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Kevin Zeitler looked like Kevin Zeitler on Sunday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89375/kevin-zeitler-looked-like-kevin-zeitler-on-sunday",
-        "publishedAt": "2026-11-09T12:49:29-05:00",
-        "summary": "I’ve watched so much bad interior offensive line film this season, and this was such a nice breath of fresh air. The signing folks spent all summer clamoring for finally got his first material snaps this Sunday, and boy did the royal we look correct. The Green Bay Packers’ Kevin Zeitler only had four pass-pro [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303783753.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers By The Numbers: Stats from the Week 9 win over the Patriots",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89355/packers-by-the-numbers-stats-from-the-week-9-win-over-the-patriots",
-        "publishedAt": "2026-11-09T12:42:27-05:00",
-        "summary": "As we do every week in this space, we’re looking at some stats from the Green Bay Packers’ most recent game, courtesy of SumerSports. Today we’re looking at the 45-27 win over the New England Patriots in Week 9. Offense Let’s start with personnel usage. For the game, the Packers leaned primarily into 11 personnel [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304183749.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: The snaps behind Trey Smack’s perfect day",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89370/packers-film-room-the-snaps-behind-trey-smacks-perfect-day",
-        "publishedAt": "2026-11-09T12:40:44-05:00",
-        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. We’ve got a heavy week (7 kicks), so let’s get to it. Last week was rough. There was a missed kick, but more than that, Matt Orzech had his least accurate game of the season. How did he do this [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers vs. Vikings Odds: Opening line for Week 10 matchup",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/89363/packers-vs-vikings-odds-opening-line-for-week-10-matchup",
-        "publishedAt": "2026-11-09T01:40:41-05:00",
-        "summary": "The Green Bay Packers (6-3) are set to be three-point favorites over the Minnesota Vikings (6-1) in Week 10, according to FanDuel’s numbers. That number comes with a little juice at -120, and the Packers are -178 favorites, which comes with an implied probability of 64 percent. If you had said this a few weeks [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2294658487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL Trade Deadline: Which picks can the Packers trade?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89356/nfl-trade-deadline-which-picks-can-the-packers-trade",
-        "publishedAt": "2026-11-09T01:26:07-05:00",
-        "summary": "No matter who you want at the NFL trade deadline, which is on Tuesday, getting that player — be it a running back, offensive lineman or defensive lineman — likely involves trading a draft pick in the 2027 class. Which of the Green Bay Packers’ draft picks are tradable? Let’s break it down for you. [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2025/08/gettyimages-1494893369.jpg?quality=90&#038;strip=all&#038;crop=9.8,0,90.2,80.799699995312",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
