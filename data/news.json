@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:48:44.717Z",
+  "updatedAt": "2026-11-12T11:26:17.060Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,99 @@
     ],
     "espn": [
       {
+        "title": "2026 NFL midseason award rankings: MVP picks, top rookies, OPOY, DPOY, coaches",
+        "url": "https://www.espn.com/nfl/story/_/id/50452792/2026-midseason-awards-ranking-mvp-rookies-coaches-barnwell",
+        "publishedAt": "2026-11-12T11:22:32Z",
+        "summary": "Joe Burrow for MVP? Arvell Reese as the DROY? Hardware for Jaxon Smith-Njigba and Will Anderson Jr.? We ranked the top contenders to win eight NFL awards through Week 9.",
+        "image": "https://a.espncdn.com/photo/2026/1111/nfl_barnwell_midseason_awards_cr_16x9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why 2-7 Jets preferred to keep roster intact at trade deadline",
+        "url": "https://www.espn.com/nfl/story/_/id/50454225/jets-2026-trade-deadline-garrett-wilson-geno-smith",
+        "publishedAt": "2026-11-12T11:00:11Z",
+        "summary": "A year after making two blockbuster trades, New York stayed quiet at the NFL trade deadline.",
+        "image": "https://a.espncdn.com/photo/2026/1111/r1744500_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Does Packers' Christian Watson + Matthew Golden = 3,000 yards?",
+        "url": "https://www.espn.com/nfl/story/_/id/50455566/packers-christian-watson-matthew-golden-3000-yards",
+        "publishedAt": "2026-11-12T11:00:02Z",
+        "summary": "Watson and Golden are on pace to join a rare club of WR pairs who combined for 3,000 yards.",
+        "image": "https://a.espncdn.com/photo/2026/1111/r1744580_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How Kobe, LeBron, Steph and Brady are helping Jayden Daniels chase greatness",
+        "url": "https://www.espn.com/nfl/story/_/id/50453988/kobe-lebron-steph-brady-tips-commanders-jayden-daniels",
+        "publishedAt": "2026-11-12T11:00:10Z",
+        "summary": "The Commanders QB has tapped into some of sports' all-time greats like Brady and LeBron in search of an edge.",
+        "image": "https://a.espncdn.com/photo/2026/1111/nfl_Jayden-Daniels_16x9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
+        "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+        "publishedAt": "2026-11-12T07:43:50Z",
+        "summary": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
+        "image": "https://a.espncdn.com/photo/2026/1110/r1744131_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Broncos say trade with Chargers for LB Henley 'will not be finalized'",
+        "url": "https://www.espn.com/nfl/story/_/id/50459330/broncos-say-trade-chargers-lb-henley-not-finalized",
+        "publishedAt": "2026-11-12T06:44:33Z",
+        "summary": "The Broncos announced late Wednesday that their trade to acquire linebacker Daiyan Henley from the Chargers \"will not be finalized.\"",
+        "image": "https://a.espncdn.com/photo/2026/0902/r1710224_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft rankings: Jordan Reid's top 50 prospects, scouting reports",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50068479/2027-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
+        "publishedAt": "2026-11-12T02:50:15Z",
+        "summary": "Jordan Reid updated his rankings for the 2027 NFL draft class with 50 players -- including eight quarterbacks and an elite wide receiver prospect.",
+        "image": "https://a.espncdn.com/photo/2026/1112/r1744625_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Veteran WR Keenan Allen feeling energized by trade to 49ers",
+        "url": "https://www.espn.com/nfl/story/_/id/50456881/veteran-wr-keenan-allen-feels-energized-trade-49ers",
+        "publishedAt": "2026-11-12T01:28:27Z",
+        "summary": "Keenan Allen said while he didn't expect to get traded, landing with a contending team in the 49ers has him feeling energized.",
+        "image": "https://a.espncdn.com/photo/2026/0916/r1717521_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football matchup ranks: Upgrade Ollie Gordon II, downgrade Jordan Love",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50446940/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+        "publishedAt": "2026-11-11T15:27:24Z",
+        "summary": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+        "image": "https://a.espncdn.com/photo/2026/1110/r1744253_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Philip Rivers set to return to NC State, deal to be finalized Friday",
+        "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
+        "publishedAt": "2026-11-12T01:18:18Z",
+        "summary": "Philip Rivers is set to return to NC State, this time as head football coach, once its trustees finalizes his contract after a meeting Friday, sources said.",
+        "image": "https://a.espncdn.com/photo/2025/1210/r1587722_600x600_1-1.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Dolphins hopeful QB Malik Willis will be back this season",
         "url": "https://www.espn.com/nfl/story/_/id/50456677/dolphins-quarterback-malik-willis-return-starter",
-        "publishedAt": "2026-11-12T00:41:09Z",
+        "publishedAt": "2026-11-12T01:12:02Z",
         "summary": "Coach Jeff Hafley said Miami sees Malik Willis as its starter regardless of when he returns from his groin injury.",
         "image": "https://a.espncdn.com/photo/2026/1110/r1744196_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -124,99 +214,9 @@
       {
         "title": "Source: Ravens, now on third kicker, sign journeyman Riley Patterson",
         "url": "https://www.espn.com/nfl/story/_/id/50456455/source-ravens-now-third-kicker-sign-riley-patterson",
-        "publishedAt": "2026-11-12T00:42:29Z",
+        "publishedAt": "2026-11-12T00:48:45Z",
         "summary": "The Raven signed journeyman kicker Riley Patterson after his workout for the team on Wednesday, according to NFL Network.",
         "image": "https://a.espncdn.com/photo/2026/1112/r1744615_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fernando Mendoza relishes 'once-in-a-lifetime' opportunity as Raiders' QB1",
-        "url": "https://www.espn.com/nfl/story/_/id/50456405/fernando-mendoza-relishes-once-life-opportunity-raiders-starting-qb",
-        "publishedAt": "2026-11-12T00:27:53Z",
-        "summary": "No. 1 pick Fernando Mendoza said Wednesday it's a \"once-in-a-lifetime\" opportunity to be the Raiders' starting quarterback, while his teammates and coach expressed their confidence in his ability to lead the offense.",
-        "image": "https://a.espncdn.com/photo/2026/1112/r1744611_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Kirk Cousins makes first comments on Minnesota trade at Great Clips",
-        "url": "https://www.espn.com/nfl/story/_/id/50455775/kirk-cousins-minnesota-trade-great-clips",
-        "publishedAt": "2026-11-12T00:07:39Z",
-        "summary": "Kirk Cousins offered some thoughts on his trade to Minnesota after the news broke in the most on-brand location imaginable.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743573_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Kirk Cousins says call with Kevin O'Connell convinced him to OK Vikings trade",
-        "url": "https://www.espn.com/nfl/story/_/id/50455771/kirk-cousins-reintroduced-vikings-starting-qb",
-        "publishedAt": "2026-11-12T00:04:23Z",
-        "summary": "Kirk Cousins has rejoined the Vikings after not quite three years away, relishing his familiarity with the Twin Cities area, the people in the organization.",
-        "image": "https://a.espncdn.com/photo/2026/1111/r1744583_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "New Bills safety Amani Hooker will be 'ready to go' vs. Jets",
-        "url": "https://www.espn.com/nfl/story/_/id/50455698/new-bills-safety-amani-hooker-ready-go-vs-jets",
-        "publishedAt": "2026-11-11T23:35:57Z",
-        "summary": "Amani Cooper said he's confident he'll be able to pick up defensive coordinator Jim Leonhard's scheme by kickoff vs. the Jets.",
-        "image": "https://a.espncdn.com/photo/2026/1110/r1744179_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sean McVay: Rams optimistic WR Davante Adams will return 'sooner than later'",
-        "url": "https://www.espn.com/nfl/story/_/id/50455318/mcvay-rams-optimistic-wr-adams-return-sooner-later",
-        "publishedAt": "2026-11-11T23:36:14Z",
-        "summary": "The Rams are optimistic that injured wide receiver Davante Adams will return from his hamstring injury \"sooner than later,\" coach Sean McVay said.",
-        "image": "https://a.espncdn.com/photo/2026/1111/r1744556_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cardinals coach: Carson Beck's been a pro since he's been here",
-        "url": "https://www.espn.com/video/clip/_/id/50455241/carson-beck-pro-here",
-        "publishedAt": "2026-11-11T21:52:44Z",
-        "summary": "Cardinals coach: Carson Beck's been a pro since he's been here",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_163918385_3736900/ss_20261111_163918385_3736900.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cardinals to start rookie QB Carson Beck against Rams",
-        "url": "https://www.espn.com/nfl/story/_/id/50455074/cardinals-start-rookie-qb-carson-beck-rams",
-        "publishedAt": "2026-11-12T00:43:05Z",
-        "summary": "The Cardinals will start their third quarterback in three weeks, with rookie Carson Beck getting the nod for Sunday's home game against the Rams.",
-        "image": "https://a.espncdn.com/photo/2026/0807/r1698803_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets' Will McDonald has 'earned' bigger role, coach says",
-        "url": "https://www.espn.com/nfl/story/_/id/50454952/jets-mcdonald-earned-bigger-role-coach-says",
-        "publishedAt": "2026-11-11T21:13:37Z",
-        "summary": "Jets coach Aaron Glenn said Will McDonald IV has \"earned\" a bigger role after meeting with the pass rusher following his trade request.",
-        "image": "https://a.espncdn.com/photo/2026/1110/r1743980_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL survivor power rankings: Why this is the week to use the Rams or the Bills",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50454187/nfl-survivor-week-10-survivor-pool-strategy-advice-picks",
-        "publishedAt": "2026-11-11T21:19:32Z",
-        "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 10.",
-        "image": "https://a.espncdn.com/photo/2026/1111/r1744487_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Zac Taylor says Bengals take responsibility for failed trade with Eagles",
-        "url": "https://www.espn.com/video/clip/_/id/50454635/zac-taylor-says-bengals-take-responsibility-failed-trade-eagles",
-        "publishedAt": "2026-11-11T20:01:45Z",
-        "summary": "Zac Taylor says Bengals take responsibility for failed trade with Eagles",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1111/ss_20261111_145213583_3736820/ss_20261111_145213583_3736820.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
