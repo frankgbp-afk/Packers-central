@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-13T19:49:34.673Z",
+  "updatedAt": "2026-11-14T01:28:33.661Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers list seven questionable, rule out four vs. Vikings | Week 10 Injury Report",
+        "url": "https://www.packers.com/news/packers-list-seven-questionable-rule-out-four-vs-vikings-week-10-injury-report",
+        "publishedAt": "Fri, 13 Nov 2026 21:35:05 GMT",
+        "summary": "S Xavier McKinney (foot) added to injury report, questionable for Sunday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hykvc8xydh4ngsagajrq.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers' defense ready for another round with Kirk Cousins",
         "url": "https://www.packers.com/news/packers-defense-ready-for-another-round-with-kirk-cousins-nov-13-2026",
@@ -100,18 +109,99 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/raojl5mxbh1r3tkzebk8.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers QB Jordan Love named NFC Offensive Player of the Week",
-        "url": "https://www.packers.com/news/packers-qb-jordan-love-named-nfc-offensive-player-of-the-week-9-2026",
-        "publishedAt": "Wed, 11 Nov 2026 17:00:00 GMT",
-        "summary": "Green Bay quarterback threw for 372 yards, three TDs in win over Patriots",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/txqvkhxi01cfr4clnj7b.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
+      {
+        "title": "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+        "url": "https://www.espn.com/nfl/story/_/id/50475505/seahawks-raiders-week-10-darnold-lock-shaheed-returns",
+        "publishedAt": "2026-11-14T00:33:45Z",
+        "summary": "QB Drew Lock will start again for Darnold. LB Uchenna Nwosu and WR Rashid Shaheed will return to the field in Las Vegas.",
+        "image": "https://a.espncdn.com/photo/2026/1113/r1745471_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football Week 10 inactives: Who's in and who's out?",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active",
+        "publishedAt": "2026-11-14T01:01:08Z",
+        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+        "image": "https://a.espncdn.com/photo/2026/1113/r1745316_576x324_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys",
+        "url": "https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys",
+        "publishedAt": "2026-11-13T23:06:06Z",
+        "summary": "The 49ers are listing left tackle Trent Williams and linebacker Dre Greenlaw as questionable for Sunday's game against the Cowboys, while receiver Mike Evans has been ruled out.",
+        "image": "https://a.espncdn.com/photo/2025/1229/r1594560_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "When will Lamar Jackson return to the field?",
+        "url": "https://www.espn.com/video/clip/_/id/50474994/when-lamar-jackson-return-field",
+        "publishedAt": "2026-11-13T22:48:46Z",
+        "summary": "Jamison Hensley provides an update on Jackson's thumb injury post surgery, projecting a potential return as early as Week 16.",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_11-13_Ravens_IA/dm_261113_11-13_Ravens_IA.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Vikings to start reacquired QB Kirk Cousins vs. Packers",
+        "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
+        "publishedAt": "2026-11-13T22:41:55Z",
+        "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
+        "image": "https://a.espncdn.com/photo/2023/1030/r1245867_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Colts look to take advantage of Dolphins without QB Malik Willis",
+        "url": "https://www.espn.com/video/clip/_/id/50474656/colts-look-take-advantage-dolphins-qb-malik-willis",
+        "publishedAt": "2026-11-13T22:47:11Z",
+        "summary": "Stephen Holder previews the Colts matchup against he Dolphins with new faces on offense post the NFL trade deadline.",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_11-13_Colts_IA/dm_261113_11-13_Colts_IA.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL outlines steps in Jalen Hurts investigation in letter to senator",
+        "url": "https://www.espn.com/nfl/story/_/id/50474564/nfl-outlines-aspects-jalen-hurts-investigation-senator",
+        "publishedAt": "2026-11-13T22:23:25Z",
+        "summary": "The NFL provided some additional details about the investigation into how Jalen Hurts' blood clots were handled in response to an inquiry from a U.S. senator.",
+        "image": "https://a.espncdn.com/photo/2026/1019/r1732959_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Andy Reid delivers injury update on Kenneth Walker III",
+        "url": "https://www.espn.com/video/clip/_/id/50474246/andy-reid-delivers-injury-update-kenneth-walker-iii",
+        "publishedAt": "2026-11-13T21:15:49Z",
+        "summary": "Andy Reid delivers injury update on Kenneth Walker III",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/ss_20261113_155720389_3739591/ss_20261113_155720389_3739591.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Panthers looking to build momentum",
+        "url": "https://www.espn.com/video/clip/_/id/50473949/panthers-looking-build-momentum",
+        "publishedAt": "2026-11-13T20:22:32Z",
+        "summary": "Mike Kaye previews the Panthers matchup against the Saints as the true second half of the NFL season begins.",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_11-13_Panthers_IA/dm_261113_11-13_Panthers_IA.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Jeffery Simmons has high praise for Caleb Williams",
+        "url": "https://www.espn.com/video/clip/_/id/50473665/jeffery-simmons-high-praise-caleb-williams",
+        "publishedAt": "2026-11-13T19:57:28Z",
+        "summary": "Jeffery Simmons has high praise for Caleb Williams",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/ss_20261113_144034442_3739521/ss_20261113_144034442_3739521.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
       {
         "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
         "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
@@ -122,106 +212,88 @@
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Eagles to release WR Hollywood Brown per request",
+        "title": "Eagles release wide receiver Hollywood Brown per request",
         "url": "https://www.espn.com/nfl/story/_/id/50473514/sources-eagles-release-wr-hollywood-brown-per-request",
-        "publishedAt": "2026-11-13T19:32:56Z",
-        "summary": "Receiver Hollywood Brown, who has played sparingly over the first half of the season, is being released by the Eagles upon his request, sources told ESPN.",
+        "publishedAt": "2026-11-13T21:31:47Z",
+        "summary": "Receiver Hollywood Brown, who has played sparingly over the first half of the season, has been released by the Eagles upon his request.",
         "image": "https://a.espncdn.com/photo/2026/1113/r1745388_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Brown's defense to face its toughest matchup",
-        "url": "https://www.espn.com/video/clip/_/id/50473329/brown-defense-face-toughest-matchup",
-        "publishedAt": "2026-11-13T18:57:36Z",
-        "summary": "Sarah Shaw  [1:33 PM] Daniel Oyefusi previews the Browns-Texans matchup and how C.J. Stroud will fare against Cleveland's defense.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_11-13_Browns_IA/dm_261113_11-13_Browns_IA.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Amon-Ra St. Brown eyes a 2028 Olympics flag football run for Germany",
-        "url": "https://www.espn.com/nfl/story/_/id/50473202/amon-ra-st-brown-eyes-2028-olympics-flag-football-run-germany",
-        "publishedAt": "2026-11-13T18:16:33Z",
-        "summary": "- Lions star Amon-Ra St. Brown says he wants to play flag football for Germany at the 2028 Los Angeles Olympics.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743382_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rookie WR Carnell Tate among multiple Titans starters ruled out vs. Jaguars",
-        "url": "https://www.espn.com/nfl/story/_/id/50473143/rookie-wr-carnell-tate-multiple-titans-ruled-out",
-        "publishedAt": "2026-11-13T18:50:11Z",
-        "summary": "The Titans will be without multiple starters against the Jaguars on Sunday, including rookie wide receiver Carnell Tate.",
-        "image": "https://a.espncdn.com/photo/2026/0815/r1701990_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Daniel Dopp's Week 10 DraftKings tournament lineup",
-        "url": "https://www.espn.com/video/clip/_/id/50473028/daniel-dopp-week-10-draftkings-tournament-lineup",
-        "publishedAt": "2026-11-13T17:57:12Z",
-        "summary": "Daniel Dopp's Week 10 DraftKings tournament lineup",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_dfs_dopp/dm_261113_dfs_dopp.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Stephen A. is not having Marcus Spears' Cowboys optimism",
-        "url": "https://www.espn.com/video/clip/_/id/50472986/stephen-not-having-marcus-spears-cowboys-optimism",
-        "publishedAt": "2026-11-13T18:10:36Z",
-        "summary": "Stephen A. is not having Marcus Spears' Cowboys optimism",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/ss_20261113_125231440_3739440/ss_20261113_125231440_3739440.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NC State officially hires Philip Rivers as football coach",
-        "url": "https://www.espn.com/college-football/story/_/id/50456831/sources-philip-rivers-nc-state-deal-set-finalized",
-        "publishedAt": "2026-11-13T18:50:53Z",
-        "summary": "The NC State board of trustees has finalized a five-year contract for former NFL quarterback Philip Rivers to become head football coach at his alma mater.",
-        "image": "https://a.espncdn.com/photo/2025/1210/r1587722_600x600_1-1.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sonny Styles setting up Washington's game-winning drive",
-        "url": "https://www.espn.com/video/clip/_/id/50472819/sonny-styles-setting-washington-game-winning-drive",
-        "publishedAt": "2026-11-13T17:24:17Z",
-        "summary": "John Keim breaks down how Styles anticipated the Giants' offense before delivering a big hit on J.J. McCarthy.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_11-13_Commanders_IA/dm_261113_11-13_Commanders_IA.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season",
-        "url": "https://www.espn.com/nfl/story/_/id/50472000/sam-hartman-bachelor-season-30",
-        "publishedAt": "2026-11-13T16:44:12Z",
-        "summary": "The 30th season of ABC's \"The Bachelor\" that will premiere in March 2027 will star the former Notre Dame standout.",
-        "image": "https://a.espncdn.com/photo/2026/1113/r1745280_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chargers vs. Ravens: Where to watch 'Monday Night Football'",
-        "url": "https://www.espn.com/nfl/story/_/id/50472527/chargers-vs-ravens-watch-monday-night-football-week-10",
-        "publishedAt": "2026-11-13T16:30:30Z",
-        "summary": "Here's what to know about the Week 10 matchup.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/ss_20261113_095240449_3739310/ss_20261113_095240449_3739310.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jaguars holding out new players Jordan Davis, Jessie Bates to give them bye",
-        "url": "https://www.espn.com/nfl/story/_/id/50472481/jaguars-holding-new-players-jordan-davis-jessie-bates-give-bye",
-        "publishedAt": "2026-11-13T17:21:00Z",
-        "summary": "The Jaguars are holding out newly acquired Jordan Davis and Jessie Bates to give them a bye week.",
-        "image": "https://a.espncdn.com/photo/2026/1111/r1744606_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Remembering a Random Packers Game: The Minnesota Vikings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-history/89617/remembering-a-random-packers-game-the-minnesota-vikings",
+        "publishedAt": "2026-11-13T20:14:40-05:00",
+        "summary": "The last time I wrote about a random game between the Green Bay Packers and Minnesota Vikings, I covered a 1999 matchup the Packers had won. The 2026 Packers proceeded to lose in spectacular fashion to open the season, and I think it’s because I jinxed them. Following that same logic, I’m using my voodoo [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-56251046.jpg?quality=90&#038;strip=all&#038;crop=0,7.8046711380928,100,54.698974046287",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Vikings down key pieces for Week 10 matchup with Packers",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89640/vikings-down-key-pieces-for-week-10-matchup-with-packers",
+        "publishedAt": "2026-11-13T17:14:45-05:00",
+        "summary": "If the Minnesota Vikings want to repeat their Week 1 win over the Packers, they’re going to have to do it shorthanded. They’ve already ruled out five players for Sunday’s game, including tight end T.J. Hockenson and linebacker Blake Cashman. Hockenson hasn’t practiced yet this week with a combination of wrist and chest injuries. His [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2294671880.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers must corral Vikings return man Myles Price",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89633/packers-must-corral-vikings-return-man-myles-price",
+        "publishedAt": "2026-11-13T17:00:00-05:00",
+        "summary": "The Vikings’ defense is incredible. Their offense should be more capable with a new quarterback under center. But their special teams also present a very interesting challenge for the Packers. Under the guidance of new coordinator Cam Achord, the Packers’ special teams have been — with some exceptions — generally pretty solid. Pre-injury, Skyy Moore [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2300175158.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Injury Report: Green Bay rules out 4 vs. Vikings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89636/packers-injury-report-green-bay-rules-out-4-vs-vikings",
+        "publishedAt": "2026-11-13T16:52:39-05:00",
+        "summary": "The Green Bay Packers have officially ruled out four players on Friday: running back Josh Jacobs (finger), edge defender Micah Parsons (knee/illness-PUP), center Sean Rhyan (ankle) and tight end Josh Whyle. Of those three players, only Jacobs played against the New England Patriots last week, and he did not finish the game. Yesterday, head coach [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2295129251.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Kirk Cousins will start against the Packers",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89629/kirk-cousins-will-start-against-the-packers",
+        "publishedAt": "2026-11-13T16:18:03-05:00",
+        "summary": "As we all expected, the Minnesota Vikings will have Kirk Cousins under center on Sunday. Vikings head coach Kevin O’Connell announced the change in the lineup on Friday, just days after the team traded for Cousins from the Las Vegas Raiders. Cousins was previously the Vikings’ starting quarterback from 2018 to 2023, which overlapped with [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304183218.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Packers’ Defense Is Living on Takeaways",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89605/the-packers-defense-is-living-on-takeaways",
+        "publishedAt": "2026-11-13T16:07:58-05:00",
+        "summary": "Nine games into 2026, the Green Bay Packers&#8217; defense has 19 takeaways: 13 interceptions and 6 fumble recoveries. Last season, they had 14 in 17 games. Sunday&#8217;s 45-27 win in Foxborough made it six straight games with multiple takeaways. Green Bay took the ball away four times and turned those turnovers into 21 points. What [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303764602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: How Green Bay racked up interceptions",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89595/packers-film-room-how-green-bay-racked-up-interceptions",
+        "publishedAt": "2026-11-13T15:18:20-05:00",
+        "summary": "The Green Bay Packers defense generated three interceptions with sound coverage and defense in Week 9. None came with pressure on the quarterback. In fact, all three of the New England Patriots’ quarterback Drake Maye&#8217;s interceptions against Green Bay came from a clean pocket. The Packers never sent more than four rushers and never blitzed, [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303772509.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "By the Numbers: Is the Packers’ offense sustainable?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89581/by-the-numbers-is-the-packers-offense-sustainable",
+        "publishedAt": "2026-11-13T14:58:43-05:00",
+        "summary": "As I tend to do every week, I found myself talking about the Green Bay Packers a lot this week. Some of that was just muttering to myself in the hallway of my house, but sometimes I was talking to real, live people and sometimes those conversations were recorded. One question that keeps coming up [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302895205.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers News: Can the Packers execute the blueprint to beat the Vikings?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89585/green-bay-packers-news-can-the-packers-execute-the-blueprint-to-beat-the-vikings",
@@ -237,78 +309,6 @@
         "publishedAt": "2026-11-12T19:01:40-05:00",
         "summary": "The Minnesota Vikings signed running back Damon Bankston, a former Green Bay Packer, to the team’s practice squad this week. Bankston spent Weeks 1- 7 with Green Bay, over two stints, before the team needed space on their own practice squad. This addition is interesting, as Bankston could have some info on how the Packers [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2254371558.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Will the NFC North Teams All Win 10 Games?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89558/will-the-nfc-north-teams-all-win-10-games",
-        "publishedAt": "2026-11-12T17:32:51-05:00",
-        "summary": "In NFL history, no division has ever seen a last-place team win 10 games. It sort of almost happened in the NFC North last year, as the Green Bay Packers, Minnesota Vikings and Detroit Lions all finished with 9 wins, and in 2023 the Cincinnati Bengals finished last at 9-8 (and had several chances to [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304183659.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Trey Smack was a full participant on Thursday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89556/packers-injury-report-trey-smack-was-a-full-participant-on-thursday",
-        "publishedAt": "2026-11-12T17:24:00-05:00",
-        "summary": "Before Thursday&#8217;s practice, Green Bay Packers head coach Matt LaFleur said part of why the team had only a jog-through instead of a full practice on Wednesday was the number of players banged up on the roster. The good news? The team had a full practice on Thursday. The only change in the Packers’ participation [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2299162264.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Most of the country will get Packers-Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89552/most-of-the-country-will-get-packers-vikings",
-        "publishedAt": "2026-11-12T14:29:00-05:00",
-        "summary": "The Green Bay Packers’ matchup against the Minnesota Vikings is being set up to be the most-watched game from the early slate of the NFL’s Week 10 action. Outside of Eastern Pennsylvania, Ohio and pockets of the South, you’ll be able to get Packers-Vikings on FOX. Below is the FOX early slate map from 506 [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2295108657.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers news: Packers ground game may be turning a corner.",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89549/green-bay-packers-news-packers-ground-game-may-be-turning-a-corner",
-        "publishedAt": "2026-11-12T13:28:20-05:00",
-        "summary": "Ladies and gentlemen. It took 9 games. But we did it, Joe. For the first time in the 2026 season, the Green Bay Packers accumulated more than 100 rushing yards in a game. Please clap. Sarcasm aside, Sunday&#8217;s 129-yard performance against New England was indeed an encouraging development. But how did it happen? And can [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301680732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: WR Skyy Moore designated to return",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89545/packers-injury-report-wr-skyy-moore-designated-to-return",
-        "publishedAt": "2026-11-11T18:08:01-05:00",
-        "summary": "The Green Bay Packers opened up their practice window for receiver/returner Skyy Moore, who was a limited participant (ankle) on Wednesday. Moore is currently on the injured reserve, but the team has a 21-day opportunity to activate him to the 53-man roster. Along with Moore, running back Chris Brooks (also on the injured reserve) practiced [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2298366823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Roster: Green Bay could get reinforcements this week",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/89539/packers-roster-green-bay-could-get-reinforcements-this-week",
-        "publishedAt": "2026-11-11T14:17:16-05:00",
-        "summary": "Green Bay Packers head coach Matt LaFleur already said this week that the injuries to linebackers Ty’Ron Hopper and Isaiah McDuffie are not expected to be serious, a great sign — considering that the Packers just had two healthy off-ball linebackers left after those injuries last week. On Wednesday, though, LaFleur continued the optimism about [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers are preparing for a Kirk Cousins start",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89536/the-packers-are-preparing-for-a-kirk-cousins-start",
-        "publishedAt": "2026-11-11T13:52:11-05:00",
-        "summary": "At his pre-practice press conference on Wednesday, Green Bay Packers head coach Matt LaFleur was asked whether Kirk Cousins, the quarterback who was previously LaFleur’s responsibility in Washington, would start for the Minnesota Vikings this weekend. Cousins, a former Vikings starter, was traded back to the team on Tuesday from the Las Vegas Raiders for [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304186506.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Packers stand pat at trade deadline",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89532/green-bay-packers-news-packers-stand-pat-at-trade-deadline",
-        "publishedAt": "2026-11-11T10:15:50-05:00",
-        "summary": "The Packers, more or less as expected, didn’t do anything at this year’s edition of the NFL trade deadline. Reportedly, it wasn’t for lack of trying. The Packers apparently had an offer on the table for Indianapolis Colts defensive lineman Grover Stewart, but the Colts dragged their feet and the Packers moved on, content to [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2301680732.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
