@@ -81,19 +81,19 @@
   ],
   "articles": [
     {
+      "title": "Vikings to start reacquired QB Kirk Cousins vs. Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
+      "publishedAt": "2026-11-14T02:23:48Z",
+      "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
+      "image": "https://a.espncdn.com/photo/2023/1030/r1245867_1296x729_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "T.J. Hockenson unlikely to play Sunday vs. the Packers",
       "url": "https://www.espn.com/video/clip/_/id/50475293/tj-hockenson-unlikely-play-sunday-vs-packers",
       "publishedAt": "2026-11-13T23:24:20Z",
       "summary": "Kevin Seifert reports Hockenson's absence would be a significant loss for Kirk Cousins and the Vikings.",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_IA_Vikings_16x9/dm_261113_IA_Vikings_16x9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Vikings to start reacquired QB Kirk Cousins vs. Packers",
-      "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
-      "publishedAt": "2026-11-13T22:41:55Z",
-      "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
-      "image": "https://a.espncdn.com/photo/2023/1030/r1245867_1296x729_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-14T00:53:39.542Z"
+  "updatedAt": "2026-11-14T07:23:50.477Z"
 }
