@@ -3,14 +3,14 @@
   "source": "ESPN NFL",
   "regularSeason": {
     "wins": 6,
-    "losses": 3,
+    "losses": 4,
     "ties": 0,
     "divisionWins": 1,
-    "divisionLosses": 2,
+    "divisionLosses": 3,
     "divisionTies": 0,
-    "pointsFor": 216,
-    "pointsAgainst": 191,
-    "streak": "W2"
+    "pointsFor": 226,
+    "pointsAgainst": 221,
+    "streak": "L1"
   },
   "standings": [
     {
@@ -22,14 +22,14 @@
     },
     {
       "team": "Lions",
-      "wins": 6,
+      "wins": 7,
       "losses": 2,
       "ties": 0,
       "packers": false
     },
     {
       "team": "Vikings",
-      "wins": 6,
+      "wins": 7,
       "losses": 2,
       "ties": 0,
       "packers": false
@@ -37,10 +37,10 @@
     {
       "team": "Packers",
       "wins": 6,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
       "packers": true
     }
   ],
-  "updatedAt": "2026-11-15T16:25:34.274Z"
+  "updatedAt": "2026-11-15T22:03:57.202Z"
 }

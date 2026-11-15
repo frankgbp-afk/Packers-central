@@ -1,99 +1,115 @@
 {
   "season": 2026,
-  "opponentId": "16",
-  "opponent": "Minnesota Vikings",
-  "opponentAbbr": "MIN",
-  "gameId": "401873060",
-  "week": "WK 10",
-  "kickoff": "2026-11-15T18:00:00.000Z",
+  "opponentId": "14",
+  "opponent": "Los Angeles Rams",
+  "opponentAbbr": "LAR",
+  "gameId": "401873079",
+  "week": "WK 12",
+  "kickoff": "2026-11-26T01:00:00.000Z",
   "statsSource": "ESPN NFL standings (regular season)",
   "scoringBasis": "Points per game (regular season). Scoring defense: opponent points allowed per game; lower is better.",
   "hasLeagueRanks": true,
   "teams": {
     "opponent": {
-      "id": "16",
-      "name": "Minnesota Vikings",
-      "abbreviation": "MIN",
-      "games": 8,
-      "wins": 6,
-      "losses": 2,
+      "id": "14",
+      "name": "Los Angeles Rams",
+      "abbreviation": "LAR",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
       "ties": 0,
-      "pointsFor": 146,
-      "pointsAgainst": 116,
-      "scoringOffense": 18.3,
-      "scoringDefense": 14.5,
-      "offenseRank": 27,
-      "defenseRank": 1
+      "pointsFor": 214,
+      "pointsAgainst": 181,
+      "scoringOffense": 23.8,
+      "scoringDefense": 20.1,
+      "offenseRank": 12,
+      "defenseRank": 8
     },
     "packers": {
       "id": "9",
       "name": "Green Bay Packers",
       "abbreviation": "GB",
-      "games": 9,
+      "games": 10,
       "wins": 6,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "pointsFor": 216,
-      "pointsAgainst": 191,
-      "scoringOffense": 24,
-      "scoringDefense": 21.2,
-      "offenseRank": 12,
-      "defenseRank": 11
+      "pointsFor": 226,
+      "pointsAgainst": 221,
+      "scoringOffense": 22.6,
+      "scoringDefense": 22.1,
+      "offenseRank": 13,
+      "defenseRank": 14
     }
   },
   "recentGames": [
     {
-      "date": "2026-11-10T01:15Z",
-      "opponent": "Buffalo Bills",
-      "opponentAbbr": "BUF",
-      "homeAway": "VS",
-      "result": "L",
-      "pointsFor": 6,
-      "pointsAgainst": 23
-    },
-    {
-      "date": "2026-11-01T18:00Z",
-      "opponent": "Detroit Lions",
-      "opponentAbbr": "DET",
-      "homeAway": "AT",
-      "result": "L",
-      "pointsFor": 15,
-      "pointsAgainst": 19
-    },
-    {
-      "date": "2026-10-25T17:00Z",
-      "opponent": "Indianapolis Colts",
-      "opponentAbbr": "IND",
-      "homeAway": "VS",
-      "result": "W",
-      "pointsFor": 16,
-      "pointsAgainst": 10
-    },
-    {
-      "date": "2026-10-11T17:00Z",
-      "opponent": "New Orleans Saints",
-      "opponentAbbr": "NO",
+      "date": "2026-11-08T18:00Z",
+      "opponent": "Washington Commanders",
+      "opponentAbbr": "WSH",
       "homeAway": "AT",
       "result": "W",
-      "pointsFor": 23,
+      "pointsFor": 20,
       "pointsAgainst": 13
+    },
+    {
+      "date": "2026-11-01T21:05Z",
+      "opponent": "Los Angeles Chargers",
+      "opponentAbbr": "LAC",
+      "homeAway": "VS",
+      "result": "W",
+      "pointsFor": 24,
+      "pointsAgainst": 9
+    },
+    {
+      "date": "2026-10-25T20:25Z",
+      "opponent": "Las Vegas Raiders",
+      "opponentAbbr": "LV",
+      "homeAway": "AT",
+      "result": "W",
+      "pointsFor": 35,
+      "pointsAgainst": 21
+    },
+    {
+      "date": "2026-10-18T20:05Z",
+      "opponent": "Arizona Cardinals",
+      "opponentAbbr": "ARI",
+      "homeAway": "VS",
+      "result": "L",
+      "pointsFor": 16,
+      "pointsAgainst": 18
     }
   ],
   "articles": [
     {
       "title": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
       "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
-      "publishedAt": "2026-11-15T16:22:48Z",
-      "summary": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746100_608x342_16-9.jpg",
+      "publishedAt": "2026-11-15T21:49:40Z",
+      "summary": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746317_2_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
-      "title": "Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027",
-      "url": "https://www.espn.com/nfl/story/_/id/50484865/sources-vikings-want-keep-kirk-cousins-2027-season",
-      "publishedAt": "2026-11-15T13:37:49Z",
-      "summary": "The Vikings are interested in keeping Kirk Cousins as their QB next season, sources told NFL Network.",
-      "image": "https://a.espncdn.com/photo/2026/1111/r1744583_1296x729_16-9.jpg",
+      "title": "Fernando Mendoza steps into starting role in style, leads NFL Week 10 arrivals",
+      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
+      "publishedAt": "2026-11-15T20:17:50Z",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746220_608x342_16-9.png",
+      "source": "ESPN"
+    },
+    {
+      "title": "Ranking the top 10 Super Bowl performances by a defender",
+      "url": "https://www.espn.com/nfl/story/_/id/50454197/top-10-super-bowl-individual-defensive-performances",
+      "publishedAt": "2026-11-15T19:49:59Z",
+      "summary": "Not all Super Bowl MVPs were quarterbacks or offensive stars. We listed 10 standout individual defensive performances.",
+      "image": "https://a.espncdn.com/photo/2026/1110/nfl_super-bowl-defensive_16x9.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "publishedAt": "2026-11-15T18:52:06Z",
+      "summary": "The Super Bowl will air on ESPN on Feb. 14, 2027. We have all-time lists, predictions and unforgettable moments.",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1741948_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -105,29 +121,13 @@
       "source": "ESPN"
     },
     {
-      "title": "Sources: Vikings made initial Kirk Cousins trade call to Raiders before MNF",
-      "url": "https://www.espn.com/nfl/story/_/id/50479874/sources-vikings-first-called-kirk-cousins-mnf",
-      "publishedAt": "2026-11-14T15:58:40Z",
-      "summary": "The Vikings initially reached out to the Raiders about a Kirk Cousins trade before their MNF game against the Bills, sources told ESPN and NFL Network.",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743984_1296x729_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Despite Cousins trade, are Vikings back to square one at QB?",
-      "url": "https://www.espn.com/nfl/story/_/id/50472099/vikings-kirk-cousins-trade-contract",
-      "publishedAt": "2026-11-14T11:00:01Z",
-      "summary": "Cousins can give some short-term relief, but his future and the search for a franchise QB remain uncertain.",
-      "image": "https://a.espncdn.com/photo/2026/1113/r1745287_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "T.J. Hockenson unlikely to play Sunday vs. the Packers",
-      "url": "https://www.espn.com/video/clip/_/id/50475293/tj-hockenson-unlikely-play-sunday-vs-packers",
-      "publishedAt": "2026-11-13T23:24:20Z",
-      "summary": "Kevin Seifert reports Hockenson's absence would be a significant loss for Kirk Cousins and the Vikings.",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_IA_Vikings_16x9/dm_261113_IA_Vikings_16x9.jpg",
+      "title": "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50453290/week-10-predictions-upsets-fantasy-sleepers-stats-2026",
+      "publishedAt": "2026-11-14T11:53:16Z",
+      "summary": "Touchdown for Chuba Hubbard? Fantasy upside for Aaron Rodgers? Trick play from the Raiders? Let's predict 15 things for Week 10.",
+      "image": "https://a.espncdn.com/photo/2026/1112/r1744993_2_608x342_16-9.jpg",
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-15T17:28:25.085Z"
+  "updatedAt": "2026-11-15T22:03:57.524Z"
 }
