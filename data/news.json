@@ -1,22 +1,31 @@
 {
-  "updatedAt": "2026-11-15T06:43:54.948Z",
+  "updatedAt": "2026-11-15T16:25:34.561Z",
   "sources": {
     "packers": [
       {
-        "title": "Packers activate RB Chris Brooks and WR Skyy Moore off injured reserve",
-        "url": "https://www.packers.com/news/packers-activate-rb-chris-brooks-and-wr-skyy-moore-off-injured-reserve-nov-14-2026",
-        "publishedAt": "Sat, 14 Nov 2026 21:00:00 GMT",
-        "summary": "Green Bay places TE Josh Whyle on injured reserve, elevates TE Drake Dabney for gameday",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yitzzpa6jzuqj99hbl1x.png",
+        "title": "Packers vs. Vikings | How to watch, stream & listen | Week 10",
+        "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-10-2026",
+        "publishedAt": "Sun, 15 Nov 2026 13:30:00 GMT",
+        "summary": "Green Bay Packers vs. Minnesota Vikings channel listing, radio & streaming options",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/mkdys1ea173vtnwxddka.png",
         "source": "Packers.com",
         "icon": "GB"
       },
       {
         "title": "Packers vs. Vikings: 'We need this win, they need this win'",
         "url": "https://www.packers.com/news/packers-vs-vikings-we-need-this-win-they-need-this-win-nov-14-2026",
-        "publishedAt": "Sat, 14 Nov 2026 15:00:00 GMT",
+        "publishedAt": "Sun, 15 Nov 2026 13:15:00 GMT",
         "summary": "For a Week 10 game, huge implications riding on result",
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/dxx9ayhg0nmgyr9hizwc.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers activate RB Chris Brooks and WR Skyy Moore off injured reserve",
+        "url": "https://www.packers.com/news/packers-activate-rb-chris-brooks-and-wr-skyy-moore-off-injured-reserve-nov-14-2026",
+        "publishedAt": "Sat, 14 Nov 2026 21:00:00 GMT",
+        "summary": "Green Bay places TE Josh Whyle on injured reserve, elevates TE Drake Dabney for gameday",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/yitzzpa6jzuqj99hbl1x.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -100,123 +109,114 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qvlzwoppkilth7n6dnlf.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers' offense vs. Vikings' defense: What's different from Week 1?",
-        "url": "https://www.packers.com/news/packers-offense-vs-vikings-defense-what-s-different-from-week-1-nov-11-2026",
-        "publishedAt": "Thu, 12 Nov 2026 00:13:57 GMT",
-        "summary": "“It’s never easy going against this defense,” QB Jordan Love says",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/tynhegkhrjzlr1z8jjil.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Fantasy playbook: Week 10 Shadow Reports, lineup locks and projected scores",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50433086/fantasy-playbook-projections-lineup-locks-week-10-shadow",
-        "publishedAt": "2026-11-15T00:49:57Z",
-        "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-        "image": "https://a.espncdn.com/photo/2026/1112/r1744753_576x324_16-9.jpg",
+        "title": "Live from Munich: Goff, Gibbs have Lions on top; Pats' Maye (ankle) ruled out",
+        "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
+        "publishedAt": "Sun, 15 Nov 2026 11:15:37 EST",
+        "summary": "Check here for all of Sunday's top moments, TDs and analysis from our reporters.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "DraftKings DFS cheat sheet: Best values for Sunday's main slate",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50472215/draftkings-nfl-dfs-values-week-10",
-        "publishedAt": "2026-11-15T00:40:19Z",
-        "summary": "Build a winning DFS lineup with our DraftKings NFL Week 10 cheat sheet identifying the best stacks and values",
-        "image": "https://a.espncdn.com/photo/2026/1114/r1745710_1296x729_16-9.jpg",
+        "title": "Falling stars: Pats' Maye, Lions' Hutchinson injured on same play in Munich",
+        "url": "https://www.espn.com/nfl/story/_/id/50490533/patriots-drake-maye-lions-aidan-hutchinson-injured",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "Patriots QB Drake Maye and Lions DE Aidan Hutchinson were injured on the same play Sunday, taking star power out of the Munich game.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Saints RB Travis Etienne Jr. activated off IR for game vs. Panthers",
+        "title": "Sources: Vikings want to keep Cousins, talked to QB about staying in 2027",
+        "url": "https://www.espn.com/nfl/story/_/id/50484865/sources-vikings-want-keep-kirk-cousins-2027-season",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "The Vikings are interested in keeping Kirk Cousins as their QB next season, sources told NFL Network.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Chiefs had renowned baseball doctors weigh in on Mahomes' elbow",
+        "url": "https://www.espn.com/nfl/story/_/id/50481210/sources-baseball-doctors-consulted-patrick-mahomes-elbow",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "The Chiefs sought medical opinions from two renowned baseball doctors last week on Patrick Mahomes' injured elbow, sources told ESPN.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Working double shifts: Four NFL refs to officiate 2 games due to FAA ground stop",
+        "url": "https://www.espn.com/nfl/story/_/id/50490305/four-nfl-refs-officiate-2-games-due-faa-ground-stop",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "Four NFL officials will pull a rare double shift Sunday, officiating two different games as a result of travel issues created by Friday's FAA ground stop.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Mayfield's status uncertain for Bucs' Week 11 game vs. Lions",
+        "url": "https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "Baker Mayfield's status against the Lions in Week 11 is in question because of an injury he suffered to his foot and ankle area, sources told NFL Network.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chiefs RB Walker (groin) to miss game vs. Bijan, Falcons",
+        "url": "https://www.espn.com/nfl/story/_/id/50480529/chiefs-kenneth-walker-iii-groin-sit-sources-say",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "Chiefs running back Kenneth Walker III will miss Sunday's game due to a groin injury.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Raiders planned to start Mendoza soon even if no Cousins trade",
+        "url": "https://www.espn.com/nfl/story/_/id/50485164/sources-raiders-had-fernando-mendoza-plan-even-no-cousins-trade",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "The Raiders had a plan to start Fernando Mendoza in Week 12 against the Browns even if they had not traded Kirk Cousins, sources told NFL Network.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Saints activate RB Etienne off IR for Panthers game",
         "url": "https://www.espn.com/nfl/story/_/id/50483551/saints-rb-travis-etienne-activated-ir-game-vs-panthers",
-        "publishedAt": "2026-11-14T22:13:44Z",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
         "summary": "The New Orleans Saints activated running back Travis Etienne Jr. off injured reserve prior to their game against the Carolina Panthers, the team announced Saturday.",
-        "image": "https://a.espncdn.com/photo/2026/1001/r1724629_600x400_3-2.jpg",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Patriots place RB TreVeyon Henderson on IR with still unexplained illness",
-        "url": "https://www.espn.com/nfl/story/_/id/50483113/patriots-place-rb-henderson-ir-unexplained-illness",
-        "publishedAt": "2026-11-15T01:39:05Z",
-        "summary": "The Patriots placed RB TreVeyon Henderson on injured reserve while he deals with an unexplained neurological issue.",
-        "image": "https://a.espncdn.com/photo/2026/0920/r1719562_600x400_3-2.jpg",
+        "title": "🌹 Commanders QB Sam Hartman to star as 'The Bachelor' in show's 30th season",
+        "url": "https://www.espn.com/nfl/story/_/id/50472000/sam-hartman-bachelor-season-30",
+        "publishedAt": "Sun, 15 Nov 2026 11:09:44 EST",
+        "summary": "The 30th season of ABC's \"The Bachelor\" that will premiere in March 2027 will star the former Notre Dame standout.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers activate DT Derrick Harmon from IR ahead of key Bengals clash",
-        "url": "https://www.espn.com/nfl/story/_/id/50482239/steelers-activate-dt-derrick-harmon-injured-reserve",
-        "publishedAt": "2026-11-14T20:41:30Z",
-        "summary": "The Steelers have activated defensive tackle Derrick Harmon from injured reserve after he missed the past four games with a foot injury.",
-        "image": "https://a.espncdn.com/photo/2025/0822/r1534997_1296x729_16-9.jpg",
+        "title": "Our guide to every Week 10 game: Matchup previews, predictions, picks and nuggets",
+        "url": "https://www.espn.com/nfl/story/_/id/50453355/week-10-picks-predictions-schedule-fantasy-odds-2026",
+        "publishedAt": "Sat, 14 Nov 2026 21:01:25 EST",
+        "summary": "There are 13 more games in Week 10, and we have picks, predictions and more for all of them.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "DE Danielle Hunter, LB Azeez Al-Shaair among Texans ruled out vs. Browns",
-        "url": "https://www.espn.com/nfl/story/_/id/50481864/rb-montgomery-de-hunter-texans-ruled-vs-browns",
-        "publishedAt": "2026-11-14T20:05:23Z",
-        "summary": "The Texans will be without a number of key starters -- including running back David Montgomery and All-Pro defensive end Danielle Hunter -- when they travel to face the Browns.",
-        "image": "https://a.espncdn.com/photo/2020/0520/r700769_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football Week 10 inactives: Who's in and who's out?",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active",
-        "publishedAt": "2026-11-14T22:57:35Z",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "image": "https://a.espncdn.com/photo/2026/1114/r1745797_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Panthers WR Xavier Legette, out since Week 2 with knee injury, activated from IR",
-        "url": "https://www.espn.com/nfl/story/_/id/50481450/panthers-xavier-legette-week-2-activated-ir",
-        "publishedAt": "2026-11-14T19:06:19Z",
-        "summary": "Panthers wide receiver Xavier Legette, sidelined since injuring his knee in a Week 2 blowout win over the Falcons, has been activated from injured reserve.",
-        "image": "https://a.espncdn.com/photo/2026/0804/r1697539_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy buzz: Does Emmett Johnson have RB1 upside while Kenneth Walker III sits?",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-11-14T18:56:52Z",
-        "summary": "Kansas City rookie Emmett Johnson is expected to be thrust into a starting role for Week 10 with Kenneth Walker III ruled out.",
-        "image": "https://a.espncdn.com/photo/2026/1114/r1745753_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings Week 10: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-11-14T18:19:14Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 10: Wide receiver",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-        "publishedAt": "2026-11-14T18:18:41Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 10: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-11-14T18:18:22Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/1108/r1743046_1296x729_16-9.jpg",
+        "title": "15 predictions for NFL Week 10",
+        "url": "https://www.espn.com/nfl/story/_/id/50453290/week-10-predictions-upsets-fantasy-sleepers-stats-2026",
+        "publishedAt": "Sat, 14 Nov 2026 21:01:25 EST",
+        "summary": "Touchdown for Chuba Hubbard? Fantasy upside for Aaron Rodgers. Let's predict 15 things for Week 10.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
