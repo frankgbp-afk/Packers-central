@@ -81,6 +81,14 @@
   ],
   "articles": [
     {
+      "title": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
+      "publishedAt": "2026-11-16T06:53:37Z",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
+      "image": "https://a.espncdn.com/photo/2026/1116/r1746498_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "Big-time offensive plays highlight top NFL plays of Week 10",
       "url": "https://www.espn.com/video/clip/_/id/50498782/big-offensive-plays-highlight-top-nfl-plays-week-10",
       "publishedAt": "2026-11-16T05:44:46Z",
@@ -94,14 +102,6 @@
       "publishedAt": "2026-11-16T05:24:51Z",
       "summary": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
       "image": "https://a.espncdn.com/photo/2026/1116/r1746290_576x324_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
-      "publishedAt": "2026-11-16T05:22:31Z",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
-      "image": "https://a.espncdn.com/photo/2026/1116/r1746498_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-16T06:42:46.133Z"
+  "updatedAt": "2026-11-16T09:32:15.846Z"
 }
