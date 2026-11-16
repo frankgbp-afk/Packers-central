@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-15T22:55:26.568Z",
+  "updatedAt": "2026-11-16T06:42:46.167Z",
   "sources": {
     "packers": [
+      {
+        "title": "Game recap: 5 takeaways from Packers' loss to Vikings",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-vikings-week-10-2026",
+        "publishedAt": "Mon, 16 Nov 2026 00:18:08 GMT",
+        "summary": "Minnesota’s defense controls the contest",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bpjsg1siiegvtwlpdhnx.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Game notes: Packers can't overcome Vikings' pressure, takeaways",
+        "url": "https://www.packers.com/news/game-notes-packers-can-t-overcome-vikings-pressure-takeaways-week-10-2026",
+        "publishedAt": "Mon, 16 Nov 2026 00:15:51 GMT",
+        "summary": "Bye-bound team recognizes uphill battle it faces in loaded NFC North",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/pgzh6vugqc2ewi7uzc9t.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Rapid reaction: Defeat digs difficult hole for Packers",
+        "url": "https://www.packers.com/news/rapid-reaction-defeat-digs-difficult-hole-for-packers-week-10-2026",
+        "publishedAt": "Sun, 15 Nov 2026 23:50:07 GMT",
+        "summary": "Big gap in division now, and crowded wild-card picture, too",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rnfxd3g52nn3jx4pjccy.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers lose to Vikings, 30-10",
         "url": "https://www.packers.com/news/in-game-updates-week-10-vikings-2026",
@@ -82,146 +109,137 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/hykvc8xydh4ngsagajrq.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers' defense ready for another round with Kirk Cousins",
-        "url": "https://www.packers.com/news/packers-defense-ready-for-another-round-with-kirk-cousins-nov-13-2026",
-        "publishedAt": "Fri, 13 Nov 2026 15:00:00 GMT",
-        "summary": "Veteran quarterback set to make his 12th start vs. Green Bay",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/iz7wjkbekumt7j1k7tho.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: There are others on the rise as well",
-        "url": "https://www.packers.com/news/inbox-there-are-others-on-the-rise-as-well-nov-13-2026",
-        "publishedAt": "Fri, 13 Nov 2026 14:30:21 GMT",
-        "summary": "The condensed part of the field will decide things",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/clgsjmkunw1g3e8bso4u.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Lambeau Field ready for Packers-Vikings Salute to Service game Sunday",
-        "url": "https://www.packers.com/news/lambeau-field-ready-for-packers-vikings-salute-to-service-game-sunday-nov-15-2026",
-        "publishedAt": "Thu, 12 Nov 2026 22:40:12 GMT",
-        "summary": "Salute to Service game presented by Fleet Farm to honor members of the military and veterans",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/v1794521472/packers/fqf9qsimhrpn9efdytam.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Raiders lose TE Brock Bowers to ankle injury vs. Seahawks",
-        "url": "https://www.espn.com/nfl/story/_/id/50495181/raiders-lose-te-brock-bowers-ankle-injury-vs-seahawks",
-        "publishedAt": "2026-11-15T22:48:25Z",
-        "summary": "Brock Bowers was ruled out of Sunday's matchup against the Seahawks after suffering a right ankle injury in the opening quarter.",
-        "image": "https://a.espncdn.com/photo/2026/1115/r1746367_600x600_1-1.jpg",
+        "title": "Cousins emotional after win in Vikings return, reflects on 'tough three years'",
+        "url": "https://www.espn.com/nfl/story/_/id/50495965/kirk-cousins-emotional-getting-win-return-vikings",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "Kirk Cousins was emotional discussing his return to the Vikings after their victory over the Packers.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Jordyn Tyson is firmly on the flex radar",
-        "url": "https://www.espn.com/video/clip/_/id/50495148/why-jordyn-tyson-firmly-flex-radar",
-        "publishedAt": "2026-11-15T22:46:03Z",
-        "summary": "Why Jordyn Tyson is firmly on the flex radar",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_ffia_jordyntyson/dm_261115_ffia_jordyntyson.jpg",
+        "title": "Sources: Lions DE Hutchinson feared to have suffered significant knee injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50491838/sources-lions-hutchinson-feared-significant-knee-injury",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "Lions star Aidan Hutchinson is feared to have suffered a significant injury to his right knee while celebrating a sack, sources told NFL Network.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Should Jared Goff be in fantasy lineups each and every week?",
-        "url": "https://www.espn.com/video/clip/_/id/50495090/should-jared-goff-fantasy-lineups-every-week",
-        "publishedAt": "2026-11-15T22:41:47Z",
-        "summary": "Should Jared Goff be in fantasy lineups each and every week?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_ffia_jaredgoff/dm_261115_ffia_jaredgoff.jpg",
+        "title": "49ers tout 'incredibly dangerous' offense after 584-yard showing vs. Cowboys",
+        "url": "https://www.espn.com/nfl/story/_/id/50498373/49ers-put-big-numbers-victory-cowboys",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "The 49ers racked up 584 yards against the Cowboys on Sunday in a jaw-dropping offensive display led by Brock Purdy, Christian McCaffrey and Deebo Samuel.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Who are the winningest NFL coaches of all time?",
-        "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-        "publishedAt": "2026-11-15T22:37:16Z",
-        "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-        "image": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg",
+        "title": "Steelers rally around McCormick after guard carted off with gruesome injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50497966/steelers-mason-mccormick-carted-field-air-cast-ankle",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "The Steelers' thoughts were with Mason McCormick after the guard suffered what appeared to be a serious ankle injury and was carted off the field Sunday night.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
-        "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
-        "publishedAt": "2026-11-15T22:33:32Z",
-        "summary": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
-        "image": "https://a.espncdn.com/photo/2026/1115/r1746358_576x324_16-9.jpg",
+        "title": "'Punched in the face,' Raiders' Mendoza vows to learn from first NFL start",
+        "url": "https://www.espn.com/nfl/story/_/id/50498040/raiders-fernando-mendoza-vows-learn-first-nfl-start",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "Fernando Mendoza completed 17 of 29 passes for 143 yards and had a passer rating of 71.5 in his first regular-season start for the Raiders.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Adam Rank: Trevor Lawrence needs to be a must-start fantasy QB every week",
-        "url": "https://www.espn.com/video/clip/_/id/50494901/trevor-lawrence-needs-must-start-fantasy-qb-every-week",
-        "publishedAt": "2026-11-15T22:35:25Z",
-        "summary": "Adam Rank: Trevor Lawrence needs to be a must-start fantasy QB every week",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/dm_261115_Trevor_Lawrence/dm_261115_Trevor_Lawrence.jpg",
+        "title": "Patriots QB Maye injures ankle on Hutchinson sack, to have further testing",
+        "url": "https://www.espn.com/nfl/story/_/id/50492387/patriots-qb-drake-maye-testing-ankle-injury",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "Patriots quarterback Drake Maye suffered an ankle injury in Sunday's loss to the Lions.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
-        "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
-        "publishedAt": "2026-11-15T22:51:02Z",
-        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
-        "image": "https://a.espncdn.com/photo/2026/1115/r1746274_608x342_16-9.jpg",
+        "title": "JSN keeps up record pace with 144-yard 3rd quarter to spark Seahawks' offense",
+        "url": "https://www.espn.com/nfl/story/_/id/50498326/jaxon-smith-njigba-144-yard-third-quarter-sparks-seahawks-offense-win-raiders",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "Jaxon Smith-Njigba, the NFL's leading receiver, finished with a season-high 171 yards on eight catches, with 144 coming in the third quarter to help the Seahawks turn a three-point halftime deficit into a 21-13 win over the Raiders on Sunday.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Is Chuba Hubbard the biggest X factor to spark a Panthers turnaround?",
-        "url": "https://www.espn.com/nfl/story/_/id/50463509/chuba-hubbard-x-factor-spark-carolina-panthers",
-        "publishedAt": "2026-11-15T22:16:58Z",
-        "summary": "Meet Carolina's team captain, a locker room leader and a relentless running back who is \"chasing greatness myself.\"",
-        "image": "https://a.espncdn.com/photo/2026/1115/r1746308_2_576x324_16-9.jpg",
+        "title": "Mahomes' 5-TD day eases concerns about elbow; QB, Downs in sync already",
+        "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
+        "summary": "Even with an elbow injury, Patrick Mahomes was able to have his best performance of the year to lead the Chiefs to a dominant 35-13 win over the Falcons.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Amon-Ra St. Brown talks lederhosen, Lions' 'Human Centipede' celebration",
+        "title": "🥨 Amon-Ra St. Brown explains Munich fit, TD celly",
         "url": "https://www.espn.com/nfl/story/_/id/50493599/amon-ra-st-brown-german-roots-lederhosen-munich",
-        "publishedAt": "2026-11-15T22:10:41Z",
+        "publishedAt": "Mon, 16 Nov 2026 01:29:56 EST",
         "summary": "Inspired by his mother, St. Brown paired a memorable performance with a coordinated Bavarian look alongside his Lions teammates.",
-        "image": "https://a.espncdn.com/photo/2026/1115/r1746318_608x342_16-9.png",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Colts' struggling offense does just enough to beat Dolphins 24-22 and snap 5-game skid",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873059",
-        "publishedAt": "2026-11-15T22:02:38Z",
-        "summary": "— Daniel Jones threw a touchdown pass, Seth McGowan scored on a 4-yard run and Adetomiwa Adebawore recovered a fumble in the end zone Sunday to help the Indianapolis Colts hold on for a 24-22 victory over the Miami Dolphins.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873059.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Tiering all 32 teams' chances to make the NFL playoffs, from the locks to the long shots",
+        "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
+        "publishedAt": "Sun, 15 Nov 2026 23:52:37 EST",
+        "summary": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top draft pick candidates.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873055",
-        "publishedAt": "2026-11-15T21:54:36Z",
-        "summary": "— Chuba Hubbard gained 172 yards from scrimmage and ran for two touchdowns, and Ryan Fitzgerald's 54-yard field goal as time expired lifted the Carolina Panthers to a 20-17 victory over the New Orleans Saints on Sunday with the NFC South Division lead...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873055.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Big questions from NFL Week 10: Are Bengals a Super Bowl threat?",
+        "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
+        "publishedAt": "Sun, 15 Nov 2026 23:52:37 EST",
+        "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why fantasy managers should keep riding the hot hand with Patrick Mahomes",
-        "url": "https://www.espn.com/video/clip/_/id/50494330/why-fantasy-managers-keep-riding-hot-hand-patrick-mahomes",
-        "publishedAt": "2026-11-15T21:56:21Z",
-        "summary": "Why fantasy managers should keep riding the hot hand with Patrick Mahomes",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1115/ss_20261115_165320335_37441971015/ss_20261115_165320335_37441971015.jpg",
+        "title": "Week 10 winners and losers: CMC, Gibbs dominate, Mahomes has biggest game in years",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more",
+        "publishedAt": "Sun, 15 Nov 2026 23:31:19 EST",
+        "summary": "Christian McCafffrey, Jahmyr Gibbs and Patrick Mahomes put fantasy teams on their back in Week 10, while Jonathan Taylor and the Packers and Panthers' passing games had quiet days.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "NFC Playoff Picture: Packers’ loss leaves them out of the NFC North mix but in the wild card",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-nfl-playoffs/89712/nfc-playoff-picture-green-bay-packers-loss-wild-card-standings",
+        "publishedAt": "2026-11-15T20:17:27-05:00",
+        "summary": "The Green Bay Packers lost on Sunday, leaving them more than a game back of the three-way tie atop the NFC North following Week 10 heading into their bye. Green Bay was lucky to stick in a playoff spot thanks to some tiebreakers in the NFC West, so let’s break it down. In the Wild [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305268582.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Winners and Losers: Week 10 vs. the Vikings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/89674/packers-winners-and-losers-week-10-vs-the-vikings",
+        "publishedAt": "2026-11-15T17:03:16-05:00",
+        "summary": "Part II of the Green Bay Packers vs. Minnesota Vikings matchup kicked off at Lambeau Field on Sunday afternoon, and it was…something. When these two teams met to open the season back in September, the Vikings embarrassed the Packers, scoring 22 unanswered points in the 4th quarter to win by 17. This time, the Packers [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305254989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers Snap Counts, Week 10: Green Bay’s offense played heavy",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-depth-chart/89694/packers-snap-counts-week-10-green-bays-offense-played-heavy",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-11-13T17:14:45-05:00",
         "summary": "If the Minnesota Vikings want to repeat their Week 1 win over the Packers, they’re going to have to do it shorthanded. They’ve already ruled out five players for Sunday’s game, including tight end T.J. Hockenson and linebacker Blake Cashman. Hockenson hasn’t practiced yet this week with a combination of wrist and chest injuries. His [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2294671880.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers must corral Vikings return man Myles Price",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89633/packers-must-corral-vikings-return-man-myles-price",
-        "publishedAt": "2026-11-13T17:00:00-05:00",
-        "summary": "The Vikings’ defense is incredible. Their offense should be more capable with a new quarterback under center. But their special teams also present a very interesting challenge for the Packers. Under the guidance of new coordinator Cam Achord, the Packers’ special teams have been — with some exceptions — generally pretty solid. Pre-injury, Skyy Moore [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2300175158.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: Green Bay rules out 4 vs. Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89636/packers-injury-report-green-bay-rules-out-4-vs-vikings",
-        "publishedAt": "2026-11-13T16:52:39-05:00",
-        "summary": "The Green Bay Packers have officially ruled out four players on Friday: running back Josh Jacobs (finger), edge defender Micah Parsons (knee/illness-PUP), center Sean Rhyan (ankle) and tight end Josh Whyle. Of those three players, only Jacobs played against the New England Patriots last week, and he did not finish the game. Yesterday, head coach [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2295129251.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
