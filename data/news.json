@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-17T03:57:37.899Z",
+  "updatedAt": "2026-11-17T16:10:50.094Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers head into the bye week",
+        "url": "https://www.packers.com/news/packers-head-into-the-bye-week-2026",
+        "publishedAt": "Tue, 17 Nov 2026 15:08:21 GMT",
+        "summary": "Green Bay has a winning record at the bye for the 14th time in the last 17 years",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/dhiotielwgwts3hogwqu.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: Kaleb Johnson has responded the right way",
+        "url": "https://www.packers.com/news/inbox-kaleb-johnson-has-responded-the-right-way-nov-17-2026",
+        "publishedAt": "Tue, 17 Nov 2026 14:30:00 GMT",
+        "summary": "It was a tough day for the Packers to have another tough day",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/el59zrwqqmf40ioznhvi.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Laundry list of issues factored into Packers' breakdowns vs. Vikings",
         "url": "https://www.packers.com/news/laundry-list-of-issues-factored-into-packers-breakdowns-vs-vikings-nov-16-2026",
@@ -91,152 +109,143 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fzmcizleqlpch7z4crwf.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers vs. Vikings | How to watch, stream & listen | Week 10",
-        "url": "https://www.packers.com/news/packers-vs-vikings-how-to-watch-stream-listen-week-10-2026",
-        "publishedAt": "Sun, 15 Nov 2026 13:30:00 GMT",
-        "summary": "Green Bay Packers vs. Minnesota Vikings channel listing, radio & streaming options",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/mkdys1ea173vtnwxddka.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers vs. Vikings: 'We need this win, they need this win'",
-        "url": "https://www.packers.com/news/packers-vs-vikings-we-need-this-win-they-need-this-win-nov-14-2026",
-        "publishedAt": "Sun, 15 Nov 2026 13:15:00 GMT",
-        "summary": "For a Week 10 game, huge implications riding on result",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/dxx9ayhg0nmgyr9hizwc.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Bo Nix and Eli do some quality trolling of Peyton's rushing game",
-        "url": "https://www.espn.com/video/clip/_/id/50507501/bo-nix-eli-do-some-quality-trolling-peyton-rushing-game",
-        "publishedAt": "2026-11-17T03:45:46Z",
-        "summary": "Bo Nix and Eli do some quality trolling of Peyton's rushing game",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/ss_20261116_222531410_37460101365/ss_20261116_222531410_37460101365.jpg",
+        "title": "Winless no more: Chargers hold off Ravens after forcing late fumble",
+        "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
+        "publishedAt": "Tue, 17 Nov 2026 09:37:45 EST",
+        "summary": "The Chargers' defense stifles Baltimore's running backs, and Justin Herbert steps up in Los Angeles' first win.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Rams center Coleman Shelton out 4-6 weeks with hamstring injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50506869/rams-coleman-shelton-4-6-weeks-hamstring-injury",
-        "publishedAt": "2026-11-17T02:37:21Z",
-        "summary": "Coleman Shelton strained his hamstring in the second quarter of the Rams' Week 10 victory over the Cardinals.",
-        "image": "https://a.espncdn.com/photo/2023/0316/r1145241_600x400_3-2.jpg",
+        "title": "Campbell says Hutchinson injury won't prompt celly ban: 'We're not talking to 8-year-olds'",
+        "url": "https://www.espn.com/nfl/story/_/id/50510660/dan-campbell-hutchinson-injury-prompt-celebration-ban",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
+        "summary": "Although Aidan Hutchinson's knee injury is a \"gut punch\" to the Lions, Dan Campbell said he won't tell his players to change the way they celebrate.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Mike McCarthy on Steelers' blowout loss: 'Needs to stop there'",
-        "url": "https://www.espn.com/nfl/story/_/id/50505946/mike-mccarthy-pittsburgh-steelers-week-10-blowout-loss",
-        "publishedAt": "2026-11-17T02:52:26Z",
-        "summary": "After a deflating loss at Cincinnati, Pittsburgh faces a Week 11 gut-check game at the Eagles on Sunday.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1746942_608x342_16-9.jpg",
+        "title": "Cowboys discussing new role for DC Parker after loss to 49ers, Jones says",
+        "url": "https://www.espn.com/nfl/story/_/id/50511280/cowboys-discussing-new-role-dc-parker-jones-says",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
+        "summary": "The Cowboys are discussing the possibility of changing Christian Parker's role and responsibilities as defensive coordinator, owner and general manager Jerry Jones said.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fan makes a fantastic catch to send himself to Super Bowl LXI",
-        "url": "https://www.espn.com/video/clip/_/id/50506334/fan-makes-fantastic-catch-send-super-bowl-lxi",
-        "publishedAt": "2026-11-17T01:21:29Z",
-        "summary": "Fan makes a fantastic catch to send himself to Super Bowl LXI",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/ss_20261116_200452806_3745664/ss_20261116_200452806_3745664.jpg",
+        "title": "Chargers finally get their first win: 'Thrilled, let's do it every week'",
+        "url": "https://www.espn.com/nfl/story/_/id/50508438/chargers-relieved-beating-ravens-first-win-season",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
+        "summary": "The Chargers beat the Ravens 23-30 on Monday night to earn their first win since Week 16 of last season, bringing a franchise-wide sigh of relief.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Jets QB Geno Smith avoided major ankle injury, testing shows",
+        "title": "Hamilton says Ravens 'disgracing' standards after embarrassing loss to Chargers",
+        "url": "https://www.espn.com/nfl/story/_/id/50508744/kyle-hamilton-says-ravens-disgracing-standards-loss-previously-winless-chargers",
+        "publishedAt": "Tue, 17 Nov 2026 10:52:23 EST",
+        "summary": "Pro Bowl safety Kyle Hamilton vented after the Ravens' 23-20 loss to the previously winless Chargers on Monday night, which was one of the most embarrassing defeats in team history.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Patriots fear QB Maye has broken ankle, could miss rest of season",
+        "url": "https://www.espn.com/nfl/story/_/id/50500352/patriots-qb-drake-maye-leg-miss-extended-sources-say",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
+        "summary": "The Patriots are concerned that Drake Maye sustained a fractured ankle, sources told ESPN, an injury that could sideline the star QB for the rest of the season.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Jets QB Smith avoided major ankle injury, testing shows",
         "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
-        "publishedAt": "2026-11-17T01:08:09Z",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:30 EST",
         "summary": "Imaging tests performed on Jets quarterback Geno Smith's injured left ankle did not reveal any major concerns, sources said Monday.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1746913_1296x729_16-9.jpg",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Kyle Hamilton rocks Christmas sweater ahead of 'MNF,' leads NFL Week 10 arrivals",
-        "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
-        "publishedAt": "2026-11-16T23:53:27Z",
-        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-        "image": "https://a.espncdn.com/photo/2026/1116/r1746900_545x307_16-9.png",
+        "title": "Rams lose center Shelton for 4-6 weeks in latest injury blow",
+        "url": "https://www.espn.com/nfl/story/_/id/50506869/rams-coleman-shelton-4-6-weeks-hamstring-injury",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:30 EST",
+        "summary": "Coleman Shelton strained his hamstring in the second quarter of the Rams' Week 10 victory over the Cardinals.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Behind Raiders fans' tribute to Fernando Mendoza's mother",
-        "url": "https://www.espn.com/nfl/story/_/id/50504017/raiders-fans-seated-fernando-mendoza-touchdown-tribute",
-        "publishedAt": "2026-11-16T23:13:41Z",
-        "summary": "Tom Joanides' social media campaign became a meaningful tribute when Mendoza scored in his first NFL start.",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1116/fa6621c5-2440-4448-9b9c-30ef4dd54f67/fa6621c5-2440-4448-9b9c-30ef4dd54f67.jpg",
+        "title": "Vikings WR Addison needs thumb surgery, is candidate for IR",
+        "url": "https://www.espn.com/nfl/story/_/id/50503437/vikings-wr-jordan-addison-needs-thumb-surgery",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
+        "summary": "Vikings wide receiver Jordan Addison needs to undergo surgery on his thumb and is a candidate for injured reserve, coach Kevin O'Connell said Monday.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints",
-        "url": "https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday",
-        "publishedAt": "2026-11-16T23:30:11Z",
-        "summary": "Bears running back Kyle Monangai said Monday that he's \"on track\" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe.",
-        "image": "https://a.espncdn.com/photo/2026/1116/r1746881_1296x729_16-9.jpg",
+        "title": "🏈 Tiering all 32 teams' playoff chances, from locks to long shots",
+        "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
+        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
+        "summary": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top-draft-pick candidates.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "49ers WR Mike Evans' Achilles tendinitis injury explained",
-        "url": "https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery",
-        "publishedAt": "2026-11-17T02:54:01Z",
-        "summary": "ESPN spoke with a medical professional for a better understanding of Evans' diagnosis. When could he return? And will the injury completely resolve itself?",
-        "image": "https://a.espncdn.com/photo/2026/1020/r1733349_608x342_16-9.jpg",
+        "title": "NFL Week 11 Power Rankings: Updated 1-32 poll, plus the non-QB MVPs for every team at midseason",
+        "url": "https://www.espn.com/nfl/story/_/id/50503226/nfl-power-rankings-week-11-non-quarterback-mvps-midseason",
+        "publishedAt": "Tue, 17 Nov 2026 10:34:44 EST",
+        "summary": "How does every NFL team stack up heading into Week 11? We made our 1-32 list and picked the non-quarterback MVPs for each roster.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week",
-        "url": "https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week",
-        "publishedAt": "2026-11-16T21:17:12Z",
-        "summary": "Seahawks coach Mike Macdonald is \"optimistic\" QB Sam Darnold will return to his starting role after the team's bye week.",
-        "image": "https://a.espncdn.com/photo/2026/1103/r1740370_576x324_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Adam Schefter: Micah Parsons on track to return for Packers in Week 12",
-        "url": "https://www.espn.com/video/clip/_/id/50504435/micah-parsons-track-return-packers-week-12",
-        "publishedAt": "2026-11-16T21:11:04Z",
-        "summary": "Adam Schefter: Micah Parsons on track to return for Packers in Week 12",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1116/ss_20261116_155347052_3745411/ss_20261116_155347052_3745411.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Packers' Matt LaFleur still plans on Micah Parsons to return on Thanksgiving Eve",
-        "url": "https://www.espn.com/nfl/story/_/id/50504228/lafleur-plans-parsons-return-thanksgiving-eve",
-        "publishedAt": "2026-11-16T21:43:15Z",
-        "summary": "The Packers still hope Micah Parsons will be ready to make his return for the Thanksgiving Eve game at the Rams in Week 12.",
-        "image": "https://a.espncdn.com/photo/2026/1028/r1737483_1296x729_16-9.jpg",
+        "title": "Seven things Solak thinks: Burrow for MVP? Lions in trouble? Vikings-49ers is the game of the year?",
+        "url": "https://www.espn.com/nfl/story/_/id/50505355/week-11-seven-things-solak-thinks-burrow-mvp-rams-lions",
+        "publishedAt": "Tue, 17 Nov 2026 07:44:49 EST",
+        "summary": "Get ready for Week 11 with what makes Vikings-49ers must-watch football, Joe Burrow's MVP case and how Aidan Hutchinson's injury could impact the Lions.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
       {
-        "title": "The Packers’ offensive line regressed against the Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89779/the-packers-offensive-line-regressed-against-the-vikings",
-        "publishedAt": "2026-11-16T19:48:34-05:00",
-        "summary": "We all saw the Green Bay Packers’ offensive line get pushed around by the Minnesota Vikings on Sunday, but I’m sure some of you are wondering exactly why the team messed up in crucial situations over and over. Hopefully, you’ll learn a little more about the game and the status of the team by the [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305254989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "title": "Green Bay Packers News: Packers recovering from a meltdown",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89829/green-bay-packers-news-packers-recovering-from-a-meltdown",
+        "publishedAt": "2026-11-17T09:50:12-05:00",
+        "summary": "You never want to overstate things if you don’t have to, but it’s hard to avoid hyperbolic language after a full collapse like we saw on Sunday. Everything fell apart. The offensive line was never really together to begin with, but even in its decimated state, it was especially bad against the relentless Minnesota Vikings. [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304767055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
       {
         "title": "Packers WR clears waivers, set up for practice squad return",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89776/packers-wr-clears-waivers-set-up-for-practice-squad-return",
-        "publishedAt": "2026-11-16T17:37:29-05:00",
+        "publishedAt": "2026-11-16T23:34:05-05:00",
         "summary": "On Saturday, the Green Bay Packers waived receiver Coleman Owen from the 53-man roster — in part to make room for the addition of receiver Skyy Moore, who was coming off the injured reserve. Owen, who also returned kicks and punts, directly replaced Moore when Moore went down with an ankle injury. Now, Owen has [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302756852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Packers’ offensive line regressed against the Vikings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89779/the-packers-offensive-line-regressed-against-the-vikings",
+        "publishedAt": "2026-11-16T19:48:34-05:00",
+        "summary": "We all saw the Green Bay Packers’ offensive line get pushed around by the Minnesota Vikings on Sunday, but I’m sure some of you are wondering exactly why the team messed up in crucial situations over and over. Hopefully, you’ll learn a little more about the game and the status of the team by the [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305254989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       },
@@ -300,15 +309,6 @@
         "publishedAt": "2026-11-15T20:17:27-05:00",
         "summary": "The Green Bay Packers lost on Sunday, leaving them more than a game back of the three-way tie atop the NFC North following Week 10 heading into their bye. Green Bay was lucky to stick in a playoff spot thanks to some tiebreakers in the NFC West, so let’s break it down. In the Wild [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305268582.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Winners and Losers: Week 10 vs. the Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/89674/packers-winners-and-losers-week-10-vs-the-vikings",
-        "publishedAt": "2026-11-15T17:03:16-05:00",
-        "summary": "Part II of the Green Bay Packers vs. Minnesota Vikings matchup kicked off at Lambeau Field on Sunday afternoon, and it was…something. When these two teams met to open the season back in September, the Vikings embarrassed the Packers, scoring 22 unanswered points in the 4th quarter to win by 17. This time, the Packers [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305254989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
