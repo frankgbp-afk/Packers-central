@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-17T16:10:50.094Z",
+  "updatedAt": "2026-11-18T00:59:44.778Z",
   "sources": {
     "packers": [
+      {
+        "title": "Robin Rosemeyer of Gilman High School named Green Bay Packers High School Coach of the Week",
+        "url": "https://www.packers.com/news/robin-rosemeyer-of-gilman-high-school-named-green-bay-packers-high-school-coach-of-the-week-nov-17-2026",
+        "publishedAt": "Tue, 17 Nov 2026 22:06:40 GMT",
+        "summary": "Rosemeyer has led his Pirates to an undefeated season culminating in the program’s first-ever WIAA eight-player state football championship",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/jyygbyxn6u4dhmnobcbl.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers DT Karl Brooks 'doesn't really have a weakness in his game'",
+        "url": "https://www.packers.com/news/packers-dt-karl-brooks-doesn-t-really-have-a-weakness-in-his-game-nov-17-2026",
+        "publishedAt": "Tue, 17 Nov 2026 21:32:39 GMT",
+        "summary": "Key comments from Green Bay’s coordinators",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/mchdsqieovan0kce59zh.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers announce roster moves | Nov. 17, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-moves-nov-17-2026",
+        "publishedAt": "Tue, 17 Nov 2026 21:00:00 GMT",
+        "summary": "Green Bay signs WR Coleman Owen and DT Haggai Ndubuisi to the practice squad",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/splcpbl1ihe98vzudgqi.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers head into the bye week",
         "url": "https://www.packers.com/news/packers-head-into-the-bye-week-2026",
@@ -82,146 +109,155 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rnfxd3g52nn3jx4pjccy.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers lose to Vikings, 30-10",
-        "url": "https://www.packers.com/news/in-game-updates-week-10-vikings-2026",
-        "publishedAt": "Sun, 15 Nov 2026 21:00:00 GMT",
-        "summary": "Green Bay drops to 6-4, stays in last place in NFC North",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/jssus8sal70wvcwjwmji.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers salute U.S. Marine Corps veteran Brad Selman for 'Operation Fan Mail'",
-        "url": "https://www.packers.com/news/packers-salute-u-s-marine-corps-veteran-brad-selman-for-operation-fan-mail-nov-15-2026",
-        "publishedAt": "Sun, 15 Nov 2026 19:22:26 GMT",
-        "summary": "Packers, Network Health honored Selman during Sunday’s game against the Vikings",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/vpldhu6todnyqziggeh8.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "S Xavier McKinney active for Green Bay | Packers-Vikings inactives",
-        "url": "https://www.packers.com/news/packers-vikings-week-10-inactives-nov-15-2026",
-        "publishedAt": "Sun, 15 Nov 2026 16:30:00 GMT",
-        "summary": "Lukas Van Ness, Javon Bullard also active after being questionable",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fzmcizleqlpch7z4crwf.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Winless no more: Chargers hold off Ravens after forcing late fumble",
-        "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
-        "publishedAt": "Tue, 17 Nov 2026 09:37:45 EST",
-        "summary": "The Chargers' defense stifles Baltimore's running backs, and Justin Herbert steps up in Los Angeles' first win.",
+        "title": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers",
+        "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
+        "publishedAt": "2026-11-18T00:54:46Z",
+        "summary": "Caleb Williams spent his bye week resting his ailing hamstring, supporting his close friend Pete Crow-Armstrong as the Cubs outfielder was named NL MVP, and putting one of the worst games of his career in the rearview mirror.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747377_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Cockcroft likes the Jets D/ST for Week 11",
+        "url": "https://www.espn.com/video/clip/_/id/50514282/why-cockcroft-likes-jets-d-st-week-11",
+        "publishedAt": "2026-11-17T22:29:16Z",
+        "summary": "Why Cockcroft likes the Jets D/ST for Week 11",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_jets_defense/dm_261117_jets_defense.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Arrest warrants issued for robbery of Steelers' Max Iheanachor",
+        "url": "https://www.espn.com/nfl/story/_/id/50514216/arrest-warrants-issued-robbery-steelers-max-iheanachor",
+        "publishedAt": "2026-11-17T23:22:46Z",
+        "summary": "Arrest warrants have been issued for three individuals in connection with the burglary of the home of Steelers first-round pick Max Iheanachor, police said.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747292_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cockcroft: DJ Wonnum a priority pickup in fantasy IDP leagues in Week 11",
+        "url": "https://www.espn.com/video/clip/_/id/50514115/dj-wonnum-priority-pickup-fantasy-idp-leagues-week-11",
+        "publishedAt": "2026-11-17T22:15:15Z",
+        "summary": "Cockcroft: DJ Wonnum a priority pickup in fantasy IDP leagues in Week 11",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_fantasy_wonnum/dm_261117_fantasy_wonnum.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why fantasy managers should utilize Dak Prescott in Week 11",
+        "url": "https://www.espn.com/video/clip/_/id/50514056/why-fantasy-managers-utilize-dak-prescott-week-11",
+        "publishedAt": "2026-11-17T22:15:04Z",
+        "summary": "Why fantasy managers should utilize Dak Prescott in Week 11",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/ss_20261117_170921775_37465951033/ss_20261117_170921775_37465951033.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50513896/source-dolphins-jordan-phillips-miss-rest-season",
+        "publishedAt": "2026-11-17T22:30:15Z",
+        "summary": "Dolphins DT Jordan Phillips will miss the rest of the season with torn biceps, a source confirmed to ESPN.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747266_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Titans put WR Wan'Dale Robinson on IR due to ankle injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50513594/titans-put-wr-wandale-robinson-ankle-ir",
+        "publishedAt": "2026-11-17T23:03:44Z",
+        "summary": "The Titans placed wide receiver Wan'Dale Robinson on injured reserve Tuesday.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747252_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Irving, Walker III, Bowers and more Knockout league pickups for Week 11",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50512512/2026-fantasy-football-knockout-leagues-pickups-week-11",
+        "publishedAt": "2026-11-17T20:33:17Z",
+        "summary": "As the number of teams shrink, the number of stars available in Knockout leagues grows. Here are the ones to get.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747190_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football flex and superflex rankings for Week 11",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50507366/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-11-17T21:06:44Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743618_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Is Chuba Hubbard the biggest X factor to spark a Panthers turnaround?",
+        "url": "https://www.espn.com/nfl/story/_/id/50463509/chuba-hubbard-x-factor-spark-carolina-panthers",
+        "publishedAt": "2026-11-17T19:29:01Z",
+        "summary": "Meet Carolina's team captain, a locker room leader and a relentless running back who is \"chasing greatness myself.\"",
+        "image": "https://a.espncdn.com/photo/2026/1115/r1746308_2_576x324_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2026 expected fantasy points against (xFPA) by position",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49869463/2026-fantasy-football-expected-points-xfpa-position-qb-rb-wr-te",
+        "publishedAt": "2026-11-17T19:25:48Z",
+        "summary": "Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
         "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Campbell says Hutchinson injury won't prompt celly ban: 'We're not talking to 8-year-olds'",
-        "url": "https://www.espn.com/nfl/story/_/id/50510660/dan-campbell-hutchinson-injury-prompt-celebration-ban",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
-        "summary": "Although Aidan Hutchinson's knee injury is a \"gut punch\" to the Lions, Dan Campbell said he won't tell his players to change the way they celebrate.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cowboys discussing new role for DC Parker after loss to 49ers, Jones says",
-        "url": "https://www.espn.com/nfl/story/_/id/50511280/cowboys-discussing-new-role-dc-parker-jones-says",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
-        "summary": "The Cowboys are discussing the possibility of changing Christian Parker's role and responsibilities as defensive coordinator, owner and general manager Jerry Jones said.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chargers finally get their first win: 'Thrilled, let's do it every week'",
-        "url": "https://www.espn.com/nfl/story/_/id/50508438/chargers-relieved-beating-ravens-first-win-season",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
-        "summary": "The Chargers beat the Ravens 23-30 on Monday night to earn their first win since Week 16 of last season, bringing a franchise-wide sigh of relief.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Hamilton says Ravens 'disgracing' standards after embarrassing loss to Chargers",
-        "url": "https://www.espn.com/nfl/story/_/id/50508744/kyle-hamilton-says-ravens-disgracing-standards-loss-previously-winless-chargers",
-        "publishedAt": "Tue, 17 Nov 2026 10:52:23 EST",
-        "summary": "Pro Bowl safety Kyle Hamilton vented after the Ravens' 23-20 loss to the previously winless Chargers on Monday night, which was one of the most embarrassing defeats in team history.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Patriots fear QB Maye has broken ankle, could miss rest of season",
-        "url": "https://www.espn.com/nfl/story/_/id/50500352/patriots-qb-drake-maye-leg-miss-extended-sources-say",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
-        "summary": "The Patriots are concerned that Drake Maye sustained a fractured ankle, sources told ESPN, an injury that could sideline the star QB for the rest of the season.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Jets QB Smith avoided major ankle injury, testing shows",
-        "url": "https://www.espn.com/nfl/story/_/id/50506147/jets-qb-geno-smith-avoided-major-ankle-injury",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:30 EST",
-        "summary": "Imaging tests performed on Jets quarterback Geno Smith's injured left ankle did not reveal any major concerns, sources said Monday.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Rams lose center Shelton for 4-6 weeks in latest injury blow",
-        "url": "https://www.espn.com/nfl/story/_/id/50506869/rams-coleman-shelton-4-6-weeks-hamstring-injury",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:30 EST",
-        "summary": "Coleman Shelton strained his hamstring in the second quarter of the Rams' Week 10 victory over the Cardinals.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Vikings WR Addison needs thumb surgery, is candidate for IR",
-        "url": "https://www.espn.com/nfl/story/_/id/50503437/vikings-wr-jordan-addison-needs-thumb-surgery",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
-        "summary": "Vikings wide receiver Jordan Addison needs to undergo surgery on his thumb and is a candidate for injured reserve, coach Kevin O'Connell said Monday.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "🏈 Tiering all 32 teams' playoff chances, from locks to long shots",
-        "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
-        "publishedAt": "Tue, 17 Nov 2026 10:48:31 EST",
-        "summary": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top-draft-pick candidates.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 11 Power Rankings: Updated 1-32 poll, plus the non-QB MVPs for every team at midseason",
-        "url": "https://www.espn.com/nfl/story/_/id/50503226/nfl-power-rankings-week-11-non-quarterback-mvps-midseason",
-        "publishedAt": "Tue, 17 Nov 2026 10:34:44 EST",
-        "summary": "How does every NFL team stack up heading into Week 11? We made our 1-32 list and picked the non-quarterback MVPs for each roster.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Seven things Solak thinks: Burrow for MVP? Lions in trouble? Vikings-49ers is the game of the year?",
-        "url": "https://www.espn.com/nfl/story/_/id/50505355/week-11-seven-things-solak-thinks-burrow-mvp-rams-lions",
-        "publishedAt": "Tue, 17 Nov 2026 07:44:49 EST",
-        "summary": "Get ready for Week 11 with what makes Vikings-49ers must-watch football, Joe Burrow's MVP case and how Aidan Hutchinson's injury could impact the Lions.",
-        "image": "",
+        "title": "Expected fantasy points (xFP): 2026 leaderboard for TEs",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49869668/2026-fantasy-football-expected-fantasy-points-xfp-te",
+        "publishedAt": "2026-11-17T19:20:48Z",
+        "summary": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
+        "image": "https://a.espncdn.com/photo/2026/0914/r1716394_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Tucker Kraft doesn’t look right",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89838/tucker-kraft-doesnt-look-right",
+        "publishedAt": "2026-11-17T18:49:40-05:00",
+        "summary": "The Green Bay Packers have had next to no luck with injuries for the better part of three years now, and that has even spilled into players who have returned to the field. After tearing his ACL halfway through an All-Pro-bound season, the Packers rewarded Tucker Kraft with a sizable contract extension after he returned [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303782014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers add 2, drop 1 on Tuesday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89852/packers-add-2-drop-1-on-tuesday",
+        "publishedAt": "2026-11-17T18:47:28-05:00",
+        "summary": "As expected, the Green Bay Packers signed receiver Coleman Owen back to the practice squad after he cleared waivers unclaimed on Monday. Owen was the first player the Packers have cut from the 53-man active roster this season, and they opened a practice squad spot on Monday by releasing defensive lineman David Blay Jr. Beyond [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302109653.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: The Tucky Sneak adds a wrinkle",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89813/packers-film-room-the-tucky-sneak-adds-a-wrinkle",
+        "publishedAt": "2026-11-17T16:09:40-05:00",
+        "summary": "Since his second year in the league, tight end Tucker Kraft has been something of a battering ram in the sneak game. Since 2024, the Green Bay Packers have used Kraft as the ball carrier in 8 sneak attempts: 3 times on 4th &#38; 1, 5 times on 3rd &#38; 1. He has converted 7 [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305246700.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Week 11 Power Rankings Round Up: Packers come back down to earth",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-power-rankings/89833/week-11-power-rankings-round-up-packers-come-back-down-to-earth",
+        "publishedAt": "2026-11-17T16:06:36-05:00",
+        "summary": "Well, Green Bay’s matchup against Minnesota went about as badly as it could have, as the Packers fell 30-10. As it turns out, relying on Jordan Love to play at superhuman levels has its drawbacks. Love has answered the call at every turn and played admirably, all things considered, in Week 10, but it turns [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305268596.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers News: Packers recovering from a meltdown",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89829/green-bay-packers-news-packers-recovering-from-a-meltdown",
@@ -273,42 +309,6 @@
         "publishedAt": "2026-11-16T15:08:37-05:00",
         "summary": "When asked about the status of edge defender Micah Parsons, Green Bay Packers head coach Matt LaFleur stated, “That’s my plan,” when the topic of Parsons playing against the Los Angeles Rams on Thanksgiving Eve was brought up. “I think my plan’s been different than everybody else’s this whole time,” LaFleur joked on Monday about [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302606408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers By The Numbers: Stats from the Week 10 loss to the Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89722/packers-by-the-numbers-stats-from-the-week-10-loss-to-the-vikings",
-        "publishedAt": "2026-11-16T14:35:59-05:00",
-        "summary": "Did you all know that they keep numbers even in games where your team loses by 20? Feels pretty rude to me. As we do every week in this space, we’re looking at some stats from the Green Bay Packers’ most recent game, courtesy of SumerSports. Today we’re looking at the 30-10 loss to the [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304773138.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Aaron Banks situation gets worse and worse for the Packers",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89745/the-aaron-banks-situation-gets-worse-and-worse-for-the-packers",
-        "publishedAt": "2026-11-16T10:35:18-05:00",
-        "summary": "Aaron Banks, the Packers’ $77 million left guard, played three snaps on Sunday. None were on offense. Exiled from the starting lineup, Banks only appeared on the field for two field goal attempts and the Packers’ lone extra point, lining up at left guard on all three plays. And that’s a fitting fate for Banks, [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/08/gettyimages-2254816479.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Back to the drawing board on the Offensive Line",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89742/green-bay-packers-news-back-to-the-drawing-board-on-the-offensive-line",
-        "publishedAt": "2026-11-16T09:30:00-05:00",
-        "summary": "No quarterback — even one who has been playing at an MVP level of late — can sustain an offense when he can’t get the ball out of his hands. Jordan Love is no exception, and Green Bay Packers fans saw the team’s fatal flaw get exploited over and over and over again on Sunday [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305254989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFC Playoff Picture: Packers’ loss leaves them out of the NFC North mix but in the wild card",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-nfl-playoffs/89712/nfc-playoff-picture-green-bay-packers-loss-wild-card-standings",
-        "publishedAt": "2026-11-15T20:17:27-05:00",
-        "summary": "The Green Bay Packers lost on Sunday, leaving them more than a game back of the three-way tie atop the NFC North following Week 10 heading into their bye. Green Bay was lucky to stick in a playoff spot thanks to some tiebreakers in the NFC West, so let’s break it down. In the Wild [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305268582.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
