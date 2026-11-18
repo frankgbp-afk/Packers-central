@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T00:59:44.778Z",
+  "updatedAt": "2026-11-18T11:53:07.784Z",
   "sources": {
     "packers": [
       {
@@ -113,9 +113,99 @@
     ],
     "espn": [
       {
+        "title": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions",
+        "publishedAt": "2026-11-18T11:51:02Z",
+        "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
+        "image": "https://a.espncdn.com/photo/2026/1116/261118_cfb_jordan-reid-mock-draft_16x9_608x342.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Sources: Steelers G Mason McCormick avoided fracture, won't need ankle surgery",
+        "url": "https://www.espn.com/nfl/story/_/id/50519701/sources-steelers-g-mccormick-need-surgery-ankle",
+        "publishedAt": "2026-11-18T11:33:46Z",
+        "summary": "Steelers guard Mason McCormick does not need surgery after he was carted off the field with an ankle injury, sources told NFL Network.",
+        "image": "https://a.espncdn.com/photo/2026/1116/r1746517_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+        "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026",
+        "publishedAt": "2026-11-18T11:23:20Z",
+        "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747264_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "2027 NFL draft: Dolphins, Titans, Eagles, Jets, Chargers in race for No. 1 pick",
+        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50510863/2027-nfl-draft-top-pick-dolphins-titans-eagles-jets-chargers",
+        "publishedAt": "2026-11-18T11:24:23Z",
+        "summary": "Five NFL teams have at least 5% odds to land the No. 1 pick in 2027, per ESPN's Football Power Index -- the Dolphins, Titans, Eagles, Jets and Chargers.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747125_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "A Rams bye means time for rest and ramping up",
+        "url": "https://www.espn.com/nfl/story/_/id/50512215/rams-bye-rest-ramp-week-11",
+        "publishedAt": "2026-11-18T11:00:14Z",
+        "summary": "The bye \"represents an opportunity to get recharged,\" but it also allows the team to improve.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747177_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Packers can't protect Jordan Love or rush successfully",
+        "url": "https://www.espn.com/nfl/story/_/id/50513014/packers-jordan-love-sack-rushing-offensive-line",
+        "publishedAt": "2026-11-18T11:00:20Z",
+        "summary": "The two-year demise of the Packers' offensive line began on March 10, 2025 and has no end in sight.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747221_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium",
+        "url": "https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift",
+        "publishedAt": "2026-11-18T11:00:10Z",
+        "summary": "Kelce's greatest Arrowhead moments include his first catch, lots of playoff magic, and meeting the love of his life, Taylor Swift.",
+        "image": "https://a.espncdn.com/photo/2026/1117/r1747330_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Three-win Saints, Kellen Moore face defining stretch of games",
+        "url": "https://www.espn.com/nfl/story/_/id/50514927/3-win-new-orleans-saints-kellen-moore-defining-games",
+        "publishedAt": "2026-11-18T11:00:11Z",
+        "summary": "Starting with the Bears on Sunday, the head coach's tenure and the team's season sits at a crucial crossroads.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747364_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Source: Cardinals' Gardner Minshew has surgery to repair right UCL",
+        "url": "https://www.espn.com/nfl/story/_/id/50517561/source-cardinals-qb-gardner-minshew-surgery-repair-right-ucl",
+        "publishedAt": "2026-11-18T05:06:06Z",
+        "summary": "Cardinals quarterback Gardner Minshew II had surgery on his right ulnar collateral ligament on Monday, a source told ESPN.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743373_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Minter: Ravens working to jump-start running game, but 'talk is cheap'",
+        "url": "https://www.espn.com/nfl/story/_/id/50516834/minter-ravens-working-jump-start-running-game-talk-cheap",
+        "publishedAt": "2026-11-18T03:50:18Z",
+        "summary": "Baltimore Ravens coach Jesse Minter had some strong words when addressing the team's identity on Monday.",
+        "image": "https://a.espncdn.com/photo/2026/1103/r1740667_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers",
         "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
-        "publishedAt": "2026-11-18T00:54:46Z",
+        "publishedAt": "2026-11-18T02:45:43Z",
         "summary": "Caleb Williams spent his bye week resting his ailing hamstring, supporting his close friend Pete Crow-Armstrong as the Cubs outfielder was named NL MVP, and putting one of the worst games of his career in the rearview mirror.",
         "image": "https://a.espncdn.com/photo/2026/1118/r1747377_600x400_3-2.jpg",
         "source": "ESPN NFL",
@@ -127,96 +217,6 @@
         "publishedAt": "2026-11-17T22:29:16Z",
         "summary": "Why Cockcroft likes the Jets D/ST for Week 11",
         "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_jets_defense/dm_261117_jets_defense.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Arrest warrants issued for robbery of Steelers' Max Iheanachor",
-        "url": "https://www.espn.com/nfl/story/_/id/50514216/arrest-warrants-issued-robbery-steelers-max-iheanachor",
-        "publishedAt": "2026-11-17T23:22:46Z",
-        "summary": "Arrest warrants have been issued for three individuals in connection with the burglary of the home of Steelers first-round pick Max Iheanachor, police said.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747292_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Cockcroft: DJ Wonnum a priority pickup in fantasy IDP leagues in Week 11",
-        "url": "https://www.espn.com/video/clip/_/id/50514115/dj-wonnum-priority-pickup-fantasy-idp-leagues-week-11",
-        "publishedAt": "2026-11-17T22:15:15Z",
-        "summary": "Cockcroft: DJ Wonnum a priority pickup in fantasy IDP leagues in Week 11",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_fantasy_wonnum/dm_261117_fantasy_wonnum.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Why fantasy managers should utilize Dak Prescott in Week 11",
-        "url": "https://www.espn.com/video/clip/_/id/50514056/why-fantasy-managers-utilize-dak-prescott-week-11",
-        "publishedAt": "2026-11-17T22:15:04Z",
-        "summary": "Why fantasy managers should utilize Dak Prescott in Week 11",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/ss_20261117_170921775_37465951033/ss_20261117_170921775_37465951033.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50513896/source-dolphins-jordan-phillips-miss-rest-season",
-        "publishedAt": "2026-11-17T22:30:15Z",
-        "summary": "Dolphins DT Jordan Phillips will miss the rest of the season with torn biceps, a source confirmed to ESPN.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747266_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Titans put WR Wan'Dale Robinson on IR due to ankle injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50513594/titans-put-wr-wandale-robinson-ankle-ir",
-        "publishedAt": "2026-11-17T23:03:44Z",
-        "summary": "The Titans placed wide receiver Wan'Dale Robinson on injured reserve Tuesday.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747252_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Irving, Walker III, Bowers and more Knockout league pickups for Week 11",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50512512/2026-fantasy-football-knockout-leagues-pickups-week-11",
-        "publishedAt": "2026-11-17T20:33:17Z",
-        "summary": "As the number of teams shrink, the number of stars available in Knockout leagues grows. Here are the ones to get.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747190_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football flex and superflex rankings for Week 11",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50507366/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-        "publishedAt": "2026-11-17T21:06:44Z",
-        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743618_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Is Chuba Hubbard the biggest X factor to spark a Panthers turnaround?",
-        "url": "https://www.espn.com/nfl/story/_/id/50463509/chuba-hubbard-x-factor-spark-carolina-panthers",
-        "publishedAt": "2026-11-17T19:29:01Z",
-        "summary": "Meet Carolina's team captain, a locker room leader and a relentless running back who is \"chasing greatness myself.\"",
-        "image": "https://a.espncdn.com/photo/2026/1115/r1746308_2_576x324_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "2026 expected fantasy points against (xFPA) by position",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49869463/2026-fantasy-football-expected-points-xfpa-position-qb-rb-wr-te",
-        "publishedAt": "2026-11-17T19:25:48Z",
-        "summary": "Measuring the best defenses against specific positions by using expected points vs. actual fantasy production.",
-        "image": "",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Expected fantasy points (xFP): 2026 leaderboard for TEs",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49869668/2026-fantasy-football-expected-fantasy-points-xfp-te",
-        "publishedAt": "2026-11-17T19:20:48Z",
-        "summary": "xFP focuses solely on opportunity. Here are the leaders for 2026.",
-        "image": "https://a.espncdn.com/photo/2026/0914/r1716394_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
