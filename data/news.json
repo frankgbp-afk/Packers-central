@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-18T11:53:07.784Z",
+  "updatedAt": "2026-11-18T20:38:46.036Z",
   "sources": {
     "packers": [
+      {
+        "title": "Mike's Mid-Week Chat: How do the Packers fix what went wrong?",
+        "url": "https://www.packers.com/news/mike-s-mid-week-chat-how-do-the-packers-fix-what-went-wrong-nov-18-2026",
+        "publishedAt": "Wed, 18 Nov 2026 20:00:00 GMT",
+        "summary": "Editor Mike Spofford answered fan questions in his live chat",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/zplryl5sd51wvl7izh0m.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers Hall of Fame offering photo opportunity with Santa Claus inside Lambeau Field bowl",
+        "url": "https://www.packers.com/news/packers-hall-of-fame-offering-photo-opportunity-with-santa-claus-inside-lambeau-field-bowl-nov-19-2026",
+        "publishedAt": "Wed, 18 Nov 2026 18:29:56 GMT",
+        "summary": "Families are invited to have their photo taken on Saturday, Nov. 21, and Saturday, Dec. 5, from 1 to 3 p.m.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ix4bqahnx9bsztztqal6.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers LB Isaiah McDuffie 'just doesn't flinch'",
+        "url": "https://www.packers.com/news/packers-lb-isaiah-mcduffie-just-doesn-t-flinch-nov-18-2026",
+        "publishedAt": "Wed, 18 Nov 2026 15:28:10 GMT",
+        "summary": "Key comments from Green Bay’s defensive assistants",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/vzwhkhtml8y1193etvdj.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Inbox: The strategy has served the team well",
+        "url": "https://www.packers.com/news/inbox-the-strategy-has-served-the-team-well-nov-18-2026",
+        "publishedAt": "Wed, 18 Nov 2026 14:30:00 GMT",
+        "summary": "It does function like a division game",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/h1dkgsh5nec42iaiklmy.jpg",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Robin Rosemeyer of Gilman High School named Green Bay Packers High School Coach of the Week",
         "url": "https://www.packers.com/news/robin-rosemeyer-of-gilman-high-school-named-green-bay-packers-high-school-coach-of-the-week-nov-17-2026",
@@ -73,155 +109,173 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/cguyhhauzazpsal9alts.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: It all comes back to one thing",
-        "url": "https://www.packers.com/news/inbox-it-all-comes-back-to-one-thing-nov-16-2026",
-        "publishedAt": "Mon, 16 Nov 2026 14:30:00 GMT",
-        "summary": "If you can’t do that, it’s game over",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ehneun4ijh4bz8sml5ma.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Game recap: 5 takeaways from Packers' loss to Vikings",
-        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-vikings-week-10-2026",
-        "publishedAt": "Mon, 16 Nov 2026 00:18:08 GMT",
-        "summary": "Minnesota’s defense controls the contest",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bpjsg1siiegvtwlpdhnx.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Game notes: Packers can't overcome Vikings' pressure, takeaways",
-        "url": "https://www.packers.com/news/game-notes-packers-can-t-overcome-vikings-pressure-takeaways-week-10-2026",
-        "publishedAt": "Mon, 16 Nov 2026 00:15:51 GMT",
-        "summary": "Bye-bound team recognizes uphill battle it faces in loaded NFC North",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/pgzh6vugqc2ewi7uzc9t.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Rapid reaction: Defeat digs difficult hole for Packers",
-        "url": "https://www.packers.com/news/rapid-reaction-defeat-digs-difficult-hole-for-packers-week-10-2026",
-        "publishedAt": "Sun, 15 Nov 2026 23:50:07 GMT",
-        "summary": "Big gap in division now, and crowded wild-card picture, too",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/rnfxd3g52nn3jx4pjccy.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "2027 NFL mock draft: Reid's midseason first-round predictions for all 32 picks",
-        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions",
-        "publishedAt": "2026-11-18T11:51:02Z",
-        "summary": "Which NFL team could land Drew Mestemaker? Who needs Chris Cole, Ashton Hampton or Jamari Johnson? Jordan Reid projected first-round picks for 2027 -- and a trade.",
-        "image": "https://a.espncdn.com/photo/2026/1116/261118_cfb_jordan-reid-mock-draft_16x9_608x342.jpg",
+        "title": "Ravens' Flowers 'super frustrated' by latest late-game fumble",
+        "url": "https://www.espn.com/nfl/story/_/id/50523527/ravens-flowers-super-frustrated-latest-late-game-fumble",
+        "publishedAt": "2026-11-18T20:29:38Z",
+        "summary": "Ravens wide receiver Zay Flowers said he was \"super frustrated\" after having the ball ripped away around midfield in the final two minutes of a loss to the Chargers on Monday night.",
+        "image": "https://a.espncdn.com/photo/2026/1111/r1744412_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: Steelers G Mason McCormick avoided fracture, won't need ankle surgery",
-        "url": "https://www.espn.com/nfl/story/_/id/50519701/sources-steelers-g-mccormick-need-surgery-ankle",
-        "publishedAt": "2026-11-18T11:33:46Z",
-        "summary": "Steelers guard Mason McCormick does not need surgery after he was carted off the field with an ankle injury, sources told NFL Network.",
-        "image": "https://a.espncdn.com/photo/2026/1116/r1746517_1296x729_16-9.jpg",
+        "title": "Titans WR Wan'Dale Robinson out for season with ankle injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50523261/titans-wr-wandale-robinson-season-ankle-injury",
+        "publishedAt": "2026-11-18T19:45:54Z",
+        "summary": "Titans wide receiver Wan'Dale Robinson will miss the rest of the season due to an ankle injury, coach Robert Saleh said Wednesday.",
+        "image": "https://a.espncdn.com/photo/2026/0814/r1701518_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-        "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026",
-        "publishedAt": "2026-11-18T11:23:20Z",
-        "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747264_608x342_16-9.jpg",
+        "title": "Stroud: Texans' home skid and 17-point collapse fuel 'scary' urgency vs Colts",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873066",
+        "publishedAt": "2026-11-18T18:58:35Z",
+        "summary": "— C.J. Stroud certainly isn’t thrilled with where his Houston Texans are entering Thursday night’s AFC South matchup with Indianapolis.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873066.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "2027 NFL draft: Dolphins, Titans, Eagles, Jets, Chargers in race for No. 1 pick",
-        "url": "https://www.espn.com/nfl/draft2027/story/_/id/50510863/2027-nfl-draft-top-pick-dolphins-titans-eagles-jets-chargers",
-        "publishedAt": "2026-11-18T11:24:23Z",
-        "summary": "Five NFL teams have at least 5% odds to land the No. 1 pick in 2027, per ESPN's Football Power Index -- the Dolphins, Titans, Eagles, Jets and Chargers.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747125_608x342_16-9.jpg",
+        "title": "Nick Sirianni: Joe Milton getting starting QB nod in Week 11",
+        "url": "https://www.espn.com/video/clip/_/id/50523042/joe-milton-getting-starting-qb-nod-week-11",
+        "publishedAt": "2026-11-18T18:56:35Z",
+        "summary": "Nick Sirianni: Joe Milton getting starting QB nod in Week 11",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/ss_20261118_135001204_3747954/ss_20261118_135001204_3747954.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "A Rams bye means time for rest and ramping up",
-        "url": "https://www.espn.com/nfl/story/_/id/50512215/rams-bye-rest-ramp-week-11",
-        "publishedAt": "2026-11-18T11:00:14Z",
-        "summary": "The bye \"represents an opportunity to get recharged,\" but it also allows the team to improve.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747177_1296x729_16-9.jpg",
+        "title": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
+        "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
+        "publishedAt": "2026-11-18T18:50:43Z",
+        "summary": "Brandon Aiyuk and Jayden Daniels have patched up their relationship after a falling out earlier this year, sources told ESPN.",
+        "image": "https://a.espncdn.com/photo/2026/0608/r1669910_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Packers can't protect Jordan Love or rush successfully",
-        "url": "https://www.espn.com/nfl/story/_/id/50513014/packers-jordan-love-sack-rushing-offensive-line",
-        "publishedAt": "2026-11-18T11:00:20Z",
-        "summary": "The two-year demise of the Packers' offensive line began on March 10, 2025 and has no end in sight.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747221_608x342_16-9.jpg",
+        "title": "NFL depth charts for all 32 teams for 2026 season",
+        "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+        "publishedAt": "2026-11-18T18:38:41Z",
+        "summary": "Here are the latest NFL depth charts for all 32 teams.",
+        "image": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium",
-        "url": "https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift",
-        "publishedAt": "2026-11-18T11:00:10Z",
-        "summary": "Kelce's greatest Arrowhead moments include his first catch, lots of playoff magic, and meeting the love of his life, Taylor Swift.",
-        "image": "https://a.espncdn.com/photo/2026/1117/r1747330_1296x729_16-9.jpg",
+        "title": "Kurt Warner: Fernando Mendoza played 'too fast' in his NFL debut",
+        "url": "https://www.espn.com/video/clip/_/id/50522711/fernando-mendoza-played-too-fast-nfl-debut",
+        "publishedAt": "2026-11-18T19:44:33Z",
+        "summary": "Kurt Warner: Fernando Mendoza played 'too fast' in his NFL debut",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/ss_20261118_130659020_3747917/ss_20261118_130659020_3747917.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Three-win Saints, Kellen Moore face defining stretch of games",
-        "url": "https://www.espn.com/nfl/story/_/id/50514927/3-win-new-orleans-saints-kellen-moore-defining-games",
-        "publishedAt": "2026-11-18T11:00:11Z",
-        "summary": "Starting with the Bears on Sunday, the head coach's tenure and the team's season sits at a crucial crossroads.",
-        "image": "https://a.espncdn.com/photo/2026/1118/r1747364_608x342_16-9.jpg",
+        "title": "NFL survivor power rankings: Why this is the week to use the Bills or the Texans",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50520032/nfl-survivor-week-11-survivor-pool-strategy-advice-picks",
+        "publishedAt": "2026-11-18T19:26:57Z",
+        "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top six options for Week 11.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747739_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Source: Cardinals' Gardner Minshew has surgery to repair right UCL",
-        "url": "https://www.espn.com/nfl/story/_/id/50517561/source-cardinals-qb-gardner-minshew-surgery-repair-right-ucl",
-        "publishedAt": "2026-11-18T05:06:06Z",
-        "summary": "Cardinals quarterback Gardner Minshew II had surgery on his right ulnar collateral ligament on Monday, a source told ESPN.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743373_600x400_3-2.jpg",
+        "title": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller",
+        "url": "https://www.espn.com/nfl/story/_/id/50522640/eagles-stick-milton-qb1-mannion-offensive-playcaller",
+        "publishedAt": "2026-11-18T18:57:48Z",
+        "summary": "QB Joe Milton will start again for the Eagles on Sunday and Sean Mannion will remain as the offensive playcaller against the Steelers, coach Nick Sirianni said.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747744_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Minter: Ravens working to jump-start running game, but 'talk is cheap'",
-        "url": "https://www.espn.com/nfl/story/_/id/50516834/minter-ravens-working-jump-start-running-game-talk-cheap",
-        "publishedAt": "2026-11-18T03:50:18Z",
-        "summary": "Baltimore Ravens coach Jesse Minter had some strong words when addressing the team's identity on Monday.",
-        "image": "https://a.espncdn.com/photo/2026/1103/r1740667_600x400_3-2.jpg",
+        "title": "Why Jordan Reid has the Titans taking Jeremiah Smith at No. 1",
+        "url": "https://www.espn.com/video/clip/_/id/50522531/why-jordan-reid-titans-taking-jeremiah-smith-no-1",
+        "publishedAt": "2026-11-18T17:49:14Z",
+        "summary": "Why Jordan Reid has the Titans taking Jeremiah Smith at No. 1",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_nfl_smith_to_titans/dm_261118_nfl_smith_to_titans.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers",
-        "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
-        "publishedAt": "2026-11-18T02:45:43Z",
-        "summary": "Caleb Williams spent his bye week resting his ailing hamstring, supporting his close friend Pete Crow-Armstrong as the Cubs outfielder was named NL MVP, and putting one of the worst games of his career in the rearview mirror.",
-        "image": "https://a.espncdn.com/photo/2026/1118/r1747377_600x400_3-2.jpg",
+        "title": "The NFL's current worst team? Lamar-less Ravens making that case",
+        "url": "https://www.espn.com/nfl/story/_/id/50521008/nfl-current-worst-team-lamar-jackson-ravens-making-case-week-11",
+        "publishedAt": "2026-11-18T17:40:53Z",
+        "summary": "The Ravens have gone 38 days without a win. It has been 24 days since they've had a lead.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747658_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Cockcroft likes the Jets D/ST for Week 11",
-        "url": "https://www.espn.com/video/clip/_/id/50514282/why-cockcroft-likes-jets-d-st-week-11",
-        "publishedAt": "2026-11-17T22:29:16Z",
-        "summary": "Why Cockcroft likes the Jets D/ST for Week 11",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1117/dm_261117_jets_defense/dm_261117_jets_defense.jpg",
+        "title": "Jaguars rule starting center Robert Hainsey (knee) out for Giants game",
+        "url": "https://www.espn.com/nfl/story/_/id/50522085/jaguars-rule-center-robert-hainsey-knee-giants-game",
+        "publishedAt": "2026-11-18T16:41:39Z",
+        "summary": "Jaguars center Robert Hainsey will miss Sunday's game against the Giants because of a knee injury, coach Liam Coen said Wednesday.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747687_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Why is Luke Butkus exempt from public criticism?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89891/why-is-luke-butkus-exempt-from-public-criticism",
+        "publishedAt": "2026-11-18T12:15:00-05:00",
+        "summary": "Matt LaFleur has no problem criticizing the offensive line. He has no problems saying there are issues with how the offensive line is coached. He, like everyone else, knows the offensive line is a problem. So why is his offensive line coach exempt from criticism? Bring up the name Luke Butkus and suddenly the offensive [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2229724294.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Former Packers named as top prospects in UFL draft",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89823/former-packers-named-as-top-prospects-in-ufl-draft",
+        "publishedAt": "2026-11-18T11:26:00-05:00",
+        "summary": "According to Anthony Miller of UFL News Hub, the spring league has announced the top 120 players available in its 2027 draft, an event that will begin on Wednesday night in St. Louis. The first two rounds of the draft will be streamed on NFL Network (and the ESPN app) starting at 8 pm ET. [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2281257657.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "How confident are you in the Packers heading into the home stretch?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/89853/how-confident-are-you-in-the-packers-heading-into-the-home-stretch",
+        "publishedAt": "2026-11-18T10:00:00-05:00",
+        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. The Green Bay Packers are 6-4 heading into their so-called “bye week” in Week 11, stumbling into the bye like an offensive lineman getting out of [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304200933.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Do the Packers have any reason for hope?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89883/green-bay-packers-news-do-the-packers-have-any-reason-for-hope",
+        "publishedAt": "2026-11-18T09:55:54-05:00",
+        "summary": "Predicting the end of the Packers’ season is about the easiest take you can make right now. The 2026 Packers seem like a solved problem. Their offensive line is so bad that opposing teams have no reason to respect the run game and little reason to fear the passing game if they can get pressure [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305418126.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,83.377852757861",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "NFL’s schedule shortchanges Packers, Rams over ‘bye week’",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-schedule/89874/nfls-schedule-shortchanges-packers-rams-over-bye-week",
+        "publishedAt": "2026-11-18T09:15:00-05:00",
+        "summary": "For the first time in, well, maybe ever, the Green Bay Packers will have more rest between their next two games than they will get during their bye week. The NFL, in its infinite wisdom, has determined that it wants to claim the Wednesday before Thanksgiving as yet another special day for the league. Pro [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303752931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Stenavich on Packers’ starting offensive line vs. Rams: ‘I don’t know’",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89867/stenavich-on-packers-starting-offensive-line-vs-rams-i-dont-know",
+        "publishedAt": "2026-11-18T07:00:00-05:00",
+        "summary": "Green Bay Packers offensive coordinator Adam Stenavich, formerly the team’s offensive line coach, was pretty blunt with his criticism of the team’s offensive line this week. “I don’t think anyone up front had a good performance,” he said of the unit’s effort on Sunday. Stanavich, in a press conference on Tuesday, added, “We had some [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-1941342253.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Tucker Kraft doesn’t look right",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89838/tucker-kraft-doesnt-look-right",
@@ -255,60 +309,6 @@
         "publishedAt": "2026-11-17T16:06:36-05:00",
         "summary": "Well, Green Bay’s matchup against Minnesota went about as badly as it could have, as the Packers fell 30-10. As it turns out, relying on Jordan Love to play at superhuman levels has its drawbacks. Love has answered the call at every turn and played admirably, all things considered, in Week 10, but it turns [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305268596.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Packers recovering from a meltdown",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89829/green-bay-packers-news-packers-recovering-from-a-meltdown",
-        "publishedAt": "2026-11-17T09:50:12-05:00",
-        "summary": "You never want to overstate things if you don’t have to, but it’s hard to avoid hyperbolic language after a full collapse like we saw on Sunday. Everything fell apart. The offensive line was never really together to begin with, but even in its decimated state, it was especially bad against the relentless Minnesota Vikings. [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304767055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers WR clears waivers, set up for practice squad return",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89776/packers-wr-clears-waivers-set-up-for-practice-squad-return",
-        "publishedAt": "2026-11-16T23:34:05-05:00",
-        "summary": "On Saturday, the Green Bay Packers waived receiver Coleman Owen from the 53-man roster — in part to make room for the addition of receiver Skyy Moore, who was coming off the injured reserve. Owen, who also returned kicks and punts, directly replaced Moore when Moore went down with an ankle injury. Now, Owen has [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302756852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers’ offensive line regressed against the Vikings",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89779/the-packers-offensive-line-regressed-against-the-vikings",
-        "publishedAt": "2026-11-16T19:48:34-05:00",
-        "summary": "We all saw the Green Bay Packers’ offensive line get pushed around by the Minnesota Vikings on Sunday, but I’m sure some of you are wondering exactly why the team messed up in crucial situations over and over. Hopefully, you’ll learn a little more about the game and the status of the team by the [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305254989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Film Room: Long snapping on Kicks in Week 10",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89748/packers-film-room-long-snapping-on-kicks-in-week-10",
-        "publishedAt": "2026-11-16T16:08:32-05:00",
-        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. After seeing seven kicks last week, we only have three this week: two field goals and an extra point. We start by looking at the snap accuracy to the holder. After a nice week last week, what do we have [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "The Packers’ bye week will have a unique structure",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89762/the-packers-bye-week-will-have-a-unique-structure",
-        "publishedAt": "2026-11-16T15:39:43-05:00",
-        "summary": "The Green Bay Packers will be the first in NFL history to do something. Not only will the team be part of the initial duo to debut the league’s new Thanksgiving Eve window, but they also have to figure out how to do it coming off a bye week. Generally, a bye week is a [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2176306182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers’ Matt LaFleur talks injuries, Micah Parsons’ return",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89759/packers-matt-lafleur-talks-injuries-micah-parsons-return",
-        "publishedAt": "2026-11-16T15:08:37-05:00",
-        "summary": "When asked about the status of edge defender Micah Parsons, Green Bay Packers head coach Matt LaFleur stated, “That’s my plan,” when the topic of Parsons playing against the Los Angeles Rams on Thanksgiving Eve was brought up. “I think my plan’s been different than everybody else’s this whole time,” LaFleur joked on Monday about [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302606408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
