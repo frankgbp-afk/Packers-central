@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T02:37:46.487Z",
+  "updatedAt": "2026-11-19T11:49:36.984Z",
   "sources": {
     "packers": [
       {
@@ -113,6 +113,69 @@
     ],
     "espn": [
       {
+        "title": "Which of these 15 pass catchers should you trust going forward?",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50520521/fantasy-football-trade-value-start-sit-wr-te",
+        "publishedAt": "2026-11-19T11:42:44Z",
+        "summary": "A look at wide receivers and tight ends who have become start-worthy, and others you should expect less from.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747799_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Are there actually 32 true starting quarterbacks in the NFL at any given time?",
+        "url": "https://www.espn.com/nfl/story/_/id/50521968/how-many-starting-quarterbacks-32-teams-talent-barnwell",
+        "publishedAt": "2026-11-19T11:26:05Z",
+        "summary": "Finding legit quarterbacks can be tough, and many people think there aren't even enough true QB1s to fill the league's 32 QB1 spots. Is there any validity to that?",
+        "image": "https://a.espncdn.com/photo/2026/1119/r1747894_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Midseason reports on every NFL team's offensive coordinator, playcaller",
+        "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report",
+        "publishedAt": "2026-11-19T11:00:11Z",
+        "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
+        "image": "https://a.espncdn.com/photo/2026/1118/32_for_32_midseason_look_608x342.png",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Falcons seek change, but keep ending up in the same spot",
+        "url": "https://www.espn.com/nfl/story/_/id/50524413/falcons-matt-ryan-michael-penix-kevin-stefanski",
+        "publishedAt": "2026-11-19T11:39:28Z",
+        "summary": "Mediocre record, questions at quarterback, rinse, repeat. Maybe next year the Falcons can start making progress.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747842_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why can't Richardson beat out struggling Jones as Colts QB1?",
+        "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
+        "publishedAt": "2026-11-19T11:00:00Z",
+        "summary": "Daniel Jones has some of the worst numbers in the NFL, yet Anthony Richardson can't get on the field for the woeful Colts.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747689_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Monroe Freeling, Lee Hunter top Panthers' rookie report at Week 11",
+        "url": "https://www.espn.com/nfl/story/_/id/50517510/freeling-hunter-top-panthers-rookie-report-week-11",
+        "publishedAt": "2026-11-19T11:37:46Z",
+        "summary": "Will this year's draft class have a major impact on Carolina's second half of the season and potential postseason?",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747593_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How Houston has banded together through backbreaking losses and adversity",
+        "url": "https://www.espn.com/nfl/story/_/id/50502967/texans-playoff-hopes-kamari-lassiter-cj-stroud",
+        "publishedAt": "2026-11-19T11:00:02Z",
+        "summary": "Houston enters \"Thursday Night Football\" against the Indianapolis Colts with a 32.4% chance of making the playoffs.",
+        "image": "https://a.espncdn.com/photo/2026/1117/nfl_houston_16x9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
         "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought",
         "publishedAt": "2026-11-19T01:47:36Z",
@@ -131,9 +194,9 @@
         "icon": "ESPN"
       },
       {
-        "title": "TNF: Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs",
+        "title": "Texans DE Hunter, RB Marks to miss TNF; Colts rule out CB Ward, starting OTs",
         "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-        "publishedAt": "2026-11-18T23:26:51Z",
+        "publishedAt": "2026-11-19T11:38:18Z",
         "summary": "The Texans and Colts ruled out several key contributors for their Thursday night matchup.",
         "image": "https://a.espncdn.com/photo/2026/0306/r1623993_1296x729_16-9.jpg",
         "source": "ESPN NFL",
@@ -156,126 +219,9 @@
         "image": "https://a.espncdn.com/photo/2026/1118/r1747846_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Ravens' Humphrey apologizes for quip that Baltimore 'best at making criminals'",
-        "url": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast",
-        "publishedAt": "2026-11-19T00:10:21Z",
-        "summary": "Ravens cornerback Marlon Humphrey apologized Wednesday for the derogatory comment he recently made about Baltimore on his podcast.",
-        "image": "https://a.espncdn.com/photo/2026/1022/r1734719_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Jets QB Geno Smith (ankle) intends to play vs. Chargers: 'That's the plan'",
-        "url": "https://www.espn.com/mlb/story/_/id/50523800/jets-qb-geno-smith-ankle-intends-play-vs-chargers",
-        "publishedAt": "2026-11-18T21:09:21Z",
-        "summary": "Jets quarterback Geno Smith says he intends to play Sunday against the Chargers despite still walking with a noticeable limp due to an ankle injury.",
-        "image": "https://a.espncdn.com/photo/2026/1118/r1747812_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Ravens' Flowers 'super frustrated' by latest late-game fumble",
-        "url": "https://www.espn.com/nfl/story/_/id/50523527/ravens-flowers-super-frustrated-latest-late-game-fumble",
-        "publishedAt": "2026-11-18T20:29:38Z",
-        "summary": "Ravens wide receiver Zay Flowers said he was \"super frustrated\" after having the ball ripped away around midfield in the final two minutes of a loss to the Chargers on Monday night.",
-        "image": "https://a.espncdn.com/photo/2026/1111/r1744412_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Titans WR Wan'Dale Robinson out for season with ankle injury",
-        "url": "https://www.espn.com/nfl/story/_/id/50523261/titans-wr-wandale-robinson-season-ankle-injury",
-        "publishedAt": "2026-11-18T19:45:54Z",
-        "summary": "Titans wide receiver Wan'Dale Robinson will miss the rest of the season due to an ankle injury, coach Robert Saleh said Wednesday.",
-        "image": "https://a.espncdn.com/photo/2026/0814/r1701518_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Stroud: Texans' home skid and 17-point collapse fuel 'scary' urgency vs Colts",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873066",
-        "publishedAt": "2026-11-18T18:58:35Z",
-        "summary": "— C.J. Stroud certainly isn’t thrilled with where his Houston Texans are entering Thursday night’s AFC South matchup with Indianapolis.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873066.png?templateId=espn.applewatch.awayhome.1",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Nick Sirianni: Joe Milton getting starting QB nod in Week 11",
-        "url": "https://www.espn.com/video/clip/_/id/50523042/joe-milton-getting-starting-qb-nod-week-11",
-        "publishedAt": "2026-11-18T21:30:18Z",
-        "summary": "Nick Sirianni: Joe Milton getting starting QB nod in Week 11",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/ss_20261118_135001204_3747954/ss_20261118_135001204_3747954.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-        "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-        "publishedAt": "2026-11-18T18:50:43Z",
-        "summary": "Brandon Aiyuk and Jayden Daniels have patched up their relationship after a falling out earlier this year, sources told ESPN.",
-        "image": "https://a.espncdn.com/photo/2026/0608/r1669910_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
-      {
-        "title": "The Packers have one of the hardest NFL schedules to end 2026",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-schedule/89902/the-packers-have-one-of-the-hardest-nfl-schedules-to-end-2026",
-        "publishedAt": "2026-11-18T16:32:01-05:00",
-        "summary": "According to ESPN’s Football Power Index (FPI), the Green Bay Packers have played an average-ish NFL schedule this season, as they’re ranked 16th in strength of schedule league-wide. Coming out of the bye, though, their slate will get a lot tougher leading up to the postseason. Per FPI, the Packers have the fifth-hardest schedule in [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2178135667.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Why is Luke Butkus exempt from public criticism?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89891/why-is-luke-butkus-exempt-from-public-criticism",
-        "publishedAt": "2026-11-18T12:15:00-05:00",
-        "summary": "Matt LaFleur has no problem criticizing the offensive line. He has no problems saying there are issues with how the offensive line is coached. He, like everyone else, knows the offensive line is a problem. So why is his offensive line coach exempt from criticism? Bring up the name Luke Butkus and suddenly the offensive [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2229724294.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Former Packers named as top prospects in UFL draft",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89823/former-packers-named-as-top-prospects-in-ufl-draft",
-        "publishedAt": "2026-11-18T11:26:00-05:00",
-        "summary": "According to Anthony Miller of UFL News Hub, the spring league has announced the top 120 players available in its 2027 draft, an event that will begin on Wednesday night in St. Louis. The first two rounds of the draft will be streamed on NFL Network (and the ESPN app) starting at 8 pm ET. [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2281257657.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "How confident are you in the Packers heading into the home stretch?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/89853/how-confident-are-you-in-the-packers-heading-into-the-home-stretch",
-        "publishedAt": "2026-11-18T10:00:00-05:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. The Green Bay Packers are 6-4 heading into their so-called “bye week” in Week 11, stumbling into the bye like an offensive lineman getting out of [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304200933.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Do the Packers have any reason for hope?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89883/green-bay-packers-news-do-the-packers-have-any-reason-for-hope",
-        "publishedAt": "2026-11-18T09:55:54-05:00",
-        "summary": "Predicting the end of the Packers’ season is about the easiest take you can make right now. The 2026 Packers seem like a solved problem. Their offensive line is so bad that opposing teams have no reason to respect the run game and little reason to fear the passing game if they can get pressure [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305418126.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,83.377852757861",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL’s schedule shortchanges Packers, Rams over ‘bye week’",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-schedule/89874/nfls-schedule-shortchanges-packers-rams-over-bye-week",
-        "publishedAt": "2026-11-18T09:15:00-05:00",
-        "summary": "For the first time in, well, maybe ever, the Green Bay Packers will have more rest between their next two games than they will get during their bye week. The NFL, in its infinite wisdom, has determined that it wants to claim the Wednesday before Thanksgiving as yet another special day for the league. Pro [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303752931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
       {
         "title": "Stenavich on Packers’ starting offensive line vs. Rams: ‘I don’t know’",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89867/stenavich-on-packers-starting-offensive-line-vs-rams-i-dont-know",
@@ -309,6 +255,60 @@
         "publishedAt": "2026-11-17T16:09:40-05:00",
         "summary": "Since his second year in the league, tight end Tucker Kraft has been something of a battering ram in the sneak game. Since 2024, the Green Bay Packers have used Kraft as the ball carrier in 8 sneak attempts: 3 times on 4th &#38; 1, 5 times on 3rd &#38; 1. He has converted 7 [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305246700.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Week 11 Power Rankings Round Up: Packers come back down to earth",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-power-rankings/89833/week-11-power-rankings-round-up-packers-come-back-down-to-earth",
+        "publishedAt": "2026-11-17T16:06:36-05:00",
+        "summary": "Well, Green Bay’s matchup against Minnesota went about as badly as it could have, as the Packers fell 30-10. As it turns out, relying on Jordan Love to play at superhuman levels has its drawbacks. Love has answered the call at every turn and played admirably, all things considered, in Week 10, but it turns [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305268596.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Green Bay Packers News: Packers recovering from a meltdown",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89829/green-bay-packers-news-packers-recovering-from-a-meltdown",
+        "publishedAt": "2026-11-17T09:50:12-05:00",
+        "summary": "You never want to overstate things if you don’t have to, but it’s hard to avoid hyperbolic language after a full collapse like we saw on Sunday. Everything fell apart. The offensive line was never really together to begin with, but even in its decimated state, it was especially bad against the relentless Minnesota Vikings. [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304767055.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers WR clears waivers, set up for practice squad return",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89776/packers-wr-clears-waivers-set-up-for-practice-squad-return",
+        "publishedAt": "2026-11-16T23:34:05-05:00",
+        "summary": "On Saturday, the Green Bay Packers waived receiver Coleman Owen from the 53-man roster — in part to make room for the addition of receiver Skyy Moore, who was coming off the injured reserve. Owen, who also returned kicks and punts, directly replaced Moore when Moore went down with an ankle injury. Now, Owen has [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302756852.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Packers’ offensive line regressed against the Vikings",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89779/the-packers-offensive-line-regressed-against-the-vikings",
+        "publishedAt": "2026-11-16T19:48:34-05:00",
+        "summary": "We all saw the Green Bay Packers’ offensive line get pushed around by the Minnesota Vikings on Sunday, but I’m sure some of you are wondering exactly why the team messed up in crucial situations over and over. Hopefully, you’ll learn a little more about the game and the status of the team by the [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305254989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Film Room: Long snapping on Kicks in Week 10",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89748/packers-film-room-long-snapping-on-kicks-in-week-10",
+        "publishedAt": "2026-11-16T16:08:32-05:00",
+        "summary": "In this space, we look at the snap-to-hold operation on field goals and extra points. After seeing seven kicks last week, we only have three this week: two field goals and an extra point. We start by looking at the snap accuracy to the holder. After a nice week last week, what do we have [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/09/gettyimages-2188101585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "The Packers’ bye week will have a unique structure",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89762/the-packers-bye-week-will-have-a-unique-structure",
+        "publishedAt": "2026-11-16T15:39:43-05:00",
+        "summary": "The Green Bay Packers will be the first in NFL history to do something. Not only will the team be part of the initial duo to debut the league’s new Thanksgiving Eve window, but they also have to figure out how to do it coming off a bye week. Generally, a bye week is a [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2176306182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
