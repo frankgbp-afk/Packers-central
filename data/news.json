@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-19T20:44:44.206Z",
+  "updatedAt": "2026-11-20T02:23:05.336Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers announce roster move | Nov. 19, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-move-nov-19-2026",
+        "publishedAt": "Thu, 19 Nov 2026 22:42:15 GMT",
+        "summary": "Green Bay releases RB Pierre Strong Jr.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/kwqmriltmky0v9ss7ubp.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "'Do you believe this guy was on the street?'",
         "url": "https://www.packers.com/news/do-you-believe-this-guy-was-on-the-street-nov-19-2026",
@@ -100,128 +109,164 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/el59zrwqqmf40ioznhvi.jpg",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Laundry list of issues factored into Packers' breakdowns vs. Vikings",
-        "url": "https://www.packers.com/news/laundry-list-of-issues-factored-into-packers-breakdowns-vs-vikings-nov-16-2026",
-        "publishedAt": "Mon, 16 Nov 2026 21:10:29 GMT",
-        "summary": "Matt LaFleur dove into the details in reviewing loss",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ubib6nijvm1p93rhm2so.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Rams WR Puka Nacua to serve 3-game suspension while on IR",
-        "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
-        "publishedAt": "2026-11-19T20:39:20Z",
-        "summary": "Los Angeles Rams standout wide receiver Puka Nacua has been suspended three games for violating the league's personal conduct policy, the NFL announced Thursday.",
-        "image": "https://a.espncdn.com/photo/2026/0922/r1720500_600x400_3-2.jpg",
+        "title": "Texans lose Chris Braswell to serious-looking knee injury",
+        "url": "https://www.espn.com/nfl/story/_/id/50536083/texans-lose-chris-braswell-serious-looking-knee-injury",
+        "publishedAt": "2026-11-20T01:56:48Z",
+        "summary": "Texans defensive end Chris Braswell suffered a serious-looking knee injury on the opening kickoff of Thursday night's game against the Colts.",
+        "image": "https://a.espncdn.com/photo/2026/1120/r1748373_600x600_1-1.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bengals offense will be biggest test yet for Commanders' improving defense",
-        "url": "https://www.espn.com/nfl/story/_/id/50532934/commanders-defense-bengals-offense-joe-burrow",
-        "publishedAt": "2026-11-19T20:39:32Z",
-        "summary": "Washington is moving closer to the defense it wants to be. Monday will provide a benchmark for their progress.",
-        "image": "https://a.espncdn.com/photo/2026/1119/r1748214_608x342_16-9.jpg",
+        "title": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
+        "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms",
+        "publishedAt": "2026-11-20T01:40:33Z",
+        "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
+        "image": "https://a.espncdn.com/photo/2026/1117/commanders-texans-week-11-unis16x9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cowboys face last-place Titans with new play-caller on defense and fading playoff hopes",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873073",
-        "publishedAt": "2026-11-19T20:21:50Z",
-        "summary": "— The Dallas Cowboys have made their biggest move of the season to try to fix a broken defense, just in time for consecutive games against last-place...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873073.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Colts-Texans highlights: Best plays, moments, touchdowns, more",
+        "url": "https://www.espn.com/nfl/story/_/id/50535018/colts-texans-highlights-best-plays-moments-touchdowns",
+        "publishedAt": "2026-11-20T01:20:13Z",
+        "summary": "The Colts and Texans are squaring off on Thursday Night Football.",
+        "image": "https://a.espncdn.com/photo/2026/1021/r1734045_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Bucs QB Baker Mayfield hopes to play Sunday despite foot injury: 'I feel ready'",
-        "url": "https://www.espn.com/nfl/story/_/id/50533151/buccaneers-baker-mayfield-hopes-play-foot-injury",
-        "publishedAt": "2026-11-19T20:04:31Z",
-        "summary": "Buccaneers quarterback Baker Mayfield is hoping to play Sunday against the Lions after he sustained a foot injury two weeks ago against the Chicago Bears.",
-        "image": "https://a.espncdn.com/photo/2026/1119/r1748209_1296x729_16-9.jpg",
+        "title": "Raiders rookie Fernando Mendoza to face another elite defense in the sack-hungry Broncos",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873075",
+        "publishedAt": "2026-11-20T01:02:33Z",
+        "summary": "— Top draft pick Fernando Mendoza's first career road start comes against Denver's dominant defense, one week after he was sacked half a dozen times by the Seattle Seahawks in his ",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873075.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jaguars visit the Giants in a matchup of two unexpected division leaders",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873069",
-        "publishedAt": "2026-11-19T19:37:36Z",
-        "summary": "— John Harbaugh had no time this week for analyzing what has made the Jacksonville Jaguars one of the NFL's top teams.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873069.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Panthers aim to hold NFC South lead while Ravens look to keep playoffs hopes alive, end 5-game skid",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873068",
+        "publishedAt": "2026-11-20T00:49:33Z",
+        "summary": "— The Carolina Panthers needed a walk-off 54-yard field goal from Ryan Fitzgerald to beat the New Orleans Saints 20-17 last Sunday and remain in first...",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873068.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Hall of Famer Jack Ham returning to broadcast booth after health scare",
-        "url": "https://www.espn.com/college-football/story/_/id/50532925/jack-ham-returning-broadcast-booth-health-scare",
-        "publishedAt": "2026-11-19T19:37:38Z",
-        "summary": "Hall of Fame linebacker and Penn State radio analyst Jack Ham will return to the broadcast booth on Saturday, just two weeks after suffering a medical emergency.",
-        "image": "https://a.espncdn.com/photo/2017/0408/r197865_600x400_3-2.jpg",
+        "title": "Washington Commanders unveil 'Beer Spear' ahead of 'Hail Raiser' debut on 'MNF'",
+        "url": "https://www.espn.com/nfl/story/_/id/50535323/washington-commanders-beer-spear",
+        "publishedAt": "2026-11-20T00:29:58Z",
+        "summary": "The limited-edition collectible vessel can hold 16 ounces of beer, equipped with a gold spear at the end of it.",
+        "image": "https://a.espncdn.com/photo/2026/1119/r1748324_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Pass rush part of the focus for the Saints and Bears going into Sunday's game",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873071",
-        "publishedAt": "2026-11-19T19:10:36Z",
-        "summary": "— Carl Granderson and Chase Young form a potent 1-2 punch on defense for the New Orleans Saints. Jeffery Simmons is a force on the defensive line for the Chicago Bears.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873071.png?templateId=espn.applewatch.awayhome.1",
+        "title": "The Steelers last won in Philadelphia in 1965. Can they top an Eagles team on 7-game losing streak?",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873076",
+        "publishedAt": "2026-11-20T00:22:33Z",
+        "summary": "— Perhaps the Steelers should have stayed attached at the hip pads with the Eagles — as they were when they merged for the 1943 season to form the Steagles — to avoid such an ignominious losing streak in Philadelphia.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873076.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Chiefs are flying high but can ill afford to overlook the lowly Cardinals when they meet Sunday",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873067",
-        "publishedAt": "2026-11-19T19:09:36Z",
-        "summary": "— If ever there was a time for an NFL team to overlook somebody, it just might be Sunday afternoon at Arrowhead Stadium, where the Kansas City Chiefs will continue their pursuit of another AFC West title against the injured, downtrodden Arizona...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873067.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Sam Hartman's next drive: 'The Bachelor' questions answered",
+        "url": "https://www.espn.com/nfl/story/_/id/50533430/sam-hartman-bachelor-commanders-quarterback",
+        "publishedAt": "2026-11-20T00:28:17Z",
+        "summary": "A guide to the Commanders quarterback's upcoming search for love and how his NFL commitments could shape the season.",
+        "image": "https://a.espncdn.com/photo/2026/1119/r1748246_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Vikings-49ers matchup in Mexico features the best defense vs. the best offense",
-        "url": "http://www.espn.com/nfl/preview?gameId=401873077",
-        "publishedAt": "2026-11-19T19:09:35Z",
-        "summary": "When Brock Purdy last walked off the field after playing Minnesota in 2024, he sought out Vikings defensive coordinator Brian Flores an complimented him on...",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873077.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Commanders' defense preparing for high-flying Bengals offense",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873078",
+        "publishedAt": "2026-11-20T00:07:43Z",
+        "summary": "— Washington Commanders coach Dan Quinn knows the challenge facing his defense for Monday night's game against the Cincinnati Bengals.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873078.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Vikings' Cousins channeling Dantonio's 'slow down' maxim amid whirlwind month",
-        "url": "https://www.espn.com/nfl/story/_/id/50532748/vikings-cousins-channeling-dantonio-maxim-amid-whirlwind-month",
-        "publishedAt": "2026-11-19T19:23:16Z",
-        "summary": "As he manages the whirlwind of his professional and personal life this month, Vikings QB Kirk Cousins has relied on a maxim he often heard from his college coach Mark Dantonio at Michigan State -- when things speed up, try to slow down.",
-        "image": "https://a.espncdn.com/photo/2026/1111/r1744583_600x400_3-2.jpg",
+        "title": "NFL Week 11 arrivals: C.J. Stroud leads the way ahead of Colts-Texans",
+        "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+        "publishedAt": "2026-11-20T01:01:16Z",
+        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+        "image": "https://a.espncdn.com/photo/2026/1119/r1748333_608x342_16-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Studies: Blood test has potential to detect CTE in the living",
-        "url": "https://www.espn.com/nfl/story/_/id/50532686/studies-blood-test-potential-detect-cte-living",
-        "publishedAt": "2026-11-19T19:26:01Z",
-        "summary": "A new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent published studies.",
-        "image": "https://a.espncdn.com/photo/2026/0904/260904_nfl_risk-of-cte_16x9.jpg",
+        "title": "Bears' Jeffery Simmons says knee injury a non-issue, expects to play vs. Saints",
+        "url": "https://www.espn.com/nfl/story/_/id/50535411/bears-jeffery-simmons-says-knee-fine-expects-play-vs-saints",
+        "publishedAt": "2026-11-20T00:36:34Z",
+        "summary": "Bears defensive tackle Jeffery Simmons said the knee injury that held him to limited participation in practice this week wouldn't keep him from playing Sunday against the Saints.",
+        "image": "https://a.espncdn.com/photo/2026/1103/r1740381_600x400_3-2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Fantasy football rankings Week 11: PPR and superflex",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-        "publishedAt": "2026-11-19T18:48:06Z",
-        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711051_1296x729_16-9.jpg",
+        "title": "Lions moving on after Hutchinson joins Campbell on IR and they face Bucs aiming for 6th straight win",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873072",
+        "publishedAt": "2026-11-19T23:23:33Z",
+        "summary": "— Dan Campbell does not want to let the Detroit Lions become miserable in the Motor City by lamenting the losses of All-Pro linebacker ",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873072.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Roster: Green Bay’s emergency signing board",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/89946/packers-roster-green-bays-emergency-signing-board",
+        "publishedAt": "2026-11-19T19:04:26-05:00",
+        "summary": "Throughout the season, the Green Bay Packers bring in players for tryouts to either push the current practice squad as an immediate signing or to build a board of emergency players if a few injuries start to build up in the future. Since it’s the bye week, I decided to take a fresh look at [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2288562990.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers waive RB Pierre Strong Jr.",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89941/packers-waive-rb-pierre-strong-jr",
+        "publishedAt": "2026-11-19T17:46:57-05:00",
+        "summary": "The Green Bay Packers have made the decision to waive running back Pierre Strong Jr. on Thursday. While Strong is a vested veteran, a player who is usually not subject to waivers, those rules change post-trade deadline — as all players moving forward are now subject to waivers. Strong is just the second player to [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303756024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Former Packers taken in the UFL’s 2027 draft",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89938/former-packers-taken-in-the-ufls-2027-draft",
+        "publishedAt": "2026-11-19T17:34:50-05:00",
+        "summary": "The United Football League now has a draft structure that fans of professional football are used to seeing. Previously, the spring league’s drafts were by position (e.g., front seven draft, offensive line draft, etc.), but now the UFL has a full 15-round draft — giving fans a look at when players are taken, something previous [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2288734782.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Bye Weekend Rooting Guide: Who to cheer for in Week 11",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-schedule/89913/packers-bye-weekend-rooting-guide-who-to-cheer-for-in-week-11",
+        "publishedAt": "2026-11-19T17:00:00-05:00",
+        "summary": "The playoff picture around the NFL is starting to take shape, and the Green Bay Packers head into the weekend of Week 11 with a few extra days off due to their bye week. The Packers are 6-4 and still sit in the NFC’s 7th and final playoff spot, but plenty of games that are [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2242051889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Discussion: How many games will Green Bay win post-bye week?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/89924/packers-discussion-how-many-games-will-green-bay-win-post-bye-week",
+        "publishedAt": "2026-11-19T14:28:24-05:00",
+        "summary": "As we wrote yesterday, the Green Bay Packers have one of the hardest schedules left in the 2026 regular season moving forward. The good news? The same is true about the Los Angeles Rams and Seattle Seahawks, who are in a three-way tie with the Packers at a 6-4 record. I want to open up [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305417968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers news: Should fans hold onto hope for Trey Smack?",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89909/green-bay-packers-news-should-fans-hold-onto-hope-for-trey-smack",
@@ -264,51 +309,6 @@
         "publishedAt": "2026-11-18T11:26:00-05:00",
         "summary": "According to Anthony Miller of UFL News Hub, the spring league has announced the top 120 players available in its 2027 draft, an event that will begin on Wednesday night in St. Louis. The first two rounds of the draft will be streamed on NFL Network (and the ESPN app) starting at 8 pm ET. [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2281257657.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "How confident are you in the Packers heading into the home stretch?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/89853/how-confident-are-you-in-the-packers-heading-into-the-home-stretch",
-        "publishedAt": "2026-11-18T10:00:00-05:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. The Green Bay Packers are 6-4 heading into their so-called “bye week” in Week 11, stumbling into the bye like an offensive lineman getting out of [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304200933.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Do the Packers have any reason for hope?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89883/green-bay-packers-news-do-the-packers-have-any-reason-for-hope",
-        "publishedAt": "2026-11-18T09:55:54-05:00",
-        "summary": "Predicting the end of the Packers’ season is about the easiest take you can make right now. The 2026 Packers seem like a solved problem. Their offensive line is so bad that opposing teams have no reason to respect the run game and little reason to fear the passing game if they can get pressure [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305418126.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,83.377852757861",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL’s schedule shortchanges Packers, Rams over ‘bye week’",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-schedule/89874/nfls-schedule-shortchanges-packers-rams-over-bye-week",
-        "publishedAt": "2026-11-18T09:15:00-05:00",
-        "summary": "For the first time in, well, maybe ever, the Green Bay Packers will have more rest between their next two games than they will get during their bye week. The NFL, in its infinite wisdom, has determined that it wants to claim the Wednesday before Thanksgiving as yet another special day for the league. Pro [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303752931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Stenavich on Packers’ starting offensive line vs. Rams: ‘I don’t know’",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89867/stenavich-on-packers-starting-offensive-line-vs-rams-i-dont-know",
-        "publishedAt": "2026-11-18T07:00:00-05:00",
-        "summary": "Green Bay Packers offensive coordinator Adam Stenavich, formerly the team’s offensive line coach, was pretty blunt with his criticism of the team’s offensive line this week. “I don’t think anyone up front had a good performance,” he said of the unit’s effort on Sunday. Stanavich, in a press conference on Tuesday, added, “We had some [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-1941342253.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Tucker Kraft doesn’t look right",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89838/tucker-kraft-doesnt-look-right",
-        "publishedAt": "2026-11-17T18:49:40-05:00",
-        "summary": "The Green Bay Packers have had next to no luck with injuries for the better part of three years now, and that has even spilled into players who have returned to the field. After tearing his ACL halfway through an All-Pro-bound season, the Packers rewarded Tucker Kraft with a sizable contract extension after he returned [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2303782014.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
