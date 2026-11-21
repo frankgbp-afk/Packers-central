@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:25:20.419Z",
+  "updatedAt": "2026-11-21T11:18:02.641Z",
   "sources": {
     "packers": [
       {
@@ -113,6 +113,60 @@
     ],
     "espn": [
       {
+        "title": "Giants' Abdul Carter on lack of sacks: 'I've got to do more'",
+        "url": "https://www.espn.com/nfl/story/_/id/50522936/giants-abdul-carter-lack-sacks",
+        "publishedAt": "2026-11-21T11:00:00Z",
+        "summary": "On the surface, the lack of sacks and hard numbers seem insufficient, but dig deeper and it's a different story.",
+        "image": "https://a.espncdn.com/photo/2026/1118/r1747767_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "How Steelers' wide receiver corps gets big boost in Week 11",
+        "url": "https://www.espn.com/nfl/story/_/id/50545137/steelers-receiver-corps-boost-wilson-pittman-week-11",
+        "publishedAt": "2026-11-21T11:00:10Z",
+        "summary": "DK Metcalf and the passing game are poised to get a lift this week with the return of Roman Wilson and Michael Pittman Jr.",
+        "image": "https://a.espncdn.com/photo/2026/1112/r1745036_576x324_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why Amarius Mims is an underrated key to Bengals' success",
+        "url": "https://www.espn.com/nfl/story/_/id/50543897/bengals-amarius-mims-pass-protection-joe-burrow",
+        "publishedAt": "2026-11-21T11:00:10Z",
+        "summary": "Joe Burrow is on an MVP trajectory, and a big reason is his OL, led by Amarius Mims.",
+        "image": "https://a.espncdn.com/photo/2026/1120/r1748729_2_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Why is the Raiders' defense struggling, and how can it improve?",
+        "url": "https://www.espn.com/nfl/story/_/id/50533134/las-vegas-raiders-defense-rob-leonard-struggles",
+        "publishedAt": "2026-11-21T11:00:03Z",
+        "summary": "The Raiders' defense has struggled mightly for weeks, but small steps of progress have been made.",
+        "image": "https://a.espncdn.com/photo/2026/1119/r1748212_608x342_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Edge Jonathan Greenard loves to makes plays, despite Eagles' standing",
+        "url": "https://www.espn.com/nfl/story/_/id/50541401/eagles-jonathan-greenard-loves-make-plays-record",
+        "publishedAt": "2026-11-21T11:00:15Z",
+        "summary": "Greenard speaks on his injury-filled season and outlook for the second half of the year.",
+        "image": "https://a.espncdn.com/photo/2026/1120/r1748553_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Carmelo Anthony calls out Ravens' Humphrey over Baltimore 'criminals' remark",
+        "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
+        "publishedAt": "2026-11-21T09:14:19Z",
+        "summary": "Former NBA star Carmelo Anthony addressed Ravens CB Marlon Humphrey on Friday, challenging him to do more than apologize after he said Baltimore was \"best at making criminals.\"",
+        "image": "https://a.espncdn.com/photo/2026/1013/r1729943_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
         "title": "Fantasy football Week 11 inactives: Who's in and who's out?",
         "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active",
         "publishedAt": "2026-11-21T01:47:16Z",
@@ -163,60 +217,6 @@
         "publishedAt": "2026-11-20T22:13:34Z",
         "summary": "Jets quarterback Geno Smith made it through the practice week with no setbacks and was cleared to face the Chargers.",
         "image": "https://a.espncdn.com/photo/2026/0929/r1723258_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Police investigate man's death after alleged altercation at 49ers-Cowboys game",
-        "url": "https://www.espn.com/nfl/story/_/id/50543613/police-investigate-man-death-incident-cowboys-game",
-        "publishedAt": "2026-11-20T22:37:47Z",
-        "summary": "Police are investigating the death of a man who was allegedly involved in an altercation before Sunday's game between the Cowboys and 49ers at AT&T Stadium.",
-        "image": "https://a.espncdn.com/photo/2016/0210/r53349_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
-        "url": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins",
-        "publishedAt": "2026-11-20T21:49:40Z",
-        "summary": "Bills starting tight end Dalton Kincaid, their leading receiver, is listed as doubtful for Sunday's game against the Dolphins due to thumb and ankle injuries.",
-        "image": "https://a.espncdn.com/photo/2024/0722/r1361693_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Tom Brady tops list of athletes who became owners",
-        "url": "https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners",
-        "publishedAt": "2026-11-20T20:47:35Z",
-        "summary": "The legendary quarterback is a member of an exclusive list of athletes that includes LeBron James, Serena Williams and Wayne Gretzky.",
-        "image": "https://a.espncdn.com/photo/2026/1120/r1748645_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Justin Reid posts Saints farewell as team releases safety",
-        "url": "https://www.espn.com/nfl/story/_/id/50543025/justin-reid-posts-saints-farewell-team-works-release",
-        "publishedAt": "2026-11-20T22:05:55Z",
-        "summary": "The Saints have granted Justin Reid's request to be released, with the safety posting on social media: \"In life and sports, things don't always go the way you planned or hoped they would.\"",
-        "image": "https://a.espncdn.com/photo/2026/1120/r1748648_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy buzz: Does anything change in Indy with Richardson under center?",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "publishedAt": "2026-11-20T21:04:02Z",
-        "summary": "Matt Bowen provides fantasy expectations for the Colts' new starter at QB and his supporting cast.",
-        "image": "https://a.espncdn.com/photo/2026/1120/r1748617_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
-        "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
-        "publishedAt": "2026-11-20T20:29:34Z",
-        "summary": "Chiefs RB Kenneth Walker III will not play in Sunday's game against the Cardinals after not participating in practice this week due to a groin injury.",
-        "image": "https://a.espncdn.com/photo/2026/1006/r1727003_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
