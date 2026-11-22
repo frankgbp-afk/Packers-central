@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-21T19:24:04.595Z",
+  "updatedAt": "2026-11-22T01:23:41.192Z",
   "sources": {
     "packers": [
+      {
+        "title": "Packers getting healthier on both sides of the ball",
+        "url": "https://www.packers.com/news/packers-getting-healthier-on-both-sides-of-the-ball-nov-21-2026",
+        "publishedAt": "Sat, 21 Nov 2026 22:26:00 GMT",
+        "summary": "Several injured players trending toward returning to action on Thanksgiving eve",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/ukmoae8uexmmswcgb32y.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers announce roster moves | Nov. 21, 2026",
+        "url": "https://www.packers.com/news/packers-announce-roster-moves-nov-21-2026",
+        "publishedAt": "Sat, 21 Nov 2026 21:00:00 GMT",
+        "summary": "Green Bay signs RB Pierre Strong Jr. to the practice squad, releases EDGE D.J. Johnson",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/splcpbl1ihe98vzudgqi.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Inbox: We're seeing the best version of Karl Brooks",
         "url": "https://www.packers.com/news/inbox-we-re-seeing-the-best-version-of-karl-brooks-nov-21-2026",
@@ -91,27 +109,45 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/jyygbyxn6u4dhmnobcbl.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Packers DT Karl Brooks 'doesn't really have a weakness in his game'",
-        "url": "https://www.packers.com/news/packers-dt-karl-brooks-doesn-t-really-have-a-weakness-in-his-game-nov-17-2026",
-        "publishedAt": "Tue, 17 Nov 2026 21:32:39 GMT",
-        "summary": "Key comments from Green Bay’s coordinators",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/mchdsqieovan0kce59zh.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers announce roster moves | Nov. 17, 2026",
-        "url": "https://www.packers.com/news/packers-announce-roster-moves-nov-17-2026",
-        "publishedAt": "Tue, 17 Nov 2026 21:00:00 GMT",
-        "summary": "Green Bay signs WR Coleman Owen and DT Haggai Ndubuisi to the practice squad",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/splcpbl1ihe98vzudgqi.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
+      {
+        "title": "Sources: Rams' Puka Nacua out 4-5 months after knee surgery, will miss playoffs",
+        "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
+        "publishedAt": "2026-11-22T01:21:19Z",
+        "summary": "Puka Nacua's recovery time from MCL surgery is considered to be four to five months, sources told ESPN, meaning he will miss the playoffs.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743744_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Fantasy football Week 11 inactives: Who's in and who's out?",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active",
+        "publishedAt": "2026-11-21T20:32:44Z",
+        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+        "image": "https://a.espncdn.com/photo/2026/1120/r1748614_576x324_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
+        "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
+        "publishedAt": "2026-11-21T21:41:11Z",
+        "summary": "Cardinals rookie quarterback Carson Beck has been downgraded to out, paving the way for 40-year-old Josh Johnson to start against the Chiefs.",
+        "image": "https://a.espncdn.com/photo/2026/1121/r1749119_1296x729_16-9.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Steelers activate WR Roman Wilson off IR for Eagles game",
+        "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+        "publishedAt": "2026-11-21T20:54:35Z",
+        "summary": "The Steelers have activated wide receiver Roman Wilson from injured reserve ahead of Sunday's game against the Eagles.",
+        "image": "https://a.espncdn.com/photo/2026/1012/r1729619_600x400_3-2.jpg",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
       {
         "title": "Titans DL Jaylen Harrell hospitalized after car accident in Tampa",
         "url": "https://www.espn.com/nfl/story/_/id/50551434/titans-dl-jaylen-harrell-hospitalized-car-accident-tampa",
@@ -183,45 +219,27 @@
         "image": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 11: Kicker",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506759/nfl-fantasy-football-rankings-2026-k-kicker",
-        "publishedAt": "2026-11-21T14:08:15Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711066_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 11: Quarterback",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50506858/nfl-fantasy-football-rankings-2026-qb-quarterback",
-        "publishedAt": "2026-11-21T14:08:54Z",
-        "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-        "image": "https://a.espncdn.com/photo/2026/1108/r1743046_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Fantasy football rankings for Week 11: IDP",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-50505155/nfl-fantasy-football-rankings-2026-idp",
-        "publishedAt": "2026-11-21T14:07:04Z",
-        "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-        "image": "https://a.espncdn.com/photo/2026/0903/r1711080_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-        "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
-        "publishedAt": "2026-11-21T11:49:08Z",
-        "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
-        "image": "https://a.espncdn.com/photo/2026/1116/r1746461_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers re-sign RB Pierre Strong Jr.",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89979/packers-re-sign-rb-pierre-strong-jr",
+        "publishedAt": "2026-11-21T16:34:16-05:00",
+        "summary": "The Green Bay Packers, as expected, have re-signed running back Pierre Strong Jr. to the practice squad on Saturday after no team claimed him on waivers. Strong, who started the season on the practice squad, was elevated to the active roster while the team was dealing with injuries and Josh Jacobs’ stint on the exempt [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302311024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Injuries: Entire roster healthy enough to practice on Saturday",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89974/packers-injuries-entire-roster-healthy-enough-to-practice-on-saturday",
+        "publishedAt": "2026-11-21T16:27:05-05:00",
+        "summary": "The Green Bay Packers have an odd schedule this week, as the team prepares for a Wednesday night game against the Los Angeles Rams, coming off a bye week. The Packers’ players got back on Friday, following three days off after the team “flushed,” in the words of head coach Matt LaFleur, their game against [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers should lean on running back Kaleb Johnson after their bye",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/89964/packers-should-lean-on-running-back-kaleb-johnson-after-their-bye",
@@ -291,24 +309,6 @@
         "publishedAt": "2026-11-19T17:00:00-05:00",
         "summary": "The playoff picture around the NFL is starting to take shape, and the Green Bay Packers head into the weekend of Week 11 with a few extra days off due to their bye week. The Packers are 6-4 and still sit in the NFC’s 7th and final playoff spot, but plenty of games that are [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2242051889.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Discussion: How many games will Green Bay win post-bye week?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/89924/packers-discussion-how-many-games-will-green-bay-win-post-bye-week",
-        "publishedAt": "2026-11-19T14:28:24-05:00",
-        "summary": "As we wrote yesterday, the Green Bay Packers have one of the hardest schedules left in the 2026 regular season moving forward. The good news? The same is true about the Los Angeles Rams and Seattle Seahawks, who are in a three-way tie with the Packers at a 6-4 record. I want to open up [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305417968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers news: Should fans hold onto hope for Trey Smack?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89909/green-bay-packers-news-should-fans-hold-onto-hope-for-trey-smack",
-        "publishedAt": "2026-11-19T11:46:05-05:00",
-        "summary": "The Green Bay Packers have a Smack problem. Er, let me rephrase that. Rookie kicker Trey Smack has fallen far short of expectations in his first 10 games for the Packers. There, that’s better.&#160; Through those 10 games, he’s converted just 71.4% of his field-goal attempts and missed three extra points. Those numbers simply aren&#8217;t [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302896794.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
