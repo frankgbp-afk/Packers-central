@@ -81,6 +81,14 @@
   ],
   "articles": [
     {
+      "title": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+      "publishedAt": "2026-11-22T17:13:29Z",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749663_608x342_16-9.png",
+      "source": "ESPN"
+    },
+    {
       "title": "Sources: Rams' Puka Nacua out 4-5 months after knee surgery, will miss playoffs",
       "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
       "publishedAt": "2026-11-22T02:19:36Z",
@@ -105,14 +113,6 @@
       "source": "ESPN"
     },
     {
-      "title": "NFL Week 11 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
-      "publishedAt": "2026-11-20T18:48:27Z",
-      "summary": "Joe Burrow vs. Jayden Daniels? Fernando Mendoza vs. Bo Nix? There are 12 more games in Week 11, and we have picks, predictions and more for all of them.",
-      "image": "https://a.espncdn.com/photo/2025/0819/r1533632_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
       "title": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
       "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
       "publishedAt": "2026-11-20T18:19:07Z",
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-22T11:36:33.081Z"
+  "updatedAt": "2026-11-22T19:30:16.748Z"
 }
