@@ -22,7 +22,7 @@
       "pointsAgainst": 187,
       "scoringOffense": 24.8,
       "scoringDefense": 18.7,
-      "offenseRank": 11,
+      "offenseRank": 12,
       "defenseRank": 5
     },
     "packers": {
@@ -38,7 +38,7 @@
       "scoringOffense": 22.6,
       "scoringDefense": 22.1,
       "offenseRank": 13,
-      "defenseRank": 14
+      "defenseRank": 16
     }
   },
   "recentGames": [
@@ -81,11 +81,11 @@
   ],
   "articles": [
     {
-      "title": "NFL Week 11 arrivals: CeeDee Lamb leads the way ahead of Titans-Cowboys",
+      "title": "NFL Week 11 arrivals: Broncos LB Alex Singleton honors Tom Jackson with jersey",
       "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "publishedAt": "2026-11-22T17:13:29Z",
+      "publishedAt": "2026-11-22T21:03:04Z",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749663_608x342_16-9.png",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749785_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-22T19:30:16.748Z"
+  "updatedAt": "2026-11-23T00:28:18.702Z"
 }
