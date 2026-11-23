@@ -81,9 +81,17 @@
   ],
   "articles": [
     {
-      "title": "NFL Week 11 arrivals: George Kittle rocks Luchador mask ahead of SNF in Mexico",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "publishedAt": "2026-11-23T01:49:27Z",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "image": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg",
+      "source": "ESPN"
+    },
+    {
+      "title": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
       "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "publishedAt": "2026-11-23T00:49:16Z",
+      "publishedAt": "2026-11-23T01:00:32Z",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
       "image": "https://a.espncdn.com/photo/2026/1123/r1749927_608x342_16-9.jpg",
       "source": "ESPN"
@@ -113,14 +121,6 @@
       "source": "ESPN"
     },
     {
-      "title": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
-      "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
-      "publishedAt": "2026-11-20T18:19:07Z",
-      "summary": "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720500_1296x729_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
       "title": "Rapoport: Rams expect Puka to be out for season after knee surgery",
       "url": "https://www.espn.com/video/clip/_/id/50542115/rams-expect-puka-for-season-knee-surgery",
       "publishedAt": "2026-11-20T17:40:42Z",
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-23T01:48:03.242Z"
+  "updatedAt": "2026-11-23T08:11:16.240Z"
 }
