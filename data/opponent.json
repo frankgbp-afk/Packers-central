@@ -81,9 +81,17 @@
   ],
   "articles": [
     {
+      "title": "NFL Week 11 arrivals: Tee Higgins pays homage to Fiona the Hippo ahead of 'MNF'",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+      "publishedAt": "2026-11-24T00:12:35Z",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750424_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
       "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
-      "publishedAt": "2026-11-23T20:14:32Z",
+      "publishedAt": "2026-11-23T20:41:51Z",
       "summary": "Rams tight end Terrance Ferguson's ankle injury will require season-ending surgery.",
       "image": "https://a.espncdn.com/photo/2026/1123/r1750308_1296x729_16-9.jpg",
       "source": "ESPN"
@@ -105,14 +113,6 @@
       "source": "ESPN"
     },
     {
-      "title": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
-      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "publishedAt": "2026-11-23T01:00:32Z",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1749927_608x342_16-9.jpg",
-      "source": "ESPN"
-    },
-    {
       "title": "Sources: Rams' Puka Nacua out 4-5 months after knee surgery, will miss playoffs",
       "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
       "publishedAt": "2026-11-22T02:19:36Z",
@@ -129,5 +129,5 @@
       "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-23T20:24:14.355Z"
+  "updatedAt": "2026-11-24T02:16:38.625Z"
 }
