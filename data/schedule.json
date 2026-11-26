@@ -299,11 +299,11 @@
       "network": "Netflix",
       "venue": "SoFi Stadium",
       "kickoff": "2026-11-26T01:00:00.000Z",
-      "status": "live",
-      "statusDetail": "1:42 - 3rd",
-      "packersScore": null,
-      "opponentScore": null,
-      "result": null,
+      "status": "final",
+      "statusDetail": "Final",
+      "packersScore": 13,
+      "opponentScore": 26,
+      "result": "L",
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873079"
     },
     {
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-11-26T03:37:55.365Z"
+  "updatedAt": "2026-11-26T11:10:58.228Z"
 }

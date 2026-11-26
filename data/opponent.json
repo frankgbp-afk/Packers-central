@@ -1,99 +1,99 @@
 {
   "season": 2026,
-  "opponentId": "14",
-  "opponent": "Los Angeles Rams",
-  "opponentAbbr": "LAR",
-  "gameId": "401873079",
-  "week": "WK 12",
-  "kickoff": "2026-11-26T01:00:00.000Z",
+  "opponentId": "18",
+  "opponent": "New Orleans Saints",
+  "opponentAbbr": "NO",
+  "gameId": "401873099",
+  "week": "WK 13",
+  "kickoff": "2026-12-06T18:00:00.000Z",
   "statsSource": "ESPN NFL standings (regular season)",
   "scoringBasis": "Points per game (regular season). Scoring defense: opponent points allowed per game; lower is better.",
   "hasLeagueRanks": true,
   "teams": {
     "opponent": {
-      "id": "14",
-      "name": "Los Angeles Rams",
-      "abbreviation": "LAR",
+      "id": "18",
+      "name": "New Orleans Saints",
+      "abbreviation": "NO",
       "games": 10,
-      "wins": 6,
-      "losses": 4,
+      "wins": 3,
+      "losses": 7,
       "ties": 0,
-      "pointsFor": 248,
-      "pointsAgainst": 187,
-      "scoringOffense": 24.8,
-      "scoringDefense": 18.7,
-      "offenseRank": 12,
-      "defenseRank": 5
+      "pointsFor": 215,
+      "pointsAgainst": 257,
+      "scoringOffense": 21.5,
+      "scoringDefense": 25.7,
+      "offenseRank": 21,
+      "defenseRank": 23
     },
     "packers": {
       "id": "9",
       "name": "Green Bay Packers",
       "abbreviation": "GB",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "pointsFor": 226,
-      "pointsAgainst": 221,
-      "scoringOffense": 22.6,
-      "scoringDefense": 22.1,
-      "offenseRank": 14,
-      "defenseRank": 16
+      "pointsFor": 239,
+      "pointsAgainst": 247,
+      "scoringOffense": 21.7,
+      "scoringDefense": 22.5,
+      "offenseRank": 20,
+      "defenseRank": 17
     }
   },
   "recentGames": [
     {
-      "date": "2026-11-15T21:05Z",
-      "opponent": "Arizona Cardinals",
-      "opponentAbbr": "ARI",
+      "date": "2026-11-22T18:00Z",
+      "opponent": "Chicago Bears",
+      "opponentAbbr": "CHI",
       "homeAway": "AT",
-      "result": "W",
-      "pointsFor": 34,
-      "pointsAgainst": 6
+      "result": "L",
+      "pointsFor": 13,
+      "pointsAgainst": 21
+    },
+    {
+      "date": "2026-11-15T18:00Z",
+      "opponent": "Carolina Panthers",
+      "opponentAbbr": "CAR",
+      "homeAway": "VS",
+      "result": "L",
+      "pointsFor": 17,
+      "pointsAgainst": 20
     },
     {
       "date": "2026-11-08T18:00Z",
-      "opponent": "Washington Commanders",
-      "opponentAbbr": "WSH",
-      "homeAway": "AT",
-      "result": "W",
-      "pointsFor": 20,
-      "pointsAgainst": 13
-    },
-    {
-      "date": "2026-11-01T21:05Z",
-      "opponent": "Los Angeles Chargers",
-      "opponentAbbr": "LAC",
+      "opponent": "Cleveland Browns",
+      "opponentAbbr": "CLE",
       "homeAway": "VS",
       "result": "W",
-      "pointsFor": 24,
-      "pointsAgainst": 9
+      "pointsFor": 23,
+      "pointsAgainst": 22
     },
     {
-      "date": "2026-10-25T20:25Z",
-      "opponent": "Las Vegas Raiders",
-      "opponentAbbr": "LV",
-      "homeAway": "AT",
-      "result": "W",
-      "pointsFor": 35,
-      "pointsAgainst": 21
+      "date": "2026-10-25T13:30Z",
+      "opponent": "Pittsburgh Steelers",
+      "opponentAbbr": "PIT",
+      "homeAway": "VS",
+      "result": "L",
+      "pointsFor": 10,
+      "pointsAgainst": 16
     }
   ],
   "articles": [
     {
-      "title": "Rams' Kam Kinchens ejected as hit leaves Packers' Christian Watson concussed",
-      "url": "https://www.espn.com/nfl/story/_/id/50600753/rams-kam-kinchens-ejected-hit-christian-watson",
-      "publishedAt": "2026-11-26T03:21:06Z",
-      "summary": "Rams safety Kam Kinchens was ejected for a hit along the sideline that left Packers wide receiver Christian Watson with a concussion Wednesday night.",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751489_600x600_1-1.jpg",
+      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
+      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
+      "publishedAt": "2026-11-26T03:44:06Z",
+      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
+      "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
       "source": "ESPN"
     },
     {
-      "title": "Rams vs. Packers: Week 12 NFL game highlights",
-      "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-      "publishedAt": "2026-11-26T00:49:57Z",
-      "summary": "Our two team reporters are at SoFi Stadium and they're keeping you updated on all the biggest plays and highlights.",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751435_1296x729_16-9.jpg",
+      "title": "Bengals look to get back on track when they host the Saints on a short week",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873087",
+      "publishedAt": "2026-11-26T00:37:33Z",
+      "summary": "Most coaches don't like coming off a Monday night game the week of Thanksgiving because of changes to the practice schedule and a short week of preparation becoming even more condensed.",
+      "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873087.png?templateId=espn.applewatch.awayhome.1",
       "source": "ESPN"
     },
     {
@@ -105,19 +105,11 @@
       "source": "ESPN"
     },
     {
-      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-      "publishedAt": "2026-11-25T23:37:34Z",
-      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
-      "source": "ESPN"
-    },
-    {
-      "title": "Will the Rams be able to slow down the Packers' passing game?",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50452931/nfl-week-12-odds-packers-rams-betting-preview-props",
-      "publishedAt": "2026-11-25T19:14:41Z",
-      "summary": "Odds, analysis and recommended plays to help you bet the Thanksgiving eve Packers-Rams game.",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750727_608x342_16-9.jpg",
+      "title": "NFL Week 12 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026",
+      "publishedAt": "2026-11-25T18:44:11Z",
+      "summary": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1750980_608x342_16-9.jpg",
       "source": "ESPN"
     },
     {
@@ -127,7 +119,15 @@
       "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
       "image": "https://a.espncdn.com/photo/2026/1123/r1750061_608x342_16-9.jpg",
       "source": "ESPN"
+    },
+    {
+      "title": "NFL Power Rankings: Stacking all 32 teams for Week 12, plus extension candidates",
+      "url": "https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates",
+      "publishedAt": "2026-11-24T16:49:36Z",
+      "summary": "How does every NFL team stack up heading into Week 12? We made our 1-32 list and picked players who could get a new contract.",
+      "image": "https://a.espncdn.com/photo/2026/1123/nfl_power_rankings_608x342.png",
+      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-26T03:37:55.539Z"
+  "updatedAt": "2026-11-26T11:10:58.464Z"
 }
