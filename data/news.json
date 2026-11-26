@@ -1,22 +1,49 @@
 {
-  "updatedAt": "2026-11-26T03:37:55.573Z",
+  "updatedAt": "2026-11-26T17:01:24.943Z",
   "sources": {
     "packers": [
       {
-        "title": "Live Chat: Packers vs. Rams | Week 12",
-        "url": "https://www.packers.com/news/live-chat-packers-vs-rams-week-12-2026",
-        "publishedAt": "Thu, 26 Nov 2026 05:00:00 GMT",
-        "summary": "Follow the Green Bay Packers vs. Los Angeles Rams game with live updates from SoFi Stadium.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qpa4g4liwy22v57cqtv8.png",
+        "title": "Inbox: That's the definition of not helping yourself",
+        "url": "https://www.packers.com/news/inbox-that-s-the-definition-of-not-helping-yourself-nov-26-2026",
+        "publishedAt": "Thu, 26 Nov 2026 16:30:00 GMT",
+        "summary": "The margin for error has mostly vanished",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/f6q13xa3okchpu6s53qd.jpg",
         "source": "Packers.com",
         "icon": "GB"
       },
       {
-        "title": "Packers and Rams tied at 13 at halftime",
+        "title": "Game recap: 5 takeaways from Packers' loss to Rams",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-rams-week-12-2026",
+        "publishedAt": "Thu, 26 Nov 2026 06:35:00 GMT",
+        "summary": "L.A. controlled the second half to pull away in key game",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/flaglev9qau0ar2whwtc.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Game notes: Grateful to be back, Micah Parsons addresses disappointing defeat in L.A.",
+        "url": "https://www.packers.com/news/game-notes-grateful-to-be-back-micah-parsons-addresses-disappointing-defeat-in-l-a-week-12-2026",
+        "publishedAt": "Thu, 26 Nov 2026 06:30:00 GMT",
+        "summary": "Packers struggle to stop Blake Corum, lose WR Christian Watson to concussion",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/u1yhlmswaohuzhf8awef.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Rapid reaction: Packers 'behind the 8-ball,' but can't force it",
+        "url": "https://www.packers.com/news/rapid-reaction-packers-behind-the-8-ball-but-can-t-force-it-week-12-2026",
+        "publishedAt": "Thu, 26 Nov 2026 06:25:00 GMT",
+        "summary": "Team must reset and take on burden collectively",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/eebryghxvmcibedsycvd.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers fall to Rams, 26-13",
         "url": "https://www.packers.com/news/in-game-updates-week-12-rams-2026",
         "publishedAt": "Thu, 26 Nov 2026 04:00:00 GMT",
-        "summary": "Christian Watson ruled out with a concussion.",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xi7ir6hutrf82hvyzymz.png",
+        "summary": "Green Bay now 6-5 after second straight loss",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/wj7pl7jp731tlsi0nj6j.png",
         "source": "Packers.com",
         "icon": "GB"
       },
@@ -48,6 +75,15 @@
         "icon": "GB"
       },
       {
+        "title": "Live Chat: Packers vs. Rams | Week 12",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-rams-week-12-2026",
+        "publishedAt": "Wed, 25 Nov 2026 21:00:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. Los Angeles Rams game with live updates from SoFi Stadium.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qpa4g4liwy22v57cqtv8.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
         "title": "Packers vs. Rams | How to watch, stream & listen | Week 12",
         "url": "https://www.packers.com/news/packers-vs-rams-how-to-watch-stream-listen-week-12-2026",
         "publishedAt": "Wed, 25 Nov 2026 15:30:00 GMT",
@@ -73,155 +109,164 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fpx6z2ouvaoonvhdy45j.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Inbox: The Packers have done it before. They must do it again.",
-        "url": "https://www.packers.com/news/inbox-the-packers-have-done-it-before-they-must-do-it-again-nov-25-2026",
-        "publishedAt": "Wed, 25 Nov 2026 14:30:00 GMT",
-        "summary": "Micah Parsons is valued inside this building, both the player and the person",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/bzruijbhvfuarc79ud4j.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers activate EDGE Micah Parsons off PUP",
-        "url": "https://www.packers.com/news/packers-activate-micah-parsons-off-pup-nov-24-2026",
-        "publishedAt": "Tue, 24 Nov 2026 19:25:00 GMT",
-        "summary": "General Manager Brian Gutekunst announced the transaction Tuesday",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/wqe0hm5nbxmiqjnxxf7t.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers list eight questionable vs. Rams | Week 12 Injury Report",
-        "url": "https://www.packers.com/news/packers-list-eight-questionable-vs-rams-week-12-injury-report",
-        "publishedAt": "Tue, 24 Nov 2026 18:00:00 GMT",
-        "summary": "EDGE Micah Parsons, RB Josh Jacobs among those questionable for Thanksgiving Eve",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/k3hpgjd91fehqoganbh4.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers players to sign autographs in the Lambeau Field Atrium for donations to Salvation Army this holiday season",
-        "url": "https://www.packers.com/news/packers-players-to-sign-autographs-in-the-lambeau-field-atrium-for-donations-to-salvation-army-this-holiday-season-2026",
-        "publishedAt": "Tue, 24 Nov 2026 16:21:23 GMT",
-        "summary": "Fans reminded players’ schedules are subject to change; who is signing may change prior to each event",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/lxflu9ee5idqbzxirrz5.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Follow live: Corum breaks through for TD as Rams regain lead",
-        "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-        "publishedAt": "Wed, 25 Nov 2026 22:21:27 EST",
-        "summary": "null",
-        "image": "",
+        "title": "NFL Week 12 arrivals: Jeffery Simmons leads arrivals ahead of Bears-Lions",
+        "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
+        "publishedAt": "2026-11-26T16:52:08Z",
+        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+        "image": "https://a.espncdn.com/photo/2026/1126/r1751696_608x342_16-9.png",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
-        "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "The Steelers have waived Aaron Rodgers after the quarterback said Wednesday on \"The Pat McAfee Show\" that coach Mike McCarthy has been sleeping through team meetings.",
-        "image": "",
+        "title": "The Steelers are turning to Mason Rudolph to salvage their season. It's not the first time",
+        "url": "http://www.espn.com/nfl/preview?gameId=401873083",
+        "publishedAt": "2026-11-26T16:11:33Z",
+        "summary": "— A season on the brink of crumbling. A disgruntled quarterback unhappy with the state of things. A team in need of a jolt.",
+        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873083.png?templateId=espn.applewatch.awayhome.1",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources corroborate Rodgers' shocking McCarthy allegations: 'It's all true'",
-        "url": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "NFL sources have corroborated Aaron Rodgers' account of Mike McCarthy to ESPN reporters, confirming the star QB's allegations about the Steelers coach.",
-        "image": "",
+        "title": "Why Stephen A. is backing the Bills to beat the Chiefs",
+        "url": "https://www.espn.com/video/clip/_/id/50604663/why-stephen-backing-bills-beat-chiefs",
+        "publishedAt": "2026-11-26T16:11:54Z",
+        "summary": "Why Stephen A. is backing the Bills to beat the Chiefs",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_110827229_3762298/ss_20261126_110827229_3762298.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Sources: McCarthy has Steelers' full support after Rodgers' bombshell interview",
-        "url": "https://www.espn.com/nfl/story/_/id/50597534/sources-mike-mccarthy-steelers-full-support",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "Mike McCarthy has the full support of the Steelers organization and will remain the team's coach after Aaron Rodgers' allegations, sources told NFL Network and ESPN.",
-        "image": "",
+        "title": "Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows",
+        "url": "https://www.espn.com/espn/story/_/id/50576889/top-fictional-sports-series-21st-century",
+        "publishedAt": "2026-11-26T16:01:10Z",
+        "summary": "A Seton Hall poll crowns America's favorite modern fictional sports TV series.﻿",
+        "image": "https://a.espncdn.com/photo/2026/1124/espn_tv_5x2.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Aiyuk signing with Commanders, reunites with college QB Daniels",
-        "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "Wide receiver Brandon Aiyuk is signing with the Commanders on their practice squad, the team announced.",
-        "image": "",
+        "title": "'He's got to go!' Stephen A. implores Steelers to move on from Mike McCarthy",
+        "url": "https://www.espn.com/video/clip/_/id/50604497/got-go-stephen-implores-steelers-move-mike-mccarthy",
+        "publishedAt": "2026-11-26T15:37:03Z",
+        "summary": "'He's got to go!' Stephen A. implores Steelers to move on from Mike McCarthy",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_102943602_3762260634/ss_20261126_102943602_3762260634.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Falcons 'aware' of insinuations Pearce still trying to contact ex Jackson",
-        "url": "https://www.espn.com/nfl/story/_/id/50595254/falcons-aware-insinuations-pearce-trying-call-ex-gf",
-        "publishedAt": "Wed, 25 Nov 2026 21:46:13 EST",
-        "summary": "Kevin Stefanski said he and the team are aware of assertions made by Rickea Jackson that insinuated James Pearce Jr. is still trying to contact her.",
-        "image": "",
+        "title": "Stephen A. passionately defends Aaron Rodgers over Mike McCarthy comments",
+        "url": "https://www.espn.com/video/clip/_/id/50604476/stephen-passionately-defends-aaron-rodgers-mike-mccarthy-comments",
+        "publishedAt": "2026-11-26T15:49:43Z",
+        "summary": "Stephen A. passionately defends Aaron Rodgers over Mike McCarthy comments  ",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_101716661_3762257649/ss_20261126_101716661_3762257649.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Romo takes job with sports gambling company co-founded by Paul",
-        "url": "https://www.espn.com/nfl/story/_/id/50600128/tony-romo-job-sports-gambling-company-jake-paul",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "Former CBS NFL analyst Tony Romo has taken a job with Betr, with the company saying he will make predictions and engage with fans across platforms.",
-        "image": "",
+        "title": "Schrager wonders if Aaron Rodgers will ever regret his Mike McCarthy comments",
+        "url": "https://www.espn.com/video/clip/_/id/50604359/schrager-wonders-aaron-rodgers-ever-regret-mike-mccarthy-comments",
+        "publishedAt": "2026-11-26T15:00:39Z",
+        "summary": "Schrager wonders if Aaron Rodgers will ever regret his Mike McCarthy comments",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_095124521_3762248597/ss_20261126_095124521_3762248597.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Cousins on fiery sideline demeanor: 'I've just got to be myself'",
-        "url": "https://www.espn.com/nfl/story/_/id/50596866/vikings-cousins-says-fiery-demeanor-part-leadership",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "Quarterback Kirk Cousins said there has been a \"fire and intensity to me\" since returning to the Vikings two weeks ago at the trade deadline.",
-        "image": "",
+        "title": "Why Donte Whitner sides with Aaron Rodgers over 'egregious' Mike McCarthy",
+        "url": "https://www.espn.com/video/clip/_/id/50604325/why-donte-whitner-sides-aaron-rodgers-egregious-mike-mccarthy",
+        "publishedAt": "2026-11-26T14:53:16Z",
+        "summary": "Why Donte Whitner sides with Aaron Rodgers over 'egregious' Mike McCarthy",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_094759600_3762246/ss_20261126_094759600_3762246.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Chiefs rule RB Walker (groin) out for showdown vs. Bills",
-        "url": "https://www.espn.com/nfl/story/_/id/50594656/chiefs-rb-kenneth-walker-iii-groin-thursday-vs-bills",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "Chiefs running back Kenneth Walker III (groin) has been ruled out for Thursday's showdown against the Bills, the team announced Wednesday",
-        "image": "",
+        "title": "NFL Week 12 betting odds: Lines and totals for every game",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
+        "publishedAt": "2026-11-26T14:29:00Z",
+        "summary": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+        "image": "https://a.espncdn.com/photo/2026/1123/r1750061_608x342_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "👀 11 players who have the most to gain or lose over the rest of the season",
-        "url": "https://www.espn.com/nfl/story/_/id/50563331/week-11-most-gain-lose-2026-season-pickens-mccarthy",
-        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
-        "summary": "Big money on the line for George Pickens and Brian Branch? QB1 role at stake for J.J. McCarthy? Here are 11 players with something to prove over the next seven weeks.",
-        "image": "",
+        "title": "Fantasy football flex and superflex rankings for Week 12",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50573832/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+        "publishedAt": "2026-11-26T14:17:20Z",
+        "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's ranks are here to help.",
+        "image": "https://a.espncdn.com/photo/2026/1109/r1743618_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "How did things get so bad for Aaron Rodgers, Mike McCarthy, and what's next?",
-        "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
-        "publishedAt": "Wed, 25 Nov 2026 19:50:40 EST",
-        "summary": "The news out of Pittsburgh shook the NFL landscape, and ESPN's insiders share insights on the QB, the coach and their futures.",
-        "image": "",
+        "title": "Can Caleb Williams steer Bears past Lions in NFC North matchup?",
+        "url": "https://www.espn.com/video/clip/_/id/50604206/can-caleb-williams-steer-bears-lions-nfc-north-matchup",
+        "publishedAt": "2026-11-26T15:09:24Z",
+        "summary": "Can Caleb Williams steer Bears past Lions in NFC North matchup?",
+        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_091031505_3762229609/ss_20261126_091031505_3762229609.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Latest NFL Week 12 buzz: Fits for Daniel Jones? Still no head coach changes?",
-        "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026",
-        "publishedAt": "Wed, 25 Nov 2026 16:33:35 EST",
-        "summary": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
-        "image": "",
+        "title": "Fantasy football rankings Week 12: PPR and superflex",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+        "publishedAt": "2026-11-26T14:09:26Z",
+        "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+        "image": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Thanksgiving Day games will impact NFC North, AFC top seed races",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/90112/thanksgiving-day-games-will-impact-nfc-north-afc-top-seed-races",
+        "publishedAt": "2026-11-26T11:00:00-05:00",
+        "summary": "It’s not every year that the NFL ends up with elite matchups on Thanksgiving Day that will have enormous impacts on the league’s playoff races. Part of this is due to the Detroit Lions and Dallas Cowboys being involved every year, as the two franchises have been hit-or-miss in terms of their playoff impacts over [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2187094700.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Snap Counts: Micah Parsons played less than 40 percent of snaps",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/90194/packers-snap-counts-micah-parsons-played-less-than-40-percent-of-snaps",
+        "publishedAt": "2026-11-26T00:13:43-05:00",
+        "summary": "Micah Parsons made his 2026 debut tonight, and he was certainly on a pitch count. Let’s take a look at every player who saw action (or didn’t) in the Green Bay Packers’ 26-13 loss to the Los Angeles Rams tonight. As a reminder, the scratches today were running back Josh Jacobs (finger), linebacker Ziare Franklin [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2306905570.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "NFC Playoff Picture: Packers fall out of postseason position with loss to the Rams",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-nfl-playoffs/90082/nfc-playoff-picture-green-bay-packers-wild-card-standings",
+        "publishedAt": "2026-11-25T23:43:15-05:00",
+        "summary": "After a pitiful second half against the Los Angeles Rams, the Green Bay Packers lost grip on a 13-13 tie with the help of a struggling offense and a defense that couldn’t stop the run. Ultimately, the team fell 26-13 to Los Angeles, which has now jumped past the Packers in the wildcard race. In [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305417968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers-Rams Final Score: Blake Corum takes control in 26-13 Rams win",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-scores-results/90170/packers-rams-final-score-blake-corum-takes-control-in-26-13-rams-win",
+        "publishedAt": "2026-11-25T23:35:34-05:00",
+        "summary": "The Green Bay Packers’ playoff hopes are officially on life support. The team needed a win over the Los Angeles Rams on Wednesday of Thanksgiving week to stay in the NFC’s 7th and final playoff position with six games to go in the 2026 regular season. Instead, another offensive collapse in the second half doomed [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2306908029.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Rams S Kam Kinchens ejected; Packers WR Christian Watson evaluated for concussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/90171/rams-s-kam-kinchens-ejected-packers-wr-christian-watson-evaluated-for-concussion",
+        "publishedAt": "2026-11-25T21:53:38-05:00",
+        "summary": "In the second quarter of the Green Bay Packers-Los Angeles Rams game, Rams safety Kam Kinchens was ejected for leaving his feet and leading with his helmet on a tackle attempt on Packers receiver Christian Watson. You can find video of the play below: Initially, a cart came out for Watson, but the receiver was [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2306911663.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers vs. Rams Week 12 Game Discussion",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/90102/packers-vs-rams-week-12-game-discussion",
@@ -264,51 +309,6 @@
         "publishedAt": "2026-11-25T16:26:32-05:00",
         "summary": "I did not have former Green Bay Packers head coach Mike McCarthy’s sleep patterns on my bingo card for “Thanksgiving Eve,” but that’s where Aaron Rodgers’ appearance on The Pat McAfee Show took us on Wednesday. We’re going to focus on the Packers-related news that Rodgers, who was benched and then later waived by the [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-1034640502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Week 12 Opponent Preview: Who are this year’s Los Angeles Rams?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/90096/packers-week-12-opponent-preview-who-are-this-years-los-angeles-rams",
-        "publishedAt": "2026-11-25T15:00:00-05:00",
-        "summary": "The Green Bay Packers and Los Angeles Rams head into Wednesday’s Week 12 matchup with matching 6-4 records, but they arrive headed in opposite directions. The Rams have won four straight, and their defense has allowed three touchdowns in five games, the fewest in the NFL. Green Bay lost 30-10 at home to Minnesota in [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/reuters-tagreuters.com2023newsml_MT1USATODAY21826833606449427.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Rams break out new 20 personnel package ahead of Packers game",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/90119/rams-break-out-new-20-personnel-package-ahead-of-packers-game",
-        "publishedAt": "2026-11-25T14:10:00-05:00",
-        "summary": "Sean McVay has made a habit of turning injuries into new ideas. Last season, when injuries hit the Los Angeles Rams&#8217; wide receivers, he leaned heavily on 13 personnel, using three tight ends to keep the offense moving. This year, injuries have hit both receiver and tight end, and McVay&#8217;s answer is a 20 personnel [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2179760048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: What does the defense look like with Micah Parsons?",
-        "url": "https://www.acmepackingcompany.com/general/90106/green-bay-packers-news-what-does-the-defense-look-like-with-micah-parsons",
-        "publishedAt": "2026-11-25T09:52:41-05:00",
-        "summary": "Micah Parsons is back. What does that actually mean? Presumably having the perennial All-Pro back in the lineup will be a boost for the pass rush, but the way in which Parsons is actually used is still unknown. Defensive coordinator Jonathan Gannon has been creative in his personnel usage so far this year; the Packers’ [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/05/gettyimages-2255550917.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "How to watch Packers vs. Rams: Game time, streaming info, odds, &#038; more",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-game-information/90061/how-to-watch-packers-vs-rams-game-time-streaming-info-odds-more",
-        "publishedAt": "2026-11-25T07:00:00-05:00",
-        "summary": "The NFL is really trying to make “Thanksgiving Eve” happen. The league is going to closely watch ratings for the first game on the Wednesday of Thanksgiving week to see what the numbers look around the country, but for two teams’ fan bases, this game is a must-watch regardless. That’s the case for us as [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2177159724.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Despite everything, the Packers still have their goals within reach",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/90092/despite-everything-the-packers-still-have-their-goals-within-reach",
-        "publishedAt": "2026-11-24T15:49:45-05:00",
-        "summary": "I’d like to say 2026 has been a uniquely stupid year of Packers football, but I don’t know if that’s true. Certainly there have been uniquely stupid aspects of it; I can’t think of another year where the Packers have taken such drastic steps to find someone, anyone capable of playing replacement-level football on their [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305257314.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,82.315629030367",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
