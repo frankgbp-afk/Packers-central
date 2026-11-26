@@ -299,8 +299,8 @@
       "network": "Netflix",
       "venue": "SoFi Stadium",
       "kickoff": "2026-11-26T01:00:00.000Z",
-      "status": "scheduled",
-      "statusDetail": "11/25 - 8:00 PM EST",
+      "status": "live",
+      "statusDetail": "5:58 - 2nd",
       "packersScore": null,
       "opponentScore": null,
       "result": null,
@@ -433,5 +433,5 @@
       "eventUrl": "https://www.espn.com/nfl/game/_/gameId/401873176"
     }
   ],
-  "updatedAt": "2026-11-25T19:11:37.135Z"
+  "updatedAt": "2026-11-26T02:18:46.910Z"
 }
