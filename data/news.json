@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-25T19:22:58.339Z",
+  "updatedAt": "2026-11-26T03:37:55.573Z",
   "sources": {
     "packers": [
+      {
+        "title": "Live Chat: Packers vs. Rams | Week 12",
+        "url": "https://www.packers.com/news/live-chat-packers-vs-rams-week-12-2026",
+        "publishedAt": "Thu, 26 Nov 2026 05:00:00 GMT",
+        "summary": "Follow the Green Bay Packers vs. Los Angeles Rams game with live updates from SoFi Stadium.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/qpa4g4liwy22v57cqtv8.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Packers and Rams tied at 13 at halftime",
+        "url": "https://www.packers.com/news/in-game-updates-week-12-rams-2026",
+        "publishedAt": "Thu, 26 Nov 2026 04:00:00 GMT",
+        "summary": "Christian Watson ruled out with a concussion.",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xi7ir6hutrf82hvyzymz.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Micah Parsons active for Green Bay | Packers-Rams inactives",
+        "url": "https://www.packers.com/news/packers-rams-week-12-inactives-nov-25-2026",
+        "publishedAt": "Wed, 25 Nov 2026 23:45:00 GMT",
+        "summary": "LB Zaire Franklin, RB Josh Jacobs will not play in LA",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/gpgjvj3rkcb2uwn0oqm2.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Tree chosen for 20th annual Festival of Lights presented by Festival Foods, set for Dec. 12",
+        "url": "https://www.packers.com/news/tree-chosen-for-20th-annual-festival-of-lights-presented-by-festival-foods-set-for-dec-12-2026",
+        "publishedAt": "Wed, 25 Nov 2026 22:03:48 GMT",
+        "summary": "Tree to be erected Dec. 1 on Harlan Plaza, decorated during the week",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/xd7gxs44yxvzizipyiiz.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
+      {
+        "title": "Justin Friske of Pewaukee High School named WFCA/Packers High School Coach of the Year",
+        "url": "https://www.packers.com/news/justin-friske-of-pewaukee-high-school-named-wfca-packers-high-school-coach-of-the-year-2026",
+        "publishedAt": "Wed, 25 Nov 2026 21:54:08 GMT",
+        "summary": "Friske led his Pirates to a perfect 14-0 record, culminating in a 24-7 victory over Port Washington in the WIAA Division 3 state championship game",
+        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/o3zlp4akdtimr7voud0i.png",
+        "source": "Packers.com",
+        "icon": "GB"
+      },
       {
         "title": "Packers vs. Rams | How to watch, stream & listen | Week 12",
         "url": "https://www.packers.com/news/packers-vs-rams-how-to-watch-stream-listen-week-12-2026",
@@ -64,164 +109,182 @@
         "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/lxflu9ee5idqbzxirrz5.png",
         "source": "Packers.com",
         "icon": "GB"
-      },
-      {
-        "title": "Micah Parsons has winning in mind as he inches closer to return",
-        "url": "https://www.packers.com/news/micah-parsons-has-winning-in-mind-as-he-inches-closer-to-return-nov-24-2026",
-        "publishedAt": "Tue, 24 Nov 2026 15:00:00 GMT",
-        "summary": "Packers edge rusher found peace and perspective on road to recovery",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/fziyj7mgzlrh2crbkxt9.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Mike's Mid-Week Chat: Did the extra rest help the Packers?",
-        "url": "https://www.packers.com/news/mike-s-mid-week-chat-did-the-extra-rest-help-the-packers-nov-24-2026",
-        "publishedAt": "Tue, 24 Nov 2026 14:45:00 GMT",
-        "summary": "Editor Mike Spofford answered fan questions in his live chat",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/tgpoqp0ncqez2k0ufylk.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Inbox: The chess match awaits",
-        "url": "https://www.packers.com/news/inbox-the-chess-match-awaits-nov-24-2026",
-        "publishedAt": "Tue, 24 Nov 2026 14:30:00 GMT",
-        "summary": "The speed and collisions didn’t compare",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/g0h6iogrgx5ywryoyvkj.jpg",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers head west to face Rams",
-        "url": "https://www.packers.com/news/packers-head-west-to-face-rams-week-12-2026",
-        "publishedAt": "Mon, 23 Nov 2026 23:56:47 GMT",
-        "summary": "Green Bay is 49-46-2 against the Rams in the regular season",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/wxcxusbl1cswipj5glcm.png",
-        "source": "Packers.com",
-        "icon": "GB"
-      },
-      {
-        "title": "Packers-Rams Injury Report | Nov. 23, 2026",
-        "url": "https://www.packers.com/news/packers-rams-injury-report-nov-23-2026",
-        "publishedAt": "Mon, 23 Nov 2026 21:29:24 GMT",
-        "summary": "",
-        "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/mgcrp5ck3sf9g0anzr56.png",
-        "source": "Packers.com",
-        "icon": "GB"
       }
     ],
     "espn": [
       {
-        "title": "Rodgers accuses McCarthy of 'snoring' during meetings, rips the Steelers coach",
-        "url": "https://www.espn.com/video/clip/_/id/50595733/rodgers-accuses-mccarthy-snoring-meetings-rips-steelers-coach",
-        "publishedAt": "2026-11-25T19:15:27Z",
-        "summary": "Rodgers accuses McCarthy of 'snoring' during meetings, rips the Steelers coach",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_141027362_3760914/ss_20261125_141027362_3760914.jpg",
+        "title": "Follow live: Corum breaks through for TD as Rams regain lead",
+        "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+        "publishedAt": "Wed, 25 Nov 2026 22:21:27 EST",
+        "summary": "null",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Aaron Rodgers says he's done with Steelers, says Mike McCarthy asleep in meetings",
+        "title": "Steelers cut Rodgers after QB rips McCarthy in scorched-earth interview",
         "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
-        "publishedAt": "2026-11-25T19:20:11Z",
-        "summary": "Quarterback Aaron Rodgers said Wednesday on \"The Pat McAfee Show\" that he won't return to the Steelers after his stunning benching and alleges that coach Mike McCarthy has been sleeping in meetings.",
-        "image": "https://a.espncdn.com/photo/2026/1125/r1751147_1296x729_16-9.jpg",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
+        "summary": "The Steelers have waived Aaron Rodgers after the quarterback said Wednesday on \"The Pat McAfee Show\" that coach Mike McCarthy has been sleeping through team meetings.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ian Rapoport gives details on Brandon Aiyuk joining Commanders' practice squad",
-        "url": "https://www.espn.com/video/clip/_/id/50595543/ian-rapoport-gives-details-brandon-aiyuk-joining-commanders-practice-squad",
-        "publishedAt": "2026-11-25T18:53:50Z",
-        "summary": "Ian Rapoport gives details on Brandon Aiyuk joining Commanders' practice squad",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_134228517_3760859830/ss_20261125_134228517_3760859830.jpg",
+        "title": "Sources corroborate Rodgers' shocking McCarthy allegations: 'It's all true'",
+        "url": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
+        "summary": "NFL sources have corroborated Aaron Rodgers' account of Mike McCarthy to ESPN reporters, confirming the star QB's allegations about the Steelers coach.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Commanders and WR Brandon Aiyuk: What to expect, his fit and fantasy impact",
-        "url": "https://www.espn.com/nfl/story/_/id/50587341/brandon-aiyuk-commanders-questions",
-        "publishedAt": "2026-11-25T19:07:42Z",
-        "summary": "Our experts answer the biggest questions surrounding Aiyuk agreeing to join the Commanders practice squad.",
-        "image": "https://a.espncdn.com/photo/2024/0807/r1369885_608x342_16-9.jpg",
+        "title": "Sources: McCarthy has Steelers' full support after Rodgers' bombshell interview",
+        "url": "https://www.espn.com/nfl/story/_/id/50597534/sources-mike-mccarthy-steelers-full-support",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
+        "summary": "Mike McCarthy has the full support of the Steelers organization and will remain the team's coach after Aaron Rodgers' allegations, sources told NFL Network and ESPN.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Will the Rams be able to slow down the Packers' passing game?",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50452931/nfl-week-12-odds-packers-rams-betting-preview-props",
-        "publishedAt": "2026-11-25T19:14:41Z",
-        "summary": "Odds, analysis and recommended plays to help you bet the Thanksgiving eve Packers-Rams game.",
-        "image": "https://a.espncdn.com/photo/2026/1124/r1750727_608x342_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Brandon Aiyuk joining Commanders, will reunite with college QB Jayden Daniels",
+        "title": "Aiyuk signing with Commanders, reunites with college QB Daniels",
         "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
-        "publishedAt": "2026-11-25T18:58:10Z",
-        "summary": "Wide receiver Brandon Aiyuk is signing with the Commanders on their practice squad, agent Drew Rosenhaus told ESPN's Adam Schefter.",
-        "image": "https://a.espncdn.com/photo/2026/0608/r1669910_1296x729_16-9.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "NFL survivor power rankings: Why this is the week to use the Jaguars or Texans",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50594339/nfl-survivor-week-12-survivor-pool-strategy-advice-picks",
-        "publishedAt": "2026-11-25T18:23:21Z",
-        "summary": "ESPN NFL survivor pool strategy, predictions and ranking the top seven options for Week 12.",
-        "image": "https://a.espncdn.com/photo/2026/1125/r1751143_1296x729_16-9.jpg",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
+        "summary": "Wide receiver Brandon Aiyuk is signing with the Commanders on their practice squad, the team announced.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Falcons 'aware' of insinuations Pearce still trying to contact ex Jackson",
         "url": "https://www.espn.com/nfl/story/_/id/50595254/falcons-aware-insinuations-pearce-trying-call-ex-gf",
-        "publishedAt": "2026-11-25T18:13:14Z",
+        "publishedAt": "Wed, 25 Nov 2026 21:46:13 EST",
         "summary": "Kevin Stefanski said he and the team are aware of assertions made by Rickea Jackson that insinuated James Pearce Jr. is still trying to contact her.",
-        "image": "https://a.espncdn.com/photo/2026/1125/r1751172_1296x729_16-9.jpg",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Chiefs rule RB Kenneth Walker III (groin) out for showdown vs. Bills",
+        "title": "Romo takes job with sports gambling company co-founded by Paul",
+        "url": "https://www.espn.com/nfl/story/_/id/50600128/tony-romo-job-sports-gambling-company-jake-paul",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
+        "summary": "Former CBS NFL analyst Tony Romo has taken a job with Betr, with the company saying he will make predictions and engage with fans across platforms.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cousins on fiery sideline demeanor: 'I've just got to be myself'",
+        "url": "https://www.espn.com/nfl/story/_/id/50596866/vikings-cousins-says-fiery-demeanor-part-leadership",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
+        "summary": "Quarterback Kirk Cousins said there has been a \"fire and intensity to me\" since returning to the Vikings two weeks ago at the trade deadline.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Chiefs rule RB Walker (groin) out for showdown vs. Bills",
         "url": "https://www.espn.com/nfl/story/_/id/50594656/chiefs-rb-kenneth-walker-iii-groin-thursday-vs-bills",
-        "publishedAt": "2026-11-25T17:22:59Z",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
         "summary": "Chiefs running back Kenneth Walker III (groin) has been ruled out for Thursday's showdown against the Bills, the team announced Wednesday",
-        "image": "https://a.espncdn.com/photo/2026/1119/r1747957_576x324_16-9.jpg",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Caleb Douglas' Week 12 fantasy preview",
-        "url": "https://www.espn.com/video/clip/_/id/50594624/caleb-douglas-week-12-fantasy-preview",
-        "publishedAt": "2026-11-25T17:18:27Z",
-        "summary": "Caleb Douglas' Week 12 fantasy preview",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_114446805_3760745/ss_20261125_114446805_3760745.jpg",
+        "title": "👀 11 players who have the most to gain or lose over the rest of the season",
+        "url": "https://www.espn.com/nfl/story/_/id/50563331/week-11-most-gain-lose-2026-season-pickens-mccarthy",
+        "publishedAt": "Wed, 25 Nov 2026 21:04:40 EST",
+        "summary": "Big money on the line for George Pickens and Brian Branch? QB1 role at stake for J.J. McCarthy? Here are 11 players with something to prove over the next seven weeks.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Has Bijan Robinson had a disappointing fantasy season so far?",
-        "url": "https://www.espn.com/video/clip/_/id/50594519/has-bijan-robinson-had-disappointing-fantasy-season-far",
-        "publishedAt": "2026-11-25T16:49:45Z",
-        "summary": "Has Bijan Robinson had a disappointing fantasy season so far?",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_113604662_3760737/ss_20261125_113604662_3760737.jpg",
+        "title": "How did things get so bad for Aaron Rodgers, Mike McCarthy, and what's next?",
+        "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
+        "publishedAt": "Wed, 25 Nov 2026 19:50:40 EST",
+        "summary": "The news out of Pittsburgh shook the NFL landscape, and ESPN's insiders share insights on the QB, the coach and their futures.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Why Mike Clay is high on Deshaun Watson as a streaming option in Week 12",
-        "url": "https://www.espn.com/video/clip/_/id/50594488/why-mike-clay-high-deshaun-watson-streaming-option-week-12",
-        "publishedAt": "2026-11-25T16:59:10Z",
-        "summary": "Why Mike Clay is high on Deshaun Watson as a streaming option in Week 12",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/ss_20261125_113327044_3760734/ss_20261125_113327044_3760734.jpg",
+        "title": "Latest NFL Week 12 buzz: Fits for Daniel Jones? Still no head coach changes?",
+        "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026",
+        "publishedAt": "Wed, 25 Nov 2026 16:33:35 EST",
+        "summary": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers vs. Rams Week 12 Game Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/90102/packers-vs-rams-week-12-game-discussion",
+        "publishedAt": "2026-11-25T18:59:47-05:00",
+        "summary": "One of the most meaningful games of the last two months of the Green Bay Packers’ season is about to kick off. Micah Parsons is back. It’s a nationally televised game (albeit on a streaming service) in a standalone time slot. This is a big one, folks. Tonight, the Packers face the Los Angeles Rams [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2179760173.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Inactives: LB Zaire Franklin, RB Josh Jacobs out vs. Los Angeles Rams",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/90165/packers-inactives-lb-zaire-franklin-rb-josh-jacobs-out-vs-los-angeles-rams",
+        "publishedAt": "2026-11-25T18:57:27-05:00",
+        "summary": "The Green Bay Packers will be without linebacker Zaire Franklin, who has missed the last month with a shin fracture. Franklin had been a limited participant in practice throughout the week leading up to the Packers’ matchup against the Los Angeles Rams, but he ultimately couldn’t go on Wednesday. Beyond Franklin, the other notable scratch [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "NFL predictions: Looking for a Packers road upset over the Rams",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/90048/packers-vs-rams-predictions-week-12-picks",
+        "publishedAt": "2026-11-25T17:40:00-05:00",
+        "summary": "It’s nearly time to kick off the NFL’s latest attempt at creating a new holiday, and the Green Bay Packers are about to take the field. It’s a big game between the Packers and the Los Angeles Rams, but the Packers have gotten the better of the series of late, winning five straight games in [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2176306182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Former Packers QB claimed by Arizona Cardinals",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/90153/former-packers-qb-claimed-by-arizona-cardinals",
+        "publishedAt": "2026-11-25T16:45:57-05:00",
+        "summary": "Kedon Slovis has had quite a journey this season. Slovis, who started the year with the Arizona Cardinals, was released by the team at the cutdown deadline, then picked up by the Green Bay Packers’ practice squad — after the Packers traded Kyle McCord to the Miami Dolphins. Slovis spent two months in Green Bay [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305397887.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Aaron Rodgers claims Mike McCarthy slept through, missed meetings in Green Bay",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/90145/aaron-rodgers-claims-mike-mccarthy-slept-through-missed-meetings-in-green-bay",
+        "publishedAt": "2026-11-25T16:26:32-05:00",
+        "summary": "I did not have former Green Bay Packers head coach Mike McCarthy’s sleep patterns on my bingo card for “Thanksgiving Eve,” but that’s where Aaron Rodgers’ appearance on The Pat McAfee Show took us on Wednesday. We’re going to focus on the Packers-related news that Rodgers, who was benched and then later waived by the [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-1034640502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Packers Week 12 Opponent Preview: Who are this year’s Los Angeles Rams?",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/90096/packers-week-12-opponent-preview-who-are-this-years-los-angeles-rams",
+        "publishedAt": "2026-11-25T15:00:00-05:00",
+        "summary": "The Green Bay Packers and Los Angeles Rams head into Wednesday’s Week 12 matchup with matching 6-4 records, but they arrive headed in opposite directions. The Rams have won four straight, and their defense has allowed three touchdowns in five games, the fewest in the NFL. Green Bay lost 30-10 at home to Minnesota in [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/reuters-tagreuters.com2023newsml_MT1USATODAY21826833606449427.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
+      {
+        "title": "Rams break out new 20 personnel package ahead of Packers game",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/90119/rams-break-out-new-20-personnel-package-ahead-of-packers-game",
+        "publishedAt": "2026-11-25T14:10:00-05:00",
+        "summary": "Sean McVay has made a habit of turning injuries into new ideas. Last season, when injuries hit the Los Angeles Rams&#8217; wide receivers, he leaned heavily on 13 personnel, using three tight ends to keep the offense moving. This year, injuries have hit both receiver and tight end, and McVay&#8217;s answer is a 20 personnel [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2179760048.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Green Bay Packers News: What does the defense look like with Micah Parsons?",
         "url": "https://www.acmepackingcompany.com/general/90106/green-bay-packers-news-what-does-the-defense-look-like-with-micah-parsons",
@@ -246,69 +309,6 @@
         "publishedAt": "2026-11-24T15:49:45-05:00",
         "summary": "I’d like to say 2026 has been a uniquely stupid year of Packers football, but I don’t know if that’s true. Certainly there have been uniquely stupid aspects of it; I can’t think of another year where the Packers have taken such drastic steps to find someone, anyone capable of playing replacement-level football on their [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2305257314.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,82.315629030367",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers activate Micah Parsons from PUP list to 53-man roster",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-roster/90086/packers-activate-micah-parsons-from-pup-list-to-53-man-roster",
-        "publishedAt": "2026-11-24T15:27:11-05:00",
-        "summary": "11 months and 10 days. That’s the amount of time it took for Micah Parsons to return to the Green Bay Packers’ active roster after suffering a torn ACL (and other damage to his knee) late in the 2025 season. As of Tuesday, Parsons is back on the 53, with the Packers officially processing his [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2296346972.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Week 12 Power Rankings Round Up: Packers idle week keeps team steady",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-power-rankings/90065/week-12-power-rankings-round-up-packers-idle-week-keeps-team-steady",
-        "publishedAt": "2026-11-24T13:26:42-05:00",
-        "summary": "The Green Bay Packers’ bye week has come and gone, and Green Bay will kick off Week 12 on Wednesday night in the NFL’s first Thanksgiving Eve game. The team was already back in town over the weekend, preparing for the Rams, also coming off their bye week. Green Bay is 4-3 in the game [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2301343080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers list 8 players as questionable for Rams game",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/90075/packers-list-8-players-as-questionable-for-rams-game",
-        "publishedAt": "2026-11-24T13:19:56-05:00",
-        "summary": "Officially, Micah Parsons is listed as questionable for Wednesday’s game between the Green Bay Packers and the Los Angeles Rams. Unofficially, it would be a total shock if Parsons would not be activated from the PUP list and would not suit up in the game. Parsons has been building towards a return in this game [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2295129251.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Green Bay Packers News: Micah Parsons is ready to win",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/90067/green-bay-packers-news-micah-parsons-is-ready-to-win",
-        "publishedAt": "2026-11-24T10:56:59-05:00",
-        "summary": "For the second time in as many years, we excitedly await the arrival of Micah Parsons. In 2025, Parsons was a surprise addition to the Green Bay Packers. Acquired in a late-summer trade, nobody knew what he’d bring to the Packers after sitting out virtually all of training camp. He didn’t start, but he did [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2296346972.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Who’s most at fault for the Packers’ offensive line issues?",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-discussion/90037/whos-most-at-fault-for-the-packers-offensive-line-issues",
-        "publishedAt": "2026-11-24T09:00:00-05:00",
-        "summary": "Welcome to SB Nation Reacts, a survey of fans across the NFL. Throughout the year we ask questions of the most plugged-in Packers fans and fans across the country. Look, we all know that the Green Bay Packers’ offensive line is a mess. More electrons have been transmitted across the internet about this particular topic [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/01/gettyimages-1437116452.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Micah Parsons is cleared to play vs. the Rams",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/90042/micah-parsons-is-cleared-to-play-vs-the-rams",
-        "publishedAt": "2026-11-23T18:16:22-05:00",
-        "summary": "NFL Network/ESPN’s Ian Rapoport has reported that Green Bay Packers edge defender Micah Parsons has been cleared to play against the Los Angeles Rams on Wednesday. Parsons has spent this season on the physically unable to perform list, as he’s been recovering from his 2025 season-ending ACL and meniscus tears. Parsons will be activated to [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2302606408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "Packers Injury Report: CB Brandon Cisse is a full participant on Monday",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/90036/packers-injury-report-cb-brandon-cisse-is-a-full-participant-on-monday",
-        "publishedAt": "2026-11-23T16:35:43-05:00",
-        "summary": "The Green Bay Packers have had three practices where their entire active roster has been healthy enough to at least be a limited participant in practice this week — a huge boost for the team coming out of their mini-bye. On Monday, we got two changes to the teams’ injury report: Cornerback Brandon Cisse (rib) [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2304303795.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
