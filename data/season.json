@@ -15,7 +15,7 @@
   "standings": [
     {
       "team": "Bears",
-      "wins": 8,
+      "wins": 9,
       "losses": 2,
       "ties": 0,
       "packers": false
@@ -23,7 +23,7 @@
     {
       "team": "Lions",
       "wins": 8,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
       "packers": false
     },
@@ -42,5 +42,5 @@
       "packers": true
     }
   ],
-  "updatedAt": "2026-11-26T20:19:15.790Z"
+  "updatedAt": "2026-11-27T01:46:56.225Z"
 }

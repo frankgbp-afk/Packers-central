@@ -38,7 +38,7 @@
       "scoringOffense": 21.7,
       "scoringDefense": 22.5,
       "offenseRank": 20,
-      "defenseRank": 17
+      "defenseRank": 16
     }
   },
   "recentGames": [
@@ -81,19 +81,27 @@
   ],
   "articles": [
     {
+      "title": "NFL Week 12 arrivals: Chris Jones leads arrivals ahead of Chiefs-Bills",
+      "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
+      "publishedAt": "2026-11-27T00:25:19Z",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751859_608x342_16-9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
       "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-      "publishedAt": "2026-11-26T17:49:54Z",
+      "publishedAt": "2026-11-27T00:24:39Z",
       "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
       "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
       "source": "ESPN"
     },
     {
-      "title": "NFL Week 12 arrivals: Jeffery Simmons leads arrivals ahead of Bears-Lions",
-      "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-      "publishedAt": "2026-11-26T16:52:08Z",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "image": "https://a.espncdn.com/photo/2026/1126/r1751696_608x342_16-9.png",
+      "title": "Will the Saints OL be at full strength for Sunday?",
+      "url": "https://www.espn.com/video/clip/_/id/50607388/will-saints-ol-full-strength-sunday",
+      "publishedAt": "2026-11-27T00:20:58Z",
+      "summary": "Katherine Terrell reports on the Saints offensive line returning to practice ahead of their matchup with the Bengals.",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/dm_261126_16x9_Saints_IA/dm_261126_16x9_Saints_IA.jpg",
       "source": "ESPN"
     },
     {
@@ -119,15 +127,7 @@
       "summary": "Most coaches don't like coming off a Monday night game the week of Thanksgiving because of changes to the practice schedule and a short week of preparation becoming even more condensed.",
       "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873087.png?templateId=espn.applewatch.awayhome.1",
       "source": "ESPN"
-    },
-    {
-      "title": "NFL Week 12 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026",
-      "publishedAt": "2026-11-25T18:44:11Z",
-      "summary": "Where could Daniel Jones land? What's the latest on coaching hot seats? What's next for Puka Nacua? And who is getting MVP love in league circles?",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1750980_608x342_16-9.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-26T20:19:15.970Z"
+  "updatedAt": "2026-11-27T01:46:56.582Z"
 }
