@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:46:56.655Z",
+  "updatedAt": "2026-11-27T12:39:45.261Z",
   "sources": {
     "packers": [
       {
@@ -113,115 +113,124 @@
     ],
     "espn": [
       {
-        "title": "Joe Milton has huge game as Eagles shock Cowboys",
+        "title": "Joe Milton has huge game as Eagles shock Cowboys on Thanksgiving",
         "url": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley",
-        "publishedAt": "2026-11-27T01:45:25Z",
+        "publishedAt": "Fri, 27 Nov 2026 07:21:29 EST",
         "summary": "Dallas blew a 21-point lead as Philly made a spectacular comeback with Milton at the helm.",
-        "image": "https://a.espncdn.com/photo/2026/1127/r1751854_608x342_16-9.jpg",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Jake Elliott's 59-yard field goal with 2 seconds left gives Eagles stunning 39-38 win over Cowboys",
-        "url": "http://www.espn.com/nfl/recap?gameId=401873080",
-        "publishedAt": "2026-11-27T01:43:32Z",
-        "summary": "— Jake Elliott kicked a 59-yard field with 2 seconds remaining, and the Philadelphia Eagles stunned the Dallas Cowboys by rallying for a 39-38 Thanksgiving victory on Thursday.",
-        "image": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873080.png?templateId=espn.applewatch.awayhome.1",
+        "title": "Tomlin saddened by Rodgers' bitter exit, calls situation 'a dumpster fire'",
+        "url": "https://www.espn.com/nfl/story/_/id/50608802/tomlin-calls-rodgers-mccarthy-situation-dumpster-fire",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "Mike Tomlin said he was saddened by Aaron Rodgers' tumultuous exit from Pittsburgh and disagreed with how the QB \"aired out\" his grievances against Mike McCarthy.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Steelers owner: Rodgers' 'insubordination can't be tolerated,' backs McCarthy",
+        "url": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "Steelers owner Art Rooney II reacted to Wednesday's fiery interview from Aaron Rodgers by saying he was \"disappointed in where this went\" with their now-former quarterback, adding he has \"100% confidence in Mike McCarthy.\"",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Cowboys' Jones backing Schottenheimer despite 'damning setbacks'",
+        "url": "https://www.espn.com/nfl/story/_/id/50608969/cowboys-jerry-jones-backs-coach-damning-setbacks",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "Jerry Jones said he did not anticipate making immediate changes but still labeled the Cowboys' latest fourth-quarter collapse as a \"damning\" setback.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "WR Rice, Chiefs miffed at dropped pass call late in loss to Bills",
+        "url": "https://www.espn.com/nfl/story/_/id/50609968/rashee-rice-chiefs-believe-caught-pivotal-3rd-pass",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "WR Rashee Rice -- along with several members of the Chiefs -- felt he caught the ball on a pivotal third-down pass with less than two minutes left at the Bills.",
+        "image": "",
+        "source": "ESPN NFL",
+        "icon": "ESPN"
+      },
+      {
+        "title": "Eagles RB Shipley downplays sideline argument with Sirianni: 'Talked it out'",
+        "url": "https://www.espn.com/nfl/story/_/id/50608884/will-shipley-brushes-argument-coach-nick-sirianni",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "RB Will Shipley likened his sideline argument with coach Nick Sirianni to a Thanksgiving family spat in the wake of the Eagles' dramatic comeback win at Dallas.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
         "title": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
         "url": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
-        "publishedAt": "2026-11-27T01:35:10Z",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
         "summary": "Tom Brady expressed his disappointment in how Aaron Rodgers handled his exit from Pittsburgh, saying there are things in the locker room that shouldn't be made public.",
-        "image": "https://a.espncdn.com/photo/2022/0602/r1020371_2_600x400_3-2.jpg",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 12 arrivals: Chris Jones leads arrivals ahead of Chiefs-Bills",
-        "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-        "publishedAt": "2026-11-27T00:25:19Z",
-        "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-        "image": "https://a.espncdn.com/photo/2026/1127/r1751859_608x342_16-9.jpg",
+        "title": "Bears QB Williams, WR Odunze leaned on chemistry with stunning go-ahead TD",
+        "url": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "QB Caleb Williams and WR Rome Odunze leaned on their chemistry and trust to secure Chicago's ninth win of the season.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-        "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-        "publishedAt": "2026-11-27T00:24:39Z",
-        "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-        "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
+        "title": "Bills win 10th game despite QB Allen's struggles in dreary weather",
+        "url": "https://www.espn.com/nfl/story/_/id/50609813/bills-qb-josh-allen-struggles-vs-chiefs-grossest-conditions",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "The Bills won their 10th game of the season Thursday vs. the Chiefs, but QB Josh Allen struggled in the weather, passing for only 81 yards.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "NFL Week 12: Highlights of Thanksgiving games",
-        "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-        "publishedAt": "2026-11-27T00:08:54Z",
-        "summary": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
-        "image": "https://a.espncdn.com/photo/2026/1126/r1751795_608x342_16-9.jpg",
+        "title": "👀 11 players who have the most to gain or lose over the rest of the season",
+        "url": "https://www.espn.com/nfl/story/_/id/50563331/week-11-most-gain-lose-2026-season-pickens-mccarthy",
+        "publishedAt": "Fri, 27 Nov 2026 02:41:53 EST",
+        "summary": "Big money on the line for George Pickens and Brian Branch? QB1 role at stake for J.J. McCarthy? Here are 11 players with something to prove over the next seven weeks.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Dan Campbell: Lions' Thanksgiving loss to Bears will 'sting for a while'",
-        "url": "https://www.espn.com/video/clip/_/id/50607220/lions-thanksgiving-loss-bears-sting-while",
-        "publishedAt": "2026-11-26T23:57:28Z",
-        "summary": "Dan Campbell: Lions' Thanksgiving loss to Bears will 'sting for a while'",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_185334549_3762586/ss_20261126_185334549_3762586.jpg",
+        "title": "Bills edge Chiefs with last-second field goal in Thanksgiving thriller",
+        "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving",
+        "publishedAt": "Fri, 27 Nov 2026 02:26:29 EST",
+        "summary": "The Bills won their seventh straight, snapping the Chiefs' win streak at three in a sloppy, low-scoring game.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       },
       {
-        "title": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
-        "url": "https://www.espn.com/video/clip/_/id/50607202/ben-johnson-proud-tes-stepped-colston-loveland-injury",
-        "publishedAt": "2026-11-26T23:55:59Z",
-        "summary": "Ben Johnson proud of TEs that stepped up after Colston Loveland injury",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/ss_20261126_184656314_3762581/ss_20261126_184656314_3762581.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Lions to 'move forward' after latest Thanksgiving heartbreak",
-        "url": "https://www.espn.com/nfl/story/_/id/50607165/lions-move-forward-latest-thanksgiving-heartbreak",
-        "publishedAt": "2026-11-27T00:15:14Z",
-        "summary": "Lions head coach Dan Campbell rued another heartbreaker on Thanksgiving but encouraged his team to still try and enjoy the night with their families.",
-        "image": "https://a.espncdn.com/photo/2026/1126/r1751841_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Eagles' Cooper DeJean leaves win at Cowboys because of concussion",
-        "url": "https://www.espn.com/nfl/story/_/id/50606739/eagles-cooper-dejean-concussion-leaves-game-cowboys",
-        "publishedAt": "2026-11-27T01:37:41Z",
-        "summary": "Eagles All-Pro defensive back Cooper DeJean was ruled out of Thursday's game against the Dallas Cowboys with a concussion.",
-        "image": "https://a.espncdn.com/photo/2026/1126/r1751817_2_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Aaron Rodgers officially a free agent after clearing waivers",
-        "url": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers",
-        "publishedAt": "2026-11-26T23:30:54Z",
-        "summary": "Aaron Rodgers is officially a free agent and eligible to sign with any team after he cleared waivers Thursday.",
-        "image": "https://a.espncdn.com/photo/2026/1109/r1743512_600x400_3-2.jpg",
-        "source": "ESPN NFL",
-        "icon": "ESPN"
-      },
-      {
-        "title": "Chicago Bears vs. Detroit Lions: Game Highlights",
-        "url": "https://www.espn.com/video/clip/_/id/50606402/game-highlights",
-        "publishedAt": "2026-11-27T00:25:00Z",
-        "summary": "Chicago Bears vs. Detroit Lions: Game Highlights",
-        "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1126/e3a81111-c9e1-4bc7-9206-3650c546a1a6/e3a81111-c9e1-4bc7-9206-3650c546a1a6.jpg",
+        "title": "Gibbs goes off but 'Iceman' Williams, Bears steal the show in Thanksgiving thriller",
+        "url": "https://www.espn.com/nfl/story/_/id/50605750/jahmyr-gibbs-lions-caleb-williams-bears-thanksgiving-game",
+        "publishedAt": "Fri, 27 Nov 2026 07:14:02 EST",
+        "summary": "Caleb Williams turned into the 'Iceman' once again to give the Bears a dramatic late win over the Lions.",
+        "image": "",
         "source": "ESPN NFL",
         "icon": "ESPN"
       }
     ],
     "acme": [
+      {
+        "title": "Packers Draft: College Football Rivalry Weekend Discussion",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-draft/90099/packers-draft-college-football-rivalry-weekend-discussion",
+        "publishedAt": "2026-11-27T06:24:00-05:00",
+        "summary": "The college football regular season is winding down. This week is going to be the last week of the year for most teams, besides the annual Army-Navy game played a week after conference championship games (which are going away after this season). Let’s break down all of the relevant games from a playoff perspective. Below [&#8230;]",
+        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2259651599.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "source": "Acme Packing Company",
+        "icon": "ACME"
+      },
       {
         "title": "Packers By The Numbers: Stats from the Week 12 loss to the Rams",
         "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/90197/packers-by-the-numbers-stats-from-the-week-12-loss-to-the-rams",
@@ -300,15 +309,6 @@
         "publishedAt": "2026-11-25T18:57:27-05:00",
         "summary": "The Green Bay Packers will be without linebacker Zaire Franklin, who has missed the last month with a shin fracture. Franklin had been a limited participant in practice throughout the week leading up to the Packers’ matchup against the Los Angeles Rams, but he ultimately couldn’t go on Wednesday. Beyond Franklin, the other notable scratch [&#8230;]",
         "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/10/gettyimages-2299198388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-        "source": "Acme Packing Company",
-        "icon": "ACME"
-      },
-      {
-        "title": "NFL predictions: Looking for a Packers road upset over the Rams",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-odds/90048/packers-vs-rams-predictions-week-12-picks",
-        "publishedAt": "2026-11-25T17:40:00-05:00",
-        "summary": "It’s nearly time to kick off the NFL’s latest attempt at creating a new holiday, and the Green Bay Packers are about to take the field. It’s a big game between the Packers and the Los Angeles Rams, but the Packers have gotten the better of the series of late, winning five straight games in [&#8230;]",
-        "image": "https://platform.acmepackingcompany.com/wp-content/uploads/sites/3/2026/11/gettyimages-2176306182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
         "source": "Acme Packing Company",
         "icon": "ACME"
       }
