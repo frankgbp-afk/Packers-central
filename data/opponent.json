@@ -22,7 +22,7 @@
       "pointsAgainst": 257,
       "scoringOffense": 21.5,
       "scoringDefense": 25.7,
-      "offenseRank": 21,
+      "offenseRank": 22,
       "defenseRank": 23
     },
     "packers": {
@@ -37,7 +37,7 @@
       "pointsAgainst": 247,
       "scoringOffense": 21.7,
       "scoringDefense": 22.5,
-      "offenseRank": 20,
+      "offenseRank": 21,
       "defenseRank": 16
     }
   },
@@ -81,9 +81,17 @@
   ],
   "articles": [
     {
+      "title": "Why Jordyn Tyson needs a big game for Saints",
+      "url": "https://www.espn.com/video/clip/_/id/50614998/why-jordyn-tyson-needs-big-game-saints",
+      "publishedAt": "2026-11-27T22:35:10Z",
+      "summary": "Katherine Terrell explains why Jordyn Tyson's appearance in the game for New Orleans will make a difference.",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/dm_261127_SAINTS_TYSON_16x9/dm_261127_SAINTS_TYSON_16x9.jpg",
+      "source": "ESPN"
+    },
+    {
       "title": "Saints rule TE Juwan Johnson out vs. Bengals; TE Noah Fant questionable",
       "url": "https://www.espn.com/nfl/story/_/id/50613922/saints-rule-te-johnson-vs-bengals-te-fant-questionable",
-      "publishedAt": "2026-11-27T21:01:47Z",
+      "publishedAt": "2026-11-27T22:06:53Z",
       "summary": "The Saints ruled out tight end Juwan Johnson with a hamstring and wrist injuries while backup Noah Fant is questionable with a calf injury vs. the Bengals.",
       "image": "https://a.espncdn.com/photo/2026/1127/r1752165_600x400_3-2.jpg",
       "source": "ESPN"
@@ -91,7 +99,7 @@
     {
       "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
       "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-      "publishedAt": "2026-11-27T19:34:37Z",
+      "publishedAt": "2026-11-27T21:58:32Z",
       "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
       "image": "https://a.espncdn.com/photo/2026/1117/16x9.jpg",
       "source": "ESPN"
@@ -119,15 +127,7 @@
       "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
       "image": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg",
       "source": "ESPN"
-    },
-    {
-      "title": "Will the Saints OL be at full strength for Sunday?",
-      "url": "https://www.espn.com/video/clip/_/id/50607388/will-saints-ol-full-strength-sunday",
-      "publishedAt": "2026-11-27T00:20:58Z",
-      "summary": "Katherine Terrell reports on the Saints offensive line returning to practice ahead of their matchup with the Bengals.",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1126/dm_261126_16x9_Saints_IA/dm_261126_16x9_Saints_IA.jpg",
-      "source": "ESPN"
     }
   ],
-  "updatedAt": "2026-11-27T21:11:11.156Z"
+  "updatedAt": "2026-11-27T23:30:38.282Z"
 }
